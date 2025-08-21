@@ -1,0 +1,2333 @@
+TY  - JOUR
+AB  - Whiteboard collaboration in virtual reality (VR) is an important task 
+in collaborative virtual environments. The current research mainly rel
+ies on the use of controllers or dedicated pens but additional devices
+ will cause inconvenience to users. Bare-hand writing offers rich coll
+aborative semantics through natural gestures but remains underexplored
+. This paper addresses challenges and solutions for bare-hand whiteboa
+rd collaboration. We analyze the input process and identify key challe
+nges in determining pen-drop, writing, and pen-lift intentions while m
+aintaining user control over their avatar. Our approach addresses two 
+VR scenarios: one without and one with physical planes. The method for
+ the first case is called Air-writing, which dynamically adjusts the d
+istance between the avatar's torso and the virtual whiteboard during t
+he processes of pen-drop and pen-lift to ensure a consistent writing e
+xperience in VR. The method for the second case is called Physical-wri
+ting, which allows users to write smoothly with passive haptic feedbac
+k and physical constraints provided by the real surface by remapping t
+he whiteboard in VR with a plane in reality. A comprehensive user stud
+y is conducted to evaluate communication efficiency, input accuracy, c
+ollaboration efficiency, and user experience of the two methods. The e
+xperimental results indicate that bare-hand interaction improves commu
+nication efficiency by 8% over controllers and performs similarly to r
+eal-world whiteboard collaboration. The Physical-writing method also d
+emonstrates higher accuracy and user satisfaction compared to the Air-
+writing method.
+AU  - Liu, Guangtian
+AU  - Su, Haonan
+AU  - Wang, Jingyu
+AU  - Qi, Qi
+AU  - Sun, Haifeng
+AU  - Zhuang, Zirui
+AU  - Ren, Pengfei
+AU  - Liao, Jianxin
+DA  - 2025/5//
+DO  - 10.1145/3711092
+ID  - 10.1145/3711092
+IS  - 2
+KW  - bare-hand whiteboard collaboration
+KW  - virtual reality
+LB  - 10.1145/3711092
+T2  - Proc. ACM Hum.-Comput. Interact.
+TI  - Towards Bare-Hand Interaction for Whiteboard Collaboration in Virtual 
+Reality
+UR  - https://doi.org/10.1145/3711092
+VL  - 9
+ER  - 
+TY  - JOUR
+AB  - Remote collaboration systems have become increasingly important in tod
+ay’s society, especially during times when physical distancing is advi
+sed. Industry, research, and individuals face the challenging task of 
+collaborating and networking over long distances. While video and tele
+conferencing are already widespread, collaboration systems in augmente
+d, virtual, and mixed reality are still a niche technology. We provide
+ an overview of recent developments of synchronous remote collaboratio
+n systems and create a taxonomy by dividing them into three main compo
+nents that form such systems: Environment, Avatars, and Interaction. A
+ thorough overview of existing systems is given, categorising their ma
+in contributions to help researchers working in different fields by pr
+oviding concise information about specific topics such as avatars, vir
+tual environment, visualisation styles, and interaction. The focus of 
+this work is clearly on synchronised collaboration from a distance. A 
+total of 87 unique systems for remote collaboration are discussed, inc
+luding more than 100 publications and 25 commercial systems.
+AU  - Schäfer, Alexander
+AU  - Reis, Gerd
+AU  - Stricker, Didier
+DA  - 2022/12//
+DO  - 10.1145/3533376
+ID  - 10.1145/3533376
+IS  - 6
+KW  - Virtual reality
+KW  - augmented reality
+KW  - mixed reality
+KW  - collaboration
+KW  - remote assistance
+KW  - distant cooperation
+KW  - literature review
+LB  - 10.1145/3533376
+SN  - 0360-0300
+T2  - ACM Comput. Surv.
+TI  - A Survey on Synchronous Augmented, Virtual, andMixed Reality Remote Co
+llaboration Systems
+UR  - https://doi.org/10.1145/3533376
+VL  - 55
+ER  - 
+TY  - CONF
+AB  - Augmented reality (AR) is poised to transform remote communication wit
+h realistic user representations authentically simulating in-person in
+teractions in one’s own environment. While increased avatar realism is
+ beneficial in various social contexts, as it generally fosters social
+ presence, its impact in intimate interactions is less clear, possibly
+ creating discomfort. We explored how varying avatar realism affects s
+ocial presence and comfort in AR across different social interactions.
+ Realism preferences were established in an online survey (N=157), inf
+orming our subsequent experiment (N=42). Participants engaged in remot
+e AR collaboration and self-disclosure tasks with avatars ranging from
+ abstract to realistic point-cloud. Quantitative and qualitative feedb
+ack revealed that higher avatar realism generally enhances social pres
+ence and comfort, though preferences can vary. The self-disclosure tas
+k increased social presence but reduced comfort compared to the collab
+oration task. This research provides an empirical analysis of avatar r
+ealism, highlighting the benefits of realistic avatars in various scen
+arios.
+AU  - Kaiser, Jonah-Noël
+AU  - Kimmel, Simon
+AU  - Licht, Eva
+AU  - Landwehr, Eric
+AU  - Hemmert, Fabian
+AU  - Heuten, Wilko
+C2  - 2025///
+C3  - Proceedings of the 2025 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3706598.3713541
+ID  - 10.1145/3706598.3713
+KW  - augmented reality
+KW  - social presence
+KW  - user-representation
+KW  - avatar realism
+KW  - collaboration
+KW  - self-disclosure
+LB  - 10.1145/3706598.3713541
+PB  - Association for Computing Machinery
+SN  - 9798400713941
+T3  - CHI '25
+TI  - Get Real With Me: Effects of Avatar Realism on Social Presence and Com
+fort in Augmented Reality Remote Collaboration and Self-Disclosure
+UR  - https://doi.org/10.1145/3706598.3713541
+ER  - 
+TY  - CONF
+AB  - Virtual Reality (VR) remote collaboration is becoming more and more re
+levant in a wide range of scenarios, such as remote assistance or grou
+p work. A way to enhance the user experience is using haptic props tha
+t make virtual objects graspable. But physical objects are only presen
+t in one location and cannot be manipulated directly by remote users. 
+We explore different strategies to handle ownership of virtual objects
+ enhanced by haptic props. In particular, two strategies of handling o
+bject ownership – SingleOwnership and SharedOwnership. SingleOwnership
+ restricts virtual objects to local haptic props, while SharedOwnershi
+p allows collaborators to take over ownership of virtual objects using
+ local haptic props. We study both strategies for a collaborative puzz
+le task regarding their influence on performance and user behavior. Ou
+r findings show that SingleOwnership increases communication and enhan
+ced with virtual instructions, results in higher task completion times
+. SharedOwnership is less reliant on verbal communication and faster, 
+but there is less social interaction between the collaborators.
+AU  - Auda, Jonas
+AU  - Busse, Leon
+AU  - Pfeuffer, Ken
+AU  - Gruenefeld, Uwe
+AU  - Rivu, Radiah
+AU  - Alt, Florian
+AU  - Schneegass, Stefan
+C2  - 2021///
+C3  - Proceedings of the 2021 ACM Symposium on Spatial User Interaction
+DO  - 10.1145/3485279.3485287
+ID  - 10.1145/3485279.3485
+KW  - Collaboration
+KW  - Haptic Props
+KW  - Interaction Techniques
+KW  - Virtual Reality
+LB  - 10.1145/3485279.3485287
+PB  - Association for Computing Machinery
+SN  - 9781450390910
+T3  - SUI '21
+TI  - I’m in Control! Transferring Object Ownership Between Remote Users wit
+h Haptic Props in Virtual Reality
+UR  - https://doi.org/10.1145/3485279.3485287
+ER  - 
+TY  - JOUR
+AB  - Collaborative Virtual Environments (CVE) have shown potential to be an
+ effective social skill training platform for children with Autism Spe
+ctrum Disorders (ASD) to learn and practice collaborative and communic
+ation skills through peer interactions. However, most existing CVE sys
+tems require that appropriately matched partners be available at the s
+ame time to promote interaction, which limits their applicability to s
+ome community settings due to scheduling constraints. A second shortco
+ming of these more naturalistic peer-based designs is the intensive re
+sources required to manually code the unrestricted conversations that 
+occurred during the peer-based interactions. To preserve the benefits 
+of CVE-based platforms and mitigate some of the resource limitations r
+elated to peer availability, we developed an Intelligent Collaborative
+ Haptic-Gripper System (INC-Hg). This system provides an intelligent a
+gent partner who can understand, communicate, and haptically interact 
+with the user, without requiring the presence of another human peer. T
+he INC-Hg operates in real time and thus is able to perform collaborat
+ive training tasks at any time and at the user's pace. INC-Hg can also
+ record the real-time data regarding spoken language and task performa
+nce, thereby greatly reducing the resource burden of communication and
+ interaction performance analysis. A preliminary usability study with 
+10 participants with ASD (ages 8–12 years) indicated that the system c
+ould classify the participant's utterances into five classes with an a
+ccuracy of 70.34%, which suggested the potential of INC-Hg to automati
+cally recognize and analyze conversational content. The results also i
+ndicated high accuracies of the agent to initiate a conversation (97.5
+6%) and respond to the participants (86.52%), suggesting the capabilit
+y of the agent to conduct proper conversations with the participants. 
+Compared to the results of human-to-human collaborative tasks, the hum
+an-to-agent mode achieved higher average collaborative operation ratio
+ (61% compared to 40%) and comparable average frequencies for Initiati
+ons and Responses among the participants with ASD. These results offer
+ preliminary support as well as areas of improvement regarding the age
+nt's ability to respond to participants, work with participants to com
+plete tasks, engage in back-and-forth conversations, and support the p
+otential of the agent to be a useful partner for individuals with ASD 
+completing CVE tasks.
+AU  - Zhao, Huan
+AU  - Zaini Amat, Ashwaq
+AU  - Migovich, Miroslava
+AU  - Swanson, Amy
+AU  - Weitlauf, Amy S.
+AU  - Warren, Zachary
+AU  - Sarkar, Nilanjan
+DA  - 2022/3//
+DO  - 10.1145/3487606
+ID  - 10.1145/3487606
+IS  - 1
+KW  - Autism Spectrum Disorders
+KW  - AI techniques
+KW  - conversational agent
+KW  - social interaction
+KW  - collaborative virtual environments
+KW  - haptic interaction
+LB  - 10.1145/3487606
+SN  - 1936-7228
+T2  - ACM Trans. Access. Comput.
+TI  - INC-Hg: An Intelligent Collaborative Haptic-Gripper Virtual Reality Sy
+stem
+UR  - https://doi.org/10.1145/3487606
+VL  - 15
+ER  - 
+TY  - CONF
+AB  - Advancing virtual reality technologies are enabling real-time virtual-
+face to virtual-face communication. Hand tracking systems that are int
+egrated into Head-Mounted Displays (HMD) enable users to directly inte
+ract with their environments and with each other using their hands as 
+opposed to using controllers. Due to the novelties of these technologi
+es our understanding of how they impact our interactions is limited. I
+n this paper, we investigate the consequences of using different inter
+action control systems, hand tracking or controllers, when interacting
+ with others in a virtual environment. We design and implement NASA’s 
+Survival on the Moon teamwork evaluation exercise in virtual reality (
+VR) and test for effects with and without allowing verbal communicatio
+n. We evaluate social presence, perceived comprehension, team cohesion
+, group synergy, task workload, as well as task performance and durati
+on. Our findings reveal that audio communication significantly enhance
+s social presence, perceived comprehension, and team cohesion, but it 
+also increases effort workload and negatively impacts group synergy. T
+he choice of interaction control systems has limited impact on various
+ aspects of virtual collaboration in this scenario, although participa
+nts using hand tracking reported lower effort workload, while particip
+ants using controllers reported lower mental workload in the absence o
+f audio.
+AU  - Adkins, Alex
+AU  - Canales, Ryan
+AU  - Jörg, Sophie
+C2  - 2024///
+C3  - Proceedings of the 30th ACM Symposium on Virtual Reality Software and 
+Technology
+DO  - 10.1145/3641825.3687718
+ID  - 10.1145/3641825.3687
+KW  - Communication
+KW  - avatars
+KW  - collaboration
+KW  - gestures
+LB  - 10.1145/3641825.3687718
+PB  - Association for Computing Machinery
+SN  - 9798400705359
+T3  - VRST '24
+TI  - Hands or Controllers? How Input Devices and Audio Impact Collaborative
+ Virtual Reality
+UR  - https://doi.org/10.1145/3641825.3687718
+ER  - 
+TY  - CONF
+AB  - This paper describes a study of remote collaboration between people in
+ a shared virtual environment. Seventeen subjects were recruited at Un
+iversity College London, who worked with a confederate at University o
+f North Carolina Chapel Hill. Each pair was required to negotiate the 
+task of handling an object together, and moving a few metres into a bu
+ilding. The DIVE system was used throughout, and the network support w
+as Internet-2. This was an observational study to examine the extent t
+o which such collaboration was possible, to explore the limitations of
+ DIVE within this context, and to examine the relationship between sev
+eral variables such as co-presence and task performance. The results s
+uggest that although the task is possible under this framework, it cou
+ld only be achieved by various software tricks within the DIVE framewo
+rk. A new Virtual Environment system is required that has better knowl
+edge of network performance, and that supports shared object manipulat
+ion across a network. The participant-study suggests that co-presence,
+ the sense of being together with another person, was significantly an
+d positively correlated with task performance.
+AU  - Mortensen, J.
+AU  - Vinayagamoorthy, V.
+AU  - Slater, M.
+AU  - Steed, A.
+AU  - Lok, B.
+AU  - Whitton, M. C.
+C2  - 2002///
+C3  - Proceedings of the Workshop on Virtual Environments 2002
+ID  - 10.5555/509709.50972
+KW  - collaborative virtual environments
+KW  - internet-2
+KW  - presence
+KW  - virtual reality
+LB  - 10.5555/509709.509724
+PB  - Eurographics Association
+SN  - 1581135351
+SP  - 93-101
+T3  - EGVE '02
+TI  - Collaboration in tele-immersive environments
+ER  - 
+TY  - JOUR
+AB  - Teleconferencing is poised to become one of the most frequent use case
+s of immersive platforms, since it supports high levels of presence an
+d embodiment in collaborative settings. On desktop and mobile platform
+s, teleconferencing solutions are already among the most popular apps 
+and accumulate significant usage time—not least due to the pandemic or
+ as a desirable substitute for air travel or commuting.In this paper, 
+we present ViGather, an immersive teleconferencing system that integra
+tes users of all platform types into a joint experience via equal repr
+esentation and a first-person experience. ViGather renders all partici
+pants as embodied avatars in one shared scene to establish co-presence
+ and elicit natural behavior during collocated conversations, includin
+g nonverbal communication cues such as eye contact between participant
+s as well as body language such as turning one's body to another perso
+n or using hand gestures to emphasize parts of a conversation during t
+he virtual hangout. Since each user embodies an avatar and experiences
+ situated meetings from an egocentric perspective no matter the device
+ they join from, ViGather alleviates potential concerns about self-per
+ception and appearance while mitigating potential 'Zoom fatigue', as u
+sers' self-views are not shown. For participants in Mixed Reality, our
+ system leverages the rich sensing and reconstruction capabilities of 
+today's headsets. For users of tablets, laptops, or PCs, ViGather reco
+nstructs the user's pose from the device's front-facing camera, estima
+tes eye contact with other participants, and relates these non-verbal 
+cues to immediate avatar animations in the shared scene.Our evaluation
+ compared participants' behavior and impressions while videoconferenci
+ng in groups of four inside ViGather with those in Meta Horizon as a b
+aseline for a social VR setting. Participants who participated on trad
+itional screen devices (e.g., laptops and desktops) using ViGather rep
+orted a significantly higher sense of physical, spatial, and self-pres
+ence than when using Horizon, while all perceived similar levels of ac
+tive social presence when using Virtual Reality headsets. Our follow-u
+p study confirmed the importance of representing users on traditional 
+screen devices as reconstructed avatars for perceiving self-presence.
+AU  - Qiu, Huajian
+AU  - Streli, Paul
+AU  - Luong, Tiffany
+AU  - Gebhardt, Christoph
+AU  - Holz, Christian
+DA  - 2023/9//
+DO  - 10.1145/3604279
+ID  - 10.1145/3604279
+IS  - MHCI
+KW  - avatars
+KW  - co-presence
+KW  - collaboration
+KW  - cross-platform
+KW  - embodied presence
+KW  - immersive social interaction
+KW  - mixed reality
+KW  - social VR
+KW  - teleconferencing
+KW  - video conferencing
+KW  - virtual reality
+LB  - 10.1145/3604279
+T2  - Proc. ACM Hum.-Comput. Interact.
+TI  - ViGather: Inclusive Virtual Conferencing with a Joint Experience Acros
+s Traditional Screen Devices and Mixed Reality Headsets
+UR  - https://doi.org/10.1145/3604279
+VL  - 7
+ER  - 
+TY  - CONF
+AB  - Networked haptic virtual environments (NHVEs) are those in which multi
+ple users collaborate and experience force feedback at the same time. 
+The robustness of such systems needs to be tested under various networ
+k conditions that closely mirror the Internet. Previously, we had prop
+osed three virtual coupling schemes to maintain position coherency in 
+a NHVE, which were tested using constant and then time-varying delays 
+using the actual Internet through UDP packet reflectors. In this paper
+ we present the results of comparing performance of the virtual coupli
+ng schemes for a time varying delay emulated using the popular network
+ emulator NIST Net, with delay conditions that existed during our real
+ Internet experiment to Italy. UDP was used for haptic data communicat
+ion because of the high transmission rate requirements for NHVEs. Expe
+riments were conducted for three fixed packet transmission rates of 10
+00, 500 and 100 Hz, and their performance compared using an independen
+t-samples t-test to the data obtained using the Internet. Locally, the
+ haptic update rate was maintained at 1000 Hz during the experiments. 
+Our results show that the NIST Net was a suitable emulator for testing
+ with lower packet transmission rates. At the transmission rate of 100
+0 Hz the performance of the virtual coupling schemes were significantl
+y different from that of the actual Internet experiment.
+AU  - Sankaranarayanan, Ganesh
+AU  - Hannaford, Blake
+C2  - 2007///
+C3  - Proceedings of the 1st International Conference on Robot Communication
+ and Coordination
+ID  - 10.5555/1377868.1377
+LB  - 10.5555/1377868.1377907
+PB  - IEEE Press
+SN  - 9789639799080
+T3  - RoboComm '07
+TI  - Comparison of performance of virtual coupling schemes for haptic colla
+boration using real and emulated internet connections
+ER  - 
+TY  - CONF
+AB  - VR has received increased attention as an educational tool and many ar
+gue it is destined to influence educational practices, especially with
+ the emergence of the Metaverse. Most prior research on educational VR
+ reports on applications or systems designed for specified educational
+ or training objectives. However, it is also crucial to understand cur
+rent practices and attitudes across disciplines, having a holistic vie
+w to extend the body of knowledge in terms of VR adoption in an authen
+tic setting. Taking a higher-level perception of people in different r
+oles, we conducted a qualitative analysis based on 23 interviews with 
+major stakeholders and a series of participatory design workshops with
+ instructors and students. We identified the stakeholders who need to 
+be considered for using VR in higher education, and highlighted the ch
+allenges and opportunities critical for VR current and potential pract
+ices in the university classroom. Finally, we discussed the design imp
+lications based on our findings. This study contributes a detailed des
+cription of current perceptions and considerations from a multi-stakeh
+older perspective, providing new empirical insights for designing nove
+l VR and HCI technologies in higher education.
+AU  - Jin, Qiao
+AU  - Liu, Yu
+AU  - Yarosh, Svetlana
+AU  - Han, Bo
+AU  - Qian, Feng
+C2  - 2022///
+C3  - Proceedings of the 2022 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3491102.3517542
+ID  - 10.1145/3491102.3517
+KW  - Virtual Reality
+KW  - collaboration
+KW  - educational VR
+KW  - higher education
+KW  - multi-stakeholder
+KW  - social VR
+LB  - 10.1145/3491102.3517542
+PB  - Association for Computing Machinery
+SN  - 9781450391573
+T3  - CHI '22
+TI  - How Will VR Enter University Classrooms? Multi-stakeholders Investigat
+ion of VR in Higher Education
+UR  - https://doi.org/10.1145/3491102.3517542
+ER  - 
+TY  - CONF
+AB  - In lifelog data search, despite automatic supports for identifying rel
+evant pieces of information, the processes of inputting queries and fi
+ltering information from the generated results still heavily rely on h
+uman searchers.With the rapid increase in volume of such data, these t
+asks could become both mentally and physically tedious for an individu
+al to perform. In this paper, we present CollaXRSearch, a collaborativ
+e virtual reality (VR) information retrieval system, which we aim to u
+se for participating at the Lifelog Search Challenge 2024. This is a c
+ollaborative virtual reality system based on a heterogeneous setup of 
+VR headsets, mobile devices and public displays. Its purpose is to fac
+ilitate coordination between teammates in terms of inputting and explo
+ration operations in lifelog search.For efficiently providing textual 
+query input and filtering, this system utilizes an interface which can
+ be operated on a personal computer or a mobile device. Search results
+ returned by the engine will be displayed in a VR environment where a 
+user wearing a VR headset can explore to identify suitable items. To r
+educe the workload for the VR user during the searching process, we em
+ploys collaborative VR interface designs on a large physical display w
+hich enable he/she to communicate findings on the search results to th
+e rest of the team. In this paper, we describe the conceptual interfac
+e and interaction designs of aforementioned setup.
+AU  - Ly, Duy-Nam
+AU  - Duong-Le, Dinh-Thuan
+AU  - Vuong, Gia Huy
+AU  - Ho, Van-Son
+AU  - Ninh, Van-Tu
+AU  - Tran, Minh-Triet
+AU  - Le, Khanh-Duy
+C2  - 2024///
+C3  - Proceedings of the 7th Annual ACM Workshop on the Lifelog Search Chall
+enge
+DO  - 10.1145/3643489.3661125
+ID  - 10.1145/3643489.3661
+KW  - lifelog
+KW  - interactive retrieval
+KW  - VR
+KW  - collaborative interface
+KW  - heterogeneous system
+LB  - 10.1145/3643489.3661125
+PB  - Association for Computing Machinery
+SN  - 9798400705502
+SP  - 76-81
+T3  - LSC '24
+TI  - CollaXRSearch: A Collaborative Virtual Reality System for Lifelog Retr
+ieval
+UR  - https://doi.org/10.1145/3643489.3661125
+ER  - 
+TY  - CONF
+AB  - In this study we compared collaboration on a puzzle-solving task carri
+ed out by two persons in a virtual and a real environment. The task, p
+utting together a cube consisting of different coloured blocks in a 'R
+ubiks' cubetype puzzle, was performed both in a shared virtual environ
+ment (VE) setting, using a Cave-type virtual reality (VR) system netwo
+rked with a desktop VR system, and with cardboard coloured blocks in a
+n equivalent real setting. The aims of the study were to investigate c
+ollaboration, leadership and performance in the two settings. We found
+ that the participants contributed unequally to the task in the VE, an
+d also differences in collaboration between the virtual and the real s
+etting.
+AU  - Wideström, Josef
+AU  - Axelsson, Ann-Sofie
+AU  - Schroeder, Ralph
+AU  - Nilsson, Alexander
+AU  - Heldal, Ilona
+AU  - Abelin, Åsa
+C2  - 2000///
+C3  - Proceedings of the Third International Conference on Collaborative Vir
+tual Environments
+DO  - 10.1145/351006.351035
+ID  - 10.1145/351006.35103
+KW  - co-presence
+KW  - collaboration
+KW  - leadership
+KW  - presence
+KW  - virtual environments
+KW  - virtual reality
+LB  - 10.1145/351006.351035
+PB  - Association for Computing Machinery
+SN  - 1581133030
+SP  - 165-171
+T3  - CVE '00
+TI  - The collaborative cube puzzle: a comparison of virtual and real enviro
+nments
+UR  - https://doi.org/10.1145/351006.351035
+ER  - 
+TY  - JOUR
+AB  - In the study presented here, two haptic and visual applications for le
+arning geometrical concepts in group work in primary school have been 
+designed and evaluated. The aim was to support collaborative learning 
+among sighted and visually impaired pupils. The first application is a
+ static flattened 3D environment that supports learning to distinguish
+ between angles by means of a 3D haptic device providing touch feedbac
+k. The second application is a dynamic 3D environment that supports le
+arning of spatial geometry. The scene is a room with a box containing 
+geometrical objects, which pupils can pick up and move around. The app
+lications were evaluated in four schools with groups of two sighted an
+d one visually impaired pupil. The results showed the support for the 
+visually impaired pupil and for the collaboration to be satisfying. A 
+shared understanding of the workspace could be achieved, as long as th
+e virtual environment did not contain movable objects. Verbal communic
+ation was crucial for the work process but haptic guiding to some exte
+nt substituted communication about direction. When it comes to joint a
+ction between visually impaired and sighted pupils a number of interes
+ting problems were identified when the dynamic and static virtual envi
+ronments were compared. These problems require further investigation. 
+The study extends prior work in the areas of assistive technology and 
+multimodal communication by evaluating functions for joint haptic mani
+pulation in the unique setting of group work in primary school.
+AU  - Moll, Jonas
+AU  - Pysander, Eva-Lotta Sallnäs
+DA  - 2013/7//
+DO  - 10.1145/2493171.2493172
+ID  - 10.1145/2493171.2493
+IS  - 4
+LB  - 10.1145/2493171.2493172
+SN  - 1936-7228
+T2  - ACM Trans. Access. Comput.
+TI  - A Haptic Tool for Group Work on Geometrical Concepts Engaging Blind an
+d Sighted Pupils
+UR  - https://doi.org/10.1145/2493171.2493172
+VL  - 4
+ER  - 
+TY  - JOUR
+AB  - As the variety of possible interactions with virtual reality (VR) cont
+inues to expand, researchers need a way to relate these interactions t
+o users' needs and goals in ways that advance understanding. Existing 
+efforts have focused mainly on the symmetric use of technology, which 
+excludes a rising form of interaction known as asymmetric VR, in which
+ co-located participants use different interfaces to interact with a s
+hared environment. There must be a clear path to creating asymmetric V
+R systems that are rooted in previous work from several fields, as the
+se systems have use cases in education, hybrid reality teams (using VR
+ and other technologies to interact online and face to face), accessib
+ility, as well as entertainment. Currently, there is no systematic way
+ to characterize 1) how a system may be asymmetric, 2) how the differe
+nt mediation technology and affordances within asymmetric VR support (
+or do not support) users' goals, and 3) the relationships and collabor
+ative capabilities between users of these different technologies. In t
+his paper, the authors use a scoping review to explore relevant concep
+tual frameworks for asymmetric interaction, mediation technology, and 
+computer supported cooperative work to clarify the dimensions of asymm
+etry and synthesize the literature into a Composite framework for Asym
+metric VR (CAVR). The paper concludes with suggestions of ways to test
+ and expand the framework in order to guide future research as it iden
+tifies the most-beneficial interaction paradigms for co-located asymme
+tric VR.
+AU  - Ouverson, Kaitlyn M.
+AU  - Gilbert, Stephen B.
+DA  - 2021/4//
+DO  - 10.1145/3449079
+ID  - 10.1145/3449079
+IS  - CSCW1
+KW  - asymmetric vr
+KW  - collaboration
+KW  - conceptual frameworks
+KW  - extended reality (xr)
+KW  - mixed reality (mr)
+KW  - workspace awareness
+LB  - 10.1145/3449079
+T2  - Proc. ACM Hum.-Comput. Interact.
+TI  - A Composite Framework of Co-located Asymmetric Virtual Reality
+UR  - https://doi.org/10.1145/3449079
+VL  - 5
+ER  - 
+TY  - CONF
+AB  - This paper describes a simulation of a collaborative task in a shared 
+virtual environment — two users carrying a shared object (a stretcher)
+ in a complex chemical plant. The implementation includes a haptic int
+erface for each user, so that forces transmitted through the stretcher
+ from one user to the other can be experienced. Preliminary experiment
+s show that the addition of haptic feedback significantly enhances the
+ sense of sharing and each user's perception of the actions of the oth
+er user. The implementation is described, and some conclusions about t
+he value of haptics, and plans for future work are given.
+AU  - Hubbold, Roger J.
+C2  - 2002///
+C3  - Proceedings of the Workshop on Virtual Environments 2002
+ID  - 10.5555/509709.50971
+KW  - collaborative virtual environments
+KW  - force feedback
+KW  - haptics
+KW  - shared virtual environments
+LB  - 10.5555/509709.509711
+PB  - Eurographics Association
+SN  - 1581135351
+SP  - 7-12
+T3  - EGVE '02
+TI  - Collaborative stretcher carrying: a case study
+ER  - 
+TY  - CONF
+AB  - With advances in immersive displays and gesture tracking technologies,
+ many novel interfaces for musical and visual expression have been dev
+eloped, which often explore combinations of audio and visual productio
+ns. One category of such interfaces is musical drawing, in which artis
+ts simultaneously produce both visual and sonic content. Since it deal
+s with two different sensory channels, one of the main problematic is 
+to find the right balance between the sonic and the visual aspects of 
+a project. In this article, we regroup the existing 2D and 3D musical 
+drawing projects and we propose a set of dimensions that can be used t
+o describe them, namely: Expression Orientation, Required Expertise, C
+ollaboration, Visual Replay Value, Audio Replay Value, Modifications, 
+Mapping Flexibility, Mapping Structure and Degree of Immersion. Using 
+these dimensions, we analyse the design choices, discuss technological
+ and technical constraints, and establish perspectives for future work
+.
+AU  - Gruy, Esther
+AU  - Berthaut, Florent
+C2  - 2024///
+C3  - Proceedings of the 19th International Audio Mostly Conference: Explora
+tions in Sonic Cultures
+DO  - 10.1145/3678299.3678317
+ID  - 10.1145/3678299.3678
+KW  - 2D drawing
+KW  - 3D drawing
+KW  - Audio-visual interfaces
+KW  - Human computer interaction
+KW  - Music
+KW  - Sonification
+LB  - 10.1145/3678299.3678317
+PB  - Association for Computing Machinery
+SN  - 9798400709685
+SP  - 181-188
+T3  - AM '24
+TI  - Musical Drawing in 2D and 3D: Dimensions and Perspectives
+UR  - https://doi.org/10.1145/3678299.3678317
+ER  - 
+TY  - CONF
+AB  - An approach is presented for realizing an order-of-magnitude improveme
+nt in spatial accuracy for voxel-based 6-DOF haptics. It trades consta
+nt-time performance for greater spatial accuracy. This helps to make 6
+-DOF haptics applicable to extraordinarily complex real-world task sim
+ulations, which often admit no other known solution short of physical 
+mockup. A reduction of haptic fidelity is tactically incurred but simu
+ltaneously mitigated by augmenting standard voxel-sampling methodology
+ with distance fields, temporal coherence, and culling of redundant po
+lyhedral surface interactions. This is applied to large-scale haptic s
+cenarios involving multiple moving objects and to collaborative virtua
+l environments.
+AU  - McNeely, William A.
+AU  - Puterbaugh, Kevin D.
+AU  - Troy, James J.
+C2  - 2005///
+C3  - ACM SIGGRAPH 2005 Courses
+DO  - 10.1145/1198555.1198606
+ID  - 10.1145/1198555.1198
+KW  - collaborative virtual environments
+KW  - collision detection
+KW  - haptics
+KW  - physically based modeling
+KW  - voxel sampling
+LB  - 10.1145/1198555.1198606
+PB  - Association for Computing Machinery
+SN  - 9781450378338
+SP  - 50-es
+T3  - SIGGRAPH '05
+TI  - Advances in voxel-based 6-DOF haptic rendering
+UR  - https://doi.org/10.1145/1198555.1198606
+ER  - 
+TY  - CONF
+AB  - Through videoconferencing, people search to interact and communicate w
+ith their remote friends or family as they were together in the same p
+lace. The influence of form variables such as screen size has been mai
+nly investigated on the sense of physical presence (presence as transp
+ortation) in virtual environment and in television area, but less atte
+ntion has been paid to how these factors can influence the sense of co
+-presence in videoconferencing. In addition, preferred viewing distanc
+e is well known to be a key parameter in order to convey a sense of pr
+esence and enjoyment when people watch television, but there is curren
+tly no data regarding preferred viewing distance in videoconferencing.
+ This paper presents a user study which explores the influence of scre
+en size on the participant's sense of co-presence and on their preferr
+ed viewing distance. The main results of this study revealed that user
+s preferred to get closer to the screen when they communicated in vide
+oconferencing than when they watched TV program. Our study suggests th
+at screen size has an effect on the preferred viewing distance and on 
+the participant's sense of co-presence, with higher scores of co-prese
+nce with larger screen.
+AU  - Dagonneau, Virginie
+AU  - Martin, Elise
+AU  - Cosquer, Mathilde
+C2  - 2014///
+C3  - Proceedings of the 2014 Virtual Reality International Conference
+DO  - 10.1145/2617841.2620717
+ID  - 10.1145/2617841.2620
+KW  - co-presence
+KW  - collaboration
+KW  - communication
+KW  - field of view
+KW  - screen size
+KW  - videoconferencing
+KW  - viewing distance
+LB  - 10.1145/2617841.2620717
+PB  - Association for Computing Machinery
+SN  - 9781450326261
+T3  - VRIC '14
+TI  - Collaborating &amp; being together: influence of screen size and viewi
+ng distance during video communication
+UR  - https://doi.org/10.1145/2617841.2620717
+ER  - 
+TY  - JOUR
+AB  - Investigating virtual environments has become an increasingly interest
+ing research topic for engineers, computer and cognitive scientists, a
+nd psychologists. Although there have been several recent studies focu
+sed on the development of multimodal virtual environments (VEs) to stu
+dy human-machine interactions, less attention has been paid to human-h
+uman and human-machine interactions in shared virtual environments (SV
+Es), and to our knowledge, no attention paid at all to what extent the
+ addition of haptic communication between people would contribute to t
+he shared experience. We have developed a multimodal shared virtual en
+vironment and performed a set of experiments with human subjects to st
+udy the role of haptic feedback in collaborative tasks and whether hap
+tic communication through force feedback can facilitate a sense of bei
+ng and collaborating with a remote partner. The study concerns a scena
+rio where two participants at remote sites must cooperate to perform a
+ joint task in an SVE. The goals of the study are (1) to assess the im
+pact of force feedback on task performance, (2) to better understand t
+he role of haptic communication in human-human interactions, (3) to st
+udy the impact of touch on the subjective sense of collaborating with 
+a human as reported by the participants based on what they could see a
+nd feel, and (4) to investigate if gender, personality, or emotional e
+xperiences of users can affect haptic communication in SVEs. The outco
+mes of this research can have a powerful impact on the development of 
+next-generation human-computer interfaces and network protocols that i
+ntegrate touch and force feedback technology into the internet, develo
+pment of protocols and techniques for collaborative teleoperation such
+ as hazardous material removal, space station.
+AU  - Basdogan, Cagatay
+AU  - Ho, Chih-Hao
+AU  - Srinivasan, Mandayam A.
+AU  - Slater, Mel
+DA  - 2000/12//
+DO  - 10.1145/365058.365082
+ID  - 10.1145/365058.36508
+IS  - 4
+KW  - copresence
+KW  - force feedback devices
+KW  - haptic interaction
+KW  - shared virtual environments
+LB  - 10.1145/365058.365082
+SN  - 1073-0516
+SP  - 443-460
+T2  - ACM Trans. Comput.-Hum. Interact.
+TI  - An experimental study on the role of touch in shared virtual environme
+nts
+UR  - https://doi.org/10.1145/365058.365082
+VL  - 7
+ER  - 
+TY  - CONF
+AB  - We propose a new classification of the human-to-human communication du
+ring the use of immersive teleoperation interfaces based on real-life 
+examples. While a large body of research is concerned with communicati
+on in collaborative virtual environments (CVEs), less research focuses
+ on cases where only one of two communicating users is immersed in a v
+irtual or remote environment. Furthermore, we identify the unmediated 
+communication between co-located users of an immersive teleoperation i
+nterface as another conceptually important – but usually neglected – c
+ase. To cover these scenarios, one of the dimensions of the proposed c
+lassification is the level of copresence of the communicating users. F
+urther dimensions are the virtuality of the immersive environment, the
+ virtual transport of the immersed user(s), the communication channel,
+ and the mediation of the communication. We find that an extension of 
+the proposed classification to real environments can offer useful refe
+rence cases. Using this extended classification not only allows us to 
+discuss and understand differences and similarities of various forms o
+f communication in a more systematic way, but it also provides guideli
+nes and reference cases for the design of immersive teleoperation inte
+rfaces that support human-to-human communication.
+AU  - Kraus, Martin
+AU  - Kibsgaard, Martin
+C2  - 2015///
+C3  - Proceedings of the 2015 Virtual Reality International Conference
+DO  - 10.1145/2806173.2806198
+ID  - 10.1145/2806173.2806
+KW  - Telepresence
+KW  - augmented reality
+KW  - collaboration
+KW  - collaborative virtual environment
+KW  - computer-mediated communication
+KW  - human-to-human communication
+KW  - immersion
+KW  - presence
+KW  - shared virtual space
+KW  - teleoperation
+KW  - virtual reality
+LB  - 10.1145/2806173.2806198
+PB  - Association for Computing Machinery
+SN  - 9781450333139
+T3  - VRIC '15
+TI  - A Classification of Human-to-Human Communication during the Use of Imm
+ersive Teleoperation Interfaces
+UR  - https://doi.org/10.1145/2806173.2806198
+ER  - 
+TY  - CONF
+AB  - In Social Virtual Reality (SVR), mediated social communication blends 
+with simulated virtual environments and bodies. However, little is kno
+wn about how these social and physical (or embodied) affordances inter
+sect in user experiences. We bridge this research gap by applying phen
+omenological analysis to SVR user interviews to reveal embodiment in S
+VR based on their lived experiences. We contribute empirical evidence 
+to the concept of “collective embodiment,” described as a mutually mai
+ntained feeling of embodiment that SVR provides beyond individual expe
+riences and avatar-related sensations. This involves intertwined sense
+s of agency, location, and appearance influenced by the presence and a
+ctions of others in the virtual environment. We also observed SVR user
+s’ difficulties controlling avatar visual representations and communic
+ation or social functions. This research uncovers the multifaceted nat
+ure of collective embodiment in SVR, offering insights into its social
+ dynamics, design, and user experience implications.
+AU  - Kukshinov, Eugene
+AU  - Nacke, Lennart E.
+C2  - 2025///
+C3  - Proceedings of the 2025 ACM International Conference on Interactive Me
+dia Experiences
+DO  - 10.1145/3706370.3727895
+ID  - 10.1145/3706370.3727
+KW  - Sense of Embodiment
+KW  - Social VR
+KW  - Avatars
+KW  - Social Interaction
+KW  - Presence
+KW  - Phenomenological Analysis.
+LB  - 10.1145/3706370.3727895
+PB  - Association for Computing Machinery
+SN  - 9798400713910
+SP  - 187-199
+T3  - IMX '25
+TI  - Collective Embodiment, or the Social Nature of the Sense of Embodiment
+ in Social VR
+UR  - https://doi.org/10.1145/3706370.3727895
+ER  - 
+TY  - CONF
+AB  - Generating referring expressions is a task that has received a great d
+eal of attention in the natural-language generation community, with an
+ increasing amount of recent effort targeted at the generation of mult
+imodal referring expressions. However, most implemented systems tend t
+o assume very little shared knowledge between the speaker and the hear
+er, and therefore must generate fully-elaborated linguistic references
+. Some systems do include a representation of the physical context or 
+the dialogue context; however, other sources of contextual information
+ are not normally used. Also, the generated references normally consis
+t only of language and, possibly, deictic pointing gestures.When refer
+ring to objects in the context of a task-based interaction involving j
+ointly manipulating objects, a much richer notion of context is availa
+ble, which permits a wider range of referring options. In particular, 
+when conversational partners cooperate on a mutual task in a shared en
+vironment, objects can be made accessible simply by manipulating them 
+as part of the task. We demonstrate that such expressions are common i
+n a corpus of human-human dialogues based on constructing virtual obje
+cts, and then describe how this type of reference can be incorporated 
+into the output of a humanoid robot that engages in similar joint cons
+truction dialogues with a human partner.
+AU  - Foster, Mary Ellen
+AU  - Bard, Ellen Gurman
+AU  - Guhe, Markus
+AU  - Hill, Robin L.
+AU  - Oberlander, Jon
+AU  - Knoll, Alois
+C2  - 2008///
+C3  - Proceedings of the 3rd ACM/IEEE International Conference on Human Robo
+t Interaction
+DO  - 10.1145/1349822.1349861
+ID  - 10.1145/1349822.1349
+KW  - multimodal dialogue
+KW  - referring expressions
+LB  - 10.1145/1349822.1349861
+PB  - Association for Computing Machinery
+SN  - 9781605580173
+SP  - 295-302
+T3  - HRI '08
+TI  - The roles of haptic-ostensive referring expressions in cooperative, ta
+sk-based human-robot dialogue
+UR  - https://doi.org/10.1145/1349822.1349861
+ER  - 
+TY  - CONF
+AB  - Collaborative Virtual Environments allow multiple users to interact co
+llaboratively while taking advantage of the perceptual richness that V
+irtual Environments (VEs) provide. In this paper, we demonstrate empir
+ically that increasing the level of immersion in a VE can have a benef
+icial effect on the usability of that environment in a collaborative c
+ontext. We present the results of a study in which we varied two immer
+sive factors, stereo and head tracking, within the context of a two pe
+rson collaborative task. Our results indicate that stereo can have a p
+ositive effect on task performance; that different levels of immersion
+ have effects that vary with gender; and that varying the level of imm
+ersion has a pronounced effect on communication between users. These r
+esults show that the level of immersion can play an important role in 
+determining user performance on some collaborative tasks.
+AU  - Narayan, Michael
+AU  - Waugh, Leo
+AU  - Zhang, Xiaoyu
+AU  - Bafna, Pradyut
+AU  - Bowman, Doug
+C2  - 2005///
+C3  - Proceedings of the ACM Symposium on Virtual Reality Software and Techn
+ology
+DO  - 10.1145/1101616.1101632
+ID  - 10.1145/1101616.1101
+KW  - collaborative virtual environments
+KW  - head tracking
+KW  - immersion
+KW  - stereo
+LB  - 10.1145/1101616.1101632
+PB  - Association for Computing Machinery
+SN  - 1595930981
+SP  - 78-81
+T3  - VRST '05
+TI  - Quantifying the benefits of immersion for collaboration in virtual env
+ironments
+UR  - https://doi.org/10.1145/1101616.1101632
+ER  - 
+TY  - JOUR
+AB  - The metaverse presents an emerging creative expression and collaborati
+on frontier where generative artificial intelligence (GenAI) can play 
+a pivotal role with its ability to generate multimodal content from si
+mple prompts. These prompts allow the metaverse to interact with GenAI
+, where context information, instructions, input data, or even output 
+indications constituting the prompt can come from within the metaverse
+. However, their integration poses challenges regarding interoperabili
+ty, lack of standards, scalability, and maintaining a high-quality use
+r experience. This article explores how GenAI can productively assist 
+in enhancing creativity within the contexts of the metaverse and unloc
+k new opportunities. We provide a technical, in-depth overview of the 
+different generative models for image, video, audio, and 3D content wi
+thin the metaverse environments. We also explore the bottlenecks, oppo
+rtunities, and innovative applications of GenAI from the perspectives 
+of end users, developers, service providers, and AI researchers. This 
+survey commences by highlighting the potential of GenAI for enhancing 
+the metaverse experience through dynamic content generation to populat
+e massive virtual worlds. Subsequently, we shed light on the ongoing r
+esearch practices and trends in multimodal content generation, enhanci
+ng realism and creativity and alleviating bottlenecks related to stand
+ardization, computational cost, privacy, and safety. Last, we share in
+sights into promising research directions toward the integration of Ge
+nAI with the metaverse for creative enhancement, improved immersion, a
+nd innovative interactive applications.
+AU  - El Saddik, Abdulmotaleb
+AU  - Ahmad, Jamil
+AU  - Khan, Mustaqeem
+AU  - Abouzahir, Saad
+AU  - Gueaieb, Wail
+DA  - 2025/7//
+DO  - 10.1145/3713075
+ID  - 10.1145/3713075
+IS  - 7
+KW  - Generative AI
+KW  - Metaverse
+KW  - Diffusion Models
+KW  - Generative Adversarial Networks
+KW  - Multimodal
+KW  - Content Generation
+LB  - 10.1145/3713075
+SN  - 1551-6857
+T2  - ACM Trans. Multimedia Comput. Commun. Appl.
+TI  - Unleashing Creativity in the Metaverse: Generative AI and Multimodal C
+ontent
+UR  - https://doi.org/10.1145/3713075
+VL  - 21
+ER  - 
+TY  - CONF
+AB  - Virtual reality can help realize mediated social experiences where dis
+tance disappears and we interact as richly with those around the world
+ as we do with those in the same room. The design of social virtual ex
+periences presents a challenge for remotely located users with room-sc
+ale setups like those afforded by recent commodity virtual reality dev
+ices. Since users inhabit different physical spaces that may not be th
+e same size, a mapping to a shared virtual space is needed for creatin
+g experiences that allow everyone to use real walking for locomotion. 
+We designed three mapping techniques that enable users from diverse ro
+om-scale setups to interact together in virtual reality. Results from 
+our user study (N = 26) show that our mapping techniques positively in
+fluence the perceived degree of togetherness and copresence while the 
+size of each user's tracked space influences individual presence.
+AU  - Sra, Misha
+AU  - Mottelson, Aske
+AU  - Maes, Pattie
+C2  - 2018///
+C3  - Proceedings of the 2018 Designing Interactive Systems Conference
+DO  - 10.1145/3196709.3196788
+ID  - 10.1145/3196709.3196
+KW  - dancing
+KW  - embodiment
+KW  - remote collaboration
+KW  - room-scale vr
+KW  - social
+KW  - virtual reality
+LB  - 10.1145/3196709.3196788
+PB  - Association for Computing Machinery
+SN  - 9781450351980
+SP  - 85-97
+T3  - DIS '18
+TI  - Your Place and Mine: Designing a Shared VR Experience for Remotely Loc
+ated Users
+UR  - https://doi.org/10.1145/3196709.3196788
+ER  - 
+TY  - JOUR
+AB  - When developing XR applications for Industry 4.0, it is important to c
+onsider the integration of visual displays, hardware components, and m
+ultimodal interaction techniques that are compatible with the entire s
+ystem. The potential use of multimodal interactions in industrial appl
+ications has been recognized as a significant factor in enhancing huma
+ns’ ability to perform tasks and make informed decisions. To offer a c
+omprehensive analysis of the current advancements in industrial XR, th
+is review presents a structured tutorial that provides answers to the 
+following research questions: (R.Q.1) What are the similarities and di
+fferences between XR technologies, including augmented reality (AR), m
+ixed reality (MR), Augmented Virtuality (AV), and virtual reality (VR)
+ under Industry 4.0 consideration? (R.Q.2) What types of visual displa
+ys and hardware devices are needed to present XR for Industry 4.0? (R.
+Q.3) How did the multimodal interaction in XR perceive and relate to I
+ndustry 4.0? (R.Q.4) How have modern adaptations of XR technologies de
+alt with the theme of Industry 4.0? (R.Q.5) How can XR technologies in
+ Industry 4.0 develop their services and usages to be more solution-in
+clusive? This review showcases various instances that demonstrate XR’s
+ potential to transform how humans interact with the physical world in
+ Industry 4.0. These advancements can increase productivity, reduce co
+sts, and enhance safety.
+AU  - Alhakamy, A’aeshah
+DA  - 2024/4//
+DO  - 10.1145/3652595
+ID  - 10.1145/3652595
+IS  - 9
+KW  - Extended reality (XR)
+KW  - augmented reality (AR)
+KW  - virtual reality (VR)
+KW  - mixed reality (MR)
+KW  - and augmented virtuality (AV)
+KW  - 4IR
+KW  - Industry 4.0
+LB  - 10.1145/3652595
+SN  - 0360-0300
+T2  - ACM Comput. Surv.
+TI  - Extended Reality (XR) Toward Building Immersive Solutions: The Key to 
+Unlocking Industry 4.0
+UR  - https://doi.org/10.1145/3652595
+VL  - 56
+ER  - 
+TY  - CONF
+AB  - La formation par compagnonnage permet aux novices d’acquérir des compé
+tences sous la supervision d’experts qui utilisent diverses modalités 
+de communication. Cependant, reproduire ce modèle dans des simulateurs
+ immersifs reste un défi, notamment pour assurer une communication eff
+icace entre experts et novices. Notre étude explore l’impact de la com
+munication multimodale expert-novice pour transmettre des instructions
+ sur l’amplitude des mouvements dans une tâche de manipulation d’outil
+s en environnement immersif. Les résultats révèlent que la combinaison
+ des modalités visuelle-haptique améliore la précision, la vitesse et 
+la qualité des mouvements. De plus, la combinaison verbale-visuelle-ha
+ptique renforce le sentiment de présence et de coprésence, et l’expéri
+ence d’apprentissage. Ces résultats suggèrent que la combinaison visue
+lle-haptique est optimale pour améliorer les performances des novices,
+ et que l’intégration de la modalité verbale améliore l’expérience uti
+lisateur. Ces conclusions ouvrent de nouvelles perspectives pour améli
+orer l’acquisition de gestes techniques par compagnonnage en réalité v
+irtuelle grâce à la communication multimodale.
+AU  - Simon, Cassandre
+AU  - Hacene, Manel Boukli
+AU  - Lebrun, Flavien
+AU  - Otmane, Samir
+AU  - Chellali, Amine
+C2  - 2024///
+C3  - Proceedings of the 35th Conference on l'Interaction Humain-Machine
+DO  - 10.1145/3649792.3649793
+ID  - 10.1145/3649792.3649
+KW  - Apprentissage des gestes
+KW  - Formation par compagnonnage
+KW  - Interactions multimodale
+KW  - Mentorship
+KW  - Multimodal interactions
+KW  - Skill learning
+LB  - 10.1145/3649792.3649793
+PB  - Association for Computing Machinery
+SN  - 9798400718113
+T3  - IHM '24
+TI  - Influence of multimodal instructions on learning tool manipulation ski
+lls through mentoring in an immersive environment: Influence des instr
+uctions multimodales sur l’apprentissage par compagnonnage des compéte
+nces de manipulation d’outil dans un environnement immersif
+UR  - https://doi.org/10.1145/3649792.3649793
+ER  - 
+TY  - CONF
+AB  - Recent advances in consumer virtual reality (VR) technology have made 
+it easy to accurately capture users' motions over room-sized areas all
+owing natural locomotion for navigation in VR. While this helps create
+ a stronger match between proprioceptive information from human body m
+ovements for enhancing immersion and reducing motion sickness, it intr
+oduces a few challenges. Walking is only possible within virtual envir
+onments (VEs) that fit inside the boundaries of the tracked physical s
+pace which for most users is quite small. Within this space the potent
+ial for colliding with physical objects around the play area is high. 
+Additionally, only limited haptic feedback is available. In this paper
+, I focus on the problem of variations in the size and shape of each u
+ser's tracked physical space for multiplayer interactions. As part of 
+the constrained physical space problem, I also present an automated sy
+stem for steering the user away from play area boundaries using Galvan
+ic Vestibular Stimulation (GVS). In my thesis, I will build techniques
+ to enable the system to intelligently apply redirection and GVS-based
+ steering as users explore virtual environments of arbitrary sizes.
+AU  - Sra, Misha
+C2  - 2016///
+C3  - Adjunct Proceedings of the 29th Annual ACM Symposium on User Interface
+ Software and Technology
+DO  - 10.1145/2984751.2984788
+ID  - 10.1145/2984751.2984
+KW  - 3d mapping
+KW  - asymmetric design
+KW  - galvanic vestibular stimulation
+KW  - games
+KW  - head-mounted displays
+KW  - natural locomotion
+KW  - obstacle avoidance
+KW  - tracking
+KW  - virtual reality
+LB  - 10.1145/2984751.2984788
+PB  - Association for Computing Machinery
+SN  - 9781450345316
+SP  - 29-32
+T3  - UIST '16 Adjunct
+TI  - Asymmetric Design Approach and Collision Avoidance Techniques For Room
+-scale Multiplayer Virtual Reality
+UR  - https://doi.org/10.1145/2984751.2984788
+ER  - 
+TY  - CONF
+AB  - We built a Collaborative Virtual Environment (CVE) allowing one person
+, the 'visitor' to be digitally transported to a remote destination to
+ interact with local people there. This included full body tracking, v
+ibrotactile feedback and voice. This allowed interactions in the same 
+CVE between multiple people situated in different physical remote loca
+tions. This system was used for an experiment to study whether the con
+veyance of touch has an impact on the willingness of participants embo
+died in the CVE to sing in public.In a first experimental condition, t
+he experimenter virtually touched the avatar of the participants on th
+e shoulder, producing vibrotactile feedback. In another condition usin
+g the identical physical setup, the vibrotactile displays were not act
+ivated, so that they would not feel the touch. Our hypothesis was that
+ the tactile touch condition would produce a greater likelihood of com
+pliance with the request to sing. In a second part we examined the hyp
+othesis that people might be more willing to sing (execute an embarras
+sing task) in a CVE, because of the anonymity provided by virtual real
+ity. Hence we carried out a similar study in physical reality.The resu
+lts suggest that the tactile intervention had no effect on the sensati
+ons of body ownership, presence or the behaviours of the participants,
+ in spite of the finding that the sensation of touch itself was effect
+ively realised. Moreover we found an overall similarity in responses b
+etween the VR and real conditions.
+AU  - Bourdin, Pierre
+AU  - Sanahuja, Josep Maria Tomàs
+AU  - Moya, Carlota Crusafon
+AU  - Haggard, Patrick
+AU  - Slater, Mel
+C2  - 2013///
+C3  - Proceedings of the 19th ACM Symposium on Virtual Reality Software and 
+Technology
+DO  - 10.1145/2503713.2503724
+ID  - 10.1145/2503713.2503
+KW  - collaborative virtual environments
+KW  - embodiment
+KW  - haptic interaction
+KW  - presence
+KW  - social touch
+LB  - 10.1145/2503713.2503724
+PB  - Association for Computing Machinery
+SN  - 9781450323796
+SP  - 123-132
+T3  - VRST '13
+TI  - Persuading people in a remote destination to sing by beaming there
+UR  - https://doi.org/10.1145/2503713.2503724
+ER  - 
+TY  - JOUR
+AB  - As extended reality (XR) systems become increasingly available, XR-bas
+ed remote instruction is being adopted for diverse purposes in profess
+ional settings such as surgery and field servicing. Hobbyists have bee
+n well-studied in HCI and may similarly benefit from remote skill-shar
+ing. However, little is known about how XR technologies might support 
+expert-novice collaboration for skilled hobby activities. This paper e
+xamines the potential and limitations of XR to connect experts and nov
+ices for one such activity: gardening. Through two studies involving 2
+7 expert and novice gardeners, we designed prototypes to understand 1)
+ practitioner perceptions of XR and remote skill-sharing in the garden
+ and 2) what kinds of interactions can be supported in XR for expert-n
+ovice groups. We discuss design opportunities and challenges for XR sy
+stems in supporting informal connecting interactions and meaningful se
+nsory interactions with a remote environment during skill-sharing.
+AU  - Maddali, Hanuma Teja
+AU  - Irlitti, Andrew
+AU  - Lazar, Amanda
+DA  - 2022/11//
+DO  - 10.1145/3555211
+ID  - 10.1145/3555211
+IS  - CSCW2
+KW  - extended reality
+KW  - gardening
+KW  - skill-sharing
+KW  - skilled hobbies
+LB  - 10.1145/3555211
+T2  - Proc. ACM Hum.-Comput. Interact.
+TI  - Probing the Potential of Extended Reality to Connect Experts and Novic
+es in the Garden
+UR  - https://doi.org/10.1145/3555211
+VL  - 6
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3721245
+LB  - 10.1145/3721245
+PB  - Association for Computing Machinery
+SN  - 9798400715471
+TI  - SIGGRAPH Immersive Pavilion '25: Proceedings of the Special Interest G
+roup on Computer Graphics and Interactive Techniques Conference Immers
+ive Pavilion
+ER  - 
+TY  - CONF
+AB  - VTubing, the practice of live streaming using virtual avatars, has gai
+ned worldwide popularity among streamers seeking to maintain anonymity
+. While previous research has primarily focused on the social and cult
+ural aspects of VTubing, there is a noticeable lack of studies examini
+ng the practical challenges VTubers face in creating and operating the
+ir avatars. To address this gap, we surveyed VTubers’ equipment and ex
+panded the live-streaming design space by introducing six new dimensio
+ns related to avatar creation and control. Additionally, we conducted 
+interviews with 16 professional VTubers to comprehensively explore the
+ir practices, strategies, and challenges throughout the VTubing proces
+s. Our findings reveal that VTubers face significant burdens compared 
+to real-person streamers due to fragmented tools and the multi-tasking
+ nature of VTubing, leading to unique workarounds. Finally, we summari
+ze these challenges and propose design opportunities to improve the ef
+fectiveness and efficiency of VTubing.
+AU  - Kim, Daye
+AU  - Lee, Sebin
+AU  - Jun, Yoonseo
+AU  - Shin, Yujin
+AU  - Lee, Jungjin
+C2  - 2025///
+C3  - Proceedings of the 2025 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3706598.3714107
+ID  - 10.1145/3706598.3714
+KW  - VTuber
+KW  - VTubing equipment
+KW  - live streaming
+KW  - design space
+KW  - virtual avatar
+LB  - 10.1145/3706598.3714107
+PB  - Association for Computing Machinery
+SN  - 9798400713941
+T3  - CHI '25
+TI  - VTuber's Atelier: The Design Space, Challenges, and Opportunities for 
+VTubing
+UR  - https://doi.org/10.1145/3706598.3714107
+ER  - 
+TY  - CONF
+AB  - Virtual Reality enables users to explore content whose physics are onl
+y limited by our creativity. Such limitless environments provide us wi
+th many opportunities to explore innovative ways to support productivi
+ty and collaboration. We present Spacetime, a scene editing tool built
+ from the ground up to explore the novel interaction techniques that e
+mpower single user interaction while maintaining fluid multi-user coll
+aboration in immersive virtual environment. We achieve this by introdu
+cing three novel interaction concepts: the Container, a new interactio
+n primitive that supports a rich set of object manipulation and enviro
+nmental navigation techniques, Parallel Objects, which enables paralle
+l manipulation of objects to resolve interaction conflicts and support
+ design workflows, and Avatar Objects, which supports interaction amon
+g multiple users while maintaining an individual users' agency. Evalua
+ted by professional Virtual Reality designers, Spacetime supports powe
+rful individual and fluid collaborative workflows.
+AU  - Xia, Haijun
+AU  - Herscher, Sebastian
+AU  - Perlin, Ken
+AU  - Wigdor, Daniel
+C2  - 2018///
+C3  - Proceedings of the 31st Annual ACM Symposium on User Interface Softwar
+e and Technology
+DO  - 10.1145/3242587.3242597
+ID  - 10.1145/3242587.3242
+KW  - computer-supported collaborative work
+KW  - interaction techniques
+KW  - virtual reality
+LB  - 10.1145/3242587.3242597
+PB  - Association for Computing Machinery
+SN  - 9781450359481
+SP  - 853-866
+T3  - UIST '18
+TI  - Spacetime: Enabling Fluid Individual and Collaborative Editing in Virt
+ual Reality
+UR  - https://doi.org/10.1145/3242587.3242597
+ER  - 
+TY  - BOOK
+AB  - The LSC workshops are participation workshops, where participants writ
+e and present an academic paper describing their prototype lifelog ret
+rieval system, and then take part in a live interactive search competi
+tion. Consequently, the workshop is highly interactive and challenging
+ for participants.
+DA  - 2024///
+ID  - 10.1145/3643489
+LB  - 10.1145/3643489
+PB  - Association for Computing Machinery
+SN  - 9798400705502
+TI  - LSC '24: Proceedings of the 7th Annual ACM Workshop on the Lifelog Sea
+rch Challenge
+ER  - 
+TY  - CONF
+AB  - Behaviour in virtual environments might be informed by our experiences
+ in physical environments, but virtual environments are not constraine
+d by the same physical, perceptual, or social cues. Instead of replica
+ting the properties of physical spaces, one can create virtual experie
+nces that diverge from reality by dynamically manipulating environment
+al, aural, and social properties. This paper explores digital proxemic
+s, which describe how we use space in virtual environments and how the
+ presence of others influences our behaviours, interactions, and movem
+ents. First, we frame the open challenges of digital proxemics in term
+s of activity, social signals, audio design, and environment. We explo
+re a subset of these challenges through an evaluation that compares tw
+o audio designs and two displays with different social signal affordan
+ces: head-mounted display (HMD) versus desktop PC. We use quantitative
+ methods using instrumented tracking to analyse behaviour, demonstrati
+ng how personal space, proximity, and attention compare between deskto
+p PC and HMDs.
+AU  - Williamson, Julie R.
+AU  - O'Hagan, Joseph
+AU  - Guerra-Gomez, John Alexis
+AU  - Williamson, John H
+AU  - Cesar, Pablo
+AU  - Shamma, David A.
+C2  - 2022///
+C3  - Proceedings of the 2022 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3491102.3517594
+ID  - 10.1145/3491102.3517
+KW  - Digital Proxemics
+KW  - Quantitative Methods.
+KW  - Social Signal Processing
+KW  - Virtual Environments
+LB  - 10.1145/3491102.3517594
+PB  - Association for Computing Machinery
+SN  - 9781450391573
+T3  - CHI '22
+TI  - Digital Proxemics: Designing Social and Collaborative Interaction in V
+irtual Environments
+UR  - https://doi.org/10.1145/3491102.3517594
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3689050
+LB  - 10.1145/3689050
+PB  - Association for Computing Machinery
+SN  - 9798400711978
+TI  - TEI '25: Proceedings of the Nineteenth International Conference on Tan
+gible, Embedded, and Embodied Interaction
+ER  - 
+TY  - CONF
+AB  - Recent research in the area of immersive analytics demonstrated the ut
+ility of head-mounted augmented reality devices for visual data analys
+is. However, it can be challenging to use the by default supported mid
+-air gestures to interact with visualizations in augmented reality (e.
+g. due to limited precision). Touch-based interaction (e.g. via mobile
+ devices) can compensate for these drawbacks, but is limited to two-di
+mensional input. In this work we present STREAM: Spatially-aware Table
+ts combined with Augmented Reality Head-Mounted Displays for the multi
+modal interaction with 3D visualizations. We developed a novel eyes-fr
+ee interaction concept for the seamless transition between the tablet 
+and the augmented reality environment. A user study reveals that parti
+cipants appreciated the novel interaction concept, indicating the pote
+ntial for spatially-aware tablets in augmented reality. Based on our f
+indings, we provide design insights to foster the application of spati
+ally-aware touch devices in augmented reality and research implication
+s indicating areas that need further investigation.
+AU  - Hubenschmid, Sebastian
+AU  - Zagermann, Johannes
+AU  - Butscher, Simon
+AU  - Reiterer, Harald
+C2  - 2021///
+C3  - Proceedings of the 2021 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3411764.3445298
+ID  - 10.1145/3411764.3445
+KW  - augmented reality
+KW  - immersive analytics
+KW  - mobile devices
+KW  - multimodal interaction
+KW  - visualizations
+LB  - 10.1145/3411764.3445298
+PB  - Association for Computing Machinery
+SN  - 9781450380966
+T3  - CHI '21
+TI  - STREAM: Exploring the Combination of Spatially-Aware Tablets with Augm
+ented Reality Head-Mounted Displays for Immersive Analytics
+UR  - https://doi.org/10.1145/3411764.3445298
+ER  - 
+TY  - CONF
+AB  - Photoportals build on digital photography as a unifying metaphor for r
+eference-based interaction in 3D virtual environments. Virtual photos 
+and videos serve as threedimensional references to objects, places, mo
+ments in time and activities of users. Our Photoportals also provide a
+ccess to intermediate or alternative versions of a scenario and allow 
+the review of recorded task sequences that include life-size represent
+ations of the captured users. We propose to exploit such references to
+ structure collaborative activities of collocated and remote users. Ph
+otoportals offer additional access points for multiple users and encou
+rage mutual support through the preparation and provision of reference
+s for manipulation and navigation tasks. They support the pattern of t
+erritoriality with configurable space representations that can be used
+ for private interaction, as well as be shared and exchanged with othe
+rs.
+AU  - Kunert, André
+AU  - Kulik, Alexander
+AU  - Beck, Stephan
+AU  - Froehlich, Bernd
+C2  - 2014///
+C3  - Proceedings of the 17th ACM Conference on Computer Supported Cooperati
+ve Work &amp; Social Computing
+DO  - 10.1145/2531602.2531727
+ID  - 10.1145/2531602.2531
+KW  - 3d interaction
+KW  - 3d user interfaces
+KW  - collaborative virtual environments
+KW  - interactive systems
+KW  - multi-user interaction
+LB  - 10.1145/2531602.2531727
+PB  - Association for Computing Machinery
+SN  - 9781450325400
+SP  - 1388-1399
+T3  - CSCW '14
+TI  - Photoportals: shared references in space and time
+UR  - https://doi.org/10.1145/2531602.2531727
+ER  - 
+TY  - CONF
+AB  - In recent years, digital storytelling has demonstrated powerful pedago
+gical functions by improving creativity, collaboration and intimacy am
+ong young children. Saturated with digital media technologies in their
+ daily lives, the young generation demands natural interactive learnin
+g environments which offer multimodalities of feedback and meaningful 
+immersive learning experiences. Virtual puppetry assisted storytelling
+ system for young children, which utilises depth motion sensing techno
+logy and gesture control as the Human-Computer Interaction (HCI) metho
+d, has been proved to provide natural interactive learning experience 
+for single player. In this paper, we designed and developed a novel sy
+stem that allows multiple players to narrate, and most importantly, to
+ interact with other characters and interactive virtual items in the v
+irtual environment. We have conducted one user experiment with four yo
+ung children for pedagogical evaluation and another user experiment wi
+th five postgraduate students for system evaluation. Our user study sh
+ows this novel digital storytelling system has great potential to stim
+ulate learning abilities of young children through collaboration tasks
+.
+AU  - Liang, Hui
+AU  - Chang, Jian
+AU  - Deng, Shujie
+AU  - Chen, Can
+AU  - Tong, Ruofeng
+AU  - Zhang, Jianjun
+C2  - 2015///
+C3  - Proceedings of the 14th ACM SIGGRAPH International Conference on Virtu
+al Reality Continuum and Its Applications in Industry
+DO  - 10.1145/2817675.2817680
+ID  - 10.1145/2817675.2817
+KW  - children learning
+KW  - gesture-based control
+KW  - interactive storytelling
+KW  - virtual puppetry
+KW  - virtual reality
+LB  - 10.1145/2817675.2817680
+PB  - Association for Computing Machinery
+SN  - 9781450339407
+SP  - 63-72
+T3  - VRCAI '15
+TI  - Exploitation of novel multiplayer gesture-based interaction and virtua
+l puppetry for digital storytelling to develop children's narrative sk
+ills
+UR  - https://doi.org/10.1145/2817675.2817680
+ER  - 
+TY  - CONF
+AB  - Art education plays a central role in early childhood development, and
+ museum outreach programs can significantly enhance art education expe
+riences for K-2 learners in schools. Increased demand for remote learn
+ing environments where students and teachers are not co-located has fo
+rced educational contexts to adopt technology-mediated learning. Howev
+er, little research has investigated how technology can integrate muse
+um content into fully remote, K-2 school art education. We elicited de
+sign requirements for K-2 art education platforms in a needs assessmen
+t study through surveys (N = 22) and interviews (N = 4) with educators
+. We created a typology of existing platforms, which we evaluated agai
+nst these requirements. We identified a key unmet need for students to
+ receive feedback on their fine motor skills, and, in response, we cre
+ated a prototype system with interactive scissors called Chameleon Cli
+ppers. We demonstrate its potential to provide this feedback through p
+reliminary user tests with 4–7-year-old children (N=12).
+AU  - Mansi, Gennie
+AU  - Kim, Sue Reon
+AU  - Roberts, Jessica
+C2  - 2022///
+C3  - Proceedings of the 21st Annual ACM Interaction Design and Children Con
+ference
+DO  - 10.1145/3501712.3529731
+ID  - 10.1145/3501712.3529
+KW  - Art Education
+KW  - Distance learning
+KW  - K-2
+LB  - 10.1145/3501712.3529731
+PB  - Association for Computing Machinery
+SN  - 9781450391979
+SP  - 150-184
+T3  - IDC '22
+TI  - Ready, Set, Art: Technology Needs and Tools for Remote K-2 Art Educati
+on
+UR  - https://doi.org/10.1145/3501712.3529731
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3672406
+LB  - 10.1145/3672406
+PB  - Association for Computing Machinery
+SN  - 9798400717949
+TI  - IMXw '24: Proceedings of the 2024 ACM International Conference on Inte
+ractive Media Experiences Workshops
+ER  - 
+TY  - CONF
+AB  - Collaborative immersive virtual environments allow the behavior of one
+ user to be observed by other users. In particular, behavior of users 
+in such an environment is represented by each user possessing a self-a
+vatar, a digital representation of themself. In this study we examined
+ dyadic interactions in a collaborative immersive virtual environment 
+when both users were present in the same physical space. This collocat
+ion in physical space allows for physical interaction between users as
+ well as virtual interaction. In the context of a common physical gest
+ure, high fiving, we examined the question of whether the form of the 
+self-avatar was important, and whether collocation in the physical wor
+ld provided benefits or not. We find that the form of the avatar is im
+portant but that physical collocation is not. These results reinforce 
+the growing body of evidence that indicates that having a full-body av
+atar in a virtual environment provides benefits, and these results are
+ significant because they demonstrate this in the context of a dyadic 
+interaction.
+AU  - Young, Mary K.
+AU  - Rieser, John J.
+AU  - Bodenheimer, Bobby
+C2  - 2015///
+C3  - Proceedings of the ACM SIGGRAPH Symposium on Applied Perception
+DO  - 10.1145/2804408.2804410
+ID  - 10.1145/2804408.2804
+KW  - head-mounted displays
+KW  - virtual avatar
+KW  - virtual environments
+KW  - virtual reality (VR)
+LB  - 10.1145/2804408.2804410
+PB  - Association for Computing Machinery
+SN  - 9781450338127
+SP  - 119-126
+T3  - SAP '15
+TI  - Dyadic interactions with avatars in immersive virtual environments: hi
+gh fiving
+UR  - https://doi.org/10.1145/2804408.2804410
+ER  - 
+TY  - CONF
+AB  - Augmented Reality (AR) is a rapidly growing field in information and c
+ommunication technologies, drawing increasing numbers of professionals
+. Higher education institutions, however, are struggling to keep abrea
+st of its development and to train specialists quickly, providing few 
+courses which sufficiently align with the needs of industry. In additi
+on to this, the field is developing so rapidly that existing courses s
+truggle to keep pace. They also often focus too narrowly on specifics 
+to allow for the building of the formative foundations of AR education
+. This paper aims to address this need by proposing a blueprint curric
+ulum in Computer Science Education for teaching AR in universities at 
+two levels, foundations and advanced. To begin, we survey the state of
+ the art, identifying common needs and problems in existing courses wh
+ich focus on AR. We then detail a skills framework comprised of 12 gro
+ups of skills suitable to meet industry needs, and built upon it two m
+odel lesson plans for a foundation and an advanced course. We conclude
+ with a discussion of assessment techniques and curricular design opti
+ons of embedding such coursework into existing academic programs and a
+ forecast of the future of this academic field.
+AU  - Fominykh, Mikhail
+AU  - Wild, Fridolin
+AU  - Klamma, Ralf
+AU  - Billinghurst, Mark
+AU  - Costiner, Lisandra S.
+AU  - Karsakov, Andrey
+AU  - Mangina, Eleni
+AU  - Molka-Danielsen, Judith
+AU  - Pollock, Ian
+AU  - Preda, Marius
+AU  - Smolic, Aljosa
+C2  - 2020///
+C3  - Proceedings of the Working Group Reports on Innovation and Technology 
+in Computer Science Education
+DO  - 10.1145/3437800.3439205
+ID  - 10.1145/3437800.3439
+KW  - augmented reality
+KW  - curriculum
+KW  - software engineering
+LB  - 10.1145/3437800.3439205
+PB  - Association for Computing Machinery
+SN  - 9781450382939
+SP  - 131-149
+T3  - ITiCSE-WGR '20
+TI  - Model Augmented Reality Curriculum
+UR  - https://doi.org/10.1145/3437800.3439205
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3565970
+LB  - 10.1145/3565970
+PB  - Association for Computing Machinery
+SN  - 9781450399487
+TI  - SUI '22: Proceedings of the 2022 ACM Symposium on Spatial User Interac
+tion
+ER  - 
+TY  - CONF
+AB  - Existing methods for cyber learning mathematics and geometry are restr
+icted to a limited class of geometric objects, most of which are prede
+fined in the system. Besides, no existing methods emphasize the geomet
+ric meaning of mathematic functions. Our research aims at improving le
+arners' three-dimensional spatial abilities by providing an intuitive 
+and efficient environment for learning mathematics and geometry, speci
+fically, the geometric meaning of mathematic functions. We propose a n
+ew 3D web learning environment that does not restrict to a list of pre
+defined primitive geometric objects, allows the learner to interactive
+ly create objects by defining their properties using analytical functi
+ons, and immerses the learner into the environment. The object propert
+ies, including geometry, visual appearance and physical properties, ar
+e created in their own coordinate domains and then assembled together 
+to define a virtual shape. The shape definition is eventually a functi
+on scripts that can be rendered on any suitable graphics system. We ha
+ve implemented our software using the function-based extension of the 
+Virtual Reality Modeling Language (VRML) and Extensible 3D (X3D).
+AU  - Lai, Danbo
+AU  - Sourin, Alexei
+C2  - 2011///
+C3  - Proceedings of the 10th International Conference on Virtual Reality Co
+ntinuum and Its Applications in Industry
+DO  - 10.1145/2087756.2087856
+ID  - 10.1145/2087756.2087
+KW  - 3D web
+KW  - shape modeling
+KW  - shared virtual reality
+LB  - 10.1145/2087756.2087856
+PB  - Association for Computing Machinery
+SN  - 9781450310604
+SP  - 519-526
+T3  - VRCAI '11
+TI  - Visual immersive mathematics in 3D web
+UR  - https://doi.org/10.1145/2087756.2087856
+ER  - 
+TY  - CONF
+AB  - This paper is a summation of a decade of support for X3D, human-comput
+er Interaction, and networked graphics that occurred at the Networked 
+Media Laboratory, Communications Research Centre, Canada.
+AU  - Stewart, John A.
+AU  - Dumoulin, Sarah
+AU  - Noël, Sylvie
+C2  - 2010///
+C3  - Proceedings of the 15th International Conference on Web 3D Technology
+DO  - 10.1145/1836049.1836054
+ID  - 10.1145/1836049.1836
+KW  - CRC
+KW  - FreeWRL
+KW  - NML
+KW  - X3D
+KW  - multicast
+KW  - peer to peer
+KW  - shared virtual worlds
+KW  - virtual reality
+LB  - 10.1145/1836049.1836054
+PB  - Association for Computing Machinery
+SN  - 9781450302098
+SP  - 27-34
+T3  - Web3D '10
+TI  - A decade of NML networked graphics
+UR  - https://doi.org/10.1145/1836049.1836054
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3706370
+LB  - 10.1145/3706370
+PB  - Association for Computing Machinery
+SN  - 9798400713910
+TI  - IMX '25: Proceedings of the 2025 ACM International Conference on Inter
+active Media Experiences
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3678698
+LB  - 10.1145/3678698
+PB  - Association for Computing Machinery
+SN  - 9798400709678
+TI  - VINCI '24: Proceedings of the 17th International Symposium on Visual I
+nformation Communication and Interaction
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3641234
+LB  - 10.1145/3641234
+PB  - Association for Computing Machinery
+SN  - 9798400705168
+TI  - SIGGRAPH '24: ACM SIGGRAPH 2024 Posters
+ER  - 
+TY  - CONF
+AB  - We present an augmented reality application for mechanics education. I
+t utilizes a recent physics engine developed for the PC gaming market 
+to simulate physical experiments in the domain of mechanics in real ti
+me. Students are enabled to actively build own experiments and study t
+hem in a three-dimensional virtual world. A variety of tools are provi
+ded to analyze forces, mass, paths and other properties of objects bef
+ore, during and after experiments. Innovative teaching content is pres
+ented that exploits the strengths of our immersive virtual environment
+. PhysicsPlayground serves as an example of how current technologies c
+an be combined to deliver a new quality in physics education.
+AU  - Kaufmann, Hannes
+AU  - Meyer, Bernd
+C2  - 2008///
+C3  - ACM SIGGRAPH ASIA 2008 Educators Programme
+DO  - 10.1145/1507713.1507717
+ID  - 10.1145/1507713.1507
+KW  - augmented reality
+KW  - mechanics
+KW  - physics education
+KW  - virtual reality
+LB  - 10.1145/1507713.1507717
+PB  - Association for Computing Machinery
+SN  - 9781605583884
+T3  - SIGGRAPH Asia '08
+TI  - Simulating educational physical experiments in augmented reality
+UR  - https://doi.org/10.1145/1507713.1507717
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3677386
+LB  - 10.1145/3677386
+PB  - Association for Computing Machinery
+SN  - 9798400710889
+TI  - SUI '24: Proceedings of the 2024 ACM Symposium on Spatial User Interac
+tion
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3641825
+LB  - 10.1145/3641825
+PB  - Association for Computing Machinery
+SN  - 9798400705359
+TI  - VRST '24: Proceedings of the 30th ACM Symposium on Virtual Reality Sof
+tware and Technology
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3681756
+LB  - 10.1145/3681756
+PB  - Association for Computing Machinery
+SN  - 9798400711381
+TI  - SA '24: SIGGRAPH Asia 2024 Posters
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3649792
+LB  - 10.1145/3649792
+PB  - Association for Computing Machinery
+SN  - 9798400718113
+TI  - IHM '24: Proceedings of the 35th Conference on l'Interaction Humain-Ma
+chine
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3678299
+LB  - 10.1145/3678299
+PB  - Association for Computing Machinery
+SN  - 9798400709685
+TI  - AM '24: Proceedings of the 19th International Audio Mostly Conference:
+ Explorations in Sonic Cultures
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3607822
+LB  - 10.1145/3607822
+PB  - Association for Computing Machinery
+SN  - 9798400702815
+TI  - SUI '23: Proceedings of the 2023 ACM Symposium on Spatial User Interac
+tion
+ER  - 
+TY  - CONF
+AB  - Construct3D is a three-dimensional geometric construction tool specifi
+cally designed for mathematics and geometry education. It is based on 
+the mobile collaborative augmented reality system "Studierstube." We d
+escribe our efforts in developing a system for the improvement of spat
+ial abilities and maximization of transfer of learning. In order to su
+pport various teacher-student interaction scenarios we implemented fle
+xible methods for context and user dependent rendering of parts of the
+ construction. Together with hybrid hardware setups they allow the use
+ of Construct3D in today's classrooms and provide a test bed for futur
+e evaluations. Means of application and integration in mathematics and
+ geometry education at the high school, as well as the university, lev
+el are being discussed. Anecdotal evidence supports our claim that Con
+struct3D is easy to learn, encourages experimentation with geometric c
+onstructions, and improves spatial skills.
+AU  - Kaufmann, Hannes
+AU  - Schmalstieg, Dieter
+C2  - 2002///
+C3  - ACM SIGGRAPH 2002 Conference Abstracts and Applications
+DO  - 10.1145/1242073.1242086
+ID  - 10.1145/1242073.1242
+KW  - augmented reality
+KW  - geometry education
+KW  - mathematics education
+KW  - spatial intelligence
+LB  - 10.1145/1242073.1242086
+PB  - Association for Computing Machinery
+SN  - 1581135254
+SP  - 37-41
+T3  - SIGGRAPH '02
+TI  - Mathematics and geometry education with collaborative augmented realit
+y
+UR  - https://doi.org/10.1145/1242073.1242086
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3611659
+LB  - 10.1145/3611659
+PB  - Association for Computing Machinery
+SN  - 9798400703287
+TI  - VRST '23: Proceedings of the 29th ACM Symposium on Virtual Reality Sof
+tware and Technology
+ER  - 
+TY  - JOUR
+AU  - Campbell, Marisa
+DA  - 2001/1//
+DO  - 10.1145/356978.356981
+ID  - 10.1145/356978.35698
+IS  - 1
+LB  - 10.1145/356978.356981
+SN  - 1072-5520
+SP  - 11-17
+T2  - Interactions
+TI  - Research alerts
+UR  - https://doi.org/10.1145/356978.356981
+VL  - 8
+ER  - 
+TY  - CONF
+AU  - Chapin, William L.
+AU  - Lacey, Timothy A.
+AU  - Leifer, Larry
+C2  - 1994///
+C3  - Conference Companion on Human Factors in Computing Systems
+DO  - 10.1145/259963.260018
+ID  - 10.1145/259963.26001
+LB  - 10.1145/259963.260018
+PB  - Association for Computing Machinery
+SN  - 0897916514
+SP  - 47-48
+T3  - CHI '94
+TI  - DesignSpace: a manual interaction environment for computer-aided desig
+n
+UR  - https://doi.org/10.1145/259963.260018
+ER  - 
+TY  - CONF
+AU  - Chapin, William L.
+AU  - Lacey, Timothy A.
+AU  - Leifer, Larry
+C2  - 1994///
+C3  - Conference Companion on Human Factors in Computing Systems
+DO  - 10.1145/259963.260001
+ID  - 10.1145/259963.26000
+LB  - 10.1145/259963.260001
+PB  - Association for Computing Machinery
+SN  - 0897916514
+SP  - 33-34
+T3  - CHI '94
+TI  - DesignSpace: a manual interaction environment for computer aided desig
+n
+UR  - https://doi.org/10.1145/259963.260001
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3641308
+LB  - 10.1145/3641308
+PB  - Association for Computing Machinery
+SN  - 9798400705205
+TI  - AutomotiveUI '24 Adjunct: Adjunct Proceedings of the 16th Internationa
+l Conference on Automotive User Interfaces and Interactive Vehicular A
+pplications
+ER  - 
+TY  - BOOK
+AB  - Welcome to UbiComp/ISWC 2024, the companion program of two premier con
+ferences: The 2024 ACM International Joint Conference on Pervasive and
+ Ubiquitous Computing (UbiComp 2024) and the 2024 International Sympos
+ium on Wearable Computers (ISWC 2024). UbiComp and ISWC are premier in
+terdisciplinary venues for international researchers, designers, devel
+opers, practitioners and educators in the field to present and discuss
+ novel and impactful research in interactive, mobile, wearable and ubi
+quitous computing. The companion program has traditionally been a very
+ important part of the UbiComp/ISWC conference series.UbiComp/ISWC 202
+4 is held from October 5 to 9, 2024 in Melbourne, Australia. Originall
+y, UbiComp/ISWC was scheduled to take place in Melbourne in 2021. Howe
+ver, due to the significant impact of COVID-19, our community decided 
+to postpone conferences taking place in their traditional form until l
+ast year, when UbiComp took place as an in-person event in Mexico. Now
+, in 2024 we look to consolidate the strength and ties in our communit
+y by having another fully in-person event and hoping to welcome a new 
+generation of researchers to meet and explore the wonderful people tha
+t make up our community.
+DA  - 2024///
+ID  - 10.1145/3675094
+LB  - 10.1145/3675094
+PB  - Association for Computing Machinery
+SN  - 9798400710582
+TI  - UbiComp '24: Companion of the 2024 on ACM International Joint Conferen
+ce on Pervasive and Ubiquitous Computing
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3670653
+LB  - 10.1145/3670653
+PB  - Association for Computing Machinery
+SN  - 9798400709982
+TI  - MuC '24: Proceedings of Mensch und Computer 2024
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3562939
+LB  - 10.1145/3562939
+PB  - Association for Computing Machinery
+SN  - 9781450398893
+TI  - VRST '22: Proceedings of the 28th ACM Symposium on Virtual Reality Sof
+tware and Technology
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3665318
+LB  - 10.1145/3665318
+PB  - Association for Computing Machinery
+SN  - 9798400706899
+TI  - Web3D '24: Proceedings of the 29th International ACM Conference on 3D 
+Web Technology
+ER  - 
+TY  - CONF
+AU  - Peters, Ralph
+AU  - Graeff, Andreas
+AU  - Paul, Christian
+C2  - 1997///
+C3  - Proceedings of the 1997 Workshop on New Paradigms in Information Visua
+lization and Manipulation
+DO  - 10.1145/275519.275535
+ID  - 10.1145/275519.27553
+KW  - architecture
+KW  - cooperation
+KW  - integration
+KW  - software agents
+KW  - usability
+KW  - virtual collaborative environment
+LB  - 10.1145/275519.275535
+PB  - Association for Computing Machinery
+SN  - 1581130511
+SP  - 69-74
+T3  - NPIV '97
+TI  - Integrating agents into virtual worlds
+UR  - https://doi.org/10.1145/275519.275535
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3613905
+LB  - 10.1145/3613905
+PB  - Association for Computing Machinery
+SN  - 9798400703317
+TI  - CHI EA '24: Extended Abstracts of the CHI Conference on Human Factors 
+in Computing Systems
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3544549
+LB  - 10.1145/3544549
+PB  - Association for Computing Machinery
+SN  - 9781450394222
+TI  - CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Fac
+tors in Computing Systems
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3610661
+LB  - 10.1145/3610661
+PB  - Association for Computing Machinery
+SN  - 9798400703218
+TI  - ICMI '23 Companion: Companion Publication of the 25th International Co
+nference on Multimodal Interaction
+ER  - 
+TY  - CONF
+AB  - Subjects such as electrostatics are difficult to teach in part because
+ learners cannot draw analogies to personal experiences that provide m
+etaphors. MaxwellWorld has been designed to allow students to explore 
+electrostatic forces and fields, learn about the concept of electric p
+otential, and "discover" the nature of electric flux. In formative ass
+essments of MaxwellWorld's usability and learnability, students enjoye
+d learning about electric fields and cited the 3-D representations, th
+e interactivity, the ability to navigate to multiple perspectives, and
+ the use of color as characteristics that were important to their lear
+ning experience. Pre- and post-lesson evaluations show that students h
+ad a greater understanding of the distribution of forces in an electri
+c field, as well as representations such as test charge traces and fie
+ld lines. Our studies also indicate that the three-dimensional nature 
+of VR aids with learning and that the virtual reality experience is mo
+re motivating for students than a comparable 2-D microworld.
+AU  - Dede, Chris
+AU  - Salzman, Marilyn C.
+AU  - Loftin, R. Bowen
+C2  - 1996///
+C3  - Proceedings of the 1996 International Conference on Learning Sciences
+ID  - 10.5555/1161135.1161
+LB  - 10.5555/1161135.1161139
+PB  - International Society of the Learning Sciences
+SN  - 1880094231
+SP  - 22-29
+T3  - ICLS '96
+TI  - MaxwellWorld: learning complex scientific concepts via immersion in vi
+rtual reality
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3613904
+LB  - 10.1145/3613904
+PB  - Association for Computing Machinery
+SN  - 9798400703300
+TI  - CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Co
+mputing Systems
+ER  - 
+TY  - BOOK
+AB  - Dear MMSys 2024 Participants,On behalf of the organizers, we are very 
+pleased to welcome you to the 15th ACM Multimedia Systems Conference, 
+taking place for the first time in Italy, in the city of Bari.MMSys is
+ a premier conference dedicated to the exciting and multidisciplinary 
+field of multimedia, with a specific focus on its systems and applicat
+ions. The conference provides a platform for researchers from both aca
+demia and industry to share their latest findings in the multimedia sy
+stems research area. Many international researchers, practitioners, en
+gineers, and students from academia, industry, standardization bodies,
+ and government agencies join the MMSys conference each year.
+DA  - 2024///
+ID  - 10.1145/3625468
+LB  - 10.1145/3625468
+PB  - Association for Computing Machinery
+SN  - 9798400704123
+TI  - MMSys '24: Proceedings of the 15th ACM Multimedia Systems Conference
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3544548
+LB  - 10.1145/3544548
+PB  - Association for Computing Machinery
+SN  - 9781450394215
+TI  - CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Co
+mputing Systems
+ER  - 
+TY  - BOOK
+DA  - 2019///
+ID  - 10.1145/3359996
+LB  - 10.1145/3359996
+PB  - Association for Computing Machinery
+SN  - 9781450370011
+TI  - VRST '19: Proceedings of the 25th ACM Symposium on Virtual Reality Sof
+tware and Technology
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3610419
+LB  - 10.1145/3610419
+PB  - Association for Computing Machinery
+SN  - 9781450399807
+TI  - AIR '23: Proceedings of the 2023 6th International Conference on Advan
+ces in Robotics
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3723498
+LB  - 10.1145/3723498
+PB  - Association for Computing Machinery
+SN  - 9798400718564
+TI  - FDG '25: Proceedings of the 20th International Conference on the Found
+ations of Digital Games
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3691573
+LB  - 10.1145/3691573
+PB  - Association for Computing Machinery
+SN  - 9798400709791
+TI  - SVR '24: Proceedings of the 26th Symposium on Virtual and Augmented Re
+ality
+ER  - 
+TY  - BOOK
+AB  - The SIGGRAPH Asia Symposium on Mobile Graphics and Interactive Applica
+tions will offer attendees the opportunity to explore the opportunitie
+s and challenges of mobile applications relevant to the global graphic
+s community.The program will cover the development, technology, and ma
+rketing of mobile graphics and interactive applications. It will espec
+ially highlight novel uses of graphics and interactivity on mobile dev
+ices. Attendees can expect to be exposed to the latest in mobile graph
+ics and interactive applications through expert keynote talks, paper p
+resentations, panel discussions, industry case studies, and hands-on d
+emonstrations.
+DA  - 2016///
+ID  - 10.1145/2999508
+LB  - 10.1145/2999508
+PB  - Association for Computing Machinery
+SN  - 9781450345514
+TI  - SA '16: SIGGRAPH ASIA 2016 Mobile Graphics and Interactive Application
+s
+ER  - 
+TY  - BOOK
+DA  - 2021///
+ID  - 10.1145/3411763
+LB  - 10.1145/3411763
+PB  - Association for Computing Machinery
+SN  - 9781450380959
+TI  - CHI EA '21: Extended Abstracts of the 2021 CHI Conference on Human Fac
+tors in Computing Systems
+ER  - 
+TY  - BOOK
+AB  - The SIGGRAPH Asia Symposium on Mobile Graphics and Interactive Applica
+tions will offer attendees the opportunity to explore the opportunitie
+s and challenges of mobile applications relevant to the global graphic
+s community.The program will cover the development, technology, and ma
+rketing of mobile graphics and interactive applications. It will espec
+ially highlight novel uses of graphics and interactivity on mobile dev
+ices. Attendees can expect to be exposed to the latest in mobile graph
+ics and interactive applications through expert keynote talks, paper p
+resentations, panel discussions, industry case studies, and hands-on d
+emonstrations.
+DA  - 2017///
+ID  - 10.1145/3132787
+LB  - 10.1145/3132787
+PB  - Association for Computing Machinery
+SN  - 9781450354103
+TI  - SA '17: SIGGRAPH Asia 2017 Mobile Graphics &amp; Interactive Applicati
+ons
+ER  - 
+TY  - BOOK
+DA  - 2021///
+ID  - 10.1145/3411764
+LB  - 10.1145/3411764
+PB  - Association for Computing Machinery
+SN  - 9781450380966
+TI  - CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Co
+mputing Systems
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3715335
+LB  - 10.1145/3715335
+PB  - Association for Computing Machinery
+SN  - 9798400714849
+TI  - COMPASS '25: Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on C
+omputing and Sustainable Societies
+ER  - 
+TY  - BOOK
+AB  - Talks highlight the latest developments before publication, present id
+eas that are still in progress, or showcase how computer graphics and 
+interactive techniques are actually implemented and used, in graphics 
+production or other fields. Talks take you behind the scenes and into 
+the minds of SIGGRAPH 2017 creators in all areas of computer graphics 
+and interactive techniques, including art, design, animation, visual e
+ffects, interactivity, research, and engineering.
+DA  - 2017///
+ID  - 10.1145/3084363
+LB  - 10.1145/3084363
+PB  - Association for Computing Machinery
+SN  - 9781450350082
+TI  - SIGGRAPH '17: ACM SIGGRAPH 2017 Talks
+ER  - 
+TY  - BOOK
+A3  - Lugrin, Birgit
+A3  - Pelachaud, Catherine
+A3  - Traum, David
+AB  - The Handbook on Socially Interactive Agents provides a comprehensive o
+verview of the research fields of Embodied Conversational Agents, Inte
+lligent Virtual Agents, and Social Robotics. Socially Interactive Agen
+ts (SIAs), whether virtually or physically embodied, are autonomous ag
+ents that are able to perceive an environment including people or othe
+r agents, reason, and decide how to interact, and express attitudes su
+ch as emotions, engagement, or empathy. They are capable of interactin
+g with people and each other in a socially intelligent manner using mu
+ltimodal communicative behaviors with the goal to support humans in va
+rious domains.Written by international experts in their respective fie
+lds, the book summarizes research in the many important research commu
+nities pertinent for SIAs, while discussing current challenges and fut
+ure directions. The handbook provides easy access to modeling and stud
+ying SIAs for researchers and students and aims at further bridging th
+e gap between the research communities involved.In two volumes, the bo
+ok clearly structures the vast body of research. The first volume star
+ts by introducing what is involved in SIAs research, in particular res
+earch methodologies and ethical implications of developing SIAs. It fu
+rther examines research on appearance and behavior, focusing on multim
+odality. Finally, social cognition for SIAs is investigated by differe
+nt theoretical models and phenomena such as theory of mind or pro-soci
+ality. The second volume starts with perspectives on interaction, exam
+ined from different angles such as interaction in social space, group 
+interaction, or long-term interaction. It also includes an extensive o
+verview summarizing research and systems of human-agent platforms and 
+of some of the major application areas of SIAs such as education, agin
+g support, autism or games.
+DA  - 2022///
+ET  - 1
+ID  - 10.1145/3563659
+LB  - 10.1145/3563659
+PB  - Association for Computing Machinery
+SN  - 9781450398961
+TI  - The Handbook on Socially Interactive Agents: 20 years of Research on E
+mbodied Conversational Agents, Intelligent Virtual Agents, and Social 
+Robotics Volume 2: Interactivity, Platforms, Application
+VL  - 48
+ER  - 
+TY  - BOOK
+AB  - This volume contains the papers presented at the 23nd International Co
+nference on Intelligent Virtual Agents (IVA 2023) located in Würzburg,
+ Germany, from 19. to 22.09.2023.
+DA  - 2023///
+ID  - 10.1145/3570945
+LB  - 10.1145/3570945
+PB  - Association for Computing Machinery
+SN  - 9781450399944
+TI  - IVA '23: Proceedings of the 23rd ACM International Conference on Intel
+ligent Virtual Agents
+ER  - 
+TY  - BOOK
+AB  - We are delighted to welcome you to Melbourne, Australia for ACM Multim
+edia 2024, the 32nd ACM International Conference on Multimedia. ACM Mu
+ltimedia is the premier international conference series in the area of
+ multimedia within the field of computer science. Since 1993, ACM Mult
+imedia has been bringing together worldwide researchers and practition
+ers from academia and industry to present their innovative research an
+d to discuss recent advancements in multimedia.For the first time sinc
+e the end of the COVID-19 pandemic, this year's conference returns to 
+the Asia-Pacific region and resumes as a full-fledged, inperson event.
+ With no travel restrictions or significant visa challenges, we are ex
+cited to once again experience the warmth of face-to-face gatherings, 
+where we can reconnect with colleagues and friends.The enthusiasm and 
+support from the community have been incredible. ACM Multimedia 2024 r
+eceived over 4,300 main conference submissions, accepting more than 1,
+100 papers (please refer to the TPC Chairs' message for details). In a
+ddition, 10 Grand Challenges were selected from 22 submissions, 18 wor
+kshops from 30 submissions, and 8 tutorials from 13 proposals. We've p
+repared an exciting five-day program: workshops, grand challenges, and
+ tutorials will be held on the 1st and 5th days, with the main confere
+nce occupying the middle three days. All accepted papers will be acces
+sible online prior to the conference, and we are working to ensure pro
+ceedings are available through the ACM Digital Library around the conf
+erence period.This year's conference features three distinguished acad
+emic keynote speeches, several prestigious SIGMM award talks, a panel 
+discussion on Generative AI in Multimedia, a refreshed Brave New Idea 
+(BNI) session, and our inaugural industry program.The opening keynote 
+will be delivered by Prof. Pascale Fung from HKUST, a Fellow of AAAI, 
+ACL, and IEEE. Her talk will explore the pressing topic of Agents in t
+he Large Language Model (LLM) Era. Prof. Judy Kay from the University 
+of Sydney, a renowned expert in HCI, user modeling, and ubiquitous com
+puting, will give the second keynote on how to empower individuals to 
+harness and control their multimodal data. The final academic keynote 
+will be presented by Prof. Jiebo Luo from the University of Rochester,
+ a Fellow of ACM, AAAI, IEEE, SPIE, and IAPR, as well as a member of A
+cademia Europaea and the US National Academy of Inventors. He will dis
+cuss leveraging LLMs as social multimedia analysis engines.This year, 
+we continue using OpenReview to ensure an open and transparent review 
+process. Thanks to the exceptional efforts of the technical program co
+mmittee, every paper received at least three reviews before the review
+ announcement. The BNI track has also revamped its review process to a
+lign with the main conference, promoting visionary papers. Additionall
+y, we are excited to introduce the industry program to ACM Multimedia 
+for the first time, featuring industry keynote speeches, expert talks,
+ and demonstrations (please refer to the industry chairs' message for 
+further details).We are also committed to making the conference inclus
+ive and accessible. To support students with financial constraints, we
+ have awarded travel grants to at least 25 students from the ACM Multi
+media 2024 budget, with an additional 20+ students receiving SIGMM tra
+vel grants. Over 20 local students have also been recruited as volunte
+ers, benefiting from complimentary registration. Furthermore, we have 
+arranged childcare facilities to accommodate attendees with young chil
+dren. A welcome reception will take place on the 2nd day of the confer
+ence, followed by a gala dinner on the 3rd day, featuring exciting cul
+tural performances.We hope you find this year's program engaging and t
+hought-provoking and that it offers valuable opportunities to exchange
+ ideas with fellow researchers and practitioners from around the globe
+. We also encourage you to take time to explore the beautiful city of 
+Melbourne and its surrounding regions.
+DA  - 2024///
+ID  - 10.1145/3664647
+LB  - 10.1145/3664647
+PB  - Association for Computing Machinery
+SN  - 9798400706868
+TI  - MM '24: Proceedings of the 32nd ACM International Conference on Multim
+edia
+ER  - 

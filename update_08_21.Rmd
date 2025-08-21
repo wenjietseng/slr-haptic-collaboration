@@ -1,0 +1,185 @@
+---
+title: "A systematic literature review of haptic collaboration"
+author: "WNJT"
+date: "2025-08-21"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Keywords search 
+
+After our discussion from the meeting on 20.08, I decided to do some keywords search on different databases (e.g., Google scholar, ACM DL, and IEEE Xplore) using the current framing.
+The goal is to refine our search results and the framing of the introduction.
+I came across several tutorials about how to identify search terms for running a systematic review.
+The following document shows what I explored.
+
+The idea is that research team writes a naïve search to capture a set of highly relevant articles (ideally from two databases).
+The `litsearchr` library imports the naïve search results (`.ris` files), removes duplicates, and extracts keywords to create a document-feature matrix using each possible term.
+This matrix becomes a keyword co-occurrence network, and `litsearchr` finds a cutoff in keyword importance.
+Finally, the research team manually considers these keywords and sorts them into concept groups.
+For detailed information, see [An automated approach to identifying search terms for systematic reviews using keyword co-occurrence networks](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13268).
+
+
+## Prepare the demo
+
+```{r load packages, message=FALSE, results='hide'}
+packages <- c(#"easyPubMed",
+              "litsearchr", "stopwords", "igraph",
+              "ggplot2", "ggraph", "ggrepel",
+              "rvest", "remotes", "httr"
+)
+# Install packages not yet installed
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  install.packages(packages[!installed_packages])
+}
+# Load packages
+lapply(packages, library, character.only = TRUE)
+```
+
+[The repository](https://github.com/wenjietseng/slr-haptic-collaboration)
+
+## Naïve search
+
+I prepared two sets of literature for testing `litsearchr`.
+
+1. I collected papers related to haptic collaboration (18 papers) on the Zotero group libray. (let me know if you need access :D)
+2. On the ACM DL, I searched with `"shared virtual environment" AND "haptic" AND "virtual reality"`.
+**Note:** I used shared virtual environment because it seemed to be a subset of remote collaboration. We can further discuss this part.
+
+```{r import .ris files}
+# setwd if necessary
+search_directory <- "./naive_search/"
+naive_import <- litsearchr::import_results(search_directory, verbose = TRUE)
+table(naive_import$filename)
+
+# Removed 11 duplicated papers
+naive_results <- litsearchr::remove_duplicates(naive_import, field = "title", method = "string_osa")
+table(naive_results$filename)
+```
+
+## 1. Identifying keywords 
+
+I followed [the tutorial of `litsearchr`](https://rdrr.io/github/elizagrames/litsearchr/f/vignettes/litsearchr_vignette.rmd).
+
+``` {r}
+# This part requires more time to figure out the best parameters.
+rakedkeywords <-
+  litsearchr::extract_terms(
+    text = paste(naive_results$title, naive_results$abstract),
+    method = "fakerake",
+    min_freq = 2,
+    ngrams = TRUE,
+    min_n = 2,
+    language = "English"
+  )
+
+taggedkeywords <-
+  litsearchr::extract_terms(
+    keywords = naive_results$keywords,
+    method = "tagged",
+    min_freq = 2,
+    ngrams = TRUE,
+    min_n = 2,
+    language = "English"
+  )
+```
+
+## 2. Build the keyword co-occurrence network
+
+```{r}
+all_keywords <- unique(append(taggedkeywords, rakedkeywords))
+
+naivedfm <-
+  litsearchr::create_dfm(
+    elements = paste(naive_results$title, naive_results$abstract),
+    features = all_keywords
+  )
+
+# This part requires more time to figure out the best parameters.
+naivegraph <-
+  litsearchr::create_network(
+    search_dfm = naivedfm,
+    min_studies = 3,
+    min_occ = 3
+  )
+
+# This plot is hard to read because we haven't decided the cutoff
+# improve the plot
+plot(naivegraph)
+```
+
+## 3. Identify change points in keyword importance
+
+``` {r}
+plot(sort(igraph::strength(naivegraph)),
+     ylab = "Node strength",
+     xlab = "Rank",
+     main = "Ranked node strengths",
+     type = "l",
+     lwd = "3",
+     col = "steelblue"
+     )
+
+# This part requires more time to figure out the best parameters.
+cutoff <- 
+  find_cutoff(graph=naivegraph, method = "cumulative", 
+              percent = 0.8,
+              imp_method = "strength"
+  )
+cutoff
+
+reduced_graph <- reduce_graph(naivegraph, cutoff_strength = cutoff)
+
+#improve the plot
+plot(reduced_graph)
+```
+
+Now the network looks better.
+
+## 4. Group terms into concepts
+
+``` {r, echo=FALSE}
+search_terms <- get_keywords(reduced_graph)
+knitr::kable(search_terms)
+```
+This is a list of keywords we extracted using `litsearchr`. I put them in a [speadsheet](https://docs.google.com/spreadsheets/d/1HbytdU0FtkgHbPHDnlrCuFwx5BAzkleRjizcoVzX_eQ/edit?usp=sharing) so we can group them and finalize our search terms.
+If you see the spreadsheet, two larger groups are haptic and scenarios (shared/collaborative virtual environments).
+
+## 5. Write Boolean searches
+
+**TO DO:** See how they decide the final search terms.
+
+This part creates an output for the formal search. We don't need it at this moment.
+
+## 6. Check search strategy precision and recall
+
+This part is to double check if our targeted papers exist in the search results from the refined search terms.
+I have a set of haptic collaboration papers, we can also discuss what we want to include in this list for the final check.
+
+## Next steps
+
+decide on the goldend standard list of papers 25
+
+
+
+A. Gilles shared with me the approach of identifying search terms:
+
+1. find a set of about 25 relevant papers you want include in your survey
+2. identify the key terms that appear relevant in title, abstract, keywords (and potientially the full article if necessary)
+3. use the key terms to elaborate you final query
+4. iterate on the query to find a good compromise between 
+    + total number of article (we want to review not more than ~200 papers)
+    + you initial set of papers should be covered at least at 75% by your query.
+    + iteration is also interesting to justify your exclusion criteria and potential problem / limitations.
+
+
+B. [Google spread sheet and search outputs](https://docs.google.com/spreadsheets/d/1HbytdU0FtkgHbPHDnlrCuFwx5BAzkleRjizcoVzX_eQ/edit?usp=sharing)
+
+C. [Automated systematic literature search using R, litsearchr, and Google Scholar web scraping](https://www.r-bloggers.com/2023/03/automated-systematic-literature-search-using-r-litsearchr-and-google-scholar-web-scraping/)
