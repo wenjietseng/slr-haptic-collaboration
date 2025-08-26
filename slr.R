@@ -68,10 +68,48 @@ session |> scrape()
 ### Testing litsearchr
 # https://rdrr.io/github/elizagrames/litsearchr/f/vignettes/litsearchr_vignette.rmd
 
-search_directory <- "./Documents/slr-haptic-collaboration/naive_search/"
-setwd(search_directory)
+
+setwd("./Documents/slr-haptic-collaboration/naive_search/")
+search_directory <- "~/Documents/slr-haptic-collaboration/naive_search"
 naive_import <- litsearchr::import_results(search_directory, verbose = TRUE)
 naive_results <- litsearchr::remove_duplicates(naive_import, field = "title", method = "string_osa")
+
+### create my own naive search terms first
+final_list <- subset(naive_import, naive_import$filename == "/Users/tseng/Documents/slr-haptic-collaboration/naive_search/naive-final-list.ris")
+final_list$issn
+
+rakedkeywords <-
+  litsearchr::extract_terms(
+    text = paste(final_list$title, final_list$abstract),
+    method = "fakerake",
+    min_freq = 3,
+    ngrams = TRUE,
+    min_n = 2,
+    language = "English"
+  )
+rakedkeywords
+
+
+
+lapply(final_list$issn, litsearchr::clean_keywords) |>
+  lapply(function(x) {strsplit(x, "[,;]")}) |>
+  unlist() |>
+  tolower() |> table()
+
+taggedkeywords <-
+  litsearchr::extract_terms(
+    keywords = final_list$issn,
+    method = "tagged",
+    min_freq = 2,
+    ngrams = TRUE,
+    min_n = 2,
+    language = "English"
+  )
+taggedkeywords
+
+write.csv(unique(rakedkeywords, taggedkeywords), "create_naive_term.csv")
+
+###
 
 table(naive_import$filename)
 table(naive_results$filename)

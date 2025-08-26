@@ -183,3 +183,4 @@ A. Gilles shared with me the approach of identifying search terms:
 B. [Google spread sheet and search outputs](https://docs.google.com/spreadsheets/d/1HbytdU0FtkgHbPHDnlrCuFwx5BAzkleRjizcoVzX_eQ/edit?usp=sharing)
 
 C. [Automated systematic literature search using R, litsearchr, and Google Scholar web scraping](https://www.r-bloggers.com/2023/03/automated-systematic-literature-search-using-r-litsearchr-and-google-scholar-web-scraping/)
+[regular expression](https://stackoverflow.com/questions/58191002/is-it-possible-to-scrape-all-google-scholar-results-on-a-particular-topic-and-is)
