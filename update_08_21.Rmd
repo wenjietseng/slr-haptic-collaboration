@@ -50,8 +50,8 @@ lapply(packages, library, character.only = TRUE)
 I prepared two sets of literature for testing `litsearchr`.
 
 1. I collected papers related to haptic collaboration (18 papers) on the Zotero group libray. (let me know if you need access :D)
-2. On the ACM DL, I searched with `"shared virtual environment" AND "haptic" AND "virtual reality"`.
-**Note:** I used shared virtual environment because it seemed to be a subset of remote collaboration. We can further discuss this part.
+2. On the ACM DL, I searched with `"collaborative virtual environment" AND "haptic" AND "virtual reality"`.
+**Note:** I used collaborative/shared virtual environment because this is the most relevant scenario in remote collaboration. CVEs can be on 2D displays, VR, or AR.
 
 ```{r import .ris files}
 # setwd if necessary

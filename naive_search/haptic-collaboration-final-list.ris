@@ -44,9 +44,9 @@ SN  - Haptics, Mediated social touch, Tactile communication, Mobile devices, Emo
 UR  - https://www.sciencedirect.com/science/article/pii/S1071581913000232
 Y2  - 2025/08/04/13:12:07
 L2  - https://www.sciencedirect.com/science/article/pii/S1071581913000232?via%3Dihub
-KW  - Affective interaction
 KW  - Emotions
 KW  - Haptics
+KW  - Affective interaction
 KW  - Mediated social touch
 KW  - Mobile devices
 KW  - Tactile communication
@@ -333,15 +333,15 @@ EP  - 729
 SN  - Haptic interfaces, Feedback, Human robot interaction, Collaborative work, Industrial training, International collaboration, Current measurement, Psychology, Robot control, Context
 UR  - https://ieeexplore.ieee.org/document/5326315
 Y2  - 2025/06/17/13:27:38
+KW  - Haptic interfaces
+KW  - Feedback
+KW  - Psychology
 KW  - Collaborative work
 KW  - Context
 KW  - Current measurement
-KW  - Feedback
-KW  - Haptic interfaces
 KW  - Human robot interaction
 KW  - Industrial training
 KW  - International collaboration
-KW  - Psychology
 KW  - Robot control
 ER  - 
 
@@ -366,9 +366,9 @@ ST  - Haptic interpersonal communication
 UR  - https://doi.org/10.1007/s10055-011-0201-2
 Y2  - 2025/08/18/09:58:22
 KW  - Awareness
+KW  - Haptics
 KW  - Collaborative virtual environments
 KW  - Communication metaphors
-KW  - Haptics
 KW  - Sensorial communication
 ER  - 
 
@@ -392,13 +392,13 @@ SN  - Team Members , Level Of Focus, Vocabulary, Positive Sign, Force Feedback, 
 UR  - https://ieeexplore.ieee.org/document/7223391
 Y2  - 2025/08/18/11:39:12
 L2  - https://ieeexplore.ieee.org/document/7223391
+KW  - Haptic interfaces
+KW  - Vibrations
+KW  - Virtual environments
 KW  - Avatars
 KW  - Collaboration
 KW  - H.5.1 [Information Interface and Presentation]: Multimedia Information Systems — Artificial, augmented, and virtual realities
 KW  - H.5.2 [Information Interfaces & Presentation]: User Interfaces — Haptic I/O
-KW  - Haptic interfaces
-KW  - Vibrations
-KW  - Virtual environments
 KW  - Vocabulary
 ER  - 
 
@@ -444,21 +444,21 @@ EP  - 105
 SN  - Haptic interaction, collaboration, intention, action plan, decision making, effort, performance, tracking task
 UR  - https://ieeexplore.ieee.org/document/6143945
 Y2  - 2025/08/25/13:50:11
+KW  - Haptic interfaces
+KW  - decision making
+KW  - Humans
+KW  - performance
+KW  - effort
+KW  - Trajectory
+KW  - Robots
+KW  - Collaboration
+KW  - Decision making
+KW  - Force
 KW  - action plan
 KW  - collaboration
-KW  - Collaboration
-KW  - decision making
-KW  - Decision making
-KW  - effort
-KW  - Force
 KW  - Haptic interaction
-KW  - Haptic interfaces
-KW  - Humans
 KW  - intention
-KW  - performance
-KW  - Robots
 KW  - tracking task
-KW  - Trajectory
 ER  - 
 
 TY  - JOUR
@@ -482,35 +482,31 @@ UR  - https://ieeexplore.ieee.org/abstract/document/6991578/keywords
 Y2  - 2025/08/25/13:59:04
 L1  - https://nottingham-repository.worktribe.com/preview/4040585/2015-Madan-ToH2015-Recognition.pdf
 L2  - https://ieeexplore.ieee.org/abstract/document/6991578/keywords
+KW  - Haptic interfaces
+KW  - Pattern recognition
+KW  - Virtual environments
+KW  - machine learning
+KW  - Joints
+KW  - Robots
+KW  - Hip
+KW  - haptic interfaces
+KW  - Force
 KW  - Behavior recognition
 KW  - classifier design and evaluation
 KW  - feature evaluation and selection
-KW  - Force
 KW  - haptic collaboration
-KW  - haptic interfaces
-KW  - Haptic interfaces
 KW  - haptics-enabled virtual environments
-KW  - Hip
 KW  - interaction patterns
-KW  - Joints
-KW  - machine learning
 KW  - pattern recognition
-KW  - Pattern recognition
 KW  - physical human-X interaction
 KW  - realistic haptic human-robot interaction
-KW  - Robots
 KW  - support vector machine classification
-KW  - Virtual environments
 ER  - 
 
 TY  - JOUR
 TI  - Study of Kinesthetic Negotiation Ability in Lightweight Comanipulative Decision-making Tasks: Design and Study of a Virtual Partner based on Human-human Interaction Observation
 AU  - Roche, Lucas
-AU  - https://orcid.org/0000-0002-1703-3111
-AU  - View Profile
 AU  - Saint-Bauzel, Ludovic
-AU  - https://orcid.org/0000-0003-4372-4917
-AU  - View Profile
 T2  - ACM Transactions on Human-Robot Interaction
 AB  - This article presents the results of an experiment on physical Human-Human Interaction (pHHI), where human dyads cooperate on a one-dimensional comanipulative task in a novel lightweight teleoperation setup. The results of this experiment show that humans are able to handle asymmetrical information about the task and solve conflicts using only the kinesthetic channel. Data from the pHHI experiment is used to design a virtual partner that can perform the task alongside a human. The virtual partner behavior is based on the observation that initiative is highly correlated to decision-making in our pHHI negotiation scenario. The virtual agent is then evaluated in a physical Human-Robot Interaction (pHRI) experiment. The results of the second experiment show that the virtual partner is able to perform the task without compromising the performances of the dyad and that a similar role distribution is observed in human-human and human-robot dyads. Moreover, the knowledge of the partner’s nature does not seem to influence the performances. The results obtained with the virtual partner are encouraging and could be used to design kinesthetic negotiation algorithms in pHRI settings.
 The main contributions of this article are: (1) supporting evidence of the possibility for humans to use the kinesthetic channel as mean of negotiation during physical Human-Human Interaction in the lightest known impedance negotiation tasks (with no virtual mass involved), (2) highlighting of the correlation between initiative and dyadic decision making, (3) design of a simple yet efficient virtual partner algorithm capable of realistic physical Human-Robot Interaction in the one-dimension tracking task used in the experimental setup. This design combines minimum jerk trajectory, switching role ability, decision criteria, and statistical parameters that are detailed in this article.
@@ -556,14 +552,14 @@ ST  - Group Haptic Collaboration
 UR  - https://ieeexplore.ieee.org/abstract/document/10373120
 Y2  - 2025/08/25/14:12:19
 L2  - https://ieeexplore.ieee.org/abstract/document/10373120
-KW  - Behavioral sciences
-KW  - Boats
+KW  - Haptic interfaces
 KW  - Collaboration
 KW  - Feature extraction
+KW  - Behavioral sciences
+KW  - Boats
 KW  - Federated learning
 KW  - four-person rowing
 KW  - Group haptic collaboration
-KW  - Haptic interfaces
 KW  - Kinematics
 KW  - kinesthetic feature
 KW  - members' contri- bution
@@ -595,10 +591,10 @@ UR  - https://www.sciencedirect.com/science/article/pii/S0953543811000439
 Y2  - 2025/08/25/14:23:18
 L1  - https://hal.archives-ouvertes.fr/hal-00595492/file/IWC-SI-ECCE2010_Final_CR.pdf
 L2  - https://www.sciencedirect.com/science/article/pii/S0953543811000439
+KW  - HCI
 KW  - Collaborative virtual environments
 KW  - Common ground
 KW  - Haptic communication
-KW  - HCI
 KW  - User-centred design
 ER  - 
 
@@ -699,15 +695,15 @@ UR  - https://ieeexplore.ieee.org/abstract/document/9995530
 Y2  - 2025/08/26/12:03:49
 L1  - https://arxiv.org/pdf/2210.16785
 L2  - https://ieeexplore.ieee.org/abstract/document/9995530
-KW  - Atmospheric measurements
+KW  - Haptic interfaces
+KW  - Virtual environments
 KW  - Augmented reality
 KW  - Games
-KW  - Haptic interfaces
+KW  - Particle measurements
+KW  - Atmospheric measurements
 KW  - Human-centered computing
 KW  - Mixed / augmented reality
-KW  - Particle measurements
 KW  - Standards
-KW  - Virtual environments
 ER  - 
 
 TY  - CONF

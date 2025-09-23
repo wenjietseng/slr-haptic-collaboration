@@ -69,18 +69,23 @@ session |> scrape()
 # https://rdrr.io/github/elizagrames/litsearchr/f/vignettes/litsearchr_vignette.rmd
 
 
+### create my own naive search terms first
+# one ris is based on the final list
+# another is based on the naive search on ACM DL,
+# collaborative virtual environment AND haptic AND virtual reality
 setwd("./Documents/slr-haptic-collaboration/naive_search/")
 search_directory <- "~/Documents/slr-haptic-collaboration/naive_search"
 naive_import <- litsearchr::import_results(search_directory, verbose = TRUE)
 naive_results <- litsearchr::remove_duplicates(naive_import, field = "title", method = "string_osa")
-
-### create my own naive search terms first
-final_list <- subset(naive_import, naive_import$filename == "/Users/tseng/Documents/slr-haptic-collaboration/naive_search/naive-final-list.ris")
-final_list$issn
+table(naive_import$filename)
+table(naive_results$filename)
+# final_list <- subset(naive_import, naive_import$filename == "/Users/tseng/Documents/slr-haptic-collaboration/naive_search/naive-final-list.ris")
+# final_list$issn
+# str(final_list)
 
 rakedkeywords <-
   litsearchr::extract_terms(
-    text = paste(final_list$title, final_list$abstract),
+    text = paste(naive_results$title, naive_results$abstract),
     method = "fakerake",
     min_freq = 3,
     ngrams = TRUE,
@@ -89,16 +94,15 @@ rakedkeywords <-
   )
 rakedkeywords
 
-
-
 lapply(final_list$issn, litsearchr::clean_keywords) |>
   lapply(function(x) {strsplit(x, "[,;]")}) |>
   unlist() |>
   tolower() |> table()
 
+# I go for keywords...
 taggedkeywords <-
   litsearchr::extract_terms(
-    keywords = final_list$issn,
+    keywords = naive_results$issn,
     method = "tagged",
     min_freq = 2,
     ngrams = TRUE,
@@ -107,38 +111,12 @@ taggedkeywords <-
   )
 taggedkeywords
 
-write.csv(unique(rakedkeywords, taggedkeywords), "create_naive_term.csv")
-
-###
-
-table(naive_import$filename)
-table(naive_results$filename)
-
-rakedkeywords <-
-  litsearchr::extract_terms(
-    text = paste(naive_results$title, naive_results$abstract),
-    method = "fakerake",
-    min_freq = 2,
-    ngrams = TRUE,
-    min_n = 2,
-    language = "English"
-  )
-
-taggedkeywords <-
-  litsearchr::extract_terms(
-    keywords = naive_results$keywords,
-    method = "tagged",
-    min_freq = 2,
-    ngrams = TRUE,
-    min_n = 2,
-    language = "English"
-  )
-
 all_keywords <- unique(append(taggedkeywords, rakedkeywords))
 
+# co‐occurrence  network
 naivedfm <-
   litsearchr::create_dfm(
-    elements = paste(naive_results$title, naive_results$abstract),
+    elements = paste(naive_results$title, naive_results$abstract), # keywords here?
     features = all_keywords
   )
 
@@ -149,6 +127,7 @@ naivegraph <-
     min_occ = 3
   )
 
+str(naivegraph)
 plot(naivegraph)
 
 plot(sort(igraph::strength(naivegraph)),
@@ -167,6 +146,7 @@ cutoff <-
   )
 
 reduced_graph <- reduce_graph(naivegraph, cutoff_strength = cutoff)
+
 
 plot(reduced_graph)
 search_terms <- get_keywords(reduced_graph)

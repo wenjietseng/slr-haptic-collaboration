@@ -1,0 +1,2277 @@
+TY  - JOUR
+T1  - Phenomenological toolkit of the metaverse for medical informatics’ adaptive learning
+AU  - Kryvenko, Inna
+AU  - Chalyy, Kyrylo
+JO  - Educación Médica
+VL  - 24
+IS  - 5
+SP  - 100854
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 1575-1813
+DO  - https://doi.org/10.1016/j.edumed.2023.100854
+UR  - https://www.sciencedirect.com/science/article/pii/S1575181323000645
+KW  - Metaverse
+KW  - Virtual, augmented, mixed, and extended reality (VR, AR, MR, XR)
+KW  - Artificial intelligence (AI)
+KW  - Internet of things (IoT)
+KW  - Medical Informatics (MI)
+KW  - Adaptive and authentic learning
+KW  - Microsoft solutions
+AB  - Introduction
+The concept of "adaptive learning systems" assumes development and implementation of personalized learning platforms that adapt to students’ learning strategies, the sequence and difficulty of the task abilities, the time of feedback and students’ preferences. Metaverse technologies can implement adaptive personalized learning to a greater extent due to the possibilities of wider application of student-oriented technologies and provision of rational support for personal educational progress, taking into account individual characteristics.
+Material and methods
+The article describes the phenomenological toolkit of the metaverse based on the Microsoft solution to ensure adaptive learning of medical informatics, taking into account modern technologies.
+Results
+Two components of the implementation of adaptive learning with Medical Informatics are suggested: (1) creating responsive, professionally relevant learning content that spans simulated accurate digital models of the real world and augmented reality, (2) creation of a metaverse virtual environment for the organization of immersive adaptive learning based on a combination of personally oriented design and productive interaction. Our choice of the Microsoft solution assumes the possibility of implementing in the educational environment of the metaverse such educational tools as voice virtual assistants with artificial intelligence support (Microsoft Bot solution), Internet of things for education and generating educational data (Azure IoT, Power Platform), mirror worlds of educational destination (Microsoft Twins), augmented, virtual, and mixed reality (Microsoft Mesh, Microsoft HoloLens, Dynamics 365 Guides).
+Conclusion
+The proposed solutions of Microsoft make it possible to ensure high functionality in a number of issues when building a student-oriented virtual environment of the metaverse for adaptive and authentic learning.
+Resumen
+Introducción
+El concepto de "sistemas de aprendizaje adaptativo" supone el desarrollo y la implementación de plataformas de aprendizaje personalizadas que se adapten a las estrategias de aprendizaje de los estudiantes, la secuencia y dificultad de las habilidades de las tareas, el tiempo de retroalimentación y las preferencias de los estudiantes. Las tecnologías de metaverso pueden implementar un aprendizaje personalizado adaptativo en mayor medida debido a las posibilidades de una aplicación más amplia de tecnologías orientadas al estudiante y la provisión de apoyo racional para el progreso educativo personal, teniendo en cuenta las características individuales.
+Material y métodos
+El artículo describe el toolkit fenomenológico del metaverso basado en la solución de Microsoft para garantizar el aprendizaje adaptativo de la informática médica, teniendo en cuenta las tecnologías modernas.
+Resultados
+Se sugieren dos componentes de la implementación del aprendizaje adaptativo con Informática Médica: (1) crear contenido de aprendizaje receptivo y profesionalmente relevante que abarque modelos digitales precisos simulados del mundo real y la realidad aumentada, (2) creación de un entorno virtual de metaverso para la organización de aprendizaje adaptativo inmersivo basado en una combinación de diseño orientado personalmente e interacción productiva. Nuestra elección de la solución de Microsoft supone la posibilidad de implementar en el entorno educativo del metaverso herramientas educativas tales como asistentes virtuales de voz con soporte de inteligencia artificial (solución Microsoft Bot), Internet de las cosas para la educación y generación de datos educativos (Azure IoT, Power Platform), mundos espejo de destino educativo (Microsoft Twins), realidad aumentada, virtual y mixta (Microsoft Mesh, Microsoft HoloLens, Dynamics 365 Guides).
+Conclusión
+Las soluciones propuestas por Microsoft permiten garantizar una alta funcionalidad en una serie de problemas al construir un entorno virtual del metaverso orientado al estudiante para un aprendizaje adaptativo y auténtico.
+ER  - 
+
+TY  - JOUR
+T1  - Virtual training for assembly tasks: a framework for the analysis of the cognitive impact on operators
+AU  - Brunzini, Agnese
+AU  - Grandi, Fabio
+AU  - Peruzzini, Margherita
+AU  - Pellicciari, Marcello
+JO  - Procedia Manufacturing
+VL  - 55
+SP  - 527
+EP  - 534
+PY  - 2021
+DA  - 2021/01/01/
+T2  - FAIM 2021
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2021.10.072
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978921002699
+KW  - Virtual Reality
+KW  - Virtual assembly
+KW  - Industrial ergonomics
+KW  - Training Assessment
+KW  - Cognitive ergonomics
+AB  - The importance of training for operators in industrial contexts is widely highlighted in literature. Virtual Reality (VR) technology is considered an efficient solution for training, since it provides immersive, realistic, and interactive simulations environments where the operator can learn-by-doing, far from the risks of the real field. Its efficacy has been demonstrated by several studies, but a proper assessment of the operator’s cognitive response in terms of stress and cognitive load, during the use of such technology, is still lacking. This paper proposes a comprehensive methodology for the analysis of user’s cognitive states, suitable for each kind of training in the industrial sector and beyond. Preliminary feasibility analysis refers to virtual training for assembly of agricultural vehicles. The proposed protocol analysis allowed understanding the operators’ loads to optimize the VR training application, considering the mental demand during the training, and thus avoiding stress, mental overload, improving the user performance.
+ER  - 
+
+TY  - JOUR
+T1  - Unveiling customer engagement dynamics in the metaverse: A retrospective bibliometric and topic modelling investigation
+AU  - Wasiq, Mohammad
+AU  - Bashar, Abu
+AU  - Khan, Irfanullah
+AU  - Nyagadza, Brighton
+JO  - Computers in Human Behavior Reports
+VL  - 16
+SP  - 100483
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 2451-9588
+DO  - https://doi.org/10.1016/j.chbr.2024.100483
+UR  - https://www.sciencedirect.com/science/article/pii/S2451958824001167
+KW  - Customer engagement
+KW  - Metaverse
+KW  - Bibliometric
+KW  - Topic modelling
+KW  - LDA analysis
+KW  - VOSviewer
+KW  - Biblioshiny
+AB  - This study is a comprehensive retrospective bibliometric and topic modelling analysis of customer engagement within the metaverse. We carefully investigated a sample of 409 articles extracted from the Scopus database and used in this analysis. The aim was to explore the evolution, current state, and emerging trends in this rapidly evolving field. Utilizing advanced bibliometric tools including Biblioshiny and ScientoPy, alongside network visualisation software VOSviewer, we systematically mapped the intellectual landscape, identifying key publications, authors, and institutions that have significantly contributed to the discourse. Furthermore, through machine learning-based Latent Dirichlet Allocation (LDA) analysis, we dissected the thematic structure of the literature, revealing the predominant topics and their interrelations. Our findings highlighted the dynamic nature of customer engagement strategies in the metaverse, emphasizing Design of Immersive Platforms, Personalisation & Customization, and the Interaction & Participation implications of virtual interactions. This study not only synthesizes existing knowledge but also uncovers gaps in the literature, suggesting directions for future research. By providing a holistic view of the domain, this research serves as a valuable resource for academics, practitioners, and policymakers interested in the intersection of customer engagement and virtual environments.
+ER  - 
+
+TY  - JOUR
+T1  - What makes the metaverse lovable? Unveiling the interplay between immersive experiences, engagement and the triangular theory of love
+AU  - Kumar, Aman
+AU  - Shankar, Amit
+AU  - Behl, Abhishek
+AU  - Zhang, Justin Z.
+JO  - Online Information Review
+VL  - 49
+IS  - 4
+SP  - 751
+EP  - 771
+PY  - 2025
+DA  - 2025/02/14/
+SN  - 1468-4527
+DO  - https://doi.org/10.1108/OIR-08-2023-0427
+UR  - https://www.sciencedirect.com/science/article/pii/S1468452725000101
+KW  - Metaverse
+KW  - Experience
+KW  - Engagement
+KW  - Intimacy
+KW  - Passion
+KW  - Commitment
+KW  - Triangular theory of love
+KW  - Technology anxiety
+AB  - Purpose
+The research investigates the influence of immersive experiences (sensory, feel, think and behavioural) on user engagement in the metaverse. It also examines the influence of user engagement on intimacy, passion and commitment. Lastly, the study also investigated the moderating impact of technology anxiety.
+Design/methodology/approach
+Using the Prolific online platform, we gathered survey responses from 318 individuals and employed structural equation modeling techniques to test our hypotheses.
+Findings
+The result of this study indicates that sensory experience, think experience, feel experience and behavioural experience are significantly associated with engagement towards metaverse platforms. Further, engagement in the metaverse significantly influences passion towards metaverse platforms. Finally, technology anxiety moderates the association between think experience, feel experience and engagement with metaverse platforms.
+Originality/value
+This research advances our understanding of how engagement, technology anxiety and user experiences shape interactions within the metaverse ecosystem. It also enriches the triangulation theory of love literature.
+Peer review
+The peer review history for this article is available at: https://publons.com/publon/10.1108/OIR-08-2023-0427.
+ER  - 
+
+TY  - JOUR
+T1  - Designing to support situation awareness across distances: an example from a scientific collaboratory
+AU  - Sonnenwald, Diane H.
+AU  - Maglaughlin, Kelly L.
+AU  - Whitton, Mary C.
+JO  - Information Processing & Management
+VL  - 40
+IS  - 6
+SP  - 989
+EP  - 1011
+PY  - 2004
+DA  - 2004/11/01/
+SN  - 0306-4573
+DO  - https://doi.org/10.1016/j.ipm.2003.10.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0306457303000839
+KW  - Situation awareness
+KW  - Collaboration
+KW  - Collaboratory
+KW  - Systems design
+AB  - When collaborating, individuals rely on situation awareness (the gathering, incorporation and utilization of environmental information) to help them combine their unique knowledge and skills and achieve their goals. When collaborating across distances, situation awareness is mediated by technology. There are few guidelines to help system analysts design systems or applications that support the creation and maintenance of situation awareness for teams or groups. We propose a framework to guide design decisions to enhance computer-mediated situation awareness during scientific research collaboration. The foundation for this framework is previous research in situation awareness and virtual reality, combined with our analysis of interviews with and observations of collaborating scientists. The framework suggests that situation awareness is comprised of contextual, task and process, and socio-emotional information. Research in virtual reality systems suggests control, sensory, distraction and realism attributes of technology contribute to a sense of presence [Presence 7 (1998) 225]. We suggest that consideration of these attributes with respect to contextual, task and process, and socio-emotional information provides insights to guide design decisions. We used the framework when designing a scientific collaboratory system. Results from a controlled experimental evaluation of the collaboratory system help illustrate the framework's utility.
+ER  - 
+
+TY  - JOUR
+T1  - Cooperative modalities in robotic tele-rehabilitation using nonlinear bilateral impedance control
+AU  - Sharifi, Mojtaba
+AU  - Behzadipour, Saeed
+AU  - Salarieh, Hassan
+AU  - Tavakoli, Mahdi
+JO  - Control Engineering Practice
+VL  - 67
+SP  - 52
+EP  - 63
+PY  - 2017
+DA  - 2017/10/01/
+SN  - 0967-0661
+DO  - https://doi.org/10.1016/j.conengprac.2017.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0967066117301533
+KW  - Robotic tele-rehabilitation
+KW  - Patient–robot interaction
+KW  - Cooperative therapy
+KW  - Nonlinear adaptive bilateral control
+KW  - Lyapunov stability
+AB  - A nonlinear model reference adaptive bilateral impedance controller is proposed that can accommodate various cooperative tele-rehabilitation modes for patient–therapist interaction using a multi-DOF tele-robotic system. In this controller, two reference impedance models are implemented for the master and slave robots using new model reference adaptive control laws for the nonlinear bilateral teleoperation system. “Hand-over-hand” and “adjustable-flexibility” are two modes of patient–therapist cooperation that are realized using the proposed strategy. The Lyapunov-based stability proof guarantees the patient’s and the therapist’s safety during the cooperation and interaction with robots, even in the presence of modeling uncertainties of the multi-DOF teleoperation system. The performance of the proposed bilateral impedance controller is experimentally investigated for upper-limb tele-rehabilitation in the two mentioned cooperation modes.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating visual encoding quality of a mixed reality user interface for human–machine co-assembly in complex operational terrain
+AU  - Wang, Zhuo
+AU  - Zhang, Xiangyu
+AU  - Li, Liang
+AU  - Zhou, Yiliang
+AU  - Lu, Zexin
+AU  - Dai, Yuwei
+AU  - Liu, Chaoqian
+AU  - Su, Zekun
+AU  - Bai, Xiaoliang
+AU  - Billinghurst, Mark
+JO  - Advanced Engineering Informatics
+VL  - 58
+SP  - 102171
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2023.102171
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034623002999
+KW  - Visual encoding
+KW  - Mixed reality
+KW  - User interface
+KW  - Co-assembly
+KW  - Complex operational terrain
+AB  - During human–machine collaboration in manufacturing activities, it is important to provide real-time annotations in the three-dimensional workspace for local workers who may lack relevant experience and knowledge. For example, in MR assembly, workers need to be alerted to avoid entering hazardous areas when manually replacing components. Recently, many researchers have explored various visual cues for expressing physical task progress information in the MR interface of intelligent systems. However, the relationship between the implantation of visual cues and the balance of interface cognition has not been well revealed, especially in tasks that require annotating hazardous areas in complex operational terrains. In this study, we developed a novel MR interface for an intelligent assembly system that supports local scene sharing based on dynamic 3D reconstruction, remote expert behavior intention recognition based on deep learning, and local personnel operational behavior visual feedback based on external bounding box. We compared the encoding results of the proposed MR interface with 3D annotations combined with 3D sketch cues (3DS), which combines 3D spatial cues (3DSC) and 3DS combined with adaptive cues (AVC), through a case study. We found that for physical tasks that require specific area annotations, 3D annotations with context (3DAC) can better improve the quality of manual work and regulate the cognitive load distribution of the MR interface more reasonably.
+ER  - 
+
+TY  - JOUR
+T1  - Making virtual reality useful: A report on immersive applications at Iowa State University
+AU  - Cruz-Neira, Carolina
+JO  - Future Generation Computer Systems
+VL  - 14
+IS  - 3
+SP  - 147
+EP  - 155
+PY  - 1998
+DA  - 1998/08/01/
+T2  - Virtual Reality in Industy and Research
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/S0167-739X(98)00017-X
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X9800017X
+KW  - Virtual reality
+KW  - Engineering applications
+KW  - Interactive visualization
+AB  - This paper presents the research activities in virtual reality (VR) applications at the Iowa Center for Emerging Manufacturing Technology at Iowa State University. We are performing multidisciplinary applied research focused on investigating the potential of immersive environments for science and engineering applications. We present our most recent applications, currently under development, and provide an informal discussion about the features and research topics we are identifying.
+ER  - 
+
+TY  - JOUR
+T1  - Urban production: State of the art and future trends for urban factories
+AU  - Herrmann, Christoph
+AU  - Juraschek, Max
+AU  - Burggräf, Peter
+AU  - Kara, Sami
+JO  - CIRP Annals
+VL  - 69
+IS  - 2
+SP  - 764
+EP  - 787
+PY  - 2020
+DA  - 2020/01/01/
+SN  - 0007-8506
+DO  - https://doi.org/10.1016/j.cirp.2020.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0007850620301360
+KW  - Urban factories
+KW  - Urban production
+KW  - Cyber-physical production systems
+KW  - Urban economics
+KW  - Sustainable development
+AB  - Ongoing urbanization and increasing decentralization of production have increased interest in the urban factory concept. Urban factories are production systems located in an urban environment that make use of the unique resources and characteristics of their surroundings to create products locally with a potentially high degree of customer involvement. This paper explores key technologies and methods, enabling production in cities and requirements to expand and support the urban factory concept. Industry examples are presented to highlight the opportunity that urban factories provide to deliver better, more customizable products at a lower cost, lower environmental impact and shorter lead-time. In general, there are still high uncertainties on how the underlying physical and immaterial exchange flows of urban factories influence urban systems and vice versa. Technological solutions fostering positive urban production systems are mainly coming from single disciplinary backgrounds and are increasingly transferred to the application in urban production sites.
+ER  - 
+
+TY  - JOUR
+T1  - Virtual and Augmented Reality Technologies for Product Realization
+AU  - Lu, S.C-Y.
+AU  - Shpitalni, M.
+AU  - Gadh, Rajit
+JO  - CIRP Annals
+VL  - 48
+IS  - 2
+SP  - 471
+EP  - 495
+PY  - 1999
+DA  - 1999/01/01/
+SN  - 0007-8506
+DO  - https://doi.org/10.1016/S0007-8506(07)63229-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0007850607632296
+KW  - Design and Manufacturing
+KW  - Product development and realization
+KW  - Virtual and augmented realities
+AB  - Our society expects engineers to develop products that are affordable, functional and sustainable. Effective product realization methods and tools are the answers to these societal expectations. In this paper, a new type of CAE tools, called virtual and augmented reality technologies, is introduced, reviewed and examined to reveal their great potentials in product realization. Specific areas where these emerging technologies can make a big difference are highlighted to illustrate the possible new paradigms of product realization. Subjects that require continuing R&D efforts to mature the technologies for real-world engineering applications are also identified. Both product development engineers and virtual reality researchers should find this paper valuable to guide their efforts in developing a common road map for joint explorations. It is anticipated that the results from these joint explorations will enable engineers to deliver new products to the society across the time, space and other boundaries with high efficiency and great ease in the future.
+ER  - 
+
+TY  - JOUR
+T1  - Product interface design: A participatory approach based on virtual reality
+AU  - Bruno, Fabio
+AU  - Muzzupappa, Maurizio
+JO  - International Journal of Human-Computer Studies
+VL  - 68
+IS  - 5
+SP  - 254
+EP  - 269
+PY  - 2010
+DA  - 2010/05/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2009.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S107158190900189X
+KW  - Participatory design
+KW  - Virtual reality
+KW  - Usability
+KW  - Product interface design
+AB  - The usability of the user interface is a key aspect for the success of several industrial products. This assumption has led to the introduction of numerous design methodologies addressed to evaluate the user-friendliness of industrial products. Most of these methodologies follow the participatory design approach to involve the user in the design process. Virtual Reality is a valid tool to support Participatory Design, because it facilitates the collaboration among designers and users. The present study aims to evaluate the feasibility and the efficacy of an innovative Participatory Design approach where Virtual Reality plays a ‘double role’: a tool to evaluate the usability of the virtual product interface, and a communication channel that allows users to be directly involved in the design process as co-designers. In order to achieve these goals, we conducted three experiments: the purpose of the first experiment is to determine the influence of the virtual interface on the usability evaluation by comparing “user–real product” interaction and “user–virtual product” interaction. Subsequently, we tested the effectiveness of our approach with two experiments involving users (directly or through their participation in a focus group) in the redesign of a product user interface. The experiments were conducted with two typologies of consumer appliances: a microwave oven and a washing machine.
+ER  - 
+
+TY  - JOUR
+T1  - Augmented reality and photogrammetry: A synergy to visualize physical and virtual city environments
+AU  - Portalés, Cristina
+AU  - Lerma, José Luis
+AU  - Navarro, Santiago
+JO  - ISPRS Journal of Photogrammetry and Remote Sensing
+VL  - 65
+IS  - 1
+SP  - 134
+EP  - 142
+PY  - 2010
+DA  - 2010/01/01/
+SN  - 0924-2716
+DO  - https://doi.org/10.1016/j.isprsjprs.2009.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0924271609001208
+KW  - Augmented reality
+KW  - Model
+KW  - Multisensor
+KW  - Tracking
+KW  - Navigation
+KW  - Real time
+AB  - Close-range photogrammetry is based on the acquisition of imagery to make accurate measurements and, eventually, three-dimensional (3D) photo-realistic models. These models are a photogrammetric product per se. They are usually integrated into virtual reality scenarios where additional data such as sound, text or video can be introduced, leading to multimedia virtual environments. These environments allow users both to navigate and interact on different platforms such as desktop PCs, laptops and small hand-held devices (mobile phones or PDAs). In very recent years, a new technology derived from virtual reality has emerged: Augmented Reality (AR), which is based on mixing real and virtual environments to boost human interactions and real-life navigations. The synergy of AR and photogrammetry opens up new possibilities in the field of 3D data visualization, navigation and interaction far beyond the traditional static navigation and interaction in front of a computer screen. In this paper we introduce a low-cost outdoor mobile AR application to integrate buildings of different urban spaces. High-accuracy 3D photo-models derived from close-range photogrammetry are integrated in real (physical) urban worlds. The augmented environment that is presented herein requires for visualization a see-through video head mounted display (HMD), whereas user’s movement navigation is achieved in the real world with the help of an inertial navigation sensor. After introducing the basics of AR technology, the paper will deal with real-time orientation and tracking in combined physical and virtual city environments, merging close-range photogrammetry and AR. There are, however, some software and complex issues, which are discussed in the paper.
+ER  - 
+
+TY  - JOUR
+T1  - Google home: Experience, support and re-experience of social home activities
+AU  - Nijholt, Anton
+JO  - Information Sciences
+VL  - 178
+IS  - 3
+SP  - 612
+EP  - 630
+PY  - 2008
+DA  - 2008/02/01/
+T2  - Including Special Issue “Ambient Intelligence”
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2007.08.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0020025507004021
+KW  - Ambient intelligence
+KW  - Smart home environments
+KW  - Multi-modal interaction
+KW  - Multi-party interaction
+KW  - Experience capturing
+KW  - Multi-media retrieval and browsing
+AB  - Ambient intelligence research is about ubiquitous computing and about social and intelligent properties of computer-supported environments. These properties aim at providing inhabitants or visitors of ambient intelligence environments with support in their activities. Activities include interactions between inhabitants and between inhabitants and (semi-) autonomous agents, including mobile robots, virtual humans and other smart objects in the environment. Providing real-time support requires understanding of behavior and activities. Clearly, being able to provide real-time support also allows us to provide off-line support, that is, intelligent off-line retrieval, summarizing, browsing and even replay, possibly in a transformed way, of stored information. Real-time remote access to these computer-supported environments also allows participation in activities and such participation as well can profit from the real-time capturing and interpretation of behavior and activities performed and supported by ambient intelligence technology. In this paper, we illustrate and support these observations by looking at results obtained in several European and US projects, in particular projects on smart environments, whether they are smart meetings or lecture rooms, smart offices or intelligently monitored events in public spaces. In particular, we look at the augmented multi-party interaction (AMI) project in which we are involved and we try to sketch a framework in which we can transform research results from the meeting context to the home environment context.
+ER  - 
+
+TY  - JOUR
+T1  - A Design Model for Tangible Interaction: Case Study in Waste Sorting
+AU  - Havrez, Clémentine
+AU  - Lepreux, Sophie
+AU  - Lebrun, Yoann
+AU  - Haudegond, Sylvain
+AU  - Ethuin, Pierrette
+AU  - Kolski, Christophe
+JO  - IFAC-PapersOnLine
+VL  - 49
+IS  - 19
+SP  - 373
+EP  - 378
+PY  - 2016
+DA  - 2016/01/01/
+T2  - 13th IFAC Symposium on Analysis, Design, and Evaluation ofHuman-Machine Systems HMS 2016
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2016.10.594
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896316321851
+KW  - TUI Design Model
+KW  - Tabletop
+KW  - Tangible object
+KW  - Serious Game
+KW  - RFID
+KW  - Waste sorting
+AB  - In this paper, we propose a design model for applications with Tangible User Interfaces (TUI). This model aims to support designers in organizing the different elements and their relationships. We then implement the model through the design of a Serious Game for an RFID tabletop that uses tangible objects: this Serious Game simulates microbiological waste sorting in a practical educational setting. In this case study, a scenario is described, highlighting the use of the design model. The conclusions and suggestions for future research are then presented.
+ER  - 
+
+TY  - JOUR
+T1  - Multimodal human–computer interaction: A survey
+AU  - Jaimes, Alejandro
+AU  - Sebe, Nicu
+JO  - Computer Vision and Image Understanding
+VL  - 108
+IS  - 1
+SP  - 116
+EP  - 134
+PY  - 2007
+DA  - 2007/10/01/
+T2  - Special Issue on Vision for Human-Computer Interaction
+SN  - 1077-3142
+DO  - https://doi.org/10.1016/j.cviu.2006.10.019
+UR  - https://www.sciencedirect.com/science/article/pii/S1077314206002335
+KW  - Multimodal human-computer interaction
+KW  - Gesture recognition
+KW  - Affective computing
+KW  - Human-centered computing
+AB  - In this paper, we review the major approaches to multimodal human–computer interaction, giving an overview of the field from a computer vision perspective. In particular, we focus on body, gesture, gaze, and affective interaction (facial expression recognition and emotion in audio). We discuss user and task modeling, and multimodal fusion, highlighting challenges, open issues, and emerging applications for multimodal human–computer interaction (MMHCI) research.
+ER  - 
+
+TY  - JOUR
+T1  - Appropriate Human Involvement in Assembly and Disassembly
+AU  - Bley, H.
+AU  - Reinhart, G.
+AU  - Seliger, G.
+AU  - Bernardi, M.
+AU  - Korne, T.
+JO  - CIRP Annals
+VL  - 53
+IS  - 2
+SP  - 487
+EP  - 509
+PY  - 2004
+DA  - 2004/01/01/
+SN  - 0007-8506
+DO  - https://doi.org/10.1016/S0007-8506(07)60026-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0007850607600262
+KW  - Assembly
+KW  - disassembly
+KW  - human factors
+AB  - Product assembly as well as disassembly is often carried out by workers who have been trained and are flexible with respect to the different variants, delivery dates and changing lot sizes. Though there has been a strong tendency to mechanize and automate production during the last years many operations in assembly and disassembly are still very often performed manually. Furthermore there might be an increase in manually operated assembly or disassembly as a result of product equipment investments with shorter usage time. This keynote paper deals with the state of practice as well as the tendencies in product and production technology and the influence of markets. Another question is going to be the use of information technology on the shop floor level and between the shop floor and other levels within a company as well as the customers. Therefore industrial engineering is increasingly dealing with the influence of organization and structuring of production processes.
+ER  - 
+
+TY  - JOUR
+T1  - ADVICE: A virtual environment for Engineering Change Management
+AU  - Kocar, Vildan
+AU  - Akgunduz, Ali
+JO  - Computers in Industry
+VL  - 61
+IS  - 1
+SP  - 15
+EP  - 28
+PY  - 2010
+DA  - 2010/01/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2009.05.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361509001006
+KW  - Engineering Change Management
+KW  - Change Propagation
+KW  - Sequential Pattern Mining
+KW  - Virtual Reality
+KW  - Virtual Collaborative Design Environments
+AB  - In this paper, we analyze Engineering Changes (EC), which are modifications in forms, fits, functions, materials, or dimensions in components constituting the design. We propose a new approach for processing these changes within a Virtual Collaborative Design Environment. This environment, named Active Distributed Virtual Change Environment (ADVICE) offers an Engineering Change Management solution by merging graphical and parametric data involved in the process into a virtual platform, which improves the comprehension of users and hence decreases the time required for review. ADVICE provides smart user support for predicting Engineering Changes to be triggered due to a specific change and for offering priorities to Engineering Change Requests. This is managed by employing Sequential Pattern Mining techniques to process captured Engineering Change history with Prioritization and Change Propagation mechanisms. For verifying these mechanisms, experiments involving synthetic data are conducted. The experiments present the capability of ADVICE to facilitate Engineering Change Management.
+ER  - 
+
+TY  - JOUR
+T1  - Virtual reality environment for industrial robot control and path design
+AU  - Togias, Theodoros
+AU  - Gkournelos, Christos
+AU  - Angelakis, Panagiotis
+AU  - Michalos, George
+AU  - Makris, Sotiris
+JO  - Procedia CIRP
+VL  - 100
+SP  - 133
+EP  - 138
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 31st CIRP Design Conference 2021 (CIRP Design 2021)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2021.05.021
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827121004807
+KW  - Virtual Reality
+KW  - Flexible manufacturing
+KW  - Robot manipulation
+KW  - Robotic cell
+AB  - The current market trends have focused on personalization, where products based on the same platform can have different variations so they can satisfy multiple market segments. Trying to keep up with these trends, industries have introduced hybrid Human Robot Collaborative stations that offer short throughput times, along with the flexibility to process different tasks. For this kind of flexibility to be achieved in production, a concept is examined for remotely reprograming industrial robots. As a result, a fully automated assembly line or a production station, could be repurposed to handle different products or processes, using the currently installed equipment with minor adjustments. The concept that is described in this paper presents a teleoperation – based method for process design and control of industrial robots utilizing Virtual Reality. The main aim is to reduce the time and effort required for repurposing the robot operation without the physical presence of a robot operator at the shop floor. A case study is presented to demonstrate the above described concept.
+ER  - 
+
+TY  - JOUR
+T1  - Educational virtual environments: A ten-year review of empirical research (1999–2009)
+AU  - Mikropoulos, Tassos A.
+AU  - Natsis, Antonis
+JO  - Computers & Education
+VL  - 56
+IS  - 3
+SP  - 769
+EP  - 780
+PY  - 2011
+DA  - 2011/04/01/
+SN  - 0360-1315
+DO  - https://doi.org/10.1016/j.compedu.2010.10.020
+UR  - https://www.sciencedirect.com/science/article/pii/S0360131510003052
+KW  - Virtual reality
+KW  - Interactive learning environments
+KW  - Applications in subject areas
+KW  - Pedagogical issues
+AB  - This study is a ten-year critical review of empirical research on the educational applications of Virtual Reality (VR). Results show that although the majority of the 53 reviewed articles refer to science and mathematics, researchers from social sciences also seem to appreciate the educational value of VR and incorporate their learning goals in Educational Virtual Environments (EVEs). Although VR supports multisensory interaction channels, visual representations predominate. Few are the studies that incorporate intuitive interactivity, indicating a research trend in this direction. Few are the settings that use immersive EVEs reporting positive results on users’ attitudes and learning outcomes, indicating that there is a need for further research on the capabilities of such systems. Features of VR that contribute to learning such as first order experiences, natural semantics, size, transduction, reification, autonomy and presence are exploited according to the educational context and content. Presence seems to play an important role in learning and it is a subject needing further and intensive studies. Constructivism seems to be the theoretical model the majority of the EVEs are based on. The studies present real world, authentic tasks that enable context and content dependent knowledge construction. They also provide multiple representations of reality by representing the natural complexity of the world. Findings show that collaboration and social negotiation are not only limited to the participants of an EVE, but exist between participants and avatars, offering a new dimension to computer assisted learning. Little can yet be concluded regarding the retention of the knowledge acquired in EVEs. Longitudinal studies are necessary, and we believe that the main outcome of this study is the future research perspectives it brings to light.
+ER  - 
+
+TY  - JOUR
+T1  - Tangible authoring of 3D virtual scenes in dynamic augmented reality environment
+AU  - Lee, Jae Yeol
+AU  - Seo, Dong Woo
+AU  - Rhee, Gue Won
+JO  - Computers in Industry
+VL  - 62
+IS  - 1
+SP  - 107
+EP  - 119
+PY  - 2011
+DA  - 2011/01/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2010.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361510001077
+KW  - Augmented reality
+KW  - Tangible interface
+KW  - Virtual studio
+KW  - RFID
+KW  - Virtual reality
+AB  - This paper proposes tangible interfaces and interactions for authoring 3D virtual and immersive scenes easily and intuitively in tangible augmented reality (AR) environment. It provides tangible interfaces for manipulating virtual objects in a natural and intuitive manner and supports adaptive and accurate vision-based tracking in AR environments. In particular, RFID is used to directly integrate physical objects with virtual objects and to systematically support the tangible query of the relation between physical objects and virtual ones, which can provide more intuitive tangibility and a new way of virtual object manipulation. Moreover, the proposed approach offers an easy and intuitive switching mechanism between tangible environment and virtual environment. This paper also proposes a context-adaptive marker tracking method which can remove an inconsistent problem while embedding virtual objects into physical ones in tangible AR environments. The context-adaptive tracking method not only adjusts the locations of invisible markers by interpolating the locations of existing reference markers and those of previous ones, but also removes a jumping effect of movable virtual objects when their references are changed from one marker to another. Several case studies for generating tangible virtual scenes and comparison with previous work are given to show the effectiveness and novelty of the proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - A hierarchically structured and constraint-based data model for intuitive and precise solid modeling in a virtual reality environment
+AU  - Ma, Weiyin
+AU  - Zhong, Yongmin
+AU  - Tso, Shiu-Kit
+AU  - Zhou, Tianxiang
+JO  - Computer-Aided Design
+VL  - 36
+IS  - 10
+SP  - 903
+EP  - 928
+PY  - 2004
+DA  - 2004/09/01/
+SN  - 0010-4485
+DO  - https://doi.org/10.1016/j.cad.2003.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0010448503001775
+KW  - Virtual reality
+KW  - Virtual design
+KW  - Model representation
+KW  - Solid modeling
+KW  - Constraint-based design
+AB  - This article proposes a hierarchically structured and constraint-based data model for intuitive and precise solid modeling in a virtual reality (VR) environment. The data model integrates a high level constraint-based model for intuitive and precise manipulation, a middle level solid model for complete and precise representation and a low-level polygon mesh model for real-time interactions and visualization in a VR environment. The solid model is based on a hybrid B-rep/CSG data structure. Constraints are embedded in the solid model and are organized at hierarchical levels as feature constraints among internal feature elements, part constraints among internal features and assembly constraints between individual parts. In addition to providing a complete and precise model representation and the support for real-time visualization, the proposed data model permits intuitive and precise interaction through constraint-based manipulations for solid modeling in a VR environment. This is a critical issue for product design in a VR environment due to the limited resolutions of today's VR input and output devices.
+ER  - 
+
+TY  - JOUR
+T1  - How to combine and clean bibliometric data and use bibliometric tools synergistically: Guidelines using metaverse research
+AU  - Lim, Weng Marc
+AU  - Kumar, Satish
+AU  - Donthu, Naveen
+JO  - Journal of Business Research
+VL  - 182
+SP  - 114760
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 0148-2963
+DO  - https://doi.org/10.1016/j.jbusres.2024.114760
+UR  - https://www.sciencedirect.com/science/article/pii/S0148296324002649
+KW  - Bibliometrics
+KW  - Bibliometric analysis
+KW  - Scientometrics
+KW  - Scientometric analysis
+KW  - Performance analysis
+KW  - Science mapping
+KW  - Bibliographic coupling
+KW  - Co-occurrence analysis
+KW  - Co-citation analysis
+KW  - Trend analysis
+KW  - Bibliometrix
+KW  - Biblioshiny
+KW  - R
+KW  - RStudio
+KW  - VOSviewer
+KW  - Scopus
+KW  - Web of Science
+KW  - Metaverse
+AB  - Bibliometrics (or scientometrics) is a powerful technique to assess the trajectory of scientific research. Building on the Journal of Business Research’s seminal guides for bibliometric analysis—i.e., “How to conduct a bibliometric analysis: An overview and guidelines” and “Guidelines for advancing theory and practice through bibliometric research”—and using metaverse research as a case, this article presents in-depth procedural guidelines for (i) combing and cleaning bibliometric data from multiple databases (Scopus and Web of Science) and (ii) conducting bibliometric analysis using multiple tools (bibliometrix and VOSviewer). Besides serving as a guide to harness the potential of bibliometrics for insightful assessments of scientific research, this article provides noteworthy insights into various features of the metaverse. This includes an examination of decentralized systems and the integration of digital assets, alongside innovations, the influence of industrial revolutions, and ethical and sustainable development. The dynamics of digital identity, ownership, and business models are explored in tandem with engagement strategies and multi-disciplinary perspectives of the metaverse. This comprehensive analysis also addresses metaverse challenges, market behaviors, and marketing strategies. Collectively, these insights offer a robust foundation for scholars, practitioners, and policymakers to shape the future of the metaverse with clarity, purpose, and impact.
+ER  - 
+
+TY  - JOUR
+T1  - HUB-CI Model for Collaborative Telerobotics in Manufacturing
+AU  - Zhong, Hao
+AU  - Wachs, Juan P.
+AU  - Nof, Shimon Y.
+JO  - IFAC Proceedings Volumes
+VL  - 46
+IS  - 7
+SP  - 63
+EP  - 68
+PY  - 2013
+DA  - 2013/05/01/
+T2  - 11th IFAC Workshop on Intelligent Manufacturing Systems
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20130522-3-BR-4036.00059
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667015356512
+KW  - Collaborative telerobotics
+KW  - Collaboration infrastructure
+KW  - Collaborative intelligence
+KW  - Human-robot interaction
+AB  - This paper discusses a collaborative cybernetic system, where telerobots are controlled simultaneously by a group of distributed operators to accomplish a manufacturing task. To enhance the collaboration, this work introduces the HUB-CI (HUB system with Collaborative Intelligence) model which represents a cyber hub infrastructure with intelligent agents supporting the collaboration activities. Hand gesture commands from multiple operators are translated and aggregated by a collaboration protocol into a single control stream. The aggregation is updated according to operators' performance so that it is robust to critical errors and conflicting signals. The premise of early conflict/error prevention and co-tolerant scheme can help in reducing the risk of system's damage. Thus, a distributed conflict and error prevention network is designed in the current work. A case study of collaborative control of robotic manufacturing is investigated. Operators command telerobots to work in a remote area. The hypothesis is tested that collaborative control with HUB-CI model is more effective and less susceptible to conflicts/errors than single operator control. During collaboration, operators perform gesture commands in parallel to control the same set of robots with a command aggregation algorithm. Compared to a single operator manipulation, collaboration in HUB-CI can reduce the time to complete a multi-step task and limit the errors.
+ER  - 
+
+TY  - JOUR
+T1  - Towards safe motion planning for industrial human-robot interaction: A co-evolution approach based on human digital twin and mixed reality
+AU  - Feng, Bohan
+AU  - Wang, Zeqing
+AU  - Yuan, Lianjie
+AU  - Zhou, Qi
+AU  - Chen, Yulin
+AU  - Bi, Youyi
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 95
+SP  - 103012
+PY  - 2025
+DA  - 2025/10/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2025.103012
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584525000663
+KW  - Human-robot interaction
+KW  - Human digital twin
+KW  - Mixed reality
+KW  - Deep reinforcement learning
+KW  - Co-evolution
+KW  - Smart manufacturing
+AB  - Advanced human-robot interaction (HRI) is essential for the next-generation human-centric manufacturing mode such as “Industry 5.0”. Despite recent mutual cognitive approaches can enhance the understanding and collaboration between humans and robots, these methods often rely on predefined rules and are limited in adapting to new tasks or changes of the working environment. These limitations can hinder the popularization of collaborative robots in dynamic manufacturing environments, where tasks can be highly variable, and unforeseen operational changes frequently occur. To address these challenges, we propose a co-evolution approach for the safe motion planning of industrial human-robot interaction. The core idea is to promote the evolution of human worker’s safe operation cognition as well as the evolution of robot’s safe motion planning strategy in a unified and continuous framework by leveraging human digital twin (HDT) and mixed reality (MR) technologies. Specifically, HDT captures real-time human behaviors and postures, which enables robots to adapt dynamically to the changes of human behavior and environment. HDT also refines deep reinforcement learning (DRL)-based motion planning, allowing robots to continuously learn from human actions and update their motion strategies. On the other hand, MR superimposes rich information regarding the tasks and robot in the physical world, helping human workers better understand and adapt to robot’s actions. MR also provides intuitive gesture-based user interface, further improving the smoothness of human-robot interaction. We validate the proposed approach’s effectiveness with evaluations in realistic manufacturing scenarios, demonstrating its potential to advance HRI practice in the context of smart manufacturing.
+ER  - 
+
+TY  - JOUR
+T1  - Remote control desk in Industry 4.0 for train driver: an ergonomics perspective
+AU  - Michel, Emelyne
+AU  - Richard, Philippe
+AU  - Berdal, Quentin
+JO  - Procedia Computer Science
+VL  - 253
+SP  - 1045
+EP  - 1054
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 6th International Conference on Industry 4.0 and Smart Manufacturing
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.01.166
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925001747
+KW  - Remote control
+KW  - Railway
+KW  - Train driver
+KW  - Human machine interaction
+AB  - Remote control of trains will be an intermediary step before reaching full automation. In trains, use cases for remote control have been studied only for the past few years. This research presents a project about remote control for the next generation of trains in France and how we carry out the design of a new teleoperation desk for future remote train drivers. We present an Ergonomic Work Analysis used to precisely understand driver’s activity. This analysis allowed us to identify the needs of future drivers and to propose ways to overcome one of the main problems that drivers will face when remotely driving a train: loss and degradation of sense. We explain how innovative technologies developed within the Industry 4.0 can offer solutions to problems faced with remote-control.
+ER  - 
+
+TY  - JOUR
+T1  - An alternative topic model based on Common Interest Authors for topic evolution analysis
+AU  - Jung, Sukhwan
+AU  - Yoon, Wan Chul
+JO  - Journal of Informetrics
+VL  - 14
+IS  - 3
+SP  - 101040
+PY  - 2020
+DA  - 2020/08/01/
+SN  - 1751-1577
+DO  - https://doi.org/10.1016/j.joi.2020.101040
+UR  - https://www.sciencedirect.com/science/article/pii/S1751157719303517
+KW  - Topic modeling
+KW  - Bibliographic network
+KW  - Topic evolution
+KW  - Scientometric
+AB  - Topic modeling methods aim to extract semantic topics from unstructured documents, and topic evolution is one of its branches seeking to analyze how temporal topics in a set of documents evolve and has shown successful identification of content transitions within static topics over time; yet, the inherent limitations of topic modeling methods inhibit traditional topic evolution methods from highlighting topical correlations between different, dynamic topics. The authors propose an alternative topic modeling method conscious of the topical correlation in the academic domain by introducing the notion of the common interest authors (CIA11CIA: Common Interest Authors), defining a topic as a set of shared common research interests of a researcher group. Publication records related to the Human Computer Interaction field were extracted from the Microsoft Academic Graph dataset, with virtual reality as the target field of research. The result showed that the proposed alternative topic modeling is capable of successfully model coherent topics regardless of the topic size with only the meta-data of the document set, indicating that the alternative approach is not only capable of allowing topic correlation analysis during the topic evolution but also able to generate coherent topics at the same time.
+ER  - 
+
+TY  - JOUR
+T1  - A tangible AR desktop environment
+AU  - Regenbrecht, Holger
+AU  - Baratoff, Gregory
+AU  - Wagner, Michael
+JO  - Computers & Graphics
+VL  - 25
+IS  - 5
+SP  - 755
+EP  - 763
+PY  - 2001
+DA  - 2001/10/01/
+T2  - Mixed realities - beyond conventions
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(01)00118-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849301001182
+KW  - Augmented reality
+KW  - Human-computer interface
+KW  - Tangible user interface
+KW  - Virtual reality
+KW  - Computer aided design
+AB  - We present an AR desktop environment which integrates the standard 2D computer desktop into an augmented 3D space. The underlying physical space is given by the standard office desk used in everyday work. Instead of sitting only in front of a computer screen, the user wears a video-through head mounted displays and interacts with the environment in both tangible and virtual ways. In this augmented environment, standard 2D application windows are attached to physical clipboards and can be freely positioned in the working space by simply moving the clipboard. Additionally, 3D content can be brought into and manipulated within the same space. To support interaction with 3D content we have experimented with a circular platform, on which a 3D model can be placed, and which the user can turn in a natural tangible way. By fusing familiar desktop utensils, two-dimensional computer desktop applications, and three-dimensional models, we provide a seamless transition from the traditional 2D computer desktop to a 3D augmented working environment. The paper describes the concept and implementation of the system and illustrates some interfaces and interaction techniques used in the context of CAD engineering.
+ER  - 
+
+TY  - JOUR
+T1  - Comparative analysis of fire evacuation decision-making in immersive vs. non-immersive virtual reality environments
+AU  - Zhang, Yuxuan
+AU  - Paes, Daniel
+AU  - Feng, Zhenan
+AU  - Scorgie, Dorothy
+AU  - He, Peijin
+AU  - Lovreglio, Ruggiero
+JO  - Automation in Construction
+VL  - 179
+SP  - 106441
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2025.106441
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580525004819
+KW  - Exit choice
+KW  - Evacuation
+KW  - Fire
+KW  - Virtual reality
+AB  - Understanding emergency behavior is crucial for designing safer, resilient infrastructure. Immersive Virtual Reality (VR) realistically simulates emergencies but is resource-intensive, so systematic comparisons with non-immersive VR remain scarce. To address this gap, a multifactorial VR fire-evacuation experiment was conducted in which participants navigated a room with three exits under varied conditions (e.g., social influence, smoke presence, exit distance, exit familiarity). Results indicated no significant difference in overall decision-making between immersive and non-immersive VR. Nevertheless, immersion modulated key factors: in immersive VR, participants preferred nearer exits, were more susceptible to social influence, and experienced stronger effects of smoke and exit familiarity. Smoke also reduced the influence of exit distance. Personal factors (e.g., prior VR experience, age, gender) shaped perceptions and emotions; heightened negative emotions and perceived risk were associated with less rational (i.e., suboptimal) choices, particularly in immersive VR. These insights inform VR safety training, guiding simulations that more faithfully replicate real emergencies.
+ER  - 
+
+TY  - JOUR
+T1  - Latency impact on Quality of Experience in a virtual reality simulator for remote control of machines
+AU  - Brunnström, Kjell
+AU  - Dima, Elijs
+AU  - Qureshi, Tahir
+AU  - Johanson, Mathias
+AU  - Andersson, Mattias
+AU  - Sjöström, Mårten
+JO  - Signal Processing: Image Communication
+VL  - 89
+SP  - 116005
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 0923-5965
+DO  - https://doi.org/10.1016/j.image.2020.116005
+UR  - https://www.sciencedirect.com/science/article/pii/S0923596520301648
+KW  - Quality of Experience (QoE)
+KW  - Virtual reality
+KW  - Latency
+KW  - Head-Mounted Displays (HMD)
+KW  - Forestry crane
+AB  - In this article, we have investigated a VR simulator of a forestry crane used for loading logs onto a truck. We have mainly studied the Quality of Experience (QoE) aspects that may be relevant for task completion, and whether there are any discomfort related symptoms experienced during the task execution. QoE experiments were designed to capture the general subjective experience of using the simulator, and to study task performance. The focus was to study the effects of latency on the subjective experience, with regards to delays in the crane control interface. Subjective studies were performed with controlled delays added to the display update and hand controller (joystick) signals. The added delays ranged from 0 to 30 ms for the display update, and from 0 to 800 ms for the hand controller. We found a strong effect on latency in the display update and a significant negative effect for 800 ms added delay on latency in the hand controller (in total approx. 880 ms latency including the system delay). The Simulator Sickness Questionnaire (SSQ) gave significantly higher scores after the experiment compared to before the experiment, but a majority of the participants reported experiencing only minor symptoms. Some test subjects ceased the test before finishing due to their symptoms, particularly due to the added latency in the display update.
+ER  - 
+
+TY  - JOUR
+T1  - Designing successive target selection in virtual reality via penetrating the intangible interface with handheld controllers
+AU  - Li, Yang
+AU  - Sarcar, Sayan
+AU  - Kim, Kibum
+AU  - Tu, Huawei
+AU  - Ren, Xiangshi
+JO  - International Journal of Human-Computer Studies
+VL  - 165
+SP  - 102835
+PY  - 2022
+DA  - 2022/09/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2022.102835
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581922000635
+KW  - Target selection
+KW  - Virtual reality
+KW  - Text entry
+AB  - Empirical research on single target selection in Virtual Reality/Augmented Reality (VR/AR) environments has been studied extensively. However, there is a lack of methods and research on improving the coherence when successively selecting multiple targets. We propose Sewing, a successive target selection method with handheld controllers in VR environments. We leverage real-life sewing as a design metaphor for the selection of multiple targets with one single spatial movement penetrating targets with handheld controllers. We conducted an empirical study to validate the efficiency of selecting multiple targets with Sewing compared with the conventional selection method, which is based on the button pressing metaphor. Results showed that Sewing can provide promising performance and coherence for rapid and accurate target selection. Based on the results, we implemented SewTyping, a Sewing-based VR text entry method to evaluate the applicability of Sewing, and conducted an empirical study to compare the typing performance with two other techniques (Controller Pointing and Drum-like Keyboard). Results showed that 1) SewTyping achieved 26.57 words per minute with a total error rate of 3.68% and 2) users adapted to the sewing-like movement easily and achieved steady performance with essential practice.
+ER  - 
+
+TY  - JOUR
+T1  - How augmented reality (AR) is transforming the restaurant sector: Investigating the impact of “Le Petit Chef” on customers’ dining experiences
+AU  - Batat, Wided
+JO  - Technological Forecasting and Social Change
+VL  - 172
+SP  - 121013
+PY  - 2021
+DA  - 2021/11/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2021.121013
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162521004455
+KW  - AR
+KW  - Dining experience
+KW  - Customer experience
+KW  - Case study
+KW  - Le Petit Chef
+KW  - Restaurant
+AB  - Many businesses across sectors are using extended reality technologies to enhance the consumer experience. In the restaurant industry, digital technologies are gaining growing interest among restaurateurs to improve customers’ dining experiences and thus their overall food well-being. In this research, we conduct an exploratory analysis using a qualitative multi-method approach to examine whether augmented reality (AR) technology contributes positively or otherwise to a customer's dining experience. We do so through a case study, namely Le Petit Chef AR dining experience. Our findings suggest that AR can influence positively or negatively consumers’ perceptions of their restaurant experiences according to five dimensions, namely sensory dimensions (the five senses’ intensity), the affective dimension (pleasantness), and behavioral, social, and intellectual dimensions. These dimensions can improve the customer's experience and be managed by restaurateurs to enhance positive attitudes toward AR in the restaurant industry. Furthermore, the results revealed that AR plays an essential role in terms of improving the overall food well-being of consumers and thus can lead to positive post-consumption behaviors. This study also identifies the factors that allow service providers to understand the psychology behind adopting or rejecting technology innovation in the servicescape.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing anatomy learning through collaborative VR? An advanced investigation
+AU  - Almaree, Haya
+AU  - Fischer, Roland
+AU  - Weller, René
+AU  - Uslar, Verena
+AU  - Weyhe, Dirk
+AU  - Zachmann, Gabriel
+JO  - Computers & Graphics
+VL  - 123
+SP  - 104019
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/j.cag.2024.104019
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849324001547
+KW  - Virtual reality
+KW  - Anatomy
+KW  - Education
+KW  - Collaborative learning
+AB  - Common techniques for anatomy education in medicine include lectures and cadaver dissection, as well as the use of replicas. However, recent advances in virtual reality (VR) technology have led to the development of specialized VR tools for teaching, training, and other purposes. The use of VR technology has the potential to greatly enhance the learning experience for students. These tools offer highly interactive and engaging learning environments that allow students to inspect and interact with virtual 3D anatomical structures repeatedly, intuitively, and immersively. Additionally, multi-user VR environments can facilitate collaborative learning, which has the potential to enhance the learning experience even further. However, the effectiveness of collaborative learning in VR has not been adequately explored. Therefore, we conducted two user studies, each with n1,2=33 participants, to evaluate the effectiveness of virtual collaboration in the context of anatomy learning, and compared it to individual learning. For our two studies, we developed a multi-user VR anatomy learning application using UE4. Our results demonstrate that our VR Anatomy Atlas offers an engaging and effective learning experience for anatomy, both individually and collaboratively. However, we did not find any significant advantages of collaborative learning in terms of learning effectiveness or motivation, despite the multi-user group spending more time in the learning environment. In fact, motivation tended to be slightly lower. Although the usability was rather high for the single-user condition, it tended to be lower for the multi-user group in one of the two studies, which may have had a slightly negative effect. However, in the second study, the usability scores were similarly high for both groups. The absence of advantages for collaborative learning may be due to the more complex environment and higher cognitive load. In consequence, more research into collaborative VR learning is needed to determine the relevant factors promoting collaborative learning in VR and the settings in which individual or collaborative learning in VR is more effective, respectively.
+ER  - 
+
+TY  - JOUR
+T1  - The Data Visualisation and Immersive Analytics Research Lab at Monash University
+AU  - Dwyer, Tim
+AU  - Cordeil, Maxime
+AU  - Czauderna, Tobias
+AU  - Delir Haghighi, Pari
+AU  - Ens, Barrett
+AU  - Goodwin, Sarah
+AU  - Jenny, Bernhard
+AU  - Marriott, Kim
+AU  - Wybrow, Michael
+JO  - Visual Informatics
+VL  - 4
+IS  - 4
+SP  - 41
+EP  - 49
+PY  - 2020
+DA  - 2020/12/01/
+SN  - 2468-502X
+DO  - https://doi.org/10.1016/j.visinf.2020.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S2468502X2030067X
+KW  - Immersive Analytics
+KW  - Data Visualisation
+KW  - Network visualisation
+KW  - Cartographic visualisation
+KW  - Interactive optimisation
+AB  - This article reviews two decades of research in topics in Information Visualisation emerging from the Data Visualisation and Immersive Analytics Lab at Monash University Australia (Monash IA Lab). The lab has been influential with contributions in algorithms, interaction techniques and experimental results in Network Visualisation, Interactive Optimisation and Geographic and Cartographic visualisation. It has also been a leader in the emerging topic of Immersive Analytics, which explores natural interactions and immersive display technologies in support of data analytics. We reflect on advances in these areas but also sketch our vision for future research and developments in data visualisation more broadly.
+ER  - 
+
+TY  - JOUR
+T1  - A multichannel visualization module for virtual manufacturing
+AU  - Kim, Yong-Sik
+AU  - Yang, Jeongsam
+AU  - Han, Soonhung
+JO  - Computers in Industry
+VL  - 57
+IS  - 7
+SP  - 653
+EP  - 662
+PY  - 2006
+DA  - 2006/09/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2006.02.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361506000443
+KW  - CAD
+KW  - Immersive virtual reality
+KW  - Multichannel visualization module
+KW  - PC clusters
+KW  - Virtual manufacturing system
+AB  - The immersive virtual reality (VR) for manufacturing planning helps to cut down the product development period and to improve the quality of the production. However, the immersive VR equipments are generally expensive, both in terms of development and buying. Users spend time to manually repair complex 3D shapes because of imperfect translations between 3D engineering CAD models and the proprietary format of the VR system. In this paper, the proposed VR module uses a commercial virtual manufacturing system (VMS) as the viewer of the immersive VR system on a cluster of PCs and adopts the modified simulation algorithm. The module can make the data translation process unnecessary and ensure good coherence under simulation. At experiment, the proposed immersive VR module was interfaced with the Delmia VMS. Its clustering modules can reduce the cost of VR experiment while offering high performance.
+ER  - 
+
+TY  - JOUR
+T1  - Designing an AR interface to improve trust in Human-Robots collaboration
+AU  - Palmarini, Riccardo
+AU  - del Amo, Iñigo Fernandez
+AU  - Bertolino, Guglielmo
+AU  - Dini, Gino
+AU  - Erkoyuncu, John Ahmet
+AU  - Roy, Rajkumar
+AU  - Farnsworth, Michael
+JO  - Procedia CIRP
+VL  - 70
+SP  - 350
+EP  - 355
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 28th CIRP Design Conference 2018, 23-25 May 2018, Nantes, France
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2018.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827118300155
+KW  - Augmented Reality
+KW  - robot
+KW  - digital engineering
+AB  - In a global, e-commerce marketplace, product customisation is driven towards manufacturing flexibility. Conventional caged robots are designed for high volume and low mix production cannot always comply with the increasing low volume and high customisation requirements. In this scenario, the interest in collaborative robots is growing. A critical aspect of Human-Robot Collaboration (HRC) is human trust in robots. This research focuses on increasing the human confidence and trust in robots by designing an Augmented Reality (AR) interface for HRC. The variable affecting the trust involved in HRC have been estimated. These have been utilised for designing the AR-HRC. The proposed design aims to provide situational awareness and spatial dialog. The AR-HRC developed has been tested on 15 participants which have performed a “pick-and-place” task. The results show that the utilisation of AR in the proposed scenario positively affects the human trust in robot. The human-robot collaboration enhanced by AR are more natural and effective. The trust has been measured through an empirical psychometric method also presented in this paper.
+ER  - 
+
+TY  - JOUR
+T1  - Education for a new millennium: an innovative program in fibers and films
+AU  - Jacobi, Jane E
+AU  - Edie, Dan D
+AU  - Kennedy, John M
+JO  - Composites Part A: Applied Science and Manufacturing
+VL  - 32
+IS  - 8
+SP  - 1181
+EP  - 1184
+PY  - 2001
+DA  - 2001/08/01/
+SN  - 1359-835X
+DO  - https://doi.org/10.1016/S1359-835X(01)00060-4
+UR  - https://www.sciencedirect.com/science/article/pii/S1359835X01000604
+KW  - A. Fibres
+KW  - Films
+AB  - The composites of tomorrow will need to be developed in advanced engineering environments. This transformation to computer-based materials design requires a transformation of traditional engineering education programs. Students need training in systems design, simulation and visualization technologies, teamwork, and communication to function effectively in distributed, diverse, collaborative work environments. The programs being coordinated and implemented by CAEFF are designed to meet these challenges and constitute a paradigm shift in engineering education.
+ER  - 
+
+TY  - JOUR
+T1  - Simulation in Manufacturing: Review and Challenges
+AU  - Mourtzis, D.
+AU  - Doukas, M.
+AU  - Bernidaki, D.
+JO  - Procedia CIRP
+VL  - 25
+SP  - 213
+EP  - 229
+PY  - 2014
+DA  - 2014/01/01/
+T2  - 8th International Conference on Digital Enterprise Technology - DET 2014 Disruptive Innovation in Manufacturing Engineering towards the 4th Industrial Revolution
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2014.10.032
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827114010634
+KW  - Manufacturing
+KW  - Simulation
+KW  - Information and Communication Technologies
+AB  - Simulation comprises an indispensable set of technological tools and methods for the successful implementation of digital manufacturing, since it allows for the experimentation and validation of product, process and system design and configuration. Especially in todays’ turbulent manufacturing environment, which is affected by megatrends such as globalisation and ever-increasing requirements for higher degree of product customisation and personalisation, the value of simulation is evident. This keynote paper investigates the major milestones in the evolution of simulation technologies and examines recent industrial and research applications and findings. Based on this review, the identification of gaps in current practices is presented, and future trends and challenges to be met on the field are outlined. The considered simulation methods and tools include CAx, Factory layout design, Material and Information flow design, Manufacturing Networks Design, Manufacturing Systems Planning and Control, Manufacturing Networks Planning and Control, Augmented and Virtual Reality in product and process design, planning and verification (ergonomics, robotics, etc.). The evolution, advances, current practices and future trends of these technologies, industrial applications and research results are discussed in the context of the contemporary manufacturing industry.
+ER  - 
+
+TY  - JOUR
+T1  - Augmented reality applications in design and manufacturing
+AU  - Nee, A.Y.C.
+AU  - Ong, S.K.
+AU  - Chryssolouris, G.
+AU  - Mourtzis, D.
+JO  - CIRP Annals
+VL  - 61
+IS  - 2
+SP  - 657
+EP  - 679
+PY  - 2012
+DA  - 2012/01/01/
+SN  - 0007-8506
+DO  - https://doi.org/10.1016/j.cirp.2012.05.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0007850612002090
+KW  - Design
+KW  - Manufacturing
+KW  - Augmented reality
+AB  - This paper reviews the research and development of augmented reality (AR) applications in design and manufacturing. It consists of seven main sections. The first section introduces the background of manufacturing simulation applications and the initial AR developments. The second section describes the current hardware and software tools associated with AR. The third section reports on the various studies of design and manufacturing activities, such as AR collaborative design, robot path planning, plant layout, maintenance, CNC simulation, and assembly using AR tools and techniques. The fourth section outlines the technology challenges in AR. Section 5 looks at some of the industrial applications. Section 6 addresses the human factors and interactions in AR systems. Section 7 looks into some future trends and developments, followed by conclusion in the last section.
+ER  - 
+
+TY  - JOUR
+T1  - Designing and Evaluating an Adaptive Virtual Reality System using EEG Frequencies to Balance Internal and External Attention States
+AU  - Chiossi, Francesco
+AU  - Ou, Changkun
+AU  - Gerhardt, Carolina
+AU  - Putze, Felix
+AU  - Mayer, Sven
+JO  - International Journal of Human-Computer Studies
+VL  - 196
+SP  - 103433
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2024.103433
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581924002167
+KW  - Neuroergonomics
+KW  - Attention
+KW  - Virtual Reality
+KW  - Working memory
+KW  - Physiological computing
+KW  - Adaptive systems
+AB  - Virtual reality (VR) finds various applications in productivity, entertainment, and training, often requiring substantial working memory and attentional resources. Effective task performance in VR relies on prioritizing relevant information and suppressing distractions through internal attention. However, current VR systems fail to account for the impact of working memory loads, leading to over or under-stimulation. In this work, we designed an adaptive system using Electroencephalography (EEG) correlates of external and internal attention to support working memory tasks. Participants engaged in a visual working memory N-Back task, where we adapted the visual complexity of distracting elements. Our study demonstrated that EEG frontal theta and parietal alpha frequency bands effectively adjust dynamic visual complexity. The adaptive system improved task performance and reduced perceived workload compared to a reverse adaptation. Furthermore, we trained a Linear Discriminant Analysis (LDA) model and achieved a classification accuracy of 79.4% for distinguishing internal and external attention states using EEG frequency features, demonstrating the feasibility of EEG-based models for real-time attention state detection. These results highlight the potential of EEG-based adaptive systems to balance distraction management and maintain user engagement without causing cognitive overload.
+ER  - 
+
+TY  - JOUR
+T1  - Real-time hand interaction and self-directed machine learning agents in immersive learning environments
+AU  - Iqbal, Muhammad Zahid
+AU  - Campbell, Abraham G.
+JO  - Computers & Education: X Reality
+VL  - 3
+SP  - 100038
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 2949-6780
+DO  - https://doi.org/10.1016/j.cexr.2023.100038
+UR  - https://www.sciencedirect.com/science/article/pii/S2949678023000326
+KW  - Mixed reality
+KW  - Virtual reality
+KW  - Extended reality
+KW  - Technology enhanced learning
+KW  - Immersive learning
+KW  - XR
+KW  - Learning technology
+AB  - Integration of extended reality (XR) in education is becoming popular to transform the traditional classroom with immersive learning environments. The adoption of immersive learning is accelerating as an innovative approach for science and engineering subjects. With new powerful interaction techniques in XR and the latest developments in artificial intelligence, interactive and self-directed learning are becoming important. However, there is a lack of research exploring these emerging technologies research with kinesthetic learning or “hands-one learning" as a pedagogical approach using real-time hand interaction and agent-guided learning in immersive environments. This paper proposes a novel approach that uses machine learning agents to facilitate interactive kinesthetic learning in science and engineering education through real-time hand interaction in the virtual world. To implement the following approach, this paper uses a chemistry-related case study and presents a usability evaluation conducted with 15 expert reviewers and 2 subject experts. NASA task load index is used for cognitive workload measurement, and the technology acceptance model is used for measuring perceived ease of use and perceived usefulness in the evaluations. The evaluation with expert reviewers proposed self-directed learning using trained agents can help in the end-user training in learning technical topics and controller-free hand interaction for kinesthetic tasks can improve hands-on learning motivation in virtual laboratories. This success points to a novel research area where agents embodied in an immersive environment using machine learning techniques can forge a new pedagogical approach where they can act as both teacher and assessor.
+ER  - 
+
+TY  - JOUR
+T1  - Body-based interfaces
+AU  - Kim, Gerard J.
+AU  - Han, Sung H.
+AU  - Yang, Huichul
+AU  - Cho, Changseok
+JO  - Applied Ergonomics
+VL  - 35
+IS  - 3
+SP  - 263
+EP  - 274
+PY  - 2004
+DA  - 2004/05/01/
+T2  - The Occlusion Technique
+SN  - 0003-6870
+DO  - https://doi.org/10.1016/j.apergo.2004.02.003
+UR  - https://www.sciencedirect.com/science/article/pii/S000368700400033X
+KW  - User interfaces
+KW  - Wearable computing
+KW  - Virtual reality
+KW  - 3D multi-modal interfaces
+KW  - Human–computer interaction
+KW  - Body-based interaction
+KW  - Metaphors
+AB  - This research explores different ways to use features of one’s own body for interacting with computers. Such “body-based” interfaces may find good uses in wearable computing or virtual reality systems as part of a 3D multi-modal interface in the future, freeing the user from holding interaction devices. Four types of body-based interfaces have been identified: Body-inspired metaphor (BIM); Body-as-interaction-surface (BAIS); Mixed mode (MM); and Object mapping (OM). These four body-based interfaces were applied to a few different applications (and associated tasks) and were tested for their performance and preference. It was generally found that, among the four, the BIM exhibited low error rates, but produced relatively longer task completion times and significant fatigue. The BAIS method had the contrasting character of higher error rates, but shorter task completion times and lower intuitiveness. The OM method exhibited high error rates, longer completion times, and much fatigue. Overall, the MM was superior in terms of both performance and preference as it combined the merits of the above three methods. Thus, it is expected, for applications with many associated tasks, a careful division of tasks among those that have natural semantic links to body parts and those that do not, is necessary to design the most performing body-based interface.
+ER  - 
+
+TY  - JOUR
+T1  - Human-centric assembly in smart factories
+AU  - Wang, Lihui
+AU  - Gao, Robert X.
+AU  - Krüger, Jörg
+AU  - Váncza, József
+JO  - CIRP Annals
+VL  - 74
+IS  - 2
+SP  - 789
+EP  - 815
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0007-8506
+DO  - https://doi.org/10.1016/j.cirp.2025.04.058
+UR  - https://www.sciencedirect.com/science/article/pii/S0007850625001064
+KW  - Assembly
+KW  - Robot
+KW  - Human-centricity
+AB  - Assembly in future smart factories needs to address three challenges, including human centricity, sustainability, and resilience. Conventional approaches for automation in assembly have reached a bottleneck in terms of operation automomy, leaving various tasks to continued manual labour by human operators. To ease the burden on humans both physically and intellectually, human-centric assembly enhanced by augmented robots, cognitive systems, mixed reality and collaborative intelligence, assisted by thought-driven brain robotic controls, provides a promising solution. Within the context, this keynote provides an in-depth analysis of the state of human-centric assembly and identifies potentially fruitful research directions in future smart factories.
+ER  - 
+
+TY  - JOUR
+T1  - Product information visualization and augmentation in collaborative design
+AU  - Shen, Y.
+AU  - Ong, S.K.
+AU  - Nee, A.Y.C.
+JO  - Computer-Aided Design
+VL  - 40
+IS  - 9
+SP  - 963
+EP  - 974
+PY  - 2008
+DA  - 2008/09/01/
+SN  - 0010-4485
+DO  - https://doi.org/10.1016/j.cad.2008.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0010448508001280
+KW  - Product information visualization
+KW  - Collaborative design
+KW  - Augmented reality
+AB  - In this paper, a collaborative system for product information visualization and augmentation is presented. The developed system allows the users, who can be remotely distributed, to view a product model, which is a geometric representation of the product, from different perspectives. They can choose to view design and product history, such as previous modification processes and feature information of the product independently. The product models displayed to the users are immediately updated after any design modifications have been made to the CAD model. Product features being discussed can be highlighted to draw the users’ attention. In addition, modifications can be displayed dynamically for the users to evaluate the design effect. The product history document module in the system provides a user-friendly interface for retrieving design records. After a specific record has been chosen, the related product model is displayed, and it can be aligned with the current product model for the ease of comparison and evaluation. The feature information of the product is displayed using virtual “floating” annotations linked to the related features. A user interface to enter annotations is provided, and the annotations entered by different users can be shared in real time. A cluster-based greedy algorithm is implemented to avoid overlapping annotations in the field of view.
+ER  - 
+
+TY  - JOUR
+T1  - From BIM to extended reality in AEC industry
+AU  - Alizadehsalehi, Sepehr
+AU  - Hadavi, Ahmad
+AU  - Huang, Joseph Chuenhuei
+JO  - Automation in Construction
+VL  - 116
+SP  - 103254
+PY  - 2020
+DA  - 2020/08/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2020.103254
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580519315146
+KW  - Extended reality (XR)
+KW  - Building information modeling (BIM)
+KW  - AEC industry
+AB  - In the Architecture, Engineering, and Construction (AEC) industry, Extended Reality (XR) technologies that simulate a construction project in a multidimensional digital model and present multiple aspects of a project can be a tremendous help in all stages of a project. This study aims to identify the outsourcing patterns for such technologies among construction project stakeholders. Currently, there is limited literature about XR technologies, and because of it, the sections containing the results of this study are as follows: (1) a concise review of the most recent VR, AR, and MR technologies in the design and construction industry; (2) an introduction to the most commonly used wearable XRs on the market in terms of features, ease of use, and their specifications; (3) a summary of the different methods and software used for converting the BIM model to VR, AR, and MR; and (4) finally, a case study included the integrated definition function (IDEF0) model that details how to convert the BIM model of the NASA-Mars habitat project to a VR and MR model that uses Oculus Rift, HTC Vive, Samsung HMD, and Microsoft HoloLens headsets. Overall, this study provides a comprehensive review regarding using XR to solve a variety of construction project management issues effectively and efficiently. More importantly, this study provides a roadmap for future efforts involving the implementation of XR technologies in the AEC industry.
+ER  - 
+
+TY  - JOUR
+T1  - Value formation with immersive technologies: an activity perspective
+AU  - Nussipova, Gulnar
+AU  - Nordin, Fredrik
+AU  - Sörhammar, David
+JO  - Journal of Business & Industrial Marketing
+VL  - 35
+IS  - 3
+SP  - 483
+EP  - 494
+PY  - 2020
+DA  - 2020/02/14/
+SN  - 0885-8624
+DO  - https://doi.org/10.1108/JBIM-12-2018-0407
+UR  - https://www.sciencedirect.com/science/article/pii/S0885862420002199
+KW  - Customer activity
+KW  - Virtual reality
+KW  - Customer-dominant logic
+KW  - Augmented reality
+KW  - Immersive technologies
+KW  - Value-formation
+AB  - Purpose
+The purpose of this paper is to contribute a framework that explains how value is formed during the usage of immersive technologies in industrial contexts.
+Design/methodology/approach
+Drawing on activity theory and a customer-dominant logic, the authors tentatively develop an activity-centric framework for value formation enabled by physical and mental activities conducted by users of immersive technologies. The authors evaluate the framework through a case study focusing on the use of virtual reality (VR) in an industrial setting.
+Findings
+The findings from the case study illustrate the tentative framework and specify how it is enacted by users in the studied context through three physical activities constituted by a set of actions and reflected in five emotional responses.
+Research limitations/implications
+Both researchers and practitioners may use the framework presented in this paper as a guide for further academic and practical developments concerning the value of immersive technologies such as VR and augmented reality.
+Originality/value
+The activity-centric framework contributes a novel perspective to the literature on value formation enabled by immersive technologies.
+ER  - 
+
+TY  - JOUR
+T1  - Web3D technologies in learning, education and training: Motivations, issues, opportunities
+AU  - Chittaro, Luca
+AU  - Ranon, Roberto
+JO  - Computers & Education
+VL  - 49
+IS  - 1
+SP  - 3
+EP  - 18
+PY  - 2007
+DA  - 2007/08/01/
+T2  - Web3D Technologies in Learning, Education and Training
+SN  - 0360-1315
+DO  - https://doi.org/10.1016/j.compedu.2005.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0360131505000813
+KW  - Human–computer interface
+KW  - Interactive learning environments
+KW  - Multimedia/hypermedia systems
+KW  - Programming and programming languages
+KW  - Virtual reality
+AB  - Web3D open standards allow the delivery of interactive 3D virtual learning environments through the Internet, reaching potentially large numbers of learners worldwide, at any time. This paper introduces the educational use of virtual reality based on Web3D technologies. After briefly presenting the main Web3D technologies, we summarize the pedagogical basis that motivate their exploitation in the context of education and highlight their interesting features. We outline the main positive and negative results obtained so far, and point out some of the current research directions.
+ER  - 
+
+TY  - JOUR
+T1  - Design, development and assessment of control schemes for IDMS in a standardized RTCP-based solution
+AU  - Montagud, Mario
+AU  - Boronat, Fernando
+AU  - Stokking, Hans
+AU  - Cesar, Pablo
+JO  - Computer Networks
+VL  - 70
+SP  - 240
+EP  - 259
+PY  - 2014
+DA  - 2014/09/09/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2014.06.004
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128614002278
+KW  - Inter-Destination Media Synchronization
+KW  - RTP/RTCP
+KW  - Control schemes
+KW  - Simulation
+KW  - Distributed media consumption
+AB  - Currently, several media sharing applications that allow social interactions between distributed users are gaining momentum. In these networked scenarios, synchronized playout between the involved participants must be provided to enable truly interactive and coherent shared media experiences. This research topic is known as Inter-Destination Media Synchronization (IDMS). This paper presents the design and development of an advanced IDMS solution, which is based on extending the capabilities of RTP/RTCP standard protocols. Particularly, novel RTCP extensions, in combination with several control algorithms and adjustment techniques, have been specified to enable an adaptive, highly accurate and standard compliant IDMS solution. Moreover, as different control or architectural schemes for IDMS exist, and each one is best suited for specific use cases, the IDMS solution has been extended to be able to adopt each one of them. Simulation results prove the satisfactory responsiveness of our IDMS solution in a small scale scenario, as well as its consistent behavior, when using each one of the deployed architectural schemes.
+ER  - 
+
+TY  - JOUR
+T1  - Perseverations of the academy: A survey of wearable technologies applied to autism intervention
+AU  - Williams, Rua M.
+AU  - Gilbert, Juan E.
+JO  - International Journal of Human-Computer Studies
+VL  - 143
+SP  - 102485
+PY  - 2020
+DA  - 2020/11/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2020.102485
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581920300872
+KW  - Autism
+KW  - Wearable computing
+KW  - Affective computing
+KW  - Brain-computer interfaces
+KW  - Augmented reality
+KW  - Virtual reality
+AB  - The Combating Autism Act of 2006 and its reauthorization in 2014 produced unprecedented interest in autism research. Computer Science researchers have devoted considerable attention to applying wearable technologies to existing autism interventions, as well as producing new forms of intervention. Many of these applications base their approach in popular conceptions of autism, leading the work to focus predominantly on social skills training. This survey reviews existing research inquiries and produces alternative research directions informed by emerging research in the fields of psychology, neurology, education, and critical disability studies. Wearable technologies may be uniquely suited to support and empower autistic people in sensorimotor integration, emotional regulation, executive function, communication, and other underrepresented domains of this misunderstood disability.
+ER  - 
+
+TY  - JOUR
+T1  - Presence, memory and interaction in virtual environments
+AU  - Sutcliffe, Alistair
+AU  - Gault, Brian
+AU  - Shin, Jae-Eun
+JO  - International Journal of Human-Computer Studies
+VL  - 62
+IS  - 3
+SP  - 307
+EP  - 327
+PY  - 2005
+DA  - 2005/03/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2004.11.010
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581904001430
+KW  - Virtual environment
+KW  - CAVE
+KW  - Interactive workbench
+KW  - Reality room
+KW  - Presence
+KW  - Memory
+KW  - Heuristics, manipulation tasks
+AB  - An experimental study is described, comparing presence, memory, and interaction in three different virtual environments: CAVE, Interactive WorkBench, and Reality Room. The aim of the experiment was to investigate possible relationships between these three parameters. It was found that the CAVE was remembered better, had better usability, and provided a better sense of presence to its users.
+ER  - 
+
+TY  - JOUR
+T1  - An experimental study on the role of graphical information about hand movement when interacting with objects in virtual reality environments
+AU  - Mason, Andrea H.
+JO  - Interacting with Computers
+VL  - 19
+IS  - 3
+SP  - 370
+EP  - 381
+PY  - 2007
+DA  - 2007/05/01/
+SN  - 0953-5438
+DO  - https://doi.org/10.1016/j.intcom.2006.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0953543806001792
+KW  - Virtual reality
+KW  - Kinematic data
+KW  - Graphical feedback
+KW  - Sensory information
+KW  - Empirical data
+KW  - Interaction
+AB  - In this series of experiments, we investigated whether a crude representation of the hand that was extinguished at movement onset improved performance when compared to a no-feedback situation. Subjects performed simple reach to grasp movements in a virtual environment in two experiments. In Experiment 1, trials were blocked so that subjects were aware that a graphical representation of the hand would either be available throughout the movement (FA), be removed at movement onset (FAB), or not be available (NF). In Experiment 2, trials were randomized so that subjects were unaware of whether feedback would be available throughout the trial or removed at movement onset. Our results indicated that when subjects were aware of the availability of graphical feedback, the FAB condition improved performance compared to the NF condition. Furthermore, movement time was similar in the two feedback available conditions (FA, FAB). In contrast, for the randomized trial presentation, the positive influence of the FAB condition was diminished. These results suggest that visual feedback available prior to movement onset can be used to calibrate the proprioceptive system and improve performance over a no feedback situation. These results can be applied by designers of virtual environments to solve problems related to occlusion of important environmental information by the hand as users reach to grasp and manipulate objects.
+ER  - 
+
+TY  - JOUR
+T1  - Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy
+AU  - Dwivedi, Yogesh K.
+AU  - Hughes, Laurie
+AU  - Baabdullah, Abdullah M.
+AU  - Ribeiro-Navarrete, Samuel
+AU  - Giannakis, Mihalis
+AU  - Al-Debei, Mutaz M.
+AU  - Dennehy, Denis
+AU  - Metri, Bhimaraya
+AU  - Buhalis, Dimitrios
+AU  - Cheung, Christy M.K.
+AU  - Conboy, Kieran
+AU  - Doyle, Ronan
+AU  - Dubey, Rameshwar
+AU  - Dutot, Vincent
+AU  - Felix, Reto
+AU  - Goyal, D.P.
+AU  - Gustafsson, Anders
+AU  - Hinsch, Chris
+AU  - Jebabli, Ikram
+AU  - Janssen, Marijn
+AU  - Kim, Young-Gab
+AU  - Kim, Jooyoung
+AU  - Koos, Stefan
+AU  - Kreps, David
+AU  - Kshetri, Nir
+AU  - Kumar, Vikram
+AU  - Ooi, Keng-Boon
+AU  - Papagiannidis, Savvas
+AU  - Pappas, Ilias O.
+AU  - Polyviou, Ariana
+AU  - Park, Sang-Min
+AU  - Pandey, Neeraj
+AU  - Queiroz, Maciel M.
+AU  - Raman, Ramakrishnan
+AU  - Rauschnabel, Philipp A.
+AU  - Shirish, Anuragini
+AU  - Sigala, Marianna
+AU  - Spanaki, Konstantina
+AU  - Wei-Han Tan, Garry
+AU  - Tiwari, Manoj Kumar
+AU  - Viglia, Giampaolo
+AU  - Wamba, Samuel Fosso
+JO  - International Journal of Information Management
+VL  - 66
+SP  - 102542
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0268-4012
+DO  - https://doi.org/10.1016/j.ijinfomgt.2022.102542
+UR  - https://www.sciencedirect.com/science/article/pii/S0268401222000767
+KW  - Avatars
+KW  - Augmented reality
+KW  - Extended reality
+KW  - Metaverse
+KW  - Second life
+KW  - Virtual reality
+KW  - Virtual world
+AB  - The metaverse has the potential to extend the physical world using augmented and virtual reality technologies allowing users to seamlessly interact within real and simulated environments using avatars and holograms. Virtual environments and immersive games (such as, Second Life, Fortnite, Roblox and VRChat) have been described as antecedents of the metaverse and offer some insight to the potential socio-economic impact of a fully functional persistent cross platform metaverse. Separating the hype and “meta…” rebranding from current reality is difficult, as “big tech” paints a picture of the transformative nature of the metaverse and how it will positively impact people in their work, leisure, and social interaction. The potential impact on the way we conduct business, interact with brands and others, and develop shared experiences is likely to be transformational as the distinct lines between physical and digital are likely to be somewhat blurred from current perceptions. However, although the technology and infrastructure does not yet exist to allow the development of new immersive virtual worlds at scale - one that our avatars could transcend across platforms, researchers are increasingly examining the transformative impact of the metaverse. Impacted sectors include marketing, education, healthcare as well as societal effects relating to social interaction factors from widespread adoption, and issues relating to trust, privacy, bias, disinformation, application of law as well as psychological aspects linked to addiction and impact on vulnerable people. This study examines these topics in detail by combining the informed narrative and multi-perspective approach from experts with varied disciplinary backgrounds on many aspects of the metaverse and its transformational impact. The paper concludes by proposing a future research agenda that is valuable for researchers, professionals and policy makers alike.
+ER  - 
+
+TY  - JOUR
+T1  - Knowledge-intensive business services in time of crisis: the coronavirus pandemic
+AU  - Miles, Ian Douglas
+AU  - Belousova, Veronika
+AU  - Chichkanov, Nikolay
+AU  - Krayushkina, Zhaklin
+JO  - Foresight
+VL  - 23
+IS  - 2
+SP  - 125
+EP  - 153
+PY  - 2021
+DA  - 2021/03/05/
+SN  - 1463-6689
+DO  - https://doi.org/10.1108/FS-07-2020-0066
+UR  - https://www.sciencedirect.com/science/article/pii/S1463668921000146
+KW  - Knowledge-Intensive Business Services KIBS
+KW  - Pandemic
+KW  - COVID-19
+KW  - Contract Research Organisations CRO
+AB  - Purpose
+Knowledge-intensive business services (KIBS) firms focus on applying their expert knowledge to help solve the business problems of their clients: these clients confronted major new problems due to the COVID-19 pandemic and policy measures such as social distancing and travel restrictions, designed to reduce the rapid spread of the illness. Many KIBS were reliant upon extensive contact with clients, and within teams working on projects; they found their practices disrupted. This study aims to examine how KIBS are evolving to cope with both the sets of changes: those in their own operations, and those involving the emerging business problems of clients.
+Design/methodology/approach
+The main data sources are material contained in websites of a sample of leading firms in a range of KIBS sectors, and in media reports and other documentation of efforts to confront the pandemic.
+Findings
+The results indicate considerable efforts in KIBS to address emerging client problems, as well as to adapt their own practices. Their substantial role in confronting the pandemic and associated business difficulties has implications for future crises. KIBS are likely to be important players in shaping responses not only to future pandemics but also to the looming climate crisis.
+Originality/value
+The study demonstrates the growing role of KIBS and their “second knowledge infrastructure” in modern economies, exemplified by their role in the context of an emerging crisis.
+ER  - 
+
+TY  - JOUR
+T1  - Human–computer interaction: Interdisciplinary roots and trends
+AU  - Rex Hartson, H.
+JO  - Journal of Systems and Software
+VL  - 43
+IS  - 2
+SP  - 103
+EP  - 118
+PY  - 1998
+DA  - 1998/11/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/S0164-1212(98)10026-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121298100262
+AB  - Methodology, theory, and practice in the field of Human–Computer Interaction (HCI) all share the goal of producing interactive software that can be used efficiently, effectively, safely, and with satisfaction. HCI is cross-disciplinary in its conduct and multidisciplinary in its roots. The central concept of HCI is usability, ease of use plus usefulness. Achieving good usability requires attention to both product and development process, particularly for the user interaction design, which should serve as requirements for the user interface software component. This paper reviews some of the theory and modeling supporting the practice of HCI, development life cycles and activities, and much of the practice that constitutes “usability engineering”. Future application areas of interest in HCI include new interaction styles, virtual environments, the World Wide Web, information visualization, and wearable computing.
+ER  - 
+
+TY  - JOUR
+T1  - Autonomous network management for 6G communication: a comprehensive survey
+AU  - Ullah, Inam
+AU  - Arishi, Ali
+AU  - Singh, Sushil Kumar
+AU  - Alharbi, Faisal
+AU  - Ibrahim, Anwar Hassan
+AU  - Islam, Muhammad
+AU  - Daradkeh, Yousef Ibrahim
+AU  - Choi, Chang
+JO  - Digital Communications and Networks
+PY  - 2025
+DA  - 2025/07/10/
+SN  - 2352-8648
+DO  - https://doi.org/10.1016/j.dcan.2025.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S2352864825001129
+KW  - Autonomous network management
+KW  - AI
+KW  - 6G communication
+KW  - NFV
+KW  - SDN
+KW  - Networks
+KW  - Machine learning
+AB  - The rapid advancement of 6G communication networks presents both considerable problems and opportunities in network management, necessitating sophisticated solutions that extend beyond conventional methods. This study seeks to investigate and evaluate autonomous network management solutions designed for 6G communication networks, highlighting their technical advantages and potential implications. We examine the role of Artificial Intelligence (AI), Machine Learning (ML), and network automation in facilitating self-organization, optimization, and decision-making within critical network domains, including spectrum management, traffic load balancing, fault detection, and security and privacy. We examine the integration of edge computing and Distributed Ledger Technologies (DLT), specifically blockchain, to improve trust, transparency, and security in autonomous networks. This study provides a comprehensive understanding of the technological developments driving fully autonomous, efficient, and resilient 6G network infrastructures by methodically analyzing existing methodologies, identifying significant research gaps, and exploring potential prospects. The results offer significant insights for researchers, engineers, and industry experts involved in the development and deployment of advanced autonomous network management systems.
+ER  - 
+
+TY  - JOUR
+T1  - A study on remote-controlled microscopy for enhanced surgical visualisation: The precision vision digiscope
+AU  - Satushe, Vaidehi
+AU  - Vyas, Vibha
+AU  - Gujar, Preshit
+AU  - Kadam, Vishwajeet
+AU  - Sarode, Sayali
+JO  - Interdisciplinary Neurosurgery
+VL  - 40
+SP  - 102044
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 2214-7519
+DO  - https://doi.org/10.1016/j.inat.2025.102044
+UR  - https://www.sciencedirect.com/science/article/pii/S2214751925000568
+KW  - Neurosurgery
+KW  - Remote-Controlled Microscopy
+KW  - Surgical Visualisation
+KW  - Precision Vision
+KW  - Digiscope
+AB  - Objective
+To assess the Precision Vision Digiscope’s ability to improve surgical visualization, accuracy, and workflow efficiency.
+Methods
+A mixed-methods study incorporating both quantitative metrics intraoperative diagnosis accuracy, procedure time, error rates and qualitative insights surgeon feedback, usability surveys, obtained during simulated and real surgical cases in several neurosurgery departments.
+Results
+The use of Digiscope was characterized by significant improvements in surgical precision, operation time, error rate, and surgeons were pleased with the visualization and ergonomics.
+Conclusions
+Unlike traditional methods of capturing surgical images, the use of remote-controlled microscopy with the Precision Vision Digiscope is shown to dramatically improve surgical visualization and efficiency and suggests further clinical application. More study is needed to determine long-term benefits and wider applicability.
+ER  - 
+
+TY  - JOUR
+T1  - The Immersive Virtual Environment of the digital fulldome: Considerations of relevant psychological processes
+AU  - Schnall, Simone
+AU  - Hedge, Craig
+AU  - Weaver, Ruth
+JO  - International Journal of Human-Computer Studies
+VL  - 70
+IS  - 8
+SP  - 561
+EP  - 575
+PY  - 2012
+DA  - 2012/08/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2012.04.001
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581912000523
+KW  - Digital fulldome
+KW  - Immersive Virtual Environment
+KW  - Virtual reality
+KW  - Presence
+KW  - Immersion
+KW  - Psychology
+KW  - Learning
+AB  - One of the most recent additions to the range of Immersive Virtual Environments has been the digital fulldome. However, not much empirical research has been conducted to explore its potential and benefits over other types of presentation formats. In this review we provide a framework within which to examine the properties of fulldome environments and compare them to those of other existing immersive digital environments. We review the state-of-the-art of virtual reality technology, and then survey core areas of psychology relevant to experiences in the fulldome, including visual perception, attention, memory, social factors and individual differences. Building on the existing research within these domains, we propose potential directions for empirical investigation that highlight the great potential of the fulldome in teaching, learning and research.
+ER  - 
+
+TY  - JOUR
+T1  - Teaching Methodology for Virtual Reality Practical Course in Engineering Education
+AU  - Häfner, Polina
+AU  - Häfner, Victor
+AU  - Ovtcharova, Jivka
+JO  - Procedia Computer Science
+VL  - 25
+SP  - 251
+EP  - 260
+PY  - 2013
+DA  - 2013/01/01/
+T2  - 2013 International Conference on Virtual and Augmented Reality in Education
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2013.11.031
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050913012362
+KW  - virtual reality
+KW  - higher education
+KW  - teaching methodology
+KW  - practical course
+KW  - interdisciplinary student project
+AB  - Virtual reality is widely used in the industry and is becoming more and more affordable for end users. At the same time higher education students want to be well-prepared for their professional life and expect more courses with practical application of theoretical knowledge acquired during their studies. Moreover, they benefit greatly when having the possibility to improve their soft skills. This paper presents the teaching methodology for a practical course in virtual reality for graduate and undergraduate students. The course design focuses on learning about virtual reality by simulating interdisciplinary industrial projects and it aims at developing skills such as methodical approach to practical engineering problems, teamwork, working in interdisciplinary groups and time management. In addition the paper discusses the importance of the course design, task specification and work group composition for a successful realization of the course and refers to some project examples from the past three years.
+ER  - 
+
+TY  - JOUR
+T1  - Effects of visual cue state and type on the mobile user interface of shopping apps with 360° panoramas
+AU  - Chen, Chien-Hsiung
+AU  - Zhai, Weimin
+JO  - Displays
+VL  - 80
+SP  - 102525
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0141-9382
+DO  - https://doi.org/10.1016/j.displa.2023.102525
+UR  - https://www.sciencedirect.com/science/article/pii/S0141938223001580
+KW  - Visual cue
+KW  - Shopping apps
+KW  - Dynamic cue
+KW  - 360° panoramas
+KW  - User experience
+AB  - With the development of modern technology, various shopping apps have emerged, and at the same time, the user interface of shopping apps is constantly being optimized to enhance users’ online shopping experience; in shopping apps, an excellent visual cue design can effectively guide users to quickly complete the process of their visual cognitive processing. The purpose of this study was to explore the usability of visual cue and presentation type in the operation of shopping apps in 360° images and to propose design suggestions for future improvements. A 2 × 3 between-subject design was planned to help explore whether different visual cue states (i.e., dynamic and static cues) and different visual cue presentation types (i.e., dot cue, gesture cue, and cartoon cue) may affect users' task performance and their subjective evaluations. The experiment adopted the purposive sampling method. A total of 60 participants were recruited to take part in the experiment. The experimental data were collected pertinent to task completion time, the system usability scale (SUS), subjective evaluation questionnaires created using a 7-point Likert scale, and semi-structured interviews. The generated results revealed that: (1) Different visual cue states may affect users' performance. (2) Different visual cue presentation types significantly affect users' task performance. Static cues improved users' task performance more than dynamic cues in the visual cue presentation type of dot or cartoon. However, the result was the opposite in the gesture condition. (3) Concerning subjective evaluations of the degree of reasonableness, acceptance, and willingness to use in the condition of the visual cue presentation, the dot or gesture cues are significantly better than the cartoon cue. (4) Among the different visual cue presentation types, participants had a greater preference for the gesture cue. (5) In terms of the degree of reasonableness, acceptance, preference and willingness to use, participants preferred the dynamic cue to the static cue in the condition of the visual cue presentation type of the dot or gesture. However, the opposite result was obtained for the cartoon visual cue presentation type. The findings generated from the research can be a good reference for the development of visual cue design for mobile shopping apps.
+ER  - 
+
+TY  - JOUR
+T1  - Tangible digital twin with shared visualization for collaborative air traffic management operations
+AU  - Chen, Ken
+AU  - Nadirsha, Thaivalappil N.M.
+AU  - Lilith, Nimrod
+AU  - Alam, Sameer
+AU  - Svensson, Åsa
+JO  - Transportation Research Part C: Emerging Technologies
+VL  - 161
+SP  - 104546
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0968-090X
+DO  - https://doi.org/10.1016/j.trc.2024.104546
+UR  - https://www.sciencedirect.com/science/article/pii/S0968090X24000676
+KW  - Mixed reality
+KW  - Air traffic management
+KW  - Tangible airport digital tower
+KW  - Human–machine interface
+KW  - Human factors analysis
+AB  - In recent years, digital twin technology has become increasingly popular and been widely applied across different industries including air traffic management (ATM). While previous studies on digital twin in ATM focused on factors such as system architecture, synthetic data generation and transfer, and real-time simulation, there is currently a lack of research on visualization and interaction design of digital twin from human factors’ perspective. Moreover, recent advances in virtual and mixed reality (VR/MR) technology give potential for designing interactive digital twin in 3D space that can assist human operators in performing their duties. Therefore, this research aims to explore visualization and interaction design of an MR-based digital twin prototype that can assist air traffic controllers (ATCOs) in carrying out ground control tasks. Specifically, MR headsets (Microsoft HoloLens 2) are leveraged to project out-of-tower view of airport traffic onto a 3D printed airport model at a 1:1 scale. The spatially aligned tangible system enables ATCOs to perform typical ATM operations by directly touching the 3D printed airport model. In addition, collaborative features are implemented into the system, which enable multiple ATCOs to have a shared view of the airport traffic and collaboratively perform ATM operations when wearing the MR headsets. Finally, a user study was conducted with the recruitment of ten licensed ATCOs to investigate usability of the system and ATCOs’ workload, situational awareness and trust when using the system. The feedback from the ATCOs in the user study suggested that: (1) The visual and interactive design were acceptable; (2) The ATCOs indicated varied workload under different scenarios; (3) The ATCOs developed a high level of shared situational awareness with shared view of the system; and (4) The ATCOs were open and confident to use the system in its’ mature form. The findings show that the MR-based tangible airport digital tower system has high potential in collaborative ATM operations by improving user performance and user experience.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating lean thinking into crane operator training with a digital coach to enhance safety and productivity in virtual environments
+AU  - Chen, Junyu
+AU  - Man, Furui
+AU  - Han, Shuai
+AU  - Kim, Minkoo
+AU  - Du, Qianru
+AU  - Chi, Hung-Lin
+JO  - Automation in Construction
+VL  - 178
+SP  - 106430
+PY  - 2025
+DA  - 2025/10/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2025.106430
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580525004704
+KW  - Lean construction
+KW  - Full immersion VR
+KW  - Digital coach
+KW  - Roguelike
+KW  - Value stream mapping
+AB  - Crane accidents often stem from operator failure in maintaining safety under productivity pressures. Virtual reality (VR) enables realistic simulation of construction scenarios that reflect both safety and productivity concerns, offering significant potential to improve operation training performance. However, establishing VR-based training that integrates the instruction on these dual dimensions, remains underexplored. This paper investigates how a digital coach can be developed and implemented to deliver integrated training for novice crane operators in navigating safety hazards under productivity pressures. A virtual training scenario was built guided by the lean concept of autonomation. A training protocol based on value stream mapping (VSM) informed the digital coaching process, using lean indicators like waste time to identify the integrated training performance. The proposed coaching approach was evaluated in a before-after training experiment. Results demonstrate that integrating lean thinking boosts training efficiency and effectiveness, improving both safety and productivity performance among participants in virtual environments.
+ER  - 
+
+TY  - JOUR
+T1  - Generating common spaces through virtual reality telepresence and shared scene synthesis
+AU  - Okhovvat, Maryam
+AU  - Andaroodi, Elham
+AU  - Okhovvat, Morteza
+JO  - Journal of Building Engineering
+VL  - 91
+SP  - 109508
+PY  - 2024
+DA  - 2024/08/15/
+SN  - 2352-7102
+DO  - https://doi.org/10.1016/j.jobe.2024.109508
+UR  - https://www.sciencedirect.com/science/article/pii/S2352710224010763
+KW  - Generative model
+KW  - Scene synthesis
+KW  - Spatial computing
+KW  - Telepresence
+KW  - Virtual reality
+AB  - This study aims to create a shared virtual space for remote telepresence, expanding the range of activities beyond traditional 2D screen-based communication. The challenge lies in seamlessly connecting the virtual and physical environments, enabling free movement and interaction. To address this, in the proposed approach advanced techniques in scene understanding, spatial mapping, and virtual environment generation are employed. Primary data is collected from each participant's space, analyzing crucial information like object placement, room layouts, and interactive elements. This forms the basis for generating a virtual scene that aligns with these features, creating a unified environment. The proposed approach ensures compatibility and meets participants' needs by utilizing a shared function optimization module. Additionally, it enhances the scene further through the use of deep-learning and conditional techniques. The created scene optimally supports shared functionalities for walking, sitting, and working, all of which mirror the physical objects present in the users' actual surroundings. Experiments using the MatterPort3D dataset evaluate the proposed approach, alongside a comparative user study. Results demonstrate the potential of the proposed approach in overcoming challenges of remote telepresence, enabling immersive and interactive experiences in the virtual space. In conclusion, this research tackles the problem of creating a shared virtual space for remote telepresence. Analyzing input data and employing advanced techniques generates a coherent virtual scene.
+ER  - 
+
+TY  - JOUR
+T1  - Interactive surface-guided segmentation of brain MRI data
+AU  - Levinski, Konstantin
+AU  - Sourin, Alexei
+AU  - Zagorodnov, Vitali
+JO  - Computers in Biology and Medicine
+VL  - 39
+IS  - 12
+SP  - 1153
+EP  - 1160
+PY  - 2009
+DA  - 2009/12/01/
+SN  - 0010-4825
+DO  - https://doi.org/10.1016/j.compbiomed.2009.10.008
+UR  - https://www.sciencedirect.com/science/article/pii/S001048250900184X
+KW  - Segmentation
+KW  - MRI data
+KW  - Brain
+KW  - 3D visualization
+AB  - MRI segmentation is a process of deriving semantic information from volume data. For brain MRI data, segmentation is initially performed at a voxel level and then continued at a brain surface level by generating its approximation. While successful most of the time, automated brain segmentation may leave errors which have to be removed interactively by editing individual 2D slices. We propose an approach for correcting these segmentation errors in 3D modeling space. We actively use the brain surface, which is estimated (potentially wrongly) in the automated FreeSurfer segmentation pipeline. It allows us to work with the whole data set at once, utilizing the context information and correcting several slices simultaneously. Proposed heuristic editing support and automatic visual highlighting of potential error locations allow us to substantially reduce the segmentation time. The paper describes the implementation principles of the proposed software tool and illustrates its application.
+ER  - 
+
+TY  - JOUR
+T1  - Rise of the Metaverse’s Immersive Virtual Reality Malware and the Man-in-the-Room Attack & Defenses
+AU  - Vondráček, Martin
+AU  - Baggili, Ibrahim
+AU  - Casey, Peter
+AU  - Mekni, Mehdi
+JO  - Computers & Security
+VL  - 127
+SP  - 102923
+PY  - 2023
+DA  - 2023/04/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2022.102923
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404822003157
+KW  - Emerging technologies
+KW  - Network-level security and protection
+KW  - Network communications
+KW  - Network Protocols
+KW  - Protection mechanisms
+KW  - Quality analysis and evaluation
+KW  - System issues
+KW  - Security and Privacy Protection
+KW  - Authentication
+KW  - Communications Applications
+KW  - Virtual reality
+KW  - Security and Protection
+KW  - Artificial, augmented, and virtual realities
+KW  - Invasive software (viruses, worms, Trojan horses)
+KW  - Unauthorized access (hacking, phreaking)
+AB  - The allure of the metaverse along with Virtual Reality (VR) technologies and speed at which they are deployed may shift focus away from security and privacy fundamentals. In this work we employ classic exploitation techniques against cutting edge devices to obtain equally novel results. The unique features of the Virtual Reality landscape set the stage for our primary account of a new attack, the Man-in-the-Room (MitR). This attack, realized from a vulnerable social networking application led to both worming and botnet capabilities being adapted for VR with potential critical impacts affecting millions of users. Our work improves the state-of-the-art in Virtual Reality (VR) security and socio-technical research in VR. It shares several analytical and attacking tools, example exploits, evaluation dataset, and vulnerability signatures with the scientific and professional communities to ensure secure VR software development. The presented results demonstrate the detection and prevention of VR vulnerabilities, and raise questions in the law and policy domains pertaining to VR security and privacy.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical study to investigate the efficacy of collaborative immersive virtual reality systems for designing information architecture of software systems
+AU  - Narasimha, Shraddhaa
+AU  - Dixon, Emma
+AU  - Bertrand, Jeffrey W.
+AU  - Chalil Madathil, Kapil
+JO  - Applied Ergonomics
+VL  - 80
+SP  - 175
+EP  - 186
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0003-6870
+DO  - https://doi.org/10.1016/j.apergo.2019.05.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0003687019300936
+KW  - Computer-supported collaborative work
+KW  - Virtual reality
+KW  - Immersive systems
+KW  - Information architecture design
+KW  - Card sorting
+AB  - The ability of Immersive Virtual Reality (IVR) systems to mimic the real world has made it possible to use this technology to create environments for remote collaborative work. This study aimed to understand the feasibility of immersive virtual reality when conducting a collaborative Information Architecture (IA) design task-card sorting, with geographically dispersed participants. Using a between-subjects experimental design, thirty groups of two individuals each completed a card sorting activity using conventional in-person, video screen-sharing method or immersive virtual reality methods. The dependent measures included total time, percentage match with master card set, usability, presence and perceived workload. Overall usability was found to be significantly higher for the immersive virtual reality condition when compared to conventional in-person card sorting. In addition, the new immersive virtual reality technology performed as well as the other two conditions for other dependent variables. Qualitative data from the participants also indicated a positive reaction to the use of immersive virtual reality for this task. Overall, the participants felt they were productive and enjoyed the IVR condition, indicating the potential of IVR-based approaches as an alternative to conventional approaches for IA design.
+ER  - 
+
+TY  - JOUR
+T1  - A survey on pervasive education
+AU  - Lucke, Ulrike
+AU  - Rensing, Christoph
+JO  - Pervasive and Mobile Computing
+VL  - 14
+SP  - 3
+EP  - 16
+PY  - 2014
+DA  - 2014/10/01/
+T2  - Special Issue on Pervasive Education
+T2  - Special Issue on The Social Car: Socially-inspired Mechanisms for Future Mobility Services
+SN  - 1574-1192
+DO  - https://doi.org/10.1016/j.pmcj.2013.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S1574119213001521
+KW  - Pervasive learning
+KW  - Ubiquitous learning
+KW  - Mobile learning
+KW  - Contextualized learning
+KW  - Seamless learning
+KW  - E-learning
+KW  - E-teaching
+KW  - Context awareness
+KW  - Adaptivity
+KW  - Personalization
+KW  - Augmentation
+AB  - Researchers and developers worldwide have put their efforts into the design, development and use of information and communication technology to support teaching and learning. This research is driven by pedagogical as well as technological disciplines. The most challenging ideas are currently found in the application of mobile, ubiquitous, pervasive, contextualized and seamless technologies for education, which we shall refer to as pervasive education. This article provides a comprehensive overview of the existing work in this field and categorizes it with respect to educational settings. Using this approach, best practice solutions for certain educational settings and open questions for pervasive education are highlighted in order to inspire interested developers and educators. The work is assigned to different fields, identified by the main pervasive technologies used and the educational settings. Based on these assignments we identify areas within pervasive education that are currently disregarded or deemed challenging so that further research and development in these fields are stimulated in a trans-disciplinary approach.
+ER  - 
+
+TY  - JOUR
+T1  - Human-in-the-loop in smart manufacturing (H-SM): A review and perspective
+AU  - Kim, Duck Bong
+AU  - Bajestani, Mahdi Sadeqi
+AU  - Lee, Ju Yeon
+AU  - Shin, Seung-Jun
+AU  - Kim, Goo-Young
+AU  - Sajadieh, Seyed Mohammad Mehdi
+AU  - Noh, Sangdo
+JO  - Journal of Manufacturing Systems
+VL  - 82
+SP  - 178
+EP  - 199
+PY  - 2025
+DA  - 2025/10/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2025.05.020
+UR  - https://www.sciencedirect.com/science/article/pii/S027861252500144X
+KW  - Smart Manufacturing
+KW  - Industry 5.0
+KW  - Operator 5.0
+KW  - Human-in-the-Loop
+KW  - Digital Twin
+AB  - Smart manufacturing, also known as Industry 4.0, is a manufacturing paradigm that aims to realize autonomous processes, minimizing human involvement. In the advent of manufacturing-unfriendly situations (e.g., pandemics), it has been learned that the paradigm does not work correctly and has limitations in handling those situations. There is a consensus that humans still play a crucial role in manufacturing, and the ultimate goal of manufacturing is to benefit them. To align with this, the European Commission introduced Industry 5.0, targeting human centricity, sustainability, and resilience. Operator 5.0 has also been presented to improve the physical and cognitive capabilities of shop operators. In contrast, the new concept of human-in-the-loop in smart manufacturing (H-SM), aiming for the involvement of diverse stakeholders, has been recently proposed. In this paper, we introduce the research methodology to elaborate on the current application fields of the H-SM concept. For this, we revisit the existing paradigms and their case studies. Also, we categorize them in terms of different components in H-SM and with respect to different levels of physical and cognitive capabilities and experiences. Then, we identify seven technology clusters and twenty-one key-enabling technologies for the H-SM implementation. It can be concluded the H-SM is well-aligned with human-intervened autonomous manufacturing.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating VR Sickness and user experience using different HMD technologies: An evaluation study
+AU  - Somrak, Andrej
+AU  - Humar, Iztok
+AU  - Hossain, M. Shamim
+AU  - Alhamid, Mohammed F.
+AU  - Hossain, M. Anwar
+AU  - Guna, Jože
+JO  - Future Generation Computer Systems
+VL  - 94
+SP  - 302
+EP  - 316
+PY  - 2019
+DA  - 2019/05/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2018.11.041
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X18325044
+KW  - Virtual reality
+KW  - VR sickness
+KW  - Cybersickness
+KW  - User experience
+KW  - User study
+AB  - This paper presents results of a user study of the effects of virtual reality technology on VR Sickness and User Experience. In our study the participants watched two different panoramic (360) videos, one with relaxing content (beach clip) and second one with action content (roller coaster video clip). Videos were watched on four different head mounted displays (HMDs) and on the 2D television as a reference display. To assess VR Sickness discomfort levels, we have used the Simulator Sickness Questionnaire (SSQ), and for user experience the User Experience Questionnaire (UEQ) was used. For quick assessments of VR Sickness discomfort levels, we have also used Subjective Units of Distress Scale (SUDS). We have found a strong correlation between SUDS and total SSQ score and between total SSQ score and SSQ-D score. Shown negative correlation between VR Sickness discomfort levels (assessed by SSQ and UEQ Questionnaire), and user experience (assessed by UEQ Questionnaire), indicates that presence of VR Sickness symptoms affects the user experience.
+ER  - 
+
+TY  - JOUR
+T1  - On Human Robot Collaboration - A Survey on Cost Aspects
+AU  - Erbe, Heinz-H.
+JO  - IFAC Proceedings Volumes
+VL  - 37
+IS  - 5
+SP  - 167
+EP  - 172
+PY  - 2004
+DA  - 2004/06/01/
+T2  - 7th IFAC Symposium on Cost-Oriented Automation (COA 2004), Gatineau, Québec, Canada, 6-9 June 2004
+SN  - 1474-6670
+DO  - https://doi.org/10.1016/S1474-6670(17)32361-3
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667017323613
+KW  - intelligent assisting devices
+KW  - continuous variable transmission
+KW  - force feedback devices
+KW  - mixed reality
+KW  - human-robot communication
+AB  - Collaboration of human operators and automation systems like robots are under development for achieving more flexibility in production and for saving cost when avoiding repeated reconfiguration of the systems. Tele-operation is considered with the aspect of tactile interaction over remote workplaces supporting maintenance. Robots are presented to relieve workers from physical load together with path guiding assistance. Recent research results of robot assistants of workers at shared workplaces are discussed with respect to their implementation in industry.
+ER  - 
+
+TY  - JOUR
+T1  - New Trends in Rapid Product Development
+AU  - Bernard, Alain
+AU  - Fischer, A.
+JO  - CIRP Annals
+VL  - 51
+IS  - 2
+SP  - 635
+EP  - 652
+PY  - 2002
+DA  - 2002/01/01/
+SN  - 0007-8506
+DO  - https://doi.org/10.1016/S0007-8506(07)61704-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0007850607617041
+KW  - Rapid product development
+KW  - technology modeling
+KW  - data integration
+AB  - This keynote paper presents an overview of new approaches in rapid product development from the design point of view. The evolution of the market has necessitated the reduction of time-to-market, mainly because the product life cycle is shorter, but also because it is very important to proceed more rapidly from an initial conception to a mass production object. As a result of newly evolved software environments, knowledge-based systems, and product data management, processes for integrated design and manufacturing for new products have emerged. Due to this evolution of rapid prototyping technologies, it has become possible today to obtain parts representative of mass production within a very short time. This keynote paper provides an overview of the actual trends in all the components that affect the speed and efficiency of product development, in particular all the possibilities available to the designer, from the earliest stages of a product's life cycle.
+ER  - 
+
+TY  - JOUR
+T1  - An agent based synchronization scheme for multimedia applications
+AU  - Manvi, S.S.
+AU  - Venkataram, P.
+JO  - Journal of Systems and Software
+VL  - 79
+IS  - 5
+SP  - 701
+EP  - 713
+PY  - 2006
+DA  - 2006/05/01/
+T2  - Quality Software
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2005.08.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121205001330
+KW  - Multimedia
+KW  - Agents
+KW  - Stream synchronization
+KW  - Delay estimation
+KW  - IBM Aglets
+KW  - Playout
+AB  - Synchronization of multimedia streams is one of the important issue in multimedia communications. In this paper, we propose an adaptive synchronization agency for synchronization of streams by using an agent based approach. The synchronization agency triggers one of the three synchronization mechanisms, point synchronization or real-time continuous or adaptive synchronization in order to adapt to the run-time and life-time presentation requirements of an application. The scheme or agency employs static and mobile agents for the following purpose: to estimate the network delays in real-time based on sustainable stream loss, to compute the skew, to monitor the loss and estimate the playout times of the presentation units. We have experimentally evaluated the scheme by using IBM Aglets and verified its functioning in terms of synchronization loss and mean buffering delays. The benefits of this agent based scheme are: asynchronous and autonomous delay estimation, flexibility, adaptability, software re-usability and maintainability.
+ER  - 
+
+TY  - JOUR
+T1  - Virtual reality as a tool for verification of assembly and maintenance processes
+AU  - Gomes de Sá, Antonino
+AU  - Zachmann, Gabriel
+JO  - Computers & Graphics
+VL  - 23
+IS  - 3
+SP  - 389
+EP  - 403
+PY  - 1999
+DA  - 1999/06/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(99)00047-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849399000473
+KW  - Virtual environments
+KW  - Virtual prototyping
+KW  - Digital mock-ups
+KW  - Assembly and maintenance process
+KW  - User acceptance
+KW  - Direct manipulation
+AB  - Business process re-engineering is becoming a main focus in today's efforts to overcome problems and deficits in the automotive and aerospace industries (e.g., integration in international markets, product complexity, increasing number of product variants, reduction in product development time and cost). In this paper, we investigate the steps needed to apply virtual reality (VR) for virtual prototyping (VP) to verify assembly and maintenance processes. After a review of today's business process in vehicle prototyping, we discuss CAD-VR data integration and identify new requirements for design quality. We present several new interaction paradigms so that engineers and designers can experiment naturally with the prototype. Finally, a user survey evaluates some of the paradigms and the acceptance and feasability of virtual prototyping for our key process. The results show that VR will play an important role for VP in the near future.
+ER  - 
+
+TY  - JOUR
+T1  - Visual perception, language and gesture: A model for their understanding in multimodal dialogue systems
+AU  - Landragin, Frédéric
+JO  - Signal Processing
+VL  - 86
+IS  - 12
+SP  - 3578
+EP  - 3595
+PY  - 2006
+DA  - 2006/12/01/
+T2  - Special Section: Multimodal Human-Computer Interfaces
+SN  - 0165-1684
+DO  - https://doi.org/10.1016/j.sigpro.2006.02.046
+UR  - https://www.sciencedirect.com/science/article/pii/S0165168406001368
+KW  - Multimodal communication
+KW  - Visual perception
+KW  - Pointing gesture
+KW  - Natural language processing
+KW  - Reference to objects
+KW  - Salience
+KW  - Interpretation modeling
+AB  - The way we see the objects around us determines speech and gestures we use to refer to them. The gestures we produce structure our visual perception. The words we use have an influence on the way we see. In this manner, visual perception, language and gesture present multiple interactions between each other. The problem is global and has to be tackled as a whole in order to understand the complexity of reference phenomena and to deduce a formal model. This model may be useful for any kind of human–machine dialogue system that focuses on deep comprehension. We show how a referring act takes place in a contextual subset of objects. This subset is called ‘reference domain’ and is implicit. It can be deduced from a lot of clues. Among these clues are those which come from the visual context and those which come from the multimodal utterance. We present the ‘multimodal reference domain’ model that takes these clues into account and that can be exploited in a multimodal dialogue system when interpreting.
+ER  - 
+
+TY  - JOUR
+T1  - Human trust effect in remote human–robot collaboration construction task for different level of automation
+AU  - Guo, Xiaotong
+AU  - Liu, Yuhan
+AU  - Ma, Xiaofeng
+AU  - Fu, Hanliang
+JO  - Advanced Engineering Informatics
+VL  - 68
+SP  - 103647
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2025.103647
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034625005403
+KW  - Human trust in robot
+KW  - Level of automation
+KW  - Inspection robot
+KW  - Construction task attribute
+KW  - Virtual reality
+KW  - Electroencephalogram
+AB  - The collaborative work model between humans and robots is emerging as a critical method for troubleshooting in confined spaces in the engineering field, where operators’ trust in inspection robots has a significant influence on their performance. Therefore, this study investigates the mechanisms by which inspection robot automation levels and task attributes affect trust, as well as how these factors influence collaborative performance. This study simulated a pipeline malfunction inspection scenario and collected physiological metrics from participants during the collaboration process using electroencephalogram (EEG) technology to measure operators’ levels of trust in inspection robots. The study’s findings indicate that i) operators achieve better collaboration performance when working with highly automated inspection robots. ii) Trust mediates the effect of inspection robot automation levels on collaborative performance. Compared to low levels of automation, individuals exhibit higher levels of trust in highly automated robots, resulting in improved collaboration performance. Moreover, even when the inspection robot reports an error, operators tend to trust robots with higher levels of automation. iii) After incorporating task workload and time pressure as task attributes, the results indicate that task workload negatively moderates the process by which inspection robot automation levels influence collaborative trust. In contrast, time pressure does not affect this process. This study reveals how the level of automation of inspection robots affects collaborative performance and the underlying trust mechanisms.
+ER  - 
+
+TY  - JOUR
+T1  - Ergonomic workplace design based on real-time integration between virtual and augmented realities
+AU  - Chu, Chih-Hsing
+AU  - Pan, Jie-Ke
+AU  - Chen, Yen-Wei
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 92
+SP  - 102859
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2024.102859
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584524001467
+KW  - Augmented reality
+KW  - Virtual reality
+KW  - Ergonomic evaluation
+KW  - Workplace design
+KW  - Human Posture
+KW  - Manual assembly
+AB  - Virtual Reality (VR) and Augmented Reality (AR) technologies have been separately applied to enhance a wide range of design and manufacturing operations across various industries. Most VR applications are primarily focused on product prototyping and personnel training, whereas AR is commonly used to facilitate manual operations in manufacturing such as assembly and maintenance tasks. This study proposes a novel concept of real-time integration between VR and AR scenes to leverage their individual advantages. A prototyping system is implemented based on this concept to enhance workplace ergonomics in the overhead assembly of car bodies. An operator undergoes the assembly training at a virtual workstation within VR, while an ergonomics expert evaluates the operator's actions from a third-person viewpoint using AR. The expert can iteratively adjust the workstation setup, supported by automatic human posture recognition and biomechanical analysis, to reduce the risk of musculoskeletal injuries during the process. An exemplary case demonstrates the practical value of real-time collaborative applications between VR and AR in the context of human-centric smart manufacturing. A usability study is conducted to verify the prototyping system using both subjective and objective measures. Integrating various reality technologies serves as an effective approach to improving human well-being in the manufacturing environment.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring the confluence of bioinspired technologies and the metaverse: Business and societal implications in the anthropocene era
+AU  - Xu, Cheng
+AU  - Sun, Yanqi
+AU  - Tao, Yidong
+AU  - Zhao, Bingqing
+AU  - Hu, Renda
+AU  - Jiu, Lili
+JO  - Journal of Cleaner Production
+VL  - 450
+SP  - 141873
+PY  - 2024
+DA  - 2024/04/15/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2024.141873
+UR  - https://www.sciencedirect.com/science/article/pii/S0959652624013210
+KW  - Bioinspired technologies
+KW  - Metaverse
+KW  - Anthropocene era
+KW  - Sustainability
+KW  - Ethics
+AB  - In the Anthropocene era, characterized by sustainability and environmental challenges, the Metaverse emerges as a virtual alternative with the potential to reduce the ecological footprint while enhancing human experiences. However, the development of Metaverse encounter unprecedented technical, social, and ethical challenges. Bioinspired technologies, referring to those developed with inspiration from the biological world, have demonstrated successful applications across various fields and show potential in addressing challenges within the Metaverse. This paper explores the integration of bioinspired technologies with the Metaverse, focusing on its social and ethical implications. It proposes a conceptual model for a bioinspired Metaverse, elucidating how bioinspired technologies may shape the evolution of the Metaverse through four dimensions: Enhancement of User Interaction, Promotion of Digital Inclusivity, Advancement of Sustainable Development, and Guidance of Ethical Considerations. This paper makes a significant contribution by adopting an innovative context - the bioinspired Metaverse - that facilitates a deeper reexamination of the relationship among technology, nature, and human society through interdisciplinary discussion.
+ER  - 
+
+TY  - JOUR
+T1  - Human-machine Collaboration in Virtual Reality for Adaptive Production Engineering
+AU  - de Giorgio, Andrea
+AU  - Romero, Mario
+AU  - Onori, Mauro
+AU  - Wang, Lihui
+JO  - Procedia Manufacturing
+VL  - 11
+SP  - 1279
+EP  - 1287
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 27th International Conference on Flexible Automation and Intelligent Manufacturing, FAIM2017, 27-30 June 2017, Modena, Italy
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2017.07.255
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978917304638
+KW  - Virtual Reality
+KW  - Augmented Reality
+KW  - Unity Game Engine
+KW  - Human-Robot Collaboration
+KW  - Industry 4.0
+KW  - Robotics
+KW  - Adaptive Production
+AB  - This paper outlines the main steps towards an open and adaptive simulation method for human-robot collaboration (HRC) in production engineering supported by virtual reality (VR). The work is based on the latest software developments in the gaming industry, in addition to the already commercially available hardware that is robust and reliable. This allows to overcome VR limitations of the industrial software provided by manufacturing machine producers and it is based on an open-source community programming approach and also leads to significant advantages such as interfacing with the latest developed hardware for realistic user experience in immersive VR, as well as the possibility to share adaptive algorithms. A practical implementation in Unity is provided as a functional prototype for feasibility tests. However, at the time of this paper, no controlled human-subject studies on the implementation have been noted, in fact, this is solely provided to show preliminary proof of concept. Future work will formally address the questions that are raised in this first run.
+ER  - 
+
+TY  - JOUR
+T1  - Analysing the public's beliefs, emotions and sentiments towards Metaverse workplace: A big-data qualitative inquiry
+AU  - Mahmoud, Ali B.
+JO  - Acta Psychologica
+VL  - 250
+SP  - 104498
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0001-6918
+DO  - https://doi.org/10.1016/j.actpsy.2024.104498
+UR  - https://www.sciencedirect.com/science/article/pii/S0001691824003767
+KW  - Metaverse workplace
+KW  - Digital transformation
+KW  - Big data
+KW  - public's beliefs and attitudes
+AB  - The Metaverse is gaining attention as a potential future workplace, and advancements in VR/AR technologies are set to revolutionise how we work and collaborate. Extensive research using big data is still needed to fully comprehend the public's perception of this emerging field. Grounded in the Technology Acceptance Model (TAM), the Diffusion of Innovations Theory (DIT), and Social Presence Theory (SPT), this study seeks to fill this knowledge gap. Using a methodology that involved machine learning and qualitative analysis of big data, the research gathered comments from social media users on widely viewed YouTube videos discussing the Metaverse workplace. The initial dataset, which contained 6982 comments, underwent thorough cleaning processes, resulting in the analysis of 2804 comments through thematic, emotion, and sentiment analyses. The process of the thematic analysis revealed that out of the total comments, 472 were unclassified, while the remaining 2332 helped structure the public's beliefs about the Metaverse workplace into four overarching themes: 1- benefits of flexibility and accessibility (37 %), highlighting VR's potential to transform workspaces, especially for creative fields and efficient space use; 2- Health concerns (26 %), including eye strain and physical discomfort from prolonged headset use; 3- data privacy and corporate control fears (20 %), reflecting worries over pervasive data collection and potential misuse of power; 4- scepticism over readiness and practicality (17 %), noting visual clarity challenges and ergonomic issues. The overall vibes about working in the Metaverse are mixed. While more than half the sentiments were positive, expressing contentment, curiosity and enthusiasm, there were also concerns about health effects, data privacy, and integration issues. The public recognises Metaverse's potential for remote work, desiring improvements in areas like visual clarity, ergonomics and productivity support before widespread adoption. This study is a pioneering effort in the field, providing a first-of-its-kind structure of the public's beliefs about the Metaverse workplace, drawing upon naturally occurring data. The findings not only contribute to the academic understanding of the Metaverse workplace but also have significant implications for society and practitioners for optimising the positive aspects to enhance overall acceptance in this relatively understudied field.
+ER  - 
+
+TY  - JOUR
+T1  - Output Tracking in First-Order Time-Delay Systems: A Dynamic Control Approach
+AU  - Ebrahimi, Behrouz
+AU  - Grigoriadis, Karolos
+AU  - Franchek, Matthew
+AU  - Tafreshi, Reza
+JO  - IFAC-PapersOnLine
+VL  - 48
+IS  - 12
+SP  - 269
+EP  - 274
+PY  - 2015
+DA  - 2015/01/01/
+T2  - 12th IFAC Workshop onTime Delay SystemsTDS 2015
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2015.09.389
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896315014925
+KW  - Time-delay system
+KW  - dynamic control
+KW  - output tracking
+KW  - lean-burn engine
+AB  - Output tracking of systems, which are represented through a surrogate first-order model with a delay in the control input, is examined in this paper. A dynamic control input is proposed to maintain the system output to track a desired reference profile, while providing closed-loop stability. The system closed-loop response is demonstrated for fueling control in leanburn gasoline spark ignition engines addressing the varying transport and combustion delays. The developed methodology, which is validated on a Ford F–150 SI lean-burn engine model with large time-varying delay in the control loop, exhibits improved performance in terms of disturbance attenuation, measurement noise accommodation and robustness against delay estimation anomalies. The proposed controller is compared with a PI controller equipped with a Smith predictor and the results are discussed for various operating conditions.
+ER  - 
+
+TY  - JOUR
+T1  - Distributed, on-demand, data-intensive and collaborative simulation analysis
+AU  - Breckenridge, Arthurine
+AU  - Pierson, Lyndon
+AU  - Sanielevici, Sergiu
+AU  - Welling, Joel
+AU  - Keller, Rainer
+AU  - Woessner, Uwe
+AU  - Schulze, Juergen
+JO  - Future Generation Computer Systems
+VL  - 19
+IS  - 6
+SP  - 849
+EP  - 859
+PY  - 2003
+DA  - 2003/08/01/
+T2  - 3rd biennial International Grid applications-driven testbed event, Amsterdam, The Netherlands, 23-26 September 2002
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/S0167-739X(03)00065-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X03000657
+KW  - Compute
+KW  - Visualize
+KW  - Collaborate
+KW  - Data-intensive
+KW  - Simulation analysis
+KW  - Bioinformatics applications
+AB  - Distributed, on-demand, data-intensive, and collaborative simulation analysis tools are being developed by an international team to solve real problems such as bioinformatics applications. The project consists of three distinct focuses: compute, visualize, and collaborate. Each component utilizes software and hardware that performs across the International Grid. Computers in North America, Asia, and Europe are working on a common simulation programs. The results are visualized in a multi-way 3D visualization collaboration session where additional compute requests can be submitted in real-time. Navigation controls and data replication issues are addressed and solved with a scalable solution.
+ER  - 
+
+TY  - JOUR
+T1  - “Artificial humans”: Psychology and neuroscience perspectives on embodiment and nonverbal communication
+AU  - Vogeley, Kai
+AU  - Bente, Gary
+JO  - Neural Networks
+VL  - 23
+IS  - 8
+SP  - 1077
+EP  - 1090
+PY  - 2010
+DA  - 2010/10/01/
+T2  - Social Cognition: From Babies to Robots
+SN  - 0893-6080
+DO  - https://doi.org/10.1016/j.neunet.2010.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0893608010001164
+KW  - Artificial humans
+KW  - Nonverbal communication
+KW  - Social psychology
+KW  - Social cognitive neuroscience
+AB  - “Artificial humans”, so-called “Embodied Conversational Agents” and humanoid robots, are assumed to facilitate human–technology interaction referring to the unique human capacities of interpersonal communication and social information processing. While early research and development in artificial intelligence (AI) focused on processing and production of natural language, the “new AI” has also taken into account the emotional and relational aspects of communication with an emphasis both on understanding and production of nonverbal behavior. This shift in attention in computer science and engineering is reflected in recent developments in psychology and social cognitive neuroscience. This article addresses key challenges which emerge from the goal to equip machines with socio-emotional intelligence and to enable them to interpret subtle nonverbal cues and to respond to social affordances with naturally appearing behavior from both perspectives. In particular, we propose that the creation of credible artificial humans not only defines the ultimate test for our understanding of human communication and social cognition but also provides a unique research tool to improve our knowledge about the underlying psychological processes and neural mechanisms.
+ER  - 
+
+TY  - JOUR
+T1  - New frontiers in design synthesis
+AU  - Goldin, Daniel S.
+AU  - Venneri, Samuel L.
+AU  - Noor, Ahmed K.
+JO  - Acta Astronautica
+VL  - 44
+IS  - 7
+SP  - 407
+EP  - 418
+PY  - 1999
+DA  - 1999/04/01/
+T2  - Pacific RIM: A Rapidly Expanding Space Market
+SN  - 0094-5765
+DO  - https://doi.org/10.1016/S0094-5765(99)00087-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0094576599000879
+AB  - The Intelligent Synthesis Environment (ISE), which is one of the major strategic technologies under development at NASA centers and the University of Virginia, is described. One of the major objectives of ISE is to significantly enhance the rapid creation of innovative affordable products and missions. ISE uses a synergistic combination of leading-edge technologies, including high performance computing, high capacity communications and networking, human-centered computing, knowledge-based engineering, computational intelligence, virtual product development, and product information management. The environment will link scientists, design teams, manufacturers, suppliers, and consultants who participate in the mission synthesis as well as in the creation and operation of the aerospace system. It will radically advance the process by which complex science missions are synthesized, and high-tech engineering systems are designed, manufactured and operated. The five major components critical to ISE are human-centered computing, infrastructure for distributed collaboration, rapid synthesis and simulation tools, life cycle integration and validation, and cultural change in both the engineering and science creative process. The five components and their subelements are described. Related U.S. government programs are outlined and the future impact of ISE on engineering research and education is discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring Different Communication Modes for Intravenous Infusion Training using Mixed Reality: A Healthcare e-Learning Case Study with Student Directed Learning
+AU  - Krishnamurthy, Rohith Jayaraman
+AU  - Lo, Vanessa
+AU  - Jang, Jay
+AU  - Jalilvand, Iman
+AU  - Date, Abhijit
+AU  - Ambrosetti, Debra
+AU  - Khayyam, Hamid
+AU  - Hasan, Mohammad Khalad
+AU  - Milani, Abbas S.
+JO  - Computers in Human Behavior Reports
+SP  - 100814
+PY  - 2025
+DA  - 2025/09/22/
+SN  - 2451-9588
+DO  - https://doi.org/10.1016/j.chbr.2025.100814
+UR  - https://www.sciencedirect.com/science/article/pii/S2451958825002295
+KW  - 
+KW  - 
+KW  - 
+KW  - 
+KW  - 
+AB  - Abstract:
+The COVID-19 pandemic presented challenges for healthcare students, necessitating the acquisition of clinical skills through online learning due to time constraints and limited access to medical supplies. In response to such major interruptions in the healthcare-related and other educational sectors, extended reality (XR) technologies have been swiftly emerging as a promising solution. Our case study here focuses on developing an augmented reality training platform in Unity, and compatible with Microsoft HoloLens. This platform often projects the virtual training components into the user’s surrounding real-world environment, reducing dependence on physical lab sessions and promoting Student Directed Learning (SDL). To illustrate the platform's effectiveness, we focused on teaching the assembly of an intravenous infusion (IV) pump. Four communication/mentoring modes (computer agent-text, agent-audio, human-text, and human-audio) have been enabled within the present XR-based SDL tool. A user study with 8 senior nursing students revealed that the agent-text mode (out of all four modes) was the most effective, considering trust, reliability, usefulness, satisfaction, and ease of use measures.
+ER  - 
+
+TY  - JOUR
+T1  - Markerless cooperative augmented reality-based smart manufacturing double-check system: Case of safe PCBA inspection following automatic optical inspection
+AU  - Runji, Joel Murithi
+AU  - Lin, Chyi-Yeu
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 64
+SP  - 101957
+PY  - 2020
+DA  - 2020/08/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2020.101957
+UR  - https://www.sciencedirect.com/science/article/pii/S073658451930064X
+KW  - Augmented reality
+KW  - Inspection
+KW  - Cooperative
+KW  - Printed circuit board assembly
+KW  - Smart manufacturing
+KW  - Optical see-through
+AB  - Augmented reality (AR) is a key technology anchored towards realizing Industry 4.0 smart manufacturing aims. In manufacturing inspection, AR has previously been employed to support operators in assessing thickness of manufactured parts, ship building, aircraft subassemblies and printed circuit board assemblies (PCBAs) with or without external markers in standalone head-mounted (HMD) or handheld systems. These AR systems often use optical see-through (OST) or video see-through (VST) technologies. Currently, cyber physical integration of processes in an industrial system synergizes production through increased efficiency and improved quality while facilitating customization. An operator manually double-checking/inspecting a product that has previously been automatically inspected can better rely on this existing defect location information once it is contextually and spatially overlaid within their field of view to intuitively and efficiently execute the task. Additional interactive information provided can quickly reorient a user, provide necessary contextual reference, and monitor progress of the task while alerting them of their safety. In this study, adopting an automatic optical inspection (AOI) wirelessly aided HMD-OST AR-based manual inspection system requiring no external markers for contextual registration is a promising direction towards smart and safe PCBA manufacturing in line with Industry 4.0. Animated rectangular bracket of high color contrast is employed to localize the spawned AOI defect point, an arrow overlaid with distance text provides user guidance, a contextual resizable image facilitates user double-checking and a progress bar tracks the inspection progress while monitoring tracking state. We evaluate the developed system's robustness, effectiveness of display technology used, suitability of contextual against static display modes, and display technology influence on various inspection attributes in a user study. Results demonstrate the system to be robust, OST-HMD outperforms handheld VST devices, contextual display mode to be significantly preferred to static mode, and display technology employed has no significant influence on the inspection attributes. Finally, registration precision results demonstrate usability of the system while superposition of distance to orientation information raises the inspection rate of PCBAs.
+ER  - 
+
+TY  - JOUR
+T1  - Construction metaverse: Application framework and adoption barriers
+AU  - Chen, Zhen-Song
+AU  - Chen, Jun-Yang
+AU  - Chen, Yue-Hua
+AU  - Pedrycz, Witold
+JO  - Automation in Construction
+VL  - 163
+SP  - 105422
+PY  - 2024
+DA  - 2024/07/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2024.105422
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580524001584
+KW  - Metaverse
+KW  - Cyber-physical-social system
+KW  - Barrier analysis
+KW  - PEST
+KW  - Bi-objective optimization
+AB  - This paper addresses the limited research on the metaverse's application in the construction industry. It aims to investigate how the metaverse can empower construction, identify adoption barriers, and determine the most significant barriers. We propose a novel application framework of construction metaverse based on cyber-physical-social systems, identify 17 barriers using the political-economic-social-technological framework, and employ an expert survey and bi-objective optimization to rank the barriers. Results indicate that scalability, lack of policy incentives, and immature business models are the most critical barriers. The findings provide valuable insights for researchers, practitioners, and policymakers in the construction industry, helping to allocate resources effectively and drive metaverse development. The study's importance lies in its potential to guide successful metaverse integration in construction, leading to improved efficiency and innovation. This research inspires future work on specific metaverse applications in construction and interdisciplinary research to understand and overcome the identified barriers.
+ER  - 
+
+TY  - JOUR
+T1  - Arts and humanities e-science—Current practices and future challenges
+AU  - Blanke, Tobias
+AU  - Hedges, Mark
+AU  - Dunn, Stuart
+JO  - Future Generation Computer Systems
+VL  - 25
+IS  - 4
+SP  - 474
+EP  - 480
+PY  - 2009
+DA  - 2009/04/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2008.10.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X08001684
+KW  - Arts
+KW  - Humanities
+KW  - Data management
+KW  - Access grid
+KW  - High performance computing
+KW  - Virtual workbench
+AB  - This article offers an analysis of UK arts and humanities e-Science practices in order to identify current trends. It also considers challenges of how arts and humanities disciplines fit into the overall e-Science agenda. We will discuss a first phase of early experimentation projects in 2007 and continue with a second phase since 2007, which more systematically investigates methodologies and technologies that could provide answers to grand challenges in digital arts and humanities research.
+ER  - 
+
+TY  - JOUR
+T1  - Navigating uncharted waters: Designing business models for virtual and augmented reality companies in the medical industry
+AU  - Kulkov, Ignat
+AU  - Berggren, Björn
+AU  - Hellström, Magnus
+AU  - Wikström, Kim
+JO  - Journal of Engineering and Technology Management
+VL  - 59
+SP  - 101614
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 0923-4748
+DO  - https://doi.org/10.1016/j.jengtecman.2021.101614
+UR  - https://www.sciencedirect.com/science/article/pii/S0923474821000035
+KW  - Business model
+KW  - Virtual reality
+KW  - Augmented reality
+KW  - Design approach
+KW  - Medical industry
+AB  - New technologies are at the heart of industry transformation. Virtual and augmented reality companies provide fundamentally new ways of communication, treatment, education, and specialist training within the medical industry. However, business models for new ventures that target the medical industry have received scant attention within academic research. Using a multiple case study approach, we analyze how virtual and augmented reality firms create value for their customers in the medical industry. In all, we have studied eight companies that offer different types of solutions for their target segments. The results of the analysis are four design elements consisting of twelve positions and three design themes that define the similarities and differences between the business models for the companies. We contribute to existing research within the field by analyzing business models of the investigated companies using a design approach, classifying the virtual and augmented reality companies, and analyzing the role of new technology in the development of the medical industry.
+ER  - 
+
+TY  - JOUR
+T1  - A survey of virtual human anatomy education systems
+AU  - Preim, Bernhard
+AU  - Saalfeld, Patrick
+JO  - Computers & Graphics
+VL  - 71
+SP  - 132
+EP  - 153
+PY  - 2018
+DA  - 2018/04/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/j.cag.2018.01.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849318300050
+KW  - Medical visualization
+KW  - Virtual anatomy
+AB  - This survey provides an overview of visualization and interaction techniques developed for anatomy education. Besides individual techniques, the integration into virtual anatomy systems is considered. Web-based systems play a crucial role to enable learning independently at any time and space. We consider the educational background, the underlying data, the model generation as well as the incorporation of textual components, such as labels and explanations. Finally, stereoscopic devices and first immersive VR solutions are discussed. The survey comprises also evaluation studies that analyze the learning effectiveness.
+ER  - 
+
+TY  - JOUR
+T1  - Toward a simulated replica of futures: Classification and possible trajectories of simulation in futures studies
+AU  - Zackery, Ali
+AU  - Shariatpanahi, Peyman
+AU  - Zolfagharzadeh, Mohammad Mahdi
+AU  - Pourezzat, Ali Asghar
+JO  - Futures
+VL  - 81
+SP  - 40
+EP  - 53
+PY  - 2016
+DA  - 2016/08/01/
+T2  - Modelling and Simulation in Futures Studies
+SN  - 0016-3287
+DO  - https://doi.org/10.1016/j.futures.2015.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0016328715001640
+KW  - Futures of simulation
+KW  - Human-machine interaction
+KW  - Large-network simulation
+KW  - Emergence
+KW  - Cognitive science
+AB  - Simulation is likely to become a prominent method of theory development. Futures studies have used simulation in different ways such as evaluating scenarios. Nonetheless, the central attributes of computer simulation such as reductionism-based abstraction, determinism and elimination of stakeholders are the main barriers of successful implementation of simulation in FS. In this paper, we would paint the plausible evolutionary panorama of futures of simulation in futures studies after looking at the role of simulation in FS so far. The possible mechanisms and partnerships required to be applied to grapple the above-mentioned difficulties will be enumerated and investigated. These, in three categories, comprise firstly, human-machine interactions such as quasi-game simulations, and scenario visualization, secondly, large-network simulations including crowd sourcing, and thirdly, simulation platforms for replication of emergence. Ergo, crafting a classification of simulation in futures studies and the possible developments will be the main contribution of this paper. A novel double diamond classification will be presented as well which reflects the past and plausible futures of simulation in futures studies.
+ER  - 
+
+TY  - JOUR
+T1  - Characterizing head-gaze and hand affordances using AR for laparoscopy
+AU  - Negrão, Matheus D.
+AU  - Maciel, Anderson
+JO  - Computers & Graphics
+VL  - 121
+SP  - 103936
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/j.cag.2024.103936
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849324000712
+KW  - Augmented reality
+KW  - Head-gaze interaction
+KW  - Laparoscopy interface
+AB  - Laparoscopic surgery techniques are complex and impose postural and communication constraints on the surgeon that may affect surgery outcomes. This paper explores the possibilities of designing intraoperative AR interfaces for laparoscopy surgery. We suggest that the laparoscopic video be displayed on an AR headset and that surgeons consult preoperative image data on that display. Interaction with these elements is necessary. Thus, we propose a head-gaze and hand clicker approach that is effective and minimalist, as well as the implementation of a prototype. We conduct a user study to evaluate the prototype and to comprehend the impact and improvements that headgaze average filtering and the scale method can bring to perform annotations in the laparoscopy video feed on a virtual monitor positioned straight in front of the user. The user experiment was performed in a between-subject protocol with 32 volunteers from the Institute of Informatics, and the proposed task involves communication in the interface through drawing annotations with proposed interaction approaches: A hand device for input confirmations and the head-gaze stabilization methods to pointing and selection. The study found that the users were confident about their performance and demonstrated low physical and temporal demand. The proposed head-gaze methods showed that independent of the stabilization applied, the difference between the error sensibility of the axis of the head-gaze in annotation positioning is significant. The vertical axis presented a higher error rate than the horizontal axis. When we compared other variables, we found some differences in specific circumstances, but overall, the interaction with HL1 is very distributed.
+ER  - 
+
+TY  - JOUR
+T1  - An approach to assessing virtual environments for synchronous and remote collaborative design
+AU  - Germani, Michele
+AU  - Mengoni, Maura
+AU  - Peruzzini, Margherita
+JO  - Advanced Engineering Informatics
+VL  - 26
+IS  - 4
+SP  - 793
+EP  - 813
+PY  - 2012
+DA  - 2012/10/01/
+T2  - EG-ICE 2011 + SI: Modern Concurrent Engineering
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2012.06.003
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034612000560
+KW  - Collaborative design
+KW  - Virtual environments
+KW  - Metrics
+KW  - Design review
+KW  - Benchmarking method
+AB  - This paper considers applying novel Virtual Environments (VEs) in collaborative product design, focusing on reviewing activities. Companies are usually anchored to commercial ICT tools, which are mature and reliable. However, two main problems emerge: the difficulty in selecting the most suitable tools for specific purposes and the complexity in evaluating the impact that using technology has on design collaboration. The present work aims to face both aspects by proposing a structured benchmarking method based on expert judgements and defining a set of benchmarking weights based on experimental tests. The method considers both human–human interaction and teamwork-related aspects. A subsequent evaluation protocol considering both process efficiency and human–human interaction allows a closed-loop verification process. Pilot projects evaluate different technologies, and the benchmarking weights are verified and adjusted for more reliable system assessment. This paper focuses on synchronous and remote design review activities: three different tools have been compared according to expert judgements. The two best performing tools have been implemented as pilot projects within real industrial chains. Design collaboration has been assessed by considering both process performance and human–human interaction quality, as well as benchmarking results validated by indicating some corrective actions. The final benchmarking weights can thus be further adopted for an agile system benchmark in synchronous and remote design. The main findings suggest defining both an innovative process to verify the expert benchmark reliability and a trusty benchmarking method to evaluate tools for synchronous and remote design without experimental testing. Furthermore, the proposed method has a general validity and can be properly set for different collaborative dimensions.
+ER  - 
+
+TY  - JOUR
+T1  - A Stereo-Panoramic Telepresence System for Construction Machines
+AU  - Tripicchio, Paolo
+AU  - Ruffaldi, Emanuele
+AU  - Gasparello, Paolo
+AU  - Eguchi, Shingo
+AU  - Kusuno, Junya
+AU  - Kitano, Keita
+AU  - Yamada, Masaki
+AU  - Argiolas, Alfredo
+AU  - Niccolini, Marta
+AU  - Ragaglia, Matteo
+AU  - Avizzano, Carlo Alberto
+JO  - Procedia Manufacturing
+VL  - 11
+SP  - 1552
+EP  - 1559
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 27th International Conference on Flexible Automation and Intelligent Manufacturing, FAIM2017, 27-30 June 2017, Modena, Italy
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2017.07.292
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978917305000
+KW  - Construction Machine
+KW  - Immersive Telepresence
+KW  - Stereo-Panoramic
+KW  - vision head
+KW  - teleoperation
+AB  - Working machines in construction sites or emergency scenarios can operate in situations that can be dangerous for the operator. On the contrary, remote operation has been typically hindered by limited sense of presence of the operator in the environment due to the reduced field of view of cameras. Starting from these considerations, this work introduces a novel real-time panoramic telepresence system for construction machines. This system does allow fully immersive operations in critical scenarios while keeping the operator in a safe location at safe distance from the construction operation. An omnidirectional stereo vision head mounted over the machine acquires and sends data to the operator with a streaming technique that focuses on the current direction of sight of the operator. The operator uses a head-mounted display to experience the remote site also with the possibility to view digital information overlaid to the remote scene as a type of augmented reality. The paper addresses the design and architecture of the system starting from the vision system and then proceeding to the immersive visualization.
+ER  - 
+
+TY  - JOUR
+T1  - Towards Reconfigurable Cyber-Physical-Human Systems: Leveraging Mixed Reality and Digital Twins to integrate Human Operations
+AU  - Mayer, Anjela
+AU  - Kastner, Kevin
+AU  - Mühlbeier, Edgar
+AU  - Chardonnet, Jean-Rémy
+AU  - Reichwald, Julian
+AU  - Puchta, Alexander
+AU  - Fleischer, Jürgen
+AU  - Ovtcharova, Jivka
+JO  - Procedia CIRP
+VL  - 130
+SP  - 524
+EP  - 531
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 57th CIRP Conference on Manufacturing Systems 2024 (CMS 2024)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.10.124
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124012812
+KW  - Cyber-Physical-Human Systems
+KW  - Mixed Reality
+KW  - Digital Twins
+KW  - Reconfigurable Manufacturing
+AB  - The agility to swiftly and efficiently reconfigure manufacturing systems is crucial in today’s rapidly evolving market demands. Traditional recon-figuration operations often fall short, presenting non-intuitive and error-prone tasks for human operators, without the aid of systematic approaches or supportive technologies. This gap not only complicates the reconfiguration process but also significantly increases the risk of errors. In response, we introduce a novel approach that integrates Mixed Reality and Digital Twins within Cyber-Physical Systems to address these challenges. This enhances the human element in manufacturing reconfigurations by facilitating intuitive trajectory planning for robot (re)programming and comprehensive documentation of physical processes, including human operations. The design and implementation of the approach aim to significantly enhance manufacturing reconfigurations by reducing downtime, complexity, and human error. Further, the paper outlines directions for future work, including comprehensive system validation within a Cyber-Physical-Human manufacturing system, emphasizing the critical role of human operators in the reconfiguration process and the potential for technology to address traditional shortcomings.
+ER  - 
+
+TY  - JOUR
+T1  - A system for rapid creation and assessment of conceptual large vehicle designs using immersive virtual reality
+AU  - Noon, Christian
+AU  - Zhang, Ruqin
+AU  - Winer, Eliot
+AU  - Oliver, James
+AU  - Gilmore, Brian
+AU  - Duncan, Jerry
+JO  - Computers in Industry
+VL  - 63
+IS  - 5
+SP  - 500
+EP  - 512
+PY  - 2012
+DA  - 2012/06/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2012.02.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361512000371
+KW  - Product configuration
+KW  - Conceptual design
+KW  - Virtual reality
+AB  - Currently, new product concepts are often evaluated by developing detailed virtual part and assembly models with traditional computer aided design (CAD) tools followed by appropriate analyses (e.g., finite element analysis, computational fluid dynamics, etc.). The creation of these models and analyses are tremendously time consuming. If a number of different conceptual configurations have been determined, it may not be possible to model and analyze each of them due to the complexity of these evaluation processes. Thus, promising concepts might be eliminated based solely on insufficient time and resources for assessment. In addition, the virtual models and analyses performed are usually of much higher detail and accuracy than what is needed for such early assessment. By eliminating the time-consuming complexity of a CAD environment and incorporating qualitative assessment tools, engineers could spend more time evaluating concepts that may have been previously abandoned due to time constraints. To address these issues, the Advanced Systems Design Suite (ASDS), was created. The ASDS incorporates a PC user interface with an immersive virtual reality (VR) environment to ease the creation and assessment of conceptual design prototypes individually or collaboratively in an immersive VR environment. Assessment tools incorporate metamodeling approximations and immersive visualization to evaluate the feasibility of each concept. In this paper, the ASDS system and interface along with specifically designed immersive VR assessment tools such as state saving and dynamic viewpoint creation are presented for conceptual large vehicle design. A test case example of redesigning an airplane is presented to explore the feasibility of the proposed system.
+ER  - 
+
+TY  - JOUR
+T1  - A systematic review of immersive virtual reality applications for higher education: Design elements, lessons learned, and research agenda
+AU  - Radianti, Jaziar
+AU  - Majchrzak, Tim A.
+AU  - Fromm, Jennifer
+AU  - Wohlgenannt, Isabell
+JO  - Computers & Education
+VL  - 147
+SP  - 103778
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0360-1315
+DO  - https://doi.org/10.1016/j.compedu.2019.103778
+UR  - https://www.sciencedirect.com/science/article/pii/S0360131519303276
+KW  - Augmented and virtual reality
+KW  - Cooperative/collaborative learning
+KW  - Distance education and online learning
+KW  - Human–computer interface
+KW  - Media in education
+AB  - Researchers have explored the benefits and applications of virtual reality (VR) in different scenarios. VR possesses much potential and its application in education has seen much research interest lately. However, little systematic work currently exists on how researchers have applied immersive VR for higher education purposes that considers the usage of both high-end and budget head-mounted displays (HMDs). Hence, we propose using systematic mapping to identify design elements of existing research dedicated to the application of VR in higher education. The reviewed articles were acquired by extracting key information from documents indexed in four scientific digital libraries, which were filtered systematically using exclusion, inclusion, semi-automatic, and manual methods. Our review emphasizes three key points: the current domain structure in terms of the learning contents, the VR design elements, and the learning theories, as a foundation for successful VR-based learning. The mapping was conducted between application domains and learning contents and between design elements and learning contents. Our analysis has uncovered several gaps in the application of VR in the higher education sphere—for instance, learning theories were not often considered in VR application development to assist and guide toward learning outcomes. Furthermore, the evaluation of educational VR applications has primarily focused on usability of the VR apps instead of learning outcomes and immersive VR has mostly been a part of experimental and development work rather than being applied regularly in actual teaching. Nevertheless, VR seems to be a promising sphere as this study identifies 18 application domains, indicating a better reception of this technology in many disciplines. The identified gaps point toward unexplored regions of VR design for education, which could motivate future work in the field.
+ER  - 

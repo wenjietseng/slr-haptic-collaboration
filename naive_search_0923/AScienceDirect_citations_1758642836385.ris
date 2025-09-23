@@ -1,0 +1,2429 @@
+TY  - JOUR
+T1  - Can Presence Improve Collaboration in 3D Virtual Worlds?
+AU  - Cruz, Armando
+AU  - Paredes, Hugo
+AU  - Fonseca, Benjamim
+AU  - Morgado, Leonel
+AU  - Martins, Paulo
+JO  - Procedia Technology
+VL  - 13
+SP  - 47
+EP  - 55
+PY  - 2014
+DA  - 2014/01/01/
+T2  - SLACTIONS 2013: Research conference on virtual worlds – Learning with simulations
+SN  - 2212-0173
+DO  - https://doi.org/10.1016/j.protcy.2014.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S2212017314000188
+KW  - Presence
+KW  - collaboration
+KW  - 3D virtual worlds
+KW  - CVEs
+KW  - CSCW
+KW  - development of CVEs
+KW  - review
+AB  - Three dimensional (3D) virtual worlds are regarded as possessing strong capabilities to support collaboration between people. The physical characteristics of the virtual environment are pointed out as responsible for that capability because they create immersive environments that we are familiar with, and are able to involve users in such a way that the feeling of being in the world is frequently reported. Presence, the perception of the virtual as if it were real, may be helpful in realizing how an easier to understand environment can improve collaboration. In this paper, based on a literature review, we look into the relationship between presence and collaboration, and the importance of presence to the understanding of collaboration in 3D virtual worlds.
+ER  - 
+
+TY  - JOUR
+T1  - A Decade of Virtual Reality in Product Development: A Literature Review of Effectiveness, Challenges, and Future Research
+AU  - Abughalia, Ali
+AU  - Stechert, Carsten
+JO  - Procedia CIRP
+VL  - 136
+SP  - 438
+EP  - 443
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 35th CIRP Design 2025
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2025.08.076
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827125008297
+KW  - Virtual Reality
+KW  - product development
+KW  - idea generation
+KW  - designreview
+KW  - ergonomics
+KW  - effectiveness
+AB  - While VR shows promise in enhancing specific phases of product development according to some studies, its usefulness is questioned by others. This paper reviews the role of VR in the early phases of product development, focusing on three key areas: idea generation and initial model drawing, design review, and ergonomics studies. The review categorizes sources based on their support for or opposition to VR’s effectiveness and explores future expectations for its role. A literature review from 2013 to 2023 was conducted, and potential areas for further research were identified.
+ER  - 
+
+TY  - JOUR
+T1  - Haptic assisted aircraft optimal assembly path planning scheme based on swarming and artificial potential field approach
+AU  - Hassan, Syed
+AU  - Yoon, Jungwon
+JO  - Advances in Engineering Software
+VL  - 69
+SP  - 18
+EP  - 25
+PY  - 2014
+DA  - 2014/03/01/
+SN  - 0965-9978
+DO  - https://doi.org/10.1016/j.advengsoft.2013.12.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0965997813001816
+KW  - Virtual reality
+KW  - Assembly automation
+KW  - Particle swarm optimization
+KW  - Ant colony optimization
+KW  - Path planning
+KW  - Path optimization
+AB  - In this research, a novel near optimum automated rigid aircraft engine parts assembly path planning algorithm based on particle swarm optimization approach is proposed to solve the obstacle free assembly path planning process in a 3d haptic assisted environment. 3d path planning using valid assembly sequence information was optimized by combining particle swarm optimization algorithm enhanced by the potential field path planning concepts. Furthermore, the presented approach was compared with traditional particle swarm optimization algorithm (PSO), ant colony optimization algorithm (ACO) and genetic algorithm (CGA). Simulation results showed that the proposed algorithm has faster convergence rate towards the optimal solution and less computation time when compared with existing algorithms based on genetics and ant colony approach. To confirm the optimality of the proposed algorithm, it was further experimented in a haptic guided environment, where the users were assisted with haptic active guidance feature to perform the process opting the optimized assembly path. It was observed that the haptic guidance feature further reduced the overall task completion time.
+ER  - 
+
+TY  - JOUR
+T1  - Are we ready for metaverse adoption in the service industry? Theoretically exploring the barriers to successful adoption
+AU  - Gupta, Rohit
+AU  - Rathore, Bhawana
+AU  - Biswas, Baidyanath
+AU  - Jaiswal, Mahadeo
+AU  - Singh, Raunak Kumar
+JO  - Journal of Retailing and Consumer Services
+VL  - 79
+SP  - 103882
+PY  - 2024
+DA  - 2024/07/01/
+SN  - 0969-6989
+DO  - https://doi.org/10.1016/j.jretconser.2024.103882
+UR  - https://www.sciencedirect.com/science/article/pii/S0969698924001784
+KW  - Metaverse
+KW  - Service industry
+KW  - Challenges
+KW  - Barriers
+KW  - Fuzzy AHP
+KW  - Fuzzy DEMATEL
+AB  - The Metaverse has emerged as a convergence of technologies and conceptions with the potential to reshape how we interact, participate, learn, and entertain ourselves in the digital age. It has gained substantial attention recently due to its immersive, interconnected, and virtual environment for meeting evolving customer and market demands. As technology advances, firms implementing the Metaverse may gain a competitive edge and create new revenue streams. However, the service sectors still face challenges in adopting and successfully implementing Metaverse. Therefore, we attempted to establish a theoretical foundation to understand the challenges of Metaverse adoption in the service sector and to develop an integrated framework to analyse the barriers using the Fuzzy Analytic Hierarchy Process (FAHP) and Fuzzy Decision-making trial and evaluation laboratory (F-DEMATEL) techniques. To achieve this, we first identify barriers from extensive literature and categorise them into six broad categories based on experts’ opinions. Then, we ranked each category and the barriers constituting them based on their criticality through FAHP. The Security and Privacy category has the highest weight among the six categories of barriers, followed by Governance and Standardisation, Infrastructure, User Behaviour and psychology, Feasibility, and Organisational culture and Stakeholder commitment. Further, we developed the causal-effect relationships among the six categories and analysed those categories through the degree of prominence and relationships. We found that Security and Privacy is one of the most influencing barriers. Then, we analysed our proposed decision-making model under different scenarios through sensitivity analysis. This study offers valuable insights into the relationships among the barriers and how they can impact progress towards achieving specific goals or objectives.
+ER  - 
+
+TY  - JOUR
+T1  - COLLABORATIVE LEARNING AND ENGINEERING WORKSPACES
+AU  - Bruns, F.W.
+AU  - Erbe, H.-H.
+AU  - Müller, D.
+AU  - Schaf, F.M.
+AU  - Pereira, C.E.
+AU  - Reichert, C.L.
+AU  - Campana, F.
+AU  - Krakheche, I.A.
+JO  - IFAC Proceedings Volumes
+VL  - 40
+IS  - 19
+SP  - 112
+EP  - 117
+PY  - 2007
+DA  - 2007/01/01/
+T2  - 1st IFAC Conference on Cost Effective Automation in Networked Product Development and Manufacturing
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20071002-MX-4-3906.00019
+UR  - https://www.sciencedirect.com/science/article/pii/S147466701532303X
+KW  - mixed reality
+KW  - collaborative work
+KW  - learning environments
+KW  - remote experiments
+KW  - energy interfaces
+KW  - distributed workspaces
+KW  - CAVE
+AB  - Abstract
+Research results of improving remote collaboration are presented. The results are based on a new concept of mixed reality. It is capable of to train collaborative work over remote sites. The collaborative environment makes use of the system named deriveSERVER, which has been developed by the Artec Research Center (University of Bremen). It is extended to allow the integration with remote hardware. Remote experiments are used to enhance lessons in SENAI-RS, a vocational education institution in southern Brazil, enabling the development of collaborative projects among students at different sites.
+ER  - 
+
+TY  - JOUR
+T1  - Effects of virtual presence and learning outcome using low-end virtual reality systems
+AU  - Selzer, Matias N.
+AU  - Gazcon, Nicolas F.
+AU  - Larrea, Martin L.
+JO  - Displays
+VL  - 59
+SP  - 9
+EP  - 15
+PY  - 2019
+DA  - 2019/09/01/
+SN  - 0141-9382
+DO  - https://doi.org/10.1016/j.displa.2019.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0141938218300398
+KW  - Virtual reality
+KW  - Learning
+KW  - Low-end
+KW  - Presence
+KW  - Simulator sickness
+AB  - Low-cost technology is essential to integrate Virtual Reality (VR) into educative institutions around the world. However, low-cost technology usually refers to low-end technology, which may compromise the level of immersion of the VR system. This study evaluates whether low-end and high-end VR systems achieve a comparable learning outcome regardless their immersion level. We also analyze the relationship between virtual presence and the learning outcome arising from a VR educational experience. An evaluation with 42 participants was conducted. We measured learning outcome and virtual presence under three different configurations, namely: a desktop computer, a low-end VR system, and a high-end VR system. The impact of simulator sickness was also analyzed. Results revealed a lower learning outcome in the less immersive configuration (i.e. desktop) and a similar learning outcome in both low-end and high-end VR systems. Even though low-end VR systems are less immersive and produce a lower level of virtual presence than high-end VR systems, the results support the use of low-end VR systems for educative applications.
+ER  - 
+
+TY  - JOUR
+T1  - Collaborative virtual reality based advanced cardiac life support training simulator using virtual reality principles
+AU  - Khanal, Prabal
+AU  - Vankipuram, Akshay
+AU  - Ashby, Aaron
+AU  - Vankipuram, Mithra
+AU  - Gupta, Ashish
+AU  - Drumm-Gurnee, Denise
+AU  - Josey, Karen
+AU  - Tinker, Linda
+AU  - Smith, Marshall
+JO  - Journal of Biomedical Informatics
+VL  - 51
+SP  - 49
+EP  - 59
+PY  - 2014
+DA  - 2014/10/01/
+SN  - 1532-0464
+DO  - https://doi.org/10.1016/j.jbi.2014.04.005
+UR  - https://www.sciencedirect.com/science/article/pii/S1532046414000902
+KW  - Computer uses in education – 
+KW  - Multimedia information systems – 
+KW  - Serious games
+KW  - Computer applications in medicine
+KW  - Advanced cardiac life support
+KW  - Medical team training
+AB  - Background
+Advanced Cardiac Life Support (ACLS) is a series of team-based, sequential and time constrained interventions, requiring effective communication and coordination of activities that are performed by the care provider team on a patient undergoing cardiac arrest or respiratory failure. The state-of-the-art ACLS training is conducted in a face-to-face environment under expert supervision and suffers from several drawbacks including conflicting care provider schedules and high cost of training equipment.
+Objective
+The major objective of the study is to describe, including the design, implementation, and evaluation of a novel approach of delivering ACLS training to care providers using the proposed virtual reality simulator that can overcome the challenges and drawbacks imposed by the traditional face-to-face training method.
+Methods
+We compare the efficacy and performance outcomes associated with traditional ACLS training with the proposed novel approach of using a virtual reality (VR) based ACLS training simulator. One hundred and forty-eight (148) ACLS certified clinicians, translating into 26 care provider teams, were enrolled for this study. Each team was randomly assigned to one of the three treatment groups: control (traditional ACLS training), persuasive (VR ACLS training with comprehensive feedback components), or minimally persuasive (VR ACLS training with limited feedback components). The teams were tested across two different ACLS procedures that vary in the degree of task complexity: ventricular fibrillation or tachycardia (VFib/VTach) and pulseless electric activity (PEA).
+Results
+The difference in performance between control and persuasive groups was not statistically significant (P=.37 for PEA and P=.1 for VFib/VTach). However, the difference in performance between control and minimally persuasive groups was significant (P=.05 for PEA and P=.02 for VFib/VTach). The pre-post comparison of performances of the groups showed that control (P=.017 for PEA, P=.01 for VFib/VTach) and persuasive (P=.02 for PEA, P=.048 for VFib/VTach) groups improved their performances significantly, whereas minimally persuasive group did not (P=.45 for PEA, P=.46 for VFib/VTach). Results also suggest that the benefit of persuasiveness is constrained by the potentially interruptive nature of these features.
+Conclusions
+Our results indicate that the VR-based ACLS training with proper feedback components can provide a learning experience similar to face-to-face training, and therefore could serve as a more easily accessed supplementary training tool to the traditional ACLS training. Our findings also suggest that the degree of persuasive features in VR environments have to be designed considering the interruptive nature of the feedback elements.
+ER  - 
+
+TY  - JOUR
+T1  - A review of Smart future of healthcare in the digital age to improve Quality of orthopaedic patient care in metaverse called: The Healthverse!!
+AU  - Tiwari, Anjali
+AU  - Dubey, Ashutosh
+AU  - Yadav, Amit Kumar
+AU  - Bhansali, Rakesh
+AU  - Bagaria, Vaibhav
+JO  - Journal of Clinical Orthopaedics and Trauma
+VL  - 48
+SP  - 102340
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0976-5662
+DO  - https://doi.org/10.1016/j.jcot.2024.102340
+UR  - https://www.sciencedirect.com/science/article/pii/S0976566224000092
+ER  - 
+
+TY  - JOUR
+T1  - Fashion and the metaverse: Clarifying the domain and establishing a research agenda
+AU  - Park, Hyejune
+AU  - Lim, Rachel Esther
+JO  - Journal of Retailing and Consumer Services
+VL  - 74
+SP  - 103413
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0969-6989
+DO  - https://doi.org/10.1016/j.jretconser.2023.103413
+UR  - https://www.sciencedirect.com/science/article/pii/S0969698923001601
+KW  - Metaverse
+KW  - Fashion branding strategies
+KW  - Brand equity
+KW  - Brand experience
+KW  - Avatars
+KW  - NFTs
+KW  - Gaming platforms
+KW  - Virtual branded worlds
+KW  - Immersive technologies
+AB  - In recent years, the metaverse has garnered significant attention as a term referring to a network of 3D virtual worlds that integrate elements of both physical and digital worlds. Fashion brands have begun exploring the metaverse as a new marketing platform, which is expected to bring about substantial changes in the fashion and retail industry. However, a lack of consensus on the nature of the metaverse and its impact on the fashion industry currently exists, and limited academic research is available on the metaverse's influence on fashion brands' marketing strategies and brand experiences. To address this gap, this study employs a thematic analysis approach on trade journals and industry articles that cover fashion brands' metaverse strategies. Through this analysis, the study provides a typology of current marketing strategies of fashion brands in the metaverse. Based on these empirical findings, this research proposes a theoretical framework that explains how different metaverse strategies affect different dimensions of brand equity. Finally, this study offers research directions for fashion brands' metaverse strategies by presenting an integrated framework that synthesizes the key insights from our research findings.
+ER  - 
+
+TY  - JOUR
+T1  - A novel MR remote collaboration system using 3D spatial area cue and visual notification
+AU  - Zhang, Xiangyu
+AU  - Bai, Xiaoliang
+AU  - Zhang, Shusheng
+AU  - He, Weiping
+AU  - Wang, Shuxia
+AU  - Yan, Yuxiang
+AU  - Yu, Quan
+AU  - Liu, Liwei
+JO  - Journal of Manufacturing Systems
+VL  - 67
+SP  - 389
+EP  - 409
+PY  - 2023
+DA  - 2023/04/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2023.02.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612523000365
+KW  - Remote collaboration
+KW  - Mixed reality
+KW  - 3D sketch cue
+KW  - 3D spatial area cue
+KW  - Visual notification
+KW  - Hand gesture
+KW  - MR assembly
+AB  - In remote collaboration for emergency maintenance or training, since local workers may lack relevant experience and knowledge, it is very important to support remote experts to annotate 3D spatial areas for local workers in their workspace, such as risky spatial areas that need to be avoided for safe operation when assembling replacement parts. Recently, many researchers have studied various visual communication cues for expressing spatial information in Mixed Reality (MR) remote collaboration systems for physical tasks. However, the expression and transmission of 3D spatial area information have not been well explored, especially in tasks that need to annotate specific spatial areas in 3D space (such as risky 3D spatial areas). In the study, we developed a novel MR remote collaboration system that supports remote experts using 3D spatial area cues and visual notification to create Augmented Reality (AR) instructions for local workers on the shared 3D stereoscopic scene of the local workspace in the Virtual Reality (VR) space. We performed a user study to explore the effect of three interfaces on remote collaborative physical assembly tasks in the workspace with risky 3D spatial areas: 3D sketch cue (3DS) which is the baseline solution, 3D sketch cue combines the novel 3D spatial area cue (3DSA), and 3D sketch cue combines 3D spatial area cue and visual notification (3DSAN). We found the 3DSAN can significantly improve collaboration efficiency, reduce operation errors, and improve the usability and collaboration experience (especially the level of awareness), among industrial remote collaborative physical tasks requiring 3D spatial area reference.
+ER  - 
+
+TY  - JOUR
+T1  - Studying the effectiveness of multi-user immersive environments for collaborative evaluation tasks
+AU  - Lorenzo, Carlos-Miguel
+AU  - Ángel Sicilia, Miguel
+AU  - Sánchez, Salvador
+JO  - Computers & Education
+VL  - 59
+IS  - 4
+SP  - 1361
+EP  - 1376
+PY  - 2012
+DA  - 2012/12/01/
+SN  - 0360-1315
+DO  - https://doi.org/10.1016/j.compedu.2012.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0360131512001443
+KW  - MMOL platform
+KW  - Virtual world
+KW  - Immersive education
+KW  - Simulations
+KW  - Mixed reality
+KW  - Augmented reality
+KW  - Socio-computacional system
+KW  - Distributed learning environment
+KW  - e-learning
+KW  - Educational virtual world
+KW  - LORI
+KW  - Convergent participation model
+KW  - SNA
+AB  - Massively Multiuser On-line Learning (MMOL) Platforms, often called “virtual learning worlds”, constitute a still unexplored context for communication-enhanced learning, where synchronous communication skills in an explicit social setting enhance the potential of effective collaboration. In this paper, we report on an experimental study of collaborative evaluation in an MMOL setting with 21 graduate students enrolled in university courses in technology-mediated teaching and learning. This study was carried out using a prototype of a 3D MMOL platform built around an interactive space called “MadriPolis”. This space was used to recreate an adequate scenario for a collaborative experience about Learning Object evaluation using the mainstream Learning Object Review Instrument (LORI), which is based on a Convergent Participation Model (CPM). The same experience was carried out using a conventional LCMS (Learning Content Management System) platform with the aim of contrasting the outcomes and interaction patterns in the two settings. This study makes use of Social Network Analysis (SNA) measures to describe the interactions between tutors and learners. By dwelling on the advantages of immersive environments, SNA indexes revealed that these interactions were rather dense and that student participation was rather broad-based in the case of the MMOL. The results suggest that MMOL platforms could be used in collaborative evaluation tasks as a means to enhance both tutor interaction patterns and the strength of the group's relationship.
+ER  - 
+
+TY  - JOUR
+T1  - Advanced liver surgery training in collaborative VR environments
+AU  - Chheang, Vuthea
+AU  - Schott, Danny
+AU  - Saalfeld, Patrick
+AU  - Vradelis, Lukas
+AU  - Huber, Tobias
+AU  - Huettl, Florentine
+AU  - Lang, Hauke
+AU  - Preim, Bernhard
+AU  - Hansen, Christian
+JO  - Computers & Graphics
+VL  - 119
+SP  - 103879
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/j.cag.2024.01.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849324000050
+KW  - Virtual reality
+KW  - Collaborative VR
+KW  - Medical training
+KW  - Liver surgery planning
+KW  - Laparoscopic surgery training
+AB  - Virtual surgical training systems are crucial for enabling mental preparation, supporting decision-making, and improving surgical skills. Many virtual surgical training environments focus only on training for a specific medical skill and take place in a single virtual room. However, surgical education and training include the planning of procedures as well as interventions in the operating room context. Moreover, collaboration among surgeons and other medical professionals is only applicable to a limited extent. This work presents a collaborative VR environment similar to a virtual teaching hospital to support surgical training and interprofessional collaboration in a co-located or remote environment. The environment supports photo-realistic avatars and scenarios ranging from planning to training procedures in the virtual operating room. It includes a lobby, a virtual surgical planning room with four surgical planning stations, laparoscopic liver surgery training with the integration of laparoscopic surgical instruments, and medical training scenarios for interprofessional team training in a virtual operating room. Each component was evaluated by domain experts as well as in a series of user studies, providing insights on usability, usefulness, and potential research directions. The proposed environment may serve as a foundation for future medical training simulators.
+ER  - 
+
+TY  - JOUR
+T1  - Utilizing multi-user virtual reality to bring clinical therapy into stroke survivors' homes
+AU  - Thielbar, Kelly
+AU  - Spencer, Nicole
+AU  - Tsoupikova, Daria
+AU  - Ghassemi, Mohammad
+AU  - Kamper, Derek
+JO  - Journal of Hand Therapy
+VL  - 33
+IS  - 2
+SP  - 246
+EP  - 253
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0894-1130
+DO  - https://doi.org/10.1016/j.jht.2020.01.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0894113020300338
+KW  - Therapy
+KW  - Stroke
+KW  - Home-based training
+KW  - Virtual reality
+AB  - Introduction
+Lifespans after the occurrence of a stroke have been lengthening, but most stroke survivors will experience chronic impairment. Directed, repetitive practice may reduce deficits, but clinical access is often limited by a variety of factors, such as transportation.
+Purpose of the Study
+To introduce a multiuser virtual reality platform that can be used to promote therapist-client interactions when the client is at home.
+Methods
+The Virtual Environment for Rehabilitative Gaming Exercises encourages exploration of the hand workspace by enabling multiple participants, located remotely and colocated virtually, to interact with the same virtual objects in the shared virtual space. Each user controls an avatar by corresponding movement of his or her own body segments. System performance with stroke survivors was evaluated during longitudinal studies in a laboratory environment and in participants' homes. Active arm movement was tracked throughout therapy sessions for both studies.
+Results
+Stroke survivors achieved considerable arm movement while using the system. Mean voluntary hand displacement, after accounting for trunk displacement, was greater than 350 m per therapy session for the Virtual Environment for Rehabilitative Gaming Exercises system. Compliance for home-based therapy was quite high, with 94% of all scheduled sessions completed. Having multiple players led to longer sessions and more arm movement than when the stroke survivors were trained alone.
+Conclusions
+Multiuser virtual reality offers a relatively inexpensive means of extending clinical therapy into home and enabling family and friends to support rehabilitation efforts, even when physically remote from each other.
+ER  - 
+
+TY  - JOUR
+T1  - An adaptive latency mitigation scheme for massively multiuser virtual environments
+AU  - Hariri, Behnoosh
+AU  - Shirmohammadi, Shervin
+AU  - Pakravan, Mohammad Reza
+AU  - Alavi, Mohammad Hossein
+JO  - Journal of Network and Computer Applications
+VL  - 32
+IS  - 5
+SP  - 1049
+EP  - 1063
+PY  - 2009
+DA  - 2009/09/01/
+T2  - Next Generation Content Networks
+SN  - 1084-8045
+DO  - https://doi.org/10.1016/j.jnca.2009.03.002
+UR  - https://www.sciencedirect.com/science/article/pii/S1084804509000496
+KW  - Massively multiuser virtual environments
+KW  - Hilbert curve
+KW  - Proximity neighbor selection
+KW  - Network flow optimization
+KW  - Ant routing
+AB  - As massively multiuser virtual environments (MMVEs) expand in terms of size and user population, they tend toward using P2P architectures as a way to provide scalability without the need for large centralized resources. Distributed hash table (DHT)-based networks have been introduced as a promising option for overlay-based distributed massively multiuser virtual environment applications. However, overlay latency stretch seriously affects MMVE performance where QoS is crucial for real-time user collaboration. This work includes a series of efforts in the alleviation of such undesired latency. Our approach to latency mitigation consists of two phases. First, we propose a position-based ID assignment approach to minimize message hop-count by exploiting the clustered pattern of traffic exchange among MMVE users. Second, we introduce a new ant-based distributed neighbor selection scheme that can be used by MMVE users to select the best neighbors within their areas of interest. In order to evaluate the performance of this heuristic approach, we model the neighbor selection problem in the form of a network flow problem and use its solution as an optimality bound to compare the results. Simulation results demonstrate that the proposed algorithms will compensate for DHT latency stretch to a high extent and the performance of the resulting system would closely follow the optimal bound while communication overhead is negligible.
+ER  - 
+
+TY  - JOUR
+T1  - A scoping study of crime facilitated by the metaverse
+AU  - Gómez-Quintero, Juliana
+AU  - Johnson, Shane D.
+AU  - Borrion, Hervé
+AU  - Lundrigan, Samantha
+JO  - Futures
+VL  - 157
+SP  - 103338
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0016-3287
+DO  - https://doi.org/10.1016/j.futures.2024.103338
+UR  - https://www.sciencedirect.com/science/article/pii/S0016328724000211
+KW  - Metaverse
+KW  - Crime
+KW  - Future threats
+KW  - Nominal group technique
+AB  - The metaverse is an emerging convergence of technologies (e.g., virtual reality and blockchains) that enables users to experience mixed/extended realities for various legitimate purposes (e.g., gaming, tourism, manufacturing and education). Unfortunately, the crime and security implications of emerging technologies are often overlooked. To anticipate crimes that the metaverse might facilitate, we report the findings of a nominal group technique (NGT) study, which involved a state-of-the-art scoping review of the existing literature and elicitation exercises with two groups of experts (one a diverse group from the UK and Europe, the other representing international law enforcement) with a wide range of expertise. A total of 30 crime threats were identified in the literature or by participants. The elicitation exercises also explored how harmful, frequent, achievable and defeatable participants anticipated that the crimes identified would be. Ratings for these aspects were largely consistent across the two samples, with crimes of a sexual nature (e.g., child sexual abuse material), and crimes against the person (e.g., hate crime) being rated as presenting the highest future risks (i.e. being high harm and high frequency) and being the most difficult to address. The findings illuminate understanding of the most (and least) harmful and likely crime threats the metaverse could facilitate and consequently help stakeholders to prioritise which offences to focus on. In discussing how the crime threats might be addressed, we consider roles and responsibilities and how theory about the management of physical places might inform crime prevention in the metaverse(s).
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing collaboration in virtual reality applications
+AU  - Theoktisto, Víctor
+AU  - Fairén, Marta
+JO  - Computers & Graphics
+VL  - 29
+IS  - 5
+SP  - 704
+EP  - 718
+PY  - 2005
+DA  - 2005/10/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/j.cag.2005.08.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849305001330
+AB  - We derive a complete component framework for transforming standalone virtual reality (VR) applications into full-fledged multithreaded collaborative virtual reality environments (CVREs), after characterizing existing implementations into a feature-rich superset. Our main contribution is placing over the existing VR tool a very concise and extensible class framework as an add-on component that provides emerging collaboration features. The enhancements include: a scalable arbitrated peer-to-peer topology for scene sharing; multi-threaded components for graphics rendering, user interaction and network communications; a streaming message protocol for client communications; a collaborative user interface model for session handling; and interchangeable user roles with multicamera perspectives, avatar awareness and shared 3D annotations. We validate the framework by converting the existing ALICE VR Navigator into complete CVRE, with experimental results showing good performance in the collaborative inspection and manipulation of complex models.
+ER  - 
+
+TY  - JOUR
+T1  - Effects of interacting with facial expressions and controllers in different virtual environments on presence, usability, affect, and neurophysiological signals
+AU  - Dey, Arindam
+AU  - Barde, Amit
+AU  - Yuan, Bowen
+AU  - Sareen, Ekansh
+AU  - Dobbins, Chelsea
+AU  - Goh, Aaron
+AU  - Gupta, Gaurav
+AU  - Gupta, Anubha
+AU  - Billinghurst, Mark
+JO  - International Journal of Human-Computer Studies
+VL  - 160
+SP  - 102762
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2021.102762
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581921001804
+KW  - Virtual reality
+KW  - Facial expression
+KW  - Interaction
+KW  - User study
+KW  - Neurophysiological signals
+AB  - Virtual Reality (VR) interfaces provide an immersive medium to interact with the digital world. Most VR interfaces require physical interactions using handheld controllers, but there are other alternative interaction methods that can support different use cases and users. Interaction methods in VR are primarily evaluated based on their usability, however, their differences in neurological and physiological effects remains less investigated. In this paper—along with other traditional qualitative matrices such as presence, affect, and system usability—we explore the neurophysiological effects—brain signals and electrodermal activity—of using an alternative facial expression interaction method to interact with VR interfaces. This form of interaction was also compared with traditional handheld controllers. Three different environments, with different experiences to interact with were used—happy (butterfly catching), neutral (object picking), and scary (zombie shooting). Overall, we noticed an effect of interaction methods on the gamma activities in the brain and on skin conductance. For some aspects of presence, facial expression outperformed controllers but controllers were found to be better than facial expressions in terms of usability.
+ER  - 
+
+TY  - JOUR
+T1  - The physical body as a computing interface: Theoretical conceptualization of embodied affordances and empirical validation
+AU  - Suh, Ayoung
+JO  - Telematics and Informatics
+VL  - 82
+SP  - 101997
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0736-5853
+DO  - https://doi.org/10.1016/j.tele.2023.101997
+UR  - https://www.sciencedirect.com/science/article/pii/S0736585323000618
+KW  - Immersive virtual reality
+KW  - Affordance–actualization theory
+KW  - Task performance
+KW  - Collaboration satisfaction
+AB  - Despite the growing interest in immersive virtual reality (IVR) for collaboration and the rising prevalence of commercial applications, the extant body of knowledge on IVR is still in a nascent stage. A paucity of empirical studies have investigated the affordances engendered for collaboration, resulting in a lack of theoretical underpinnings for comprehending the impact of IVR on collaboration outcomes. In an effort to address these lacunae in research, this study explores how IVR affordances for collaboration influence task performance and collaboration satisfaction. Drawing on the metaverse framework for collaboration against the backdrop of the corporeal embodiment concept, this study develops a research model that investigates the interplay between IVR affordances for collaboration, collaborative behavior enactment, and collaboration outcomes. The model was tested using data collected from 168 subjects who participated in a virtual collaboration using IVR in a laboratory setting. The results of the study showed that avatar customizability was a key antecedent to embodied affordances, among which embodied communication and embodied team processing jointly influenced collaborative behavior enactment, which, in turn, influenced collaboration outcomes (task performance and collaboration satisfaction). This study contributes to the IVR literature by conceptualizing novel affordances for collaboration facilitated by IVR and empirically scrutinizing the manner in which perceived affordances precipitate their actualization, subsequently affecting collaboration outcomes. With respect to practice, the findings of this study provide useful insights for organizational managers and IVR developers who seek to harness the benefits of IVR for effective collaboration.
+ER  - 
+
+TY  - JOUR
+T1  - An approach for exoskeleton integration in manufacturing lines using Virtual Reality techniques
+AU  - Karvouniari, Anna
+AU  - Michalos, George
+AU  - Dimitropoulos, Nikos
+AU  - Makris, Sotirios
+JO  - Procedia CIRP
+VL  - 78
+SP  - 103
+EP  - 108
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 6th CIRP Global Web Conference – Envisaging the future manufacturing, design, technologies and systems in innovation era (CIRPe 2018)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2018.08.315
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827118312289
+KW  - exoskeleton
+KW  - Virtual Reality
+KW  - waearable robotics
+KW  - manufacturing
+AB  - Exoskeleton technologies bring new capabilities and improve endurance and safety in industrial settings. They are designed to increase in industrial productivity and can prevent common workplace injuries. Although they are not a new concept, the integration of exoskeletons in plants is not a trivial matter. Combining wearable robotics with Virtual Reality holds great promise for industrial applications. We propose a VR-based decision tool for the exoskeleton integration in industrial lines that will aid in the identification of the optimal areas and tasks for application, the fine tuning of the active elements of the exoskeleton based on simulation results and the effective and safe training of workers into the correct use of different exoskeletons.
+ER  - 
+
+TY  - JOUR
+T1  - Use case for the Application of the Industrial Metaverse Approach for Engineering Design Review
+AU  - Bellalouna, Fahmi
+AU  - Puljiz, David
+JO  - Procedia CIRP
+VL  - 119
+SP  - 638
+EP  - 643
+PY  - 2023
+DA  - 2023/01/01/
+T2  - The 33rd CIRP Design Conference
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2023.03.116
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827123005607
+KW  - Industrial Metaverse
+KW  - Virtual Reality
+KW  - Avatar
+KW  - Design Review
+AB  - The metaverse is an immersive virtual space that enables users to meet each other virtually as an avatar and to interact with the virtual environment whatever their location. The metaverse approach is mainly based on the virtual reality (VR) technology enhanced with multiplayer capability. VR enables, due to its high immersive and interactive capabilities, a realistic experience of complex and abstract technical systems which leads to the support of the human cognitive abilities in observing their behavior. The advantages of VR have been recognized by the industry in the last few years. As a result, numerous industrial companies worldwide have founded initiatives with research institutions and start-ups to investigate the application of VR and the metaverse. This paper presents and discusses the implementation and the application of an industrial metaverse approach based on VR for the design review of a pharmaceutical vial filling machine.
+ER  - 
+
+TY  - JOUR
+T1  - Comparative study of the bimanual and collaborative modes for closely coupled manipulations
+AU  - Simard, Jean
+AU  - Ammi, Mehdi
+AU  - Mayeur, Anaïs
+JO  - International Journal of Human-Computer Studies
+VL  - 72
+IS  - 4
+SP  - 408
+EP  - 421
+PY  - 2014
+DA  - 2014/04/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2013.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581913001973
+KW  - Collaborative work
+KW  - Molecular deformation
+KW  - Haptic interaction
+AB  - The interactive manipulation of complicated environments poses a real challenge since it involves the simultaneous management of several heterogeneous constraints. For instance, molecular design requires the simultaneous control of several connected kinematic structures, with strong physical and chemical interactions, to provide the relevant conformation and docking solutions. This paper investigates two working strategies for carrying out closely coupled manipulations in such environments. We present an experimental study which compares bimanual and collaborative configurations. For both strategies, we provide users with the same number of resources, such as the same visualization system and the same number of manipulation tools. The performances are better in the collaborative configuration for the simultaneous management of several constraints and the manipulation of distant regions. However, this working strategy involves a strong communication flow to coordinate the actions. The performances are better in the bimanual configuration when the tasks involve a limited working space and a low level of constraints.
+ER  - 
+
+TY  - JOUR
+T1  - Collaborative learning and engineering workspaces
+AU  - Schaf, F.M.
+AU  - Müller, D.
+AU  - Bruns, F.W.
+AU  - Pereira, C.E.
+AU  - Erbe, H.-H.
+JO  - Annual Reviews in Control
+VL  - 33
+IS  - 2
+SP  - 246
+EP  - 252
+PY  - 2009
+DA  - 2009/12/01/
+SN  - 1367-5788
+DO  - https://doi.org/10.1016/j.arcontrol.2009.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S1367578809000510
+KW  - Computer aided engineering education
+KW  - Collaborative work
+KW  - Mixed-reality in education
+KW  - Virtual learning systems
+AB  - Research studies aimed to improve remote collaboration and education are presented and related to practical results for control and automation engineering education. Individual, social and cultural aspects are considered as important requirements in the development of collaborative learning environments. A collaborative learning environment for control and automation education, which includes mixed-reality lab experiments, is presented. The proposed environment hosts remote lab experiments that enable the development of collaborative projects among students working at different sites. Experiences using the proposed learning environment in both university and vocational courses are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Design, programming and orchestration of heterogeneous manufacturing systems through VR-powered remote collaboration
+AU  - Galambos, Péter
+AU  - Csapó, Ádám
+AU  - Zentay, Péter
+AU  - Fülöp, István Marcell
+AU  - Haidegger, Tamás
+AU  - Baranyi, Péter
+AU  - Rudas, Imre J.
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 33
+SP  - 68
+EP  - 77
+PY  - 2015
+DA  - 2015/06/01/
+T2  - Special Issue on Knowledge Driven Robotics and Manufacturing
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2014.08.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584514000738
+KW  - Virtual reality/augmented reality
+KW  - Mixed virtual and physical reality
+KW  - Remote collaboration
+KW  - Virtual commissioning
+KW  - Future internet
+KW  - Cognitive infocommunications
+AB  - Modern manufacturing systems are often composed of a variety of highly customized units and specifically designed manufacturing cells. Optimization of assembly and training of staff requires a series of demo installations and excessive use of costly operational resources. In some cases, components are located at different sites, making the orchestration of the whole system even more difficult. Virtual Reality (VR) collaboration environments offer a solution by enabling high fidelity testing and training of complex manufacturing systems. On the other hand, such platforms are difficult to implement in an engineering perspective, as they are required to provide reliable, standard interfaces towards both robotic components and human operators. The VirCA (Virtual Collaboration Arena) platform is a software framework that supports various means of collaboration through the use of 3D augmented/virtual reality as a communication medium. VirCA offers functions for the high-level interoperability of heterogeneous components in a wide range of domains, spanning from research & development, through remote education to orchestration and management of industrial processes in manufacturing applications. This paper provides an overview of the industrial requirements behind high-fidelity virtual collaboration and demonstrates how the VirCA platform meets these requirements. Use cases are provided to illustrate the usability of the platform.
+ER  - 
+
+TY  - JOUR
+T1  - AR/MR Remote Collaboration on Physical Tasks: A Review
+AU  - Wang, Peng
+AU  - Bai, Xiaoliang
+AU  - Billinghurst, Mark
+AU  - Zhang, Shusheng
+AU  - Zhang, Xiangyu
+AU  - Wang, Shuxia
+AU  - He, Weiping
+AU  - Yan, Yuxiang
+AU  - Ji, Hongyu
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 72
+SP  - 102071
+PY  - 2021
+DA  - 2021/12/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2020.102071
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584520302829
+KW  - Augmented Reality
+KW  - Mixed Reality
+KW  - Remote collaboration
+KW  - Computer-supported collaborative work
+KW  - Human-computer interaction
+KW  - Physical tasks
+AB  - This paper provides a review of research into using Augmented Reality (AR) and Mixed Reality(MR) for remote collaboration on physical tasks. AR/MR-based remote collaboration on physical tasks has recently become more prominent in academic research and engineering applications. It has great potential in many fields, such as real-time remote medical consultation, education, training, maintenance, remote assistance in engineering, and other remote collaborative tasks. However, to the best of our knowledge there has not been any comprehensive review of research in AR/MR remote collaboration on physical tasks. Therefore, this paper presents a comprehensive survey of research between 2000 and 2018 in this domain. We collected 215 papers, more than 80% of which were published between 2010 and 2018, and all relevant works are discussed at length. Then we elaborate on the review from typical architectures, applications (e.g., industry, telemedicine, architecture, teleducation and others), and empathic computing. Next, we made an in-depth review of the papers from seven aspects: (1) collection and classification research, (2) using 3D scene reconstruction environments and live panorama, (3) periodicals and conducting research, (4) local and remote user interfaces, (5) features of user interfaces commonly used, (6) architecture and sharing non-verbal cues, (7) applications and toolkits. We find that most papers (160 articles, 74.4%) are published in conferences, using co-located collaboration to emulate remote collaboration is adopted by more than half (126, 58.6%) of the reviewed papers, the shared non-verbal cues can be mainly classified into five types (Virtual Replicas or Physical Proxy(VRP), AR Annotations or a Cursor Pointer(ARACP), avatar, gesture, and gaze), the local/remote interface is mainly divided into four categories (Head-Mounted Displays(HMD), Spatial Augmented Reality(SAR), Windows-Icon-Menu-Pointer(WIMP) and Hand-Held Displays(HHD)). From this, we can draw ten conclusions. Following this we report on issues for future works. The paper also provides an overall academic roadmap and useful insight into the state-of-the-art of AR/MR remote collaboration on physical tasks. This work will be useful for current and future researchers who are interested in collaborative AR/MR systems.
+ER  - 
+
+TY  - JOUR
+T1  - Realtime Collaborative Mixed Reality Environment with Force Feedback
+AU  - Yoo, Yong-Ho
+AU  - Bruns, Wilhelm
+JO  - IFAC Proceedings Volumes
+VL  - 37
+IS  - 5
+SP  - 153
+EP  - 157
+PY  - 2004
+DA  - 2004/06/01/
+T2  - 7th IFAC Symposium on Cost-Oriented Automation (COA 2004), Gatineau, Québec, Canada, 6-9 June 2004
+SN  - 1474-6670
+DO  - https://doi.org/10.1016/S1474-6670(17)32359-5
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667017323595
+KW  - mechatronics
+KW  - shared virtual environments
+KW  - force feedback devices
+KW  - simulation
+KW  - mixed reality
+KW  - co-presence
+KW  - object manipulation
+AB  - A low cost Mixed Reality implementation with force feedback as a base for further empirical studies of collaboration in distributed real and virtual environments will be presented. It will be shown, how the system can be used to get more insight in tangible cooperation between humans, avatars or in general real and virtual systems. This application is related to Hyper-Bonds, a unified concept to describe complex effort/flow driven automation systems distributed over real and virtual worlds. It allows selected materialization of parts of the system into reality and their functional connection to a simulation model.
+ER  - 
+
+TY  - JOUR
+T1  - Virtual reality barrel shaft design and assembly planning accompany with CAM
+AU  - Channarong, T.
+AU  - Suthep, B.
+JO  - Procedia Manufacturing
+VL  - 30
+SP  - 677
+EP  - 684
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Digital Manufacturing Transforming Industry Towards Sustainable Growth
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2019.02.063
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978919300940
+KW  - Virtual Reality Design
+KW  - Assembly Planning
+KW  - Barrel Shaft
+KW  - Digital Verification
+KW  - Optimization
+KW  - CAM
+AB  - This paper proposes the virtual reality concept to design and assembly planning for a barrel shaft. The shaft model was created on CAM and digital verification for effective functional design together with simulation as traditional method. Presently, virtual reality technology is sophisticated to mechanical components design and assembly animation which can help a design engineer in order to show possibility alternative assembly planning and achieve optimization. Collaborative virtual environment system was used to create the assembly plan animation.
+ER  - 
+
+TY  - JOUR
+T1  - See-through techniques for referential awareness in collaborative virtual reality
+AU  - Argelaguet, Ferran
+AU  - Kulik, Alexander
+AU  - Kunert, André
+AU  - Andujar, Carlos
+AU  - Froehlich, Bernd
+JO  - International Journal of Human-Computer Studies
+VL  - 69
+IS  - 6
+SP  - 387
+EP  - 400
+PY  - 2011
+DA  - 2011/06/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2011.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S107158191100005X
+KW  - Evaluation/methodology
+KW  - Interaction techniques
+KW  - 3D pointing
+KW  - Collaborative virtual reality
+AB  - Multi-user virtual reality systems enable natural collaboration in shared virtual worlds. Users can talk to each other, gesture and point into the virtual scenery as if it were real. As in reality, referring to objects by pointing results often in a situation whereon objects are occluded from the other users' viewpoints. While in reality this problem can only be solved by adapting the viewing position, specialized individual views of the shared virtual scene enable various other solutions. As one such solution we propose show-through techniques to make sure that the objects one is pointing to can always be seen by others. We first study the impact of such augmented viewing techniques on the spatial understanding of the scene, the rapidity of mutual information exchange as well as the proxemic behavior of users. To this end we conducted a user study in a co-located stereoscopic multi-user setup. Our study revealed advantages for show-through techniques in terms of comfort, user acceptance and compliance to social protocols while spatial understanding and mutual information exchange is retained. Motivated by these results we further analyze whether show-through techniques may also be beneficial in distributed virtual environments. We investigated a distributed setup for two users, each participant having its own display screen and a minimalist avatar representation for each participant. In such a configuration there is a lack of mutual awareness, which hinders the understanding of each other's pointing gestures and decreases the relevance of social protocols in terms of proxemic behavior. Nevertheless, we found that show-through techniques can improve collaborative interaction tasks even in such situations.
+ER  - 
+
+TY  - JOUR
+T1  - Relationship cultivation strategies in the metaverse
+AU  - Kang, Da-young
+AU  - Ki, Eyun-Jung
+JO  - Public Relations Review
+VL  - 50
+IS  - 1
+SP  - 102397
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0363-8111
+DO  - https://doi.org/10.1016/j.pubrev.2023.102397
+UR  - https://www.sciencedirect.com/science/article/pii/S0363811123001121
+KW  - Metaverse
+KW  - OPR
+KW  - Affordances
+KW  - Relationship cultivation strategy
+KW  - System immersion
+KW  - Narrative immersion
+AB  - This study uses the organization-public relationship approach to investigate the relationship cultivation strategies employed by an organization within the metaverse. This study also explores the highly immersive nature of metaverses, investigating both system and narrative immersion features. A content analysis of 101 existing metaverses reveals that networking (99%), positivity (98%), and assurance (76%) are most frequently used strategies by organizations, highlighting the unique affordances of the metaverse, such as embodiment, interactivity, and navigability. The findings suggest that organizations leverage the immersive properties of the metaverse to establish and cultivate relationships with their publics effectively. Furthermore, the majority of metaverse spaces exhibit medium to high levels of system immersion, while only a few incorporate clear narrative immersion features. These findings have implications for organizations seeking to engage with their audiences in immersive virtual environments.
+ER  - 
+
+TY  - JOUR
+T1  - Gamifying cultural heritage: Exploring the potential of immersive virtual exhibitions
+AU  - Wang, Hanbing
+AU  - Gao, Ze
+AU  - Zhang, Xiaolin
+AU  - Du, Junyan
+AU  - Xu, Yidan
+AU  - Wang, Ziqi
+JO  - Telematics and Informatics Reports
+VL  - 15
+SP  - 100150
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 2772-5030
+DO  - https://doi.org/10.1016/j.teler.2024.100150
+UR  - https://www.sciencedirect.com/science/article/pii/S2772503024000367
+KW  - Cultural Heritage
+KW  - Gamification
+KW  - Human–computer interaction
+KW  - Immersive virtual exhibition
+KW  - Review
+AB  - This paper reviews the potential of gamified cultural heritage in immersive virtual exhibitions. A systematic literature review following PRISMA guidelines identified 78 relevant papers from ACM and IEEE databases. Gamification and immersive technologies can provide interactive experiences to engage visitors and enhance their understanding of exhibits’ historical and cultural significance. Theoretical frameworks, including gamification theory, heritage interpretation theory, participatory heritage, immersive experience theory, and pedagogy, guide designing compelling experiences. Case studies like “Rome Reborn”, “Sutton House Stories”, and “Assassin’s Creed: Origins” demonstrate the efficacy of gamification in disseminating heritage. Key strategies include integrating augmented/virtual reality, multimodal data and 3D reconstruction, interactive narratives and gameplay, personalized experiences, advanced interfaces, balancing education and entertainment, and ensuring cultural sensitivity. Future work can explore AI-adaptive experiences, AR/VR integration, remote collaboration, educational game elements, and digital creativity models. Gamification and immersion provide innovative preservation and inheritance of cultural heritage. This review promotes digitalization and identifies literature gaps, supporting reflection on engagement’s past, present, and future. It aims to enable a broader appreciation of cultural heritage through technology.
+ER  - 
+
+TY  - JOUR
+T1  - LHX: An integrated software tool for haptic interface
+AU  - Iwata, Hiroo
+AU  - Yano, Hiroaki
+AU  - Hashimoto, Wataru
+JO  - Computers & Graphics
+VL  - 21
+IS  - 4
+SP  - 413
+EP  - 420
+PY  - 1997
+DA  - 1997/07/01/
+T2  - Haptic Displays in Virtual Environments and Computer Graphics in Korea
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(97)00018-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849397000186
+AB  - This paper describes a software tool for construction of a virtual environment with force feedback. A haptic interface is implemented in various mechanical configurations. In most cases, the software of the virtual environment is tightly connected to the control program of the haptic interface. This problem is a hazard for development of further applications. We developed a modular software tool called LHX, which supports various types of haptic interface. LHX is composed of seven modules. Application of the haptic interface is easily reconfigured by exchanging these modules. The software also supports a user environment which includes haptic icons. The effectiveness of LHX is exemplified through various applications.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling physiological and perceived responses in remote collaborative virtual environments: A comparative study of HMD and desktop platforms
+AU  - Bayro, Allison
+AU  - Ghasemi, Yalda
+AU  - Dai, Ting
+AU  - Jeong, Heejin
+JO  - Computers in Human Behavior Reports
+VL  - 18
+SP  - 100691
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 2451-9588
+DO  - https://doi.org/10.1016/j.chbr.2025.100691
+UR  - https://www.sciencedirect.com/science/article/pii/S245195882500106X
+AB  - This study investigates the effectiveness of remote collaboration in the virtual environment for assembly tasks requiring equal participation from all users, a scenario reflecting industry-oriented collaboration. Twenty-four pairs of participants (N = 48) evaluated two interfaces: a head-mounted display (HMD) and a desktop-based personal computer, within structured scenarios. The study combines subjective perceptions with physiological indicators, engaging participants in a fair, remote object assembly task. Consistent with established literature, results highlight the heightened sense of spatial presence and realism in HMD environments. Interestingly, HMDs increase arousal levels while reducing cognitive load—a notable departure from traditional cognitive load-arousal correlations. Furthermore, the data indicates that a user's experience is primarily influenced by their interface, regardless of their collaborator's setup. Structural equation modeling reinforces these findings, revealing the mediating role of perceived workload between interface type and arousal, as indexed by galvanic skin response. The nuanced interplay of reduced cognitive strain with heightened arousal in HMD contexts suggests the immersive attributes of such interfaces. These findings underscore the significant implications of virtual reality (VR) in collaborative settings, emphasizing how interfaces shape perceived workload and arousal, thus advancing discussions on future VR collaborative solutions.
+ER  - 
+
+TY  - JOUR
+T1  - Remote collaborative framework for real-time structural condition assessment using Augmented Reality
+AU  - Awadallah, Omar
+AU  - Grolinger, Katarina
+AU  - Sadhu, Ayan
+JO  - Advanced Engineering Informatics
+VL  - 62
+SP  - 102652
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2024.102652
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034624003008
+KW  - Augmented Reality
+KW  - Structural Health Monitoring
+KW  - Building Information Modelling
+KW  - Real-time Collaboration
+KW  - Structural Condition Assessment
+KW  - Microsoft HoloLens
+AB  - Civil structures worldwide are confronted with a growing threat of structural deterioration, aggravated by various factors such as climate change, population growth, and increased traffic. The latent nature of these issues often leads to undetected vulnerabilities until a catastrophic failure occurs, resulting in substantial losses. To address this challenge, there is a critical need for improved structural monitoring, condition assessment, and maintenance practices. Traditional inspection methods, relying on visual estimation and heavy equipment for inaccessible areas, present formidable obstacles to inspectors. These methods impede the safe and fast examination of structural damage, complicating tracking of structural deterioration, and hindering efficient condition assessment. Recognizing these challenges, this paper proposes a remote collaborative framework to enhance the efficiency of structural inspections by leveraging the capabilities of Augmented Reality (AR), QR code, and 5G network. The proposed framework centers on real-time remote collaboration among on-site and off-site inspectors, aiming to elevate safety, accessibility, and overall inspection efficacy. The integration of real-time data sharing and collaboration facilitates immediate decision-making, enabling inspectors to proactively address structural vulnerabilities and prevent potential failures. This study concludes that the proposed framework effectively facilitates real-time structural condition assessment for on-site AR users. Simultaneously, off-site web users can instantly track the progression of data over time through the utilization of 5G technology. The proposed advanced AR framework effectively demonstrates real-time structural condition assessment through a lab-scale experimental beam and a full-scale bridge.
+ER  - 
+
+TY  - JOUR
+T1  - Viewpoint: Virtual and Augmented Reality in Basic and Advanced Life Support Training
+AU  - Ricci, Serena
+AU  - Calandrino, Andrea
+AU  - Borgonovo, Giacomo
+AU  - Chirico, Marco
+AU  - Casadio, Maura
+JO  - JMIR Serious Games
+VL  - 10
+IS  - 1
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 2291-9279
+DO  - https://doi.org/10.2196/28595
+UR  - https://www.sciencedirect.com/science/article/pii/S2291927922000381
+KW  - basic and advanced life support
+KW  - first aid
+KW  - cardiopulmonary resuscitation
+KW  - emergency
+KW  - training
+KW  - simulation training
+KW  - medical simulation
+KW  - healthcare simulation
+KW  - virtual reality
+KW  - augmented reality
+AB  - The use of augmented reality (AR) and virtual reality (VR) for life support training is increasing. These technologies provide an immersive experience that supports learning in a safe and controlled environment. This review focuses on the use of AR and VR for emergency care training for health care providers, medical students, and nonprofessionals. In particular, we analyzed (1) serious games, nonimmersive games, both single-player and multiplayer; (2) VR tools ranging from semi-immersive to immersive virtual and mixed reality; and (3) AR applications. All the toolkits have been investigated in terms of application goals (training, assessment, or both), simulated procedures, and skills. The main goal of this work is to summarize and organize the findings of studies coming from multiple research areas in order to make them accessible to all the professionals involved in medical simulation. The analysis of the state-of-the-art technologies reveals that tools and studies related to the multiplayer experience, haptic feedback, and evaluation of user’s manual skills in the foregoing health care-related environments are still limited and require further investigation. Also, there is an additional need to conduct studies aimed at assessing whether AR/VR-based systems are superior or, at the minimum, comparable to traditional training methods.
+ER  - 
+
+TY  - JOUR
+T1  - A framework using cluster-based hybrid network architecture for collaborative virtual surgery
+AU  - Qin, Jing
+AU  - Choi, Kup-Sze
+AU  - Poon, Wai-Sang
+AU  - Heng, Pheng-Ann
+JO  - Computer Methods and Programs in Biomedicine
+VL  - 96
+IS  - 3
+SP  - 205
+EP  - 216
+PY  - 2009
+DA  - 2009/12/01/
+SN  - 0169-2607
+DO  - https://doi.org/10.1016/j.cmpb.2009.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0169260709001758
+KW  - Surgical simulation
+KW  - Collaborative virtual environments
+KW  - Cluster-based network architecture
+KW  - Reliable multicast
+KW  - Efficient collaboration
+AB  - Research on collaborative virtual environments (CVEs) opens the opportunity for simulating the cooperative work in surgical operations. It is however a challenging task to implement a high performance collaborative surgical simulation system because of the difficulty in maintaining state consistency with minimum network latencies, especially when sophisticated deformable models and haptics are involved. In this paper, an integrated framework using cluster-based hybrid network architecture is proposed to support collaborative virtual surgery. Multicast transmission is employed to transmit updated information among participants in order to reduce network latencies, while system consistency is maintained by an administrative server. Reliable multicast is implemented using distributed message acknowledgment based on cluster cooperation and sliding window technique. The robustness of the framework is guaranteed by the failure detection chain which enables smooth transition when participants join and leave the collaboration, including normal and involuntary leaving. Communication overhead is further reduced by implementing a number of management approaches such as computational policies and collaborative mechanisms. The feasibility of the proposed framework is demonstrated by successfully extending an existing standalone orthopedic surgery trainer into a collaborative simulation system. A series of experiments have been conducted to evaluate the system performance. The results demonstrate that the proposed framework is capable of supporting collaborative surgical simulation.
+ER  - 
+
+TY  - JOUR
+T1  - Applying thematic analysis to define an awareness interpretation for collaborative computer games
+AU  - Teruel, Miguel A.
+AU  - Navarro, Elena
+AU  - González, Pascual
+AU  - López-Jaquero, Víctor
+AU  - Montero, Francisco
+JO  - Information and Software Technology
+VL  - 74
+SP  - 17
+EP  - 44
+PY  - 2016
+DA  - 2016/06/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2016.01.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584916000112
+KW  - Awareness
+KW  - Collaborative computer games
+KW  - Gamespace awareness
+KW  - Thematic synthesis
+KW  - Game development
+KW  - Empirical evaluation
+AB  - Context
+Collaborative computer games have evolved from single-player to massively multiplayer awareness-demanding games, usually involving collaboration to achieve team goals. As a consequence of such evolution, these players should be provided with awareness information that enables them to perform collaborative tasks with other team members.
+Objective
+The objective of this work is the analysis of current awareness interpretations in order to develop an awareness interpretation that collects the awareness needs of such games.
+Method
+This analysis has been conducted by means of a step-by-step Thematic Analysis of current interpretations that led us to extract the most relevant awareness elements defined in existing interpretations. The developed awareness interpretation was empirically evaluated by means of several surveys aimed at assessing whether the implementation of the interpretation elements in a game would improve the players enjoyment.
+Results
+The Thematic Synthesis Analysis concluded that none of the current awareness interpretations can deal properly with collaborative computer games, specifically due to collaboration and social & group dynamics. This Thematic Synthesis Analysis led us to coin Gamespace Awareness, a new awareness interpretation based on a combination of the previously analyzed awareness interpretations, which is suitable for collaborative computer games. The interpretation was positively evaluated for two games, namely a first person shooter and a real-time strategy game.
+Conclusions
+Gamespace Awareness combines the potential awareness elements needed for collaborative computer games, making it possible to identify the awareness requirements of these games from the very beginning.
+ER  - 
+
+TY  - JOUR
+T1  - Designing a Framework for Collaborative Mixed Reality Training
+AU  - Kostov, Georgi
+AU  - Wolfartsberger, Josef
+JO  - Procedia Computer Science
+VL  - 200
+SP  - 896
+EP  - 903
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 3rd International Conference on Industry 4.0 and Smart Manufacturing
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2022.01.287
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050922002964
+KW  - multi-device
+KW  - collaboration
+KW  - tool
+KW  - virtual reality
+KW  - augmented reality
+KW  - network
+KW  - human-computer interaction
+AB  - Training simulations in Virtual Reality (VR) benefit from the technology’s interactive and intuitive nature. Typically, the VR user is isolated in the virtual environment and an external instructor or spectators cannot support the learning progress. Previous research work presents solutions for isolated use cases, but lacks specific guidelines for the implementation of collaborative multi-device systems. We propose a method for expanding collaborative extended reality (XR) applications to multiple platforms to support collaborative learning, but also other types of applications such as remote collaboration and maintenance. In order to test our approach, we expanded an existing application to four different platforms - Steam VR, Microsoft Mixed Reality, smartphone/tablet and desktop computer. Based on lessons learned from our prototype, we propose a solution for multi-device networking and interaction on each platform. The main strengths of our approach are in the decoupling of local and networked objects and the common interface for interaction, which accommodates multiple platforms. We believe our approach can provide useful insights into collaborative training and serve as a good starting point for future projects.
+ER  - 
+
+TY  - JOUR
+T1  - Study of communication modalities to support teaching tool manipulation skills in a shared immersive environment
+AU  - Simon, Cassandre
+AU  - Boukli Hacene, Manel
+AU  - Otmane, Samir
+AU  - Chellali, Amine
+JO  - Computers & Graphics
+VL  - 117
+SP  - 31
+EP  - 41
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/j.cag.2023.09.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849323002340
+KW  - Shared immersive environments
+KW  - Multimodal interaction
+KW  - Technical skills learning
+KW  - Haptic communication
+KW  - Mentoring
+AB  - This work investigates the potential benefits of using a shared immersive environment for training purposes. Such an environment provides a safe space for teachers to impart their knowledge and expertise to trainees, especially when teaching technical skills that require proper tool manipulation. Our research focuses on exploring different communication modalities that can be used to teach movement amplitude during tool manipulation tasks. Specifically, we examine the effectiveness of haptic, visual, and verbal modalities in enhancing the learning process. Our user study results reveal that trainees were able to replicate movements more accurately when given instructions using the visual modality, and they were able to replicate movements faster when given instructions using the haptic modality. While verbal instructions increased the sense of copresence with the teacher, it was the least preferred modality. These findings suggest that multimodality could be the most appropriate approach to enhance the teaching of movement amplitude skills. Our study provides insights for improving the design of immersive shared systems. It opens up new avenues for further research on the effectiveness of shared immersive virtual environments in supporting the teaching of technical skills.
+ER  - 
+
+TY  - JOUR
+T1  - Robot-enabled tangible virtual assembly with coordinated midair object placement
+AU  - Zhang, Li
+AU  - Liu, Yizhe
+AU  - Bai, Huidong
+AU  - Zou, Qianyuan
+AU  - Chang, Zhuang
+AU  - He, Weiping
+AU  - Wang, Shuxia
+AU  - Billinghurst, Mark
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 79
+SP  - 102434
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2022.102434
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584522001181
+KW  - Robotics
+KW  - Assembly
+KW  - Virtual reality
+KW  - Haptic feedback
+AB  - The assembly in Virtual Reality (VR) enables users to fit virtual parts into existing 3D models immersively. However, users cannot physically feel the haptic feedback when connecting the parts with the virtual model. This work presents a robot-enabled tangible interface that dynamically moves a physical structure with a robotic arm to provide physical feedback for holding a handheld proxy in VR. This enables the system to provide force feedback during virtual assembly. The cooperation between the physical support and the handheld proxy produces realistic physical force feedback, providing a tangible experience for various virtual parts in virtual assembly scenarios. We developed a prototype system that allowed the operator to place a virtual part onto other models in VR by placing the proxy onto the matched structure attached to a robotic arm. We conducted a user evaluation to explore user performance and system usability in a virtual assembly task. The results indicated that the robot-enabled tangible support increased the task completion time but significantly improved the system usability and sense of presence with a more realistic haptic experience.
+ER  - 
+
+TY  - JOUR
+T1  - Influence of design interaction modes on conceptual design behavior and inter-brain synchrony in designer teams: A fNIRS hyperscanning study
+AU  - Wu, Jinchun
+AU  - Liu, Yixuan
+AU  - Du, Xiaoxi
+AU  - Zhang, Xinyu
+AU  - Xue, Chengqi
+JO  - Advanced Engineering Informatics
+VL  - 65
+SP  - 103223
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2025.103223
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034625001168
+KW  - Design interaction mode
+KW  - Conceptual design
+KW  - fNIRS hyperscanning
+KW  - inter-brain synchrony (IBS)
+KW  - Creative design team
+AB  - Conceptual design is inherently a social and creative activity. Most studies on conceptual design of designer teams focused primarily on behavioral aspects, leaving cross-brain coupling neural mechanisms underlying designer teams’ collaboration unexplored. Investigating inter-brain synchrony (IBS) offers a critical perspective on how shared neural activity supports key collaborative processes, such as coordination, communication, and team creativity. This study investigated the effects of design interaction modes (face-to-face vs. remote virtual vs. electronic brainstorming; FTF vs. RV vs. EBS) on designer teams’ interactive behaviors and IBS during conceptual design. Using fNIRS-based hyperscanning, neural activities in the right prefrontal cortex and right temporoparietal junction (r-TPJ) were recorded for 72 designers (36 dyads), and behavioral characteristics, IBS, and temporal dynamics of these metrics across modes were analyzed. Results showed that FTF teams outperformed RV and EBS in creative design performance, cooperation level, team flexibility, perspective-taking, and turn-taking. Creative design performance and cooperation level increased over time across all modes, particularly in FTF and RV, while team flexibility, perspective-taking, and turn-taking initially rose before declining, notably in FTF and RV. fNIRS data revealed greater IBS in r-TPJ and between r-TPJ and right dorsolateral prefrontal cortex (r-DLPFC) in RV compared to FTF and EBS, both following a U-shaped temporal trend. Cooperation level, perspective-taking, and turn-taking positively correlated with △IBS in r-TPJ, while cooperation level correlated with △IBS between r-TPJ and r-DLPFC. These results highlight distinct behavioral and neural synchronization patterns across interaction modes in designer teams during conceptual design process, with FTF mode performing best. These findings enhanced understanding of designer teams’ interactive cognition, contributed to design neurocognition research, and offered practical implications for designing tools and training programs to optimize team performance.
+ER  - 
+
+TY  - JOUR
+T1  - Collaborative software design and modeling in virtual reality
+AU  - Stancek, Martin
+AU  - Polasek, Ivan
+AU  - Zalabai, Tibor
+AU  - Vincur, Juraj
+AU  - Jolak, Rodi
+AU  - Chaudron, Michel
+JO  - Information and Software Technology
+VL  - 166
+SP  - 107369
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2023.107369
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584923002240
+KW  - Virtual reality
+KW  - Collaboration
+KW  - Immersion
+KW  - Software development
+KW  - Software modeling
+AB  - Context:
+Software engineering is becoming more and more distributed. Developers and other stakeholders are often located in different locations, departments, and countries and operating within different time zones. Most online software design and modeling tools are not adequate for distributed collaboration since they do not support awareness and lack features for effective communication.
+Objective:
+The aim of our research is to support distributed software design activities in Virtual Reality (VR).
+Method:
+Using design science research methodology, we design and evaluate a tool for collaborative design in VR. We evaluate the collaboration efficiency and recall of design information when using the VR software design environment compared to a non-VR software design environment. Moreover, we collect the perceptions and preferences of users to explore the opportunities and challenges that were incurred by using the VR software design environment.
+Results:
+We find that there is no significant difference in the efficiency and recall of design information when using the VR compared to the non-VR environment. Furthermore, we find that developers are more satisfied with collaboration in VR.
+Conclusion:
+The results of our research and similar studies show that working in VR is not yet faster or more efficient than working on standard desktops. It is very important to improve the interface in VR (gestures with haptics, keyboard and voice input), as confirmed by the difference in results between the first and second evaluation.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of requirements for the transfer of creativity techniques in virtual environments by using TRIZ-Box
+AU  - Bastian, Annika
+AU  - Hirt, Pascal
+AU  - Schwarz, Stefan Eric
+AU  - Fischer, Maximilian
+AU  - Düser, Tobias
+AU  - Albers, Albert
+JO  - Procedia CIRP
+VL  - 128
+SP  - 316
+EP  - 320
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 34th CIRP Design Conference
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.06.026
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124006851
+KW  - Creativity techniques in product development
+KW  - Distributed teams
+KW  - Design methodology
+KW  - tools
+KW  - technologies
+AB  - Distributed teams are becoming a normality in nowadays product development. However certain activities pose additional challenges when carried out in a distributed setting. Activities involving creativity are some of them. To overcome these challenges support is needed that ensures the functioning of creativity techniques in distributed, i.e. virtual settings. To develop such support the challenges need to be identified exactly as well as the requirements for transferring Creativity Techniques (CTs) into virtual application. Therefore, a preliminary study in a LiveLab environment was carried out. The results are compared with the requirements found in the literature. The creativity technique TRIZ-Box which represents the 40 inventive principles in TRIZ as physical objects to assist the idea generation is the CT this contribution focuses on. With respect to the requirements, the TRIZ-Box is adapted for execution in Virtual Reality (VR). The resulting prototype is then validated by three teams of two experts for design method development that solve an example problem using the VR-TRIZ-Box. Conclusions on the first prototype of the VR-TRIZ-Box are drawn through the number of ideas generated with and without the CT and the observation of the participants during the process of applying the CT. Technical and procedural challenges are identified that require further development iterations, however, the VR-TRIZ-Box proves itself as a successful virtual pendant to the real TRIZ-Box and shows possible implementation in future metaverse applications.
+ER  - 
+
+TY  - JOUR
+T1  - User interface paradigms for patient-specific surgical planning: lessons learned over a decade of research
+AU  - Montgomery, Kevin
+AU  - Stephanides, Michael
+AU  - Schendel, Stephen
+AU  - Ross, Muriel
+JO  - Computerized Medical Imaging and Graphics
+VL  - 29
+IS  - 2
+SP  - 203
+EP  - 222
+PY  - 2005
+DA  - 2005/03/01/
+T2  - Imaging Informatics
+SN  - 0895-6111
+DO  - https://doi.org/10.1016/j.compmedimag.2004.09.014
+UR  - https://www.sciencedirect.com/science/article/pii/S089561110400120X
+KW  - Surgical planning
+KW  - Virtual environments
+KW  - Surgical simulation
+AB  - This paper covers work in virtual reality-based, patient-specific surgical planning over the past decade. It aims to comprehensively examine the user interface paradigms and system designs during that period of time and to objectively analyze their effectiveness for the task. The goal is to provide useful feedback on these interface and implementation paradigms to aid other researchers in this field. First, specialized systems for specific clinical use were produced with a limited set of visualization tools. Later, through collaboration with NASA, an immersive virtual environment was created to produce high-fidelity images for surgical simulation, but it underestimated the importance of collaboration. The next system, a networked, distributed virtual environment, provided immersion and collaboration, but the immersive paradigm was found to be of a disadvantage and the uniqueness of the framework unwieldy. A virtual model, workbench-style display was then created using a commercial package, but limitations of each were soon apparent. Finally, a specialized display, with an integrated visualization and simulation system is described and evaluated. Lessons learned include: surgical planning is an abstract process unlike surgical simulation; collaboration is important, as is stereo visualization; and that high-resolution preoperative images from standard viewpoints are desirable, but interaction is truly the key to planning.
+ER  - 
+
+TY  - JOUR
+T1  - FROM REMOTE LABS TO COLLABORATIVE ENGINEERING WORKSPACES
+AU  - Bruns, F.W.
+AU  - Erbe, H.-H.
+AU  - Müller, D.
+JO  - IFAC Proceedings Volumes
+VL  - 40
+IS  - 1
+SP  - 108
+EP  - 113
+PY  - 2007
+DA  - 2007/01/01/
+T2  - 8th IFAC Symposium on Cost Oriented Automation
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20070213-3-CU-2913.00019
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667015312155
+KW  - e-learning
+KW  - simulation
+KW  - remote experiments
+KW  - hyper-bonds
+KW  - distributed workspaces
+KW  - CAVE
+AB  - Research results of improving remote collaboration are presented. Individual, social and cultural aspects are considered as new requirements on the employees of networked and extended enterprises. New developments on cost-effective connections are providing not only vision and auditory perception but also haptic perception.
+ER  - 
+
+TY  - JOUR
+T1  - I am too young for this! A moderated-mediation model of metaverse commerce resistance
+AU  - Ooi, Keng-Boon
+AU  - Hew, Jun-Jie
+AU  - Aw, Eugene Cheng-Xi
+AU  - Cham, Tat-Huei
+AU  - Lin, Chieh-Yu
+AU  - Tan, Garry Wei-Han
+JO  - Journal of Retailing and Consumer Services
+VL  - 84
+SP  - 104224
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0969-6989
+DO  - https://doi.org/10.1016/j.jretconser.2025.104224
+UR  - https://www.sciencedirect.com/science/article/pii/S0969698925000037
+KW  - Metaverse
+KW  - Metaverse commerce
+KW  - Resistance behaviour
+KW  - Passive innovation resistance
+KW  - Need for touch
+KW  - Cognitive age
+KW  - Consumer Behaviour
+AB  - Given the recent development in the metaverse, a new channel for conducting commerce activities named metaverse commerce has emerged. However, there is a need to understand the resistance to metaverse commerce among consumers. Hence, a moderated-mediation model is proposed and empirically tested. Passive innovation resistance was found to have direct and indirect effects on metaverse commerce resistance through the need for touch, whereas cognitive age moderates the direct and indirect effects of passive innovation resistance, such that the effects are more substantial for cognitively younger consumers. These results are then elaborated concerning their theoretical and practical implications.
+ER  - 
+
+TY  - JOUR
+T1  - Development and evaluation of a virtual campus on Second Life: The case of SecondDMI
+AU  - De Lucia, Andrea
+AU  - Francese, Rita
+AU  - Passero, Ignazio
+AU  - Tortora, Genoveffa
+JO  - Computers & Education
+VL  - 52
+IS  - 1
+SP  - 220
+EP  - 233
+PY  - 2009
+DA  - 2009/01/01/
+SN  - 0360-1315
+DO  - https://doi.org/10.1016/j.compedu.2008.08.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0360131508001243
+KW  - 3D learning environment
+KW  - Collaborative learning
+KW  - Virtual presence
+KW  - Virtual campus
+AB  - Video games and new communication metaphors are quickly changing today’s young people habits. Considering the actual e-learning scenarios, embedded in a fully technological enabled environment it is crucial to take advantage of this kind of capabilities to let learning process gain best results. This paper presents a virtual campus created using Second Life which provides four distinct types of virtual space: common student campus, collaborative zones, lecture rooms and recreational areas. Second Life environments and objects have been designed and programmed to support synchronous lectures and collaborative learning. The Second Life virtual world has also been equipped with supporting tools enabling students and teachers to navigate among multimedia contents. Second Life and an ad-hoc developed Moodle plug-in have been integrated to naturally enrich the environment with LMS services, exploiting this 3D world to increase the interaction and communication opportunities between teachers and students, and among students, principally favoring planned and unplanned social encounters. We have conducted an experiment involving university students aiming at evaluating Second Life synchronous distance lectures in the proposed learning environment. The evaluation has been conducted considering that, in a 3D multi-user virtual environment, learning is strongly related to the user perception of belonging to a learning community, as well as to the perception of awareness, presence and communication. The results of the evaluation are very positive.
+ER  - 
+
+TY  - JOUR
+T1  - DISTRIBUTED WORKSPACES
+AU  - Erbe, Heinz-H.
+JO  - IFAC Proceedings Volumes
+VL  - 39
+IS  - 3
+SP  - 255
+EP  - 260
+PY  - 2006
+DA  - 2006/01/01/
+T2  - 12th IFAC Symposium on Information Control Problems in Manufacturing
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20060517-3-FR-2903.00142
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667015358626
+KW  - e-/global-manufacturing
+KW  - controlling remote collaboration
+KW  - tele-presence
+KW  - mixed reality
+KW  - bond-graphs
+KW  - hyper-bonds
+AB  - Collaborative work over remote sites is a challenge to developers of information- and communication technology as well as to the involved workforce. New developments on cost-effective connections are providing not only vision and auditory perception but also haptic perception. Research fields for improving remote collaboration are discussed. Social aspects as new requirements on the employees of networked and extended enterprises are considered.
+ER  - 
+
+TY  - JOUR
+T1  - Designing haptic icons to support collaborative turn-taking
+AU  - Chan, Andrew
+AU  - MacLean, Karon
+AU  - McGrenere, Joanna
+JO  - International Journal of Human-Computer Studies
+VL  - 66
+IS  - 5
+SP  - 333
+EP  - 355
+PY  - 2008
+DA  - 2008/05/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2007.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581907001565
+KW  - Haptic icons
+KW  - Turn-taking
+KW  - Remote collaboration
+KW  - Background communication
+KW  - Signaling
+KW  - Workload
+KW  - Design process
+AB  - This paper describes research exploring the use of haptics to support users collaborating remotely in a single-user shared application. Mediation of turn-taking during remote collaboration provides a context to explore haptic affordances for background communication as well as control negotiation in remote collaboration: existing turn-taking protocols are rudimentary, lacking many communication cues available in face-to-face collaboration. We therefore designed a custom turn-taking protocol that allows users to express different levels of urgency in their request for control from a collaborator; state of control and requests are communicated by touch, with the intent of offloading visual attention. To support it, we developed a set of haptic icons, tangible stimuli to which specific meanings have been assigned. Because we required an icon set which could be utilized with specified, varying levels of intrusiveness in real attentionally challenged situations, we used a perceptually guided procedure that consisted of four steps: initial icon set design, perceptual refinement, validation of learnability and effectiveness under workload, and deployment in an application simulation. We found that our haptic icons could be learned to a high degree of accuracy in under 3min and remained identifiable even under significant cognitive workload. In an exploratory observational study comparing haptic, visual, and combined haptic and visual support for our protocol, participants overall preferred the combined multi-modal support, and in particular preferred the haptic support for control changes and the visual support for displaying state. In their control negotiation, users clearly utilized the option of requesting with graded urgency. The three major contributions in this paper are: (1) the introduction and first case study using a systematic process for refining and evaluating haptic icons for background communication in a primarily visual application; (2) the usability observed for a particular set of icons designed with that process; and (3) the introduction of an urgency-based turn-taking protocol and a comparison of haptic, visual and multi-modal support of our implementation of that protocol.
+ER  - 
+
+TY  - JOUR
+T1  - Lessons learned from requirements gathering for virtual reality simulators
+AU  - Gómez, Vivian
+AU  - Peñaranda, Kelly
+AU  - Figueroa, Pablo
+JO  - Virtual Reality & Intelligent Hardware
+VL  - 3
+IS  - 5
+SP  - 407
+EP  - 422
+PY  - 2021
+DA  - 2021/10/01/
+SN  - 2096-5796
+DO  - https://doi.org/10.1016/j.vrih.2021.09.002
+UR  - https://www.sciencedirect.com/science/article/pii/S2096579621000693
+KW  - Human computer interaction
+KW  - Virtual environment
+KW  - Requirements gathering
+KW  - Globally dispersed teams
+KW  - VR simulators and training
+AB  - Background
+This paper shows how current collaborative virtual environments (VEs) such as Mozilla Hubs and AltspaceVR can aid in the task of requirements gathering in VR for simulation and training.
+Methods
+We performed a qualitative study on our use of these technologies in the requirements gathering of two projects.
+Results
+Our results show that requirements gathering in virtual reality has an impact on the process of requirements identification. We report advantages and shortcomings that will be of interest to future practitioners. For example, we found that VR sessions for requirements gathering in current VEs could benefit from better pointers and better sound quality.
+Conclusion
+Current VEs are useful for the requirements gathering task in the development of VR simulators and VR training environments.
+ER  - 
+
+TY  - JOUR
+T1  - The use of virtual reality in manufacturing education: State-of-the-art and future directions
+AU  - Yang, Yiran
+AU  - Deb, Shuchisnigdha
+AU  - He, Miao
+AU  - Kobir, Md Humaun
+JO  - Manufacturing Letters
+VL  - 35
+SP  - 1214
+EP  - 1221
+PY  - 2023
+DA  - 2023/08/01/
+T2  - 51st SME North American Manufacturing Research Conference (NAMRC 51)
+SN  - 2213-8463
+DO  - https://doi.org/10.1016/j.mfglet.2023.07.023
+UR  - https://www.sciencedirect.com/science/article/pii/S221384632300055X
+KW  - Manufacturing education
+KW  - Virtual reality
+KW  - Virtual training
+KW  - Experiential learning
+AB  - Innovative technologies such as virtual reality and additive manufacturing have been drastically changing our society, from how we design and manufacture products to how to educate and train the next-generation workforce. This paper reviews scientific studies on virtual reality assisted manufacturing education published from 2015 to 2022 from three different perspectives: targeted manufacturing disciplines/topics, virtual environment development, and outcome evaluation methods. This paper also summarizes the critical limitations of existing studies and identifies the key challenges in the field. Furthermore, some future research directions are discussed aiming to advance current manufacturing education and deliver a highly skilled workforce for U.S. future manufacturing.
+ER  - 
+
+TY  - JOUR
+T1  - Auditory feedback in haptic collaborative interfaces
+AU  - Huang, Ying Ying
+AU  - Moll, Jonas
+AU  - Sallnäs, Eva-Lotta
+AU  - Sundblad, Yngve
+JO  - International Journal of Human-Computer Studies
+VL  - 70
+IS  - 4
+SP  - 257
+EP  - 270
+PY  - 2012
+DA  - 2012/04/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2011.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581911001583
+KW  - Haptic
+KW  - Force feedback
+KW  - Virtual environments
+KW  - Multimodal interface
+KW  - Collaboration
+KW  - Awareness
+KW  - Common ground
+AB  - The combined effect of haptic and auditory feedback in shared interfaces on the cooperation between visually impaired and sighted persons is under-investigated. A central challenge for cooperating group members lies in obtaining a common understanding of the elements of the workspace and maintaining awareness of the other members' actions, as well as one's own, during the group work process. The aim of the experimental study presented here was to investigate if adding audio cues in a haptic and visual interface makes collaboration between a sighted and a blindfolded person more efficient. Results showed that task performance was significantly faster in the audio, haptic and visual feedback condition compared to the haptic and visual feedback condition. One special focus was also to study how participants utilize the auditory and haptic force feedback in order to obtain a common understanding of the workspace and to maintain an awareness of the group members' actions. Results from a qualitative analysis showed that the auditory and haptic feedback was used in a number of important ways to support the group members' action awareness and in the participants' grounding process.
+ER  - 
+
+TY  - JOUR
+T1  - Visual and haptic collaborative tele-presence
+AU  - Ansar, Adnan
+AU  - Rodrigues, Denilson
+AU  - Desai, Jaydev P.
+AU  - Daniilidis, Kostas
+AU  - Kumar, Vijay
+AU  - Campos, Mario F.M.
+JO  - Computers & Graphics
+VL  - 25
+IS  - 5
+SP  - 789
+EP  - 798
+PY  - 2001
+DA  - 2001/10/01/
+T2  - Mixed realities - beyond conventions
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(01)00121-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849301001212
+KW  - Augmented reality
+KW  - Haptics
+KW  - Tele-presence
+KW  - Visual registration
+KW  - Visual tracking
+AB  - The core of a successful sense of presence is a visually, aurally, and haptically compelling experience. In this paper, we introduce the integration of vision and haptics for the purposes of remote collaboration. A remote station acquires a 3D-model of an object of interest which is transmitted to a local station. A user in the local station manipulates a virtual and the remote object as if he/she is haptically and visually at the remote station. This tele-presence feeling is achieved by visually registering the head-mounted display of the local user to the remote world and by dynamically registering the local object both visually and haptically with respect to the remote world. This can be achieved by adequate modeling and feedforward compensation including gravity compensation for the robotic manipulator with which the operator interacts. We present multiple scenarios where such a capability will be useful. One is remote design where a user tests a remotely designed docking station by inserting a virtual laptop into a model of the 3D docking station transmitted from a remote site. Medical robotics provides another possible scenario in which a resident is given surgical training to perform a virtual laparoscopy on a 3D exterior model of a patient, including tomographic registration of anatomical structures. We present results from numerous experiments from both the visual and haptic aspects as well as in integrated form.
+ER  - 
+
+TY  - JOUR
+T1  - Assist-as-needed policy for movement therapy using telerobotics-mediated therapist supervision
+AU  - Sharifi, Mojtaba
+AU  - Behzadipour, Saeed
+AU  - Salarieh, Hassan
+AU  - Tavakoli, Mahdi
+JO  - Control Engineering Practice
+VL  - 101
+SP  - 104481
+PY  - 2020
+DA  - 2020/08/01/
+SN  - 0967-0661
+DO  - https://doi.org/10.1016/j.conengprac.2020.104481
+UR  - https://www.sciencedirect.com/science/article/pii/S0967066120301106
+KW  - Assist-as-needed tele-rehabilitation
+KW  - Patient–therapist collaboration
+KW  - Bilateral telerobotic system
+KW  - Impedance control
+KW  - Nonlinear adaptive control
+KW  - Lyapunov stability
+AB  - In this paper, a new impedance-based teleoperation strategy is proposed for assist-as-needed tele-rehabilitation via a multi-DOF telerobotic system having patient–master and therapist–slave interactions. Unlike a regular teleoperation system and as the main contribution of this work to minimize the therapist’s movements, the therapist’s hand only follows the patient’s deviation from the target trajectory. Also it provides a better perception of the patient’s problems in motor control to the therapist The admissible deviation of the patient’s limb from a reference target trajectory is governed by an impedance model responding to both patient’s and therapist’s interaction forces. As the other benefit of this framework, two sources of assistance to the patient are delivered through the master robot: (1) the adjustable impedance model, and (2) the force applied by the therapist to the slave robot. The assistive impedance model is beneficial to reduce magnitudes of the required force from the therapist and decrease his/her intervention. This results in delaying and declining the therapist’s muscle fatigue in time-consuming movement therapies. Bilateral nonlinear control laws with two types of adaptation laws are designed for the nonlinear teleoperation system. The Lyapunov stability proof of the teleoperation system and the stability of the impedance model enhance the patient’s and therapist’s safety even in the presence of modeling uncertainties of the multi-DOF telerobotic system. The performance of the proposed bilateral impedance-based strategy is experimentally investigated using different impedance parameters adjusted based on the patient’s characteristics (e.g., involuntary tremor) and disabilities (e.g., insufficient actuation force). The experiments are performed by a healthy person (as the therapist), a mechanical test bed and a volunteer (simulating the patients’ characteristics). A new force–position mapping from Cartesian to Normal–Tangential (N–T) coordinates is utilized between the master and slave workspaces and compared with typical Cartesian to Cartesian projection.
+ER  - 
+
+TY  - JOUR
+T1  - Some Remarks on Smith Predictor-based Control with Distance Feedback for a 3-dof Haptic System with Distributed Delays
+AU  - Liacu, Bogdan
+AU  - Morarescu, Irinel-Constantin
+AU  - Niculescu, Silviu-Iulian
+AU  - Andriot, Claude
+AU  - Dumur, Didier
+AU  - Colledani,, Frédéric
+AU  - Boucher, Patrick
+JO  - IFAC Proceedings Volumes
+VL  - 46
+IS  - 3
+SP  - 214
+EP  - 219
+PY  - 2013
+DA  - 2013/01/01/
+T2  - 11th Workshop on Time-Delay Systems
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20130204-3-FR-4031.00072
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667015340428
+KW  - Haptics
+KW  - Smith predictor
+KW  - Distributed time-delays.
+AB  - This paper focuses on the construction of a Smith predictor for network-based haptic systems. Roughly speaking, the idea is to use a predictor just on the haptic side in order to compensate the viscosity effect and to provide an accurate feeling in the case of contacts. A new approach is presented by using the available information on the distance from the virtual reality simulator and introducing it in the predictor in order to maintain the similarity between the “real” and the “predicted model”. In order to validate the approach, experimental results are presented for constant and random varying delays (normal distributed and gamma with gap distributed), for a simple virtual environment and for a virtual box.
+ER  - 
+
+TY  - JOUR
+T1  - Construction defect management using a telematic digital workbench
+AU  - Dong, Andy
+AU  - Maher, Mary Lou
+AU  - Kim, Mi Jeong
+AU  - Gu, Ning
+AU  - Wang, Xiangyu
+JO  - Automation in Construction
+VL  - 18
+IS  - 6
+SP  - 814
+EP  - 824
+PY  - 2009
+DA  - 2009/10/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2009.03.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580509000338
+KW  - Remote collaboration
+KW  - Construction defect management
+KW  - Mobile computing
+KW  - Wireless communication
+KW  - Tabletop tangible interfaces
+AB  - Real-time, rich-media data communication between the construction site and the off-site design office is becoming one of the important research areas in information technology for construction. This paper presents the concept of a telematic digital workbench, a horizontal tabletop user interface integrating mobile computing and wireless communication to facilitate synchronous construction site to office collaboration. We demonstrate the capabilities and potentials of this system concept for construction defect management. The on-site crew uses a handheld mobile device to collect defect information and transfers the information to the design office through wireless communication by sending the information to a database listener. The digital workbench application monitors the database and synchronizes the location of the visual information on the site with the 3D model on the server. Integrated with 3D viewing capability in a CAD system, designers can interact with the combined model/site data using a horizontal and vertical screen. A case study compared the telematic digital workbench against paper-based and Pocket PC-based methods for defect management in a controlled laboratory experiment. The case study results show that the telematic digital workbench has the potential to improve the accuracy of matching site data to digital data and reduce information loss between site and office collaboration.
+ER  - 
+
+TY  - JOUR
+T1  - Some remarks on delay effects in motion synchronization in shared virtual environments
+AU  - Cheong, Joono
+AU  - Niculescu, Silviu-Iulian
+AU  - Oh, Yonghwan
+AU  - Constantin Morărescu, Irinel
+JO  - IFAC Proceedings Volumes
+VL  - 40
+IS  - 23
+SP  - 268
+EP  - 273
+PY  - 2007
+DA  - 2007/09/01/
+T2  - 7th IFAC Workshop on Time Delay Systems TDS 2007, Nantes, France, 17–19 September, 2007
+SN  - 1474-6670
+DO  - https://doi.org/10.1016/S1474-6670(17)69299-1
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667017692991
+KW  - delay
+KW  - virtual environments
+KW  - synchronisation
+KW  - Smith predictors
+KW  - stability
+AB  - This paper addresses the motion synchronisation problem in shared virtual environments in the presence of communication delays. More precisely, we consider the case of multiple users interacting with the same dynamics. Unlike the conventional synchronization, the technological attempt we are interested in pursues a more robust and better synchronization that gives an almost concurrent evolution of motions between the distributed systems in absolute time-frame (earth's time). Physically, the existence of time delay prevents immediate information exchange, which disables concurrent motions between the distributed systems. Using the delay information available, the proposed controller preserves natural local dynamics and compensate for de-synchronization error caused by mismatched initial conditions. Various robustness issues, like the delay margin or the stability boundaries computation in the space defined by the controllers' parameters are also presented. Finally, simulation tests are conducted in order to validate the considered methodology.
+ER  - 
+
+TY  - JOUR
+T1  - Architectures for shared haptic virtual environments
+AU  - Buttolo, Pietro
+AU  - Oboe, Roberto
+AU  - Hannaford, Blake
+JO  - Computers & Graphics
+VL  - 21
+IS  - 4
+SP  - 421
+EP  - 429
+PY  - 1997
+DA  - 1997/07/01/
+T2  - Haptic Displays in Virtual Environments and Computer Graphics in Korea
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(97)00019-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849397000198
+AB  - The lack of force feedback in visual-only simulations may seriously hamper user proprioception, effectiveness and sense of immersion while manipulating virtual environments. Haptic rendering, the process of feeding back force to the user in response to interaction with the environment is sensitive to delay and can become unstable. In this paper we will describe various techniques to integrate force feedback in shared virtual simulations, dealing with significant and unpredictable delays. Three different implementations are investigated: static, collaborative and cooperative haptic virtual environments.
+ER  - 
+
+TY  - JOUR
+T1  - Digital daydreams: Exploring consumer motivations for engaging with the metaverse
+AU  - Soni, Sigma
+AU  - Arora, Parvinder
+AU  - Kasilingam, Dharun
+AU  - Jain, Varsha
+JO  - Journal of Retailing and Consumer Services
+VL  - 85
+SP  - 104294
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0969-6989
+DO  - https://doi.org/10.1016/j.jretconser.2025.104294
+UR  - https://www.sciencedirect.com/science/article/pii/S0969698925000736
+KW  - Metaverse
+KW  - Behavioral reasoning theory
+KW  - Technology readiness
+KW  - Customer engagement
+KW  - Mixed methods
+KW  - Technology adoption
+AB  - The metaverse is rapidly emerging as a transformative digital technology with significant implications for consumer behavior and marketing strategies. However, there is insufficient knowledge about the factors that can motivate or prevent consumers from adopting the metaverse. Addressing this gap, this study employs Behavioral Reasoning Theory (BRT) and Technology Readiness frameworks to investigate the dual forces of motivation and resistance that shape metaverse adoption. This research used a mixed-methods approach, which consisted of in-depth interviews with 48 industry experts to determine the ‘reasons for’ and ‘reasons against’ metaverse adoption, which were then validated through a survey of 771 consumers. The findings reveal that positive motivators like haptic imagery, convenience, trend affinity, and relative advantage significantly enhance consumer attitudes. Meanwhile, barriers like privacy concerns, financial concerns, risk of malfunctions, and perceived performance risks are negative influencers. Results also show that technology readiness is a crucial determinant, with optimism and innovativeness promoting adoption and discomfort and insecurity deterring it. This study contributes to the metaverse adoption literature by examining consumer attitudes' role in shaping adoption intentions and engagement, an area that has received relatively limited attention. The findings offer actionable strategies for practitioners to navigate consumer hesitations and unlock the metaverse's potential as a next-generation interaction, innovation, and commerce platform.
+ER  - 
+
+TY  - JOUR
+T1  - A two-part evaluation approach for measuring the usability and user experience of an Augmented Reality-based assistance system to support the temporal coordination of spatially dispersed teams
+AU  - Thomaschewski, Lisa
+AU  - Weyers, Benjamin
+AU  - Kluge, Annette
+JO  - Cognitive Systems Research
+VL  - 68
+SP  - 1
+EP  - 17
+PY  - 2021
+DA  - 2021/08/01/
+SN  - 1389-0417
+DO  - https://doi.org/10.1016/j.cogsys.2020.12.001
+UR  - https://www.sciencedirect.com/science/article/pii/S1389041720301078
+KW  - Usability
+KW  - User experience
+KW  - Augmented Reality
+KW  - Spatial dispersed teams
+KW  - Temporal coordination
+KW  - Artificial systems
+AB  - One key predictor of team performance and productivity is the teams’ ability to coordinate its subtasks as precisely as possible over time. Thereby, the quality of the temporal coordination in teams is highly dependent on several cognitive team skills, like for instance the ability to build a precise and stable mental model of the situation (shared situation awareness) and of the team task process (task state awareness/ TSA). To support these cognitive skills in teams, various methods and trainings already exist. However, considering teams that work de-located, the prerequisites and therefore the requirements for team supportive methods change. This work presents the results of an empirical usability and user experience (UX) study of an interface for an Augmented Reality-based assistance system for spatially dispersed teams, called Ambient Awareness Tool (AAT). The AAT interface consists of graphical information about the teamwork process and aims at enhancing the TSA of the team, thereby supporting its temporal coordination. Within the framework of a participatory design process we conducted a two-part expert-user-study, comprising a laboratory experiment for the evaluation of the interface usability and a follow-up online survey to additionally investigate the UX. By means of the usability scores we first inferred three interface configuration clusters. A subsequent UX evaluation then allowed us to designate the configuration cluster with the highest usability and UX scores. As a result, we defined one interface configuration that will be investigated concerning its actual impact on the temporal coordination of spatially dispersed teams in a further study.
+ER  - 
+
+TY  - JOUR
+T1  - Workplace analysis and design using virtual reality techniques
+AU  - Michalos, George
+AU  - Karvouniari, Anna
+AU  - Dimitropoulos, Nikolaos
+AU  - Togias, Theodoros
+AU  - Makris, Sotiris
+JO  - CIRP Annals
+VL  - 67
+IS  - 1
+SP  - 141
+EP  - 144
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 0007-8506
+DO  - https://doi.org/10.1016/j.cirp.2018.04.120
+UR  - https://www.sciencedirect.com/science/article/pii/S0007850618301446
+KW  - Virtual reality
+KW  - Design
+KW  - Assembly
+AB  - Workplace layout affects worker wellbeing and is linked to productivity, physical fatigue and production costs. So far, workplace optimization is based on observational methods and software simulations which may not be insightful, while full size prototypes signify high costs and implementation time. This work proposes a method to analyse and enhance industrial workplaces using immersive virtual reality. The system allows the tracking of multiple users virtually performing assembly tasks inside a CAVE system and the visualization of KPIs (e.g. completion time, traveled distance, ergonomics) for supporting decision making by production engineers. A case study is used to demonstrate the approach.
+ER  - 
+
+TY  - JOUR
+T1  - Computational biomodel of motion parallax for multiview 3D video conferencing
+AU  - Muñoz, Miguel A.
+AU  - Martínez, Jonatan
+AU  - Pascual Molina, José
+AU  - García, Arturo S.
+AU  - González, Pascual
+AU  - Fernández-Caballero, Antonio
+JO  - Neurocomputing
+VL  - 151
+SP  - 108
+EP  - 115
+PY  - 2015
+DA  - 2015/03/03/
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2014.07.076
+UR  - https://www.sciencedirect.com/science/article/pii/S0925231214013150
+KW  - Computation biomodel
+KW  - Motion parallax
+KW  - Multiview setup
+KW  - 3D video conferencing
+AB  - The brain makes use of multiple visual cues to reconstruct the three-dimensional structure of a scene. Neuroscience studies have demonstrated that motion parallax is one such powerful depth cue. Motion parallax consists in harnessing the motion of the observer, offering a different view of the environment depending on his/her position to get some 3D feeling. This paper introduces a biologically inspired computational model of motion parallax, seeking for a novel application to multiview 3D video conferencing. Indeed, video conference systems have evolved little regarding 3D vision for viewing video apart from using new 3D technology, making use of special glasses and auto-stereoscopic screens. Our challenge is to take advantage of neuronal visual cues that can be used to provide 3D perception apart from stereoscopy. Various composition models (change modes between cameras) have been designed and tested in order to analyze which one provides a better 3D effect.
+ER  - 
+
+TY  - JOUR
+T1  - Role of extended reality (XR) technologies in maintenance operations: Trends, challenges, and integration in industry 4.0
+AU  - Alam, Nishat
+AU  - Saha, Nitol
+AU  - Gadow, Victor
+AU  - Harik, Ramy
+AU  - Ryu, Juhyeong
+JO  - Manufacturing Letters
+VL  - 44
+SP  - 1545
+EP  - 1557
+PY  - 2025
+DA  - 2025/08/01/
+T2  - 53rd SME North American Manufacturing Research Conference (NAMRC 53)
+SN  - 2213-8463
+DO  - https://doi.org/10.1016/j.mfglet.2025.06.174
+UR  - https://www.sciencedirect.com/science/article/pii/S221384632500210X
+KW  - Augmented reality (AR)
+KW  - Virtual reality (VR)
+KW  - Mixed reality (MR)
+KW  - Extended reality (XR)
+KW  - Smart manufacturing
+KW  - Maintenance
+KW  - Technology
+KW  - Review
+AB  - The manufacturing industry continues to prioritize efficiency, cost-effectiveness, and safety. Extended Reality (XR) technologies, including Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR), are transforming manufacturing operations by enhancing efficiency and intelligence. These technologies provide benefits such as real-time data visualization, immersive training simulations, and improved communication between operators and managers. Specifically, the integration of XR technologies into maintenance operations has emerged as a transformative area, enabling more interactive and efficient tasks through real-time data visualization and remote collaboration. While XR technologies have demonstrated immense potential for improving safety, efficacy, and operational accuracy, challenges such as high costs, limited ergonomics, and software incompatibilities hinder their widespread adoption. Additionally, much of the existing literature focuses on individual XR technologies like AR, VR, or MR rather than adopting a holistic approach that integrates these systems. By conducting a comprehensive review of XR-based technologies in maintenance, this study addresses the gap, emphasizing key components such as hardware, software, and tracking methods. The review synthesizes technological trends, limitations, challenges, and software tools, providing insights into their implementation. The analysis reveals the increasing adoption of XR technologies in maintenance, driven by their ability to enhance user efficacy while minimizing errors in manufacturing systems. The findings contribute to the body of knowledge on the importance of overcoming hardware and software barriers, reducing costs, and improving ergonomics to support XR’s effective integration within Industry 4.0 frameworks.
+ER  - 
+
+TY  - JOUR
+T1  - Asynchronous industrial collaboration: How virtual reality and virtual tools aid the process of maintenance method development and documentation creation
+AU  - Burova, Alisa
+AU  - Mäkelä, John
+AU  - Heinonen, Hanna
+AU  - Palma, Paulina Becerril
+AU  - Hakulinen, Jaakko
+AU  - Opas, Viveka
+AU  - Siltanen, Sanni
+AU  - Raisamo, Roope
+AU  - Turunen, Markku
+JO  - Computers in Industry
+VL  - 140
+SP  - 103663
+PY  - 2022
+DA  - 2022/09/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2022.103663
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361522000604
+KW  - Virtual reality
+KW  - Industrial collaboration
+KW  - Industrial maintenance
+KW  - Technical documentation
+KW  - Virtual tools
+KW  - Asynchronous collaboration
+KW  - Collaborative virtual reality
+KW  - Maintenance method development
+AB  - In the light of Industry 4.0, the field of Industrial Maintenance faces a large digital transformation, adopting Extended Reality (XR) technologies to aid industrial operations. For the manufacturing corporations that provide maintenance services, the efficiency of industrial maintenance plays a crucial role in the competitiveness and is tightly related to the technical documentation supporting maintenance. However, the process of documentation creation faces several challenges due to lack of access to the physical equipment and difficulties in remote communication between globally distributed departments. To address these shortcomings, this research investigates the utilization of Virtual Reality (VR) to facilitate asynchronous collaboration of globally dispersed departments involved in the pipeline of maintenance method and documentation creation. The presented proof-of-concept (the COVE-VR platform) has been developed as an academia-industry collaboration and evaluated iteratively with subject matter experts. The proposed VR platform consists of two virtual environments and eight virtual tools, which allow interaction with virtual prototypes (3D CAD models) and means of digital content creation. Our findings show the high relevance of the developed solution for the needs of industrial departments and the ability to support asynchronous collaboration among them. This article delivers qualitative findings on the value of VR technology and presents guidelines on how to develop virtual tools for digital content creation within VR, adaptable to other industrial contexts. We suggest providing embedded guidance and design consistency to ensure smooth interactions with virtual tools and further discuss the importance of proper positioning, the transparency of operations and the information property of generated content.
+ER  - 
+
+TY  - JOUR
+T1  - Dependability issues in visual–haptic interfaces
+AU  - Ricciardi, Stefano
+AU  - Nappi, Michele
+AU  - Paolino, Luca
+AU  - Sebillo, Monica
+AU  - Vitiello, Giuliana
+AU  - Gigante, Gabriella
+AU  - Pascarella, Domenico
+AU  - Travascio, Lidia
+AU  - Vozella, Angela
+JO  - Journal of Visual Languages & Computing
+VL  - 21
+IS  - 1
+SP  - 33
+EP  - 40
+PY  - 2010
+DA  - 2010/02/01/
+SN  - 1045-926X
+DO  - https://doi.org/10.1016/j.jvlc.2009.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S1045926X09000512
+KW  - Visual-haptic interfaces
+KW  - Multimodal interaction
+KW  - Usability
+KW  - Dependability
+AB  - Dependability of a system is commonly referred to its reliability, its availability and its maintenability (RAM), but when this concept is applied to user interfaces there is no common agreement on what aspects of user–system interaction are related to a satisfactory RAM level for the whole system. In particular, when dealing with haptic systems, interface dependability may become a crucial issue in medical and in military domains when life-critical systems are to be manipulated or where costly remote control operations are to be performed, like in industrial processes control or in aerospace/automotive engineering and manufacturing. This paper discusses the role of dependability in haptic user interfaces, aiming to the definition of a framework for the assessment of the usability and dependability properties of haptic systems and their possible correlations. The research is based on the analysis of a visual–haptic-based simulator targeted to maintenance activity training for aerospace industry which is taken as a case study. As a result, we propose a novel framework able to collect and then process relevant interaction data during the execution of haptic tasks, enabling to analyze dependability vs. usability correlations.
+ER  - 
+
+TY  - JOUR
+T1  - Experiments in Immersive Virtual Reality for Scientific Visualization
+AU  - van Dam, Andries
+AU  - Laidlaw, David H
+AU  - Simpson, Rosemary Michelle
+JO  - Computers & Graphics
+VL  - 26
+IS  - 4
+SP  - 535
+EP  - 555
+PY  - 2002
+DA  - 2002/08/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(02)00113-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849302001139
+AB  - This article provides a snapshot of immersive virtual reality (IVR) use for scientific visualization, in the context of the evolution of computing in general and of user interfaces in particular. The main thesis of this article is that IVR has great potential for dealing with the serious problem of exponentially growing scientific datasets. Our ability to produce large datasets both through numerical simulation and through data acquisition via sensors is outrunning our ability to make sense of those datasets. While our idea of “large” datasets used to be measured in hundreds of gigabytes, based at least in part on what we could easily store, manipulate, and display in real time, today's science and engineering are producing terabytes and soon even petabytes, both from observation via sensors and as output from numerical simulation. Clearly, visualization by itself will not solve the problem of understanding truly large datasets that would overwhelm both display capacity and the human visual system. We advocate a human–computer partnership that draws on the strengths of each partner, with algorithmic culling and feature-detection used to identify the small fraction of the data that should be visually examined in detail by the human. Our hope is that IVR will be a potent tool to let humans “see” patterns, trends, and anomalies in their data well beyond what they can do with conventional 3D desktop displays.
+ER  - 
+
+TY  - JOUR
+T1  - The roles of sensory modalities in collaborative virtual environments (CVEs)
+AU  - Nam, Chang S.
+AU  - Shu, Joseph
+AU  - Chung, Donghun
+JO  - Computers in Human Behavior
+VL  - 24
+IS  - 4
+SP  - 1404
+EP  - 1417
+PY  - 2008
+DA  - 2008/07/01/
+T2  - Including the Special Issue: Integration of Human Factors in Networked Computing
+SN  - 0747-5632
+DO  - https://doi.org/10.1016/j.chb.2007.07.014
+UR  - https://www.sciencedirect.com/science/article/pii/S074756320700132X
+KW  - Collaborative virtual environments (CVEs)
+KW  - Haptic feedback
+KW  - Presence
+KW  - Copresence
+KW  - Collaboration
+AB  - This study was conducted to assess the effects of sensorial modalities on user performance, perception, and behavior in collaborative virtual environments (CVEs). Participants played a CVE game, air hockey, together with a remote partner under different sensory modality conditions, depending on the type of sensory feedback provided: visual-only (V), visual–haptic (V+H), and visual–haptic–audio feedback (V+H+A). Three types of measurements were used as dependent variables: (1) task performance measured as playing time, (2) user perception including the sense of presence, the sense of togetherness, and perceived collaboration, and (3) behavior measurement including the amount of force applied and the mallet deviation. Results of the study indicated that the task performance, perception, and user behavior in CVEs can be affected due to supported sensory modalities. Therefore, the multiple sensory information types that are required to perform the task at hand should be provided to effectively support collaboration between people in CVEs. The outcomes of this research should have a broad impact on multimodal user interaction, including research on physiological, psychophysical, and psychological mechanisms underlying human perception on multisensory feedback in CVEs.
+ER  - 
+
+TY  - JOUR
+T1  - Human activity recognition in pervasive health-care: Supporting efficient remote collaboration
+AU  - Osmani, Venet
+AU  - Balasubramaniam, Sasitharan
+AU  - Botvich, Dmitri
+JO  - Journal of Network and Computer Applications
+VL  - 31
+IS  - 4
+SP  - 628
+EP  - 655
+PY  - 2008
+DA  - 2008/11/01/
+SN  - 1084-8045
+DO  - https://doi.org/10.1016/j.jnca.2007.11.002
+UR  - https://www.sciencedirect.com/science/article/pii/S1084804507000719
+KW  - Human activity recognition
+KW  - Activity inference
+KW  - Collaborative environments
+KW  - Pervasive health-care
+KW  - Pervasive Computing
+KW  - Ubiquitous computing
+AB  - Technological advancements, including advancements in the medical field have drastically improved our quality of life, thus pushing life expectancy increasingly higher. This has also had the effect of increasing the number of elderly population. More than ever, health-care institutions must now care for a large number of elderly patients, which is one of the contributing factors in the rising health-care costs. Rising costs have prompted hospitals and other health-care institutions to seek various cost-cutting measures in order to remain competitive. One avenue being explored lies in the technological advancements that can make hospital working environments much more efficient. Various communication technologies, mobile computing devices, micro-embedded devices and sensors have the ability to support medical staff efficiency and improve health-care systems. In particular, one promising application of these technologies is towards deducing medical staff activities. Having this continuous knowledge about health-care staff activities can provide medical staff with crucial information of particular patients, interconnect with other supporting applications in a seamless manner (e.g. a doctor diagnosing a patient can automatically be sent the patient's lab report from the pathologist), a clear picture of the time utilisation of doctors and nurses and also enable remote virtual collaboration between activities, thus creating a strong base for establishment of an efficient collaborative environment. In this paper, we describe our activity recognition system that in conjunction with our efficiency mechanism has the potential to cut down health-care costs by making the working environments more efficient. Initially, we outline the activity recognition process that has the ability to infer user activities based on the self-organisation of surrounding objects that user may manipulate. We then use the activity recognition information to enhance virtual collaboration in order to improve overall efficiency of tasks within a hospital environment. We have analysed a number of medical staff activities to guide our simulation setup. Our results show an accurate activity recognition process for individual users with respect to their behaviour. At the same time we support remote virtual collaboration through tasks allocation process between doctors and nurses with results showing maximum efficiency within the resource constraints.
+ER  - 
+
+TY  - JOUR
+T1  - The retail strategies of luxury fashion firms in the metaverse: Enhancing brand experiences
+AU  - Hu, Lala
+AU  - Olivieri, Mirko
+AU  - Giovannetti, Marta
+AU  - Cedrola, Elena
+JO  - Journal of Retailing and Consumer Services
+VL  - 84
+SP  - 104202
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0969-6989
+DO  - https://doi.org/10.1016/j.jretconser.2024.104202
+UR  - https://www.sciencedirect.com/science/article/pii/S0969698924004983
+KW  - Brand experience
+KW  - Fashion
+KW  - Luxury
+KW  - Metaverse
+KW  - Retail
+AB  - This study investigates how luxury fashion brands manage brand experience in retail strategies that involve the metaverse. To achieve this research objective, we adopted a qualitative methodology collecting 26 semi-structured interviews with luxury brand practitioners and industry experts. The results highlight key areas in luxury retail where Metaverse campaigns enhance brand experiences and reduce frictions. This study contributes to the literature on luxury retailing by providing theoretical insights into the emerging strategies of luxury fashion brands in the metaverse. Finally, managerial implications are discussed in terms of how luxury fashion brands can leverage the metaverse to integrate channels in an immersive manner.
+ER  - 
+
+TY  - JOUR
+T1  - Revisiting collaboration through mixed reality: The evolution of groupware
+AU  - Ens, Barrett
+AU  - Lanir, Joel
+AU  - Tang, Anthony
+AU  - Bateman, Scott
+AU  - Lee, Gun
+AU  - Piumsomboon, Thammathip
+AU  - Billinghurst, Mark
+JO  - International Journal of Human-Computer Studies
+VL  - 131
+SP  - 81
+EP  - 98
+PY  - 2019
+DA  - 2019/11/01/
+T2  - 50 years of the International Journal of Human-Computer Studies. Reflections on the past, present and future of human-centred technologies
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2019.05.011
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581919300606
+KW  - Collaborative mixed reality
+KW  - Mixed reality
+KW  - Augmented reality
+KW  - Computer supported cooperative work
+KW  - Collaborative technology
+AB  - Collaborative Mixed Reality (MR) systems are at a critical point in time as they are soon to become more commonplace. However, MR technology has only recently matured to the point where researchers can focus deeply on the nuances of supporting collaboration, rather than needing to focus on creating the enabling technology. In parallel, but largely independently, the field of Computer Supported Cooperative Work (CSCW) has focused on the fundamental concerns that underlie human communication and collaboration over the past 30-plus years. Since MR research is now on the brink of moving into the real world, we reflect on three decades of collaborative MR research and try to reconcile it with existing theory from CSCW, to help position MR researchers to pursue fruitful directions for their work. To do this, we review the history of collaborative MR systems, investigating how the common taxonomies and frameworks in CSCW and MR research can be applied to existing work on collaborative MR systems, exploring where they have fallen behind, and look for new ways to describe current trends. Through identifying emergent trends, we suggest future directions for MR, and also find where CSCW researchers can explore new theory that more fully represents the future of working, playing and being with others.
+ER  - 
+
+TY  - JOUR
+T1  - Navigating the enterprise metaverse: How virtual reality affects business agility and meeting outcomes
+AU  - Aliman, Dorothea Nilusha
+AU  - Hennig-Thurau, Thorsten
+AU  - Henke, André
+JO  - Business Horizons
+VL  - 68
+IS  - 5
+SP  - 575
+EP  - 588
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 0007-6813
+DO  - https://doi.org/10.1016/j.bushor.2024.05.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0007681324000673
+KW  - Enterprise metaverse
+KW  - Virtual reality
+KW  - Business agility
+KW  - Team meetings
+AB  - Team meetings have been at the heart of businesses worldwide for a long time, regardless of industry and region. While extant research has outlined the advantages and challenges of using virtual reality (VR) for team meetings like higher closeness and increased exhaustion, it is largely unclear which effects dominate in real-world conditions. With a focus on business agility (i.e., an organization’s ability to adapt and respond quickly to developments and market conditions) while studying other meeting outcomes, this research outlines two studies in which managers of a public German organization use either videoconferencing or VR headsets for agile meetings. The findings suggest that regarding business agility and other outcomes of interest, entering the enterprise metaverse with VR headsets can be worthwhile for suitable meetings. Based on these insights, the authors offer a six-step process to guide managerial decisions on when and how to make the most out of metaverse meetings.
+ER  - 
+
+TY  - JOUR
+T1  - An overview of ethical and social issues in shared virtual environments
+AU  - Schroeder, Ralph
+JO  - Futures
+VL  - 39
+IS  - 6
+SP  - 704
+EP  - 717
+PY  - 2007
+DA  - 2007/08/01/
+SN  - 0016-3287
+DO  - https://doi.org/10.1016/j.futures.2006.11.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0016328706001856
+AB  - Shared virtual reality environments raise a number of ethical and social issues that have not so far received systematic attention. One reason is that virtual reality or shared virtual environments (SVEs) have not been clearly defined. This essay proposes that a strict definition of SVEs is necessary to be able to tackle these issues. It is also necessary, however, to put SVEs in the context of other new technologies and media—as well as identifying their unique features—in order to draw out their wider implications. The essay further argues that the discussion of ethical and social aspects of SVEs should be closely tied to current systems and uses, and it divides these into two groups: instrumental SVEs used mainly in research and as prototypes, and Internet-based SVEs for gaming and socializing. Different ethical and social considerations arise in relation to these two: guidelines for research and development for the former, and suggestions for appropriate and desirable uses for the latter. These two sides, it is argued, will increasingly overlap in the future, and the essay concludes with an outlook on the future development of SVEs.
+ER  - 
+
+TY  - JOUR
+T1  - An HCI method to improve the human performance reduced by local-lag mechanism
+AU  - Chen, Ling
+AU  - Chen, Gen-Cai
+AU  - Chen, Hong
+AU  - March, Jack
+AU  - Benford, Steve
+AU  - Pan, Zhi-Geng
+JO  - Interacting with Computers
+VL  - 19
+IS  - 2
+SP  - 215
+EP  - 224
+PY  - 2007
+DA  - 2007/03/01/
+T2  - HCI Issues in Computer Games
+SN  - 0953-5438
+DO  - https://doi.org/10.1016/j.intcom.2006.05.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0953543806000944
+KW  - HCI
+KW  - Delay
+KW  - Collaborative virtual environments
+KW  - Local-lag mechanism
+KW  - Echo
+AB  - Local-lag mechanism can maintain consistency for replicated continuous applications, but with a tradeoff of adding delay to local operations. To relieve the negative effects of the delay, this paper proposes an HCI method named echo. With the help of the echo method users can immediately perceive the results of their operations and how large the lag is. In order to evaluate the proposed method, a desktop collaborative virtual environment (CVE) system and a virtual object control task were employed to study the effects of the echo method on human performance (including task completion time, error count, and interaction quality). Experimental results indicate that when the lag exceeds 100ms the echo method can improve human performance with the effects becoming more evident when a larger lag is used.
+ER  - 
+
+TY  - JOUR
+T1  - Digital twins assisted surgery: A conceptual framework for transforming surgical training and navigation
+AU  - Kyeremeh, Justicia
+AU  - Asciak, Lisa
+AU  - Blackmur, James P.
+AU  - Luo, Xichun
+AU  - Picard, Frederic
+AU  - Shu, Wenmiao
+AU  - Stewart, Grant D.
+JO  - The Surgeon
+PY  - 2025
+DA  - 2025/09/23/
+SN  - 1479-666X
+DO  - https://doi.org/10.1016/j.surge.2025.09.007
+UR  - https://www.sciencedirect.com/science/article/pii/S1479666X2500143X
+KW  - Digital Twin Assisted Surgery (DTAS)
+KW  - Digital twins
+KW  - Surgical education
+KW  - Intraoperative navigation
+KW  - Artificial intelligence in surgery
+AB  - Background
+Given the complexity and evolution of modern surgical procedures, there is a need for training methods to develop and keep pace. Digital Twins Assisted Surgery (DTAS) offers a novel opportunity to enhance both surgical education and intraoperative decision-making.
+Patients and methods
+We propose a conceptual framework for integrating DTAS into surgical education. Hypothetical case examples are presented to illustrate how DTAS could be utilized for preoperative planning, intraoperative guidance, and individualized skill development in surgical trainees.
+Results
+DTAS demonstrates potential for improving surgical precision, skill acquisition, and patient safety. By integrating real-time data, 3D modelling, and predictive analytics, DTAS holds promise for improving surgical outcomes and facilitating skill acquisition in complex procedures.
+Conclusions
+DTAS could transform surgical training and navigation. Pilot studies and validation trials are needed to assess its integration into curricula and its impact on clinical outcomes.
+ER  - 
+
+TY  - JOUR
+T1  - Investigating the effect of network latency on users’ performance in Collaborative Virtual Environments using navigation aids
+AU  - Khalid, Shah
+AU  - Alam, Aftab
+AU  - Fayaz, Muhammad
+AU  - Din, Fakhrud
+AU  - Ullah, Sehat
+AU  - Ahmad, Shabir
+JO  - Future Generation Computer Systems
+VL  - 145
+SP  - 68
+EP  - 76
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2023.02.025
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X23000663
+KW  - Virtual worlds
+KW  - Computer animation
+KW  - Interaction interfaces
+KW  - Navigation aids
+KW  - Network latency
+KW  - Collaborative virtual environments
+AB  - Serious games play a pivotal role in engaging users in activities which are considered less-engaging but healthy. Collaborative Virtual Environments (CVEs), one of the enablers of serious games are used in various fields including education, healthcare, tele-conferencing and assembly tasks. There are different factors that affect user performance in CVE. These factors include network latency, loose coordination, lack of task distributions strategy and lack of awareness. As compared to other factors,network latency has unfortunately got less attention of the researcher and therefore, it sometimes becomes a bottleneck for the user performance in CVE. In this paper, we analyzed the effect of network latency on user performance in CVE with textual, audio, 3D Map-Liner (3DML) and arrows-casting aids on different participants. Based on task distribution model, a simulated environment for collaborative assembly task was developed to conduct the experiments. The experiments were performed on users with textual, audio, 3DML and arrows-casting aids with five level of latency (i.e. 0, 50, 100, 150 and 200 ms) to evaluate 19 groups(two participants per group) to check their performance in terms of network latency. Overall, results showed that the user’s performance was better in arrows-casting based navigation as compared to other navigation aids (i.e textual, audio and 3DML) using five level of latency (i.e 0, 50, 100, 150 and 200 ms). Whenever the value of latency was increased the task completion time increased significantly with slight decrease in errors rate.
+ER  - 
+
+TY  - JOUR
+T1  - HUMAN-HUMAN COLLABORATION
+AU  - Erbe, Heinz-H.
+JO  - IFAC Proceedings Volumes
+VL  - 38
+IS  - 1
+SP  - 72
+EP  - 77
+PY  - 2005
+DA  - 2005/01/01/
+T2  - 16th IFAC World Congress
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20050703-6-CZ-1902.01394
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667016374067
+KW  - e-/global-manufacturing
+KW  - controlling remote collaboration
+KW  - tele-presence
+KW  - mixed reality
+KW  - bond-graphs
+KW  - hyper-bonds
+AB  - Collaborative work over remote sites is a challenge to developers of information- and communication technology as well as to the involved workforce. New developments on cost-effective connections are providing not only vision and auditory perception but also haptic perception. Research fields for improving remote collaboration are discussed. Social aspects as new requirements on the employees of networked and extended enterprises are considered.
+ER  - 
+
+TY  - JOUR
+T1  - Coordinated hybrid virtual environments: Seamless interaction contexts for effective virtual reality
+AU  - Wang, Jia
+AU  - Lindeman, Robert
+JO  - Computers & Graphics
+VL  - 48
+SP  - 71
+EP  - 83
+PY  - 2015
+DA  - 2015/05/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/j.cag.2015.02.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849315000151
+KW  - Hybrid virtual environments
+KW  - 3D user interface
+KW  - Tablet interface
+KW  - Transitional continuity
+KW  - Virtual reality
+AB  - Despite the benefits of presence, immersive virtual reality is still too limiting and ineffective to be widely adopted in people׳s everyday lives. One important reason for this is its inability to handle highly diverse 3D interaction tasks, such as object manipulation from different scales, perspectives, reference frames, and dimensions. Inspired by preliminary development of an immersive world builder tool, this paper offers an in-depth presentation of our solution to this problem, using a coordinated, tablet- and HMD-based, hybrid virtual environment (HVE) system. Wearing a non-occlusive HMD, the user is able to view and interact with a tablet mounted on the non-dominant forearm, which provides a multi-touch interaction surface, as well as an exocentric God view of the virtual world. To reduce transition gaps across 3D interaction tasks and interfaces, four coordination mechanisms are proposed, two of which were implemented, and one was evaluated in a user study featuring complex level-editing tasks. Based on subjective ratings, task performance, interview feedback, and video analysis, we found that having multiple seamless Interaction Contexts (ICs) with complementary benefits can lead to good performance and user experience, despite the complexity of learning and using the hybrid system. The results also suggest keeping 3DUI tasks synchronized across the ICs, as this can help users understand their relationships, smoothen within- and between-task IC transitions, and inspire more creative use of different interfaces. Finally, based on these findings, a four-step design process is proposed to aid the process of designing and implementing HVE systems, as well as applying them to appropriate task scenarios.
+ER  - 
+
+TY  - JOUR
+T1  - Impacts of VR 3D sketching on novice designers’ spatial cognition in collaborative conceptual architectural design
+AU  - Rahimian, Farzad Pour
+AU  - Ibrahim, Rahinah
+JO  - Design Studies
+VL  - 32
+IS  - 3
+SP  - 255
+EP  - 291
+PY  - 2011
+DA  - 2011/05/01/
+SN  - 0142-694X
+DO  - https://doi.org/10.1016/j.destud.2010.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0142694X10000839
+KW  - architectural design
+KW  - design cognition
+KW  - virtual reality
+KW  - protocol analysis
+KW  - collaborative design
+AB  - Conventional Computer Aided Design tools lack intuitivity for being used in conceptual architectural design process. This paper identifies the impact of using a haptic based VR 3D sketching interface for integrating novice designers’ cognitions and actions to improve design creativity. This study employs protocol analysis for comparing the collective cognitive and collaborative design protocols of three pairs of novice architectural designers in both 3D and manual sketching sessions. Results show that the simple and tangible haptic based design interface improved designers’ cognitive and collaborative activities. These improvements also increased their engagement with ‘problem-space’ and ’solution-space’ that led towards more artefact maturity. Research findings from this study can help the development of cutting-edge haptic-based collaborative virtual environments in architectural education and associated professions.
+ER  - 
+
+TY  - JOUR
+T1  - A Virtual Reality Approach for Assisting Sustainable Human-Centered Ergonomic Design: The ErgoVR tool
+AU  - Manghisi, Vito M.
+AU  - Evangelista, Alessandro
+AU  - Uva, Antonio E.
+JO  - Procedia Computer Science
+VL  - 200
+SP  - 1338
+EP  - 1346
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 3rd International Conference on Industry 4.0 and Smart Manufacturing
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2022.01.335
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050922003441
+KW  - Ergonomics
+KW  - RULA
+KW  - Virtual Reality
+KW  - User-centered
+KW  - Collaborative design
+KW  - Kinect V2
+AB  - Industry 4.0 is characterized by great potential for innovation impacting the operator’s role, increasingly engaged in smart activities of a decision-making nature. In such a working scenario, operators’ working conditions can be effectively improved by applying a user-centered collaborative design approach. To this end, we developed a Virtual Reality-based multiplayer tool exploiting low-cost body tracking technology to evaluate ergonomic postural risk. The tool allows evaluating both in real-time and off-line the ergonomic postural risk according to the Rapid Upper Limb Assessment metrics. By applying this approach, a twofold advantage can be achieved. On the one hand, ergonomic experts can have an immersive three-dimensional visualization of postures even in off-line observations. On the other hand, it is possible to evaluate the ergonomics of workstations in the design phase by having the operator work on virtual mock-ups of workstations, thus allowing a sustainable approach to user-centered collaborative design.
+ER  - 
+
+TY  - JOUR
+T1  - The work behind an interdisciplinary team: Creating a postpartum hemorrhage virtual reality training platform
+AU  - Lu, Zhipeng
+AU  - Seo, Jinsil Hwaryoung
+AU  - Khandan, Parya
+AU  - Maxa, Tara
+AU  - Garcia-Pi, Brittany
+AU  - Wells-Beede, Elizabeth
+JO  - Clinical Simulation in Nursing
+VL  - 94
+SP  - 101595
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 1876-1399
+DO  - https://doi.org/10.1016/j.ecns.2024.101595
+UR  - https://www.sciencedirect.com/science/article/pii/S1876139924000872
+KW  - Interdisciplinary
+KW  - Nurse training
+KW  - Postpartum hemorrhage
+KW  - Simulation
+KW  - Virtual reality
+AB  - Background
+This article examines an interdisciplinary team's collaboration experience in the development of a virtual reality (VR) training platform for postpartum hemorrhage management. The project started during the COVID-19 pandemic to support remote training in nursing.
+Methods & Processes
+Comprised of multidisciplinary specialists, the team collaborated through virtual meetings and digital tools such as an online whiteboard. The project went through three processes: (a) initial process, in which the team established the mutual goal, determined the targeted training, understood the subject matter, and created the framework; (b) VR development process, in which members contributed their expertise to map the task flow, create 3D objects, and develop the VR prototype; and (c) evaluation process, in which tests were performed among team members, subject matter experts, and undergraduate nursing students, to gain insights and fix problems.
+Conclusion
+Lessons learned from this interdisciplinary collaboration include the accommodation of different objectives, workload expectations and distribution, changes of team members, and evaluation implementation.
+ER  - 
+
+TY  - JOUR
+T1  - Audio makes a difference in haptic collaborative virtual environments
+AU  - Moll, Jonas
+AU  - Huang, Yingying
+AU  - Sallnäs, Eva-Lotta
+JO  - Interacting with Computers
+VL  - 22
+IS  - 6
+SP  - 544
+EP  - 555
+PY  - 2010
+DA  - 2010/11/01/
+T2  - Special Issue on Inclusion and Interaction: Designing Interaction for Inclusive Populations
+SN  - 0953-5438
+DO  - https://doi.org/10.1016/j.intcom.2010.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0953543810000561
+KW  - Haptic
+KW  - Audio
+KW  - Multimodal interfaces
+KW  - Collaboration
+KW  - Problem solving
+AB  - In this paper a study is presented which aimed at exploring the effects of audio feedback in a haptic and visual interface supporting collaboration among sighted and people who cannot see. A between group design was used and the participants worked in pairs with one sighted and one blindfolded in each. The application used was a haptic 3D environment in which participants could build composed objects out of building blocks. The building blocks could be picked up and moved around by means of a touch feedback pointing device. In one version of the application, used by half of the groups, sound cues could be used to tell the other person where you were, and to get feedback on your own and the other person’s actions. Results showed that sound cues together with haptic feedback made a difference in the interaction between the collaborators regarding their shared understanding of the workspace and the work process. Especially, sound cues played an important role for maintaining awareness of ongoing work – you knew what was going on, and you got a response on your own actions.
+ER  - 
+
+TY  - JOUR
+T1  - An experimental study on the effects of Network delay in Cooperative Shared Haptic Virtual Environment
+AU  - Alhalabi, M.Osama
+AU  - Horiguchi, Susumu
+AU  - Kunifuji, Susumu
+JO  - Computers & Graphics
+VL  - 27
+IS  - 2
+SP  - 205
+EP  - 213
+PY  - 2003
+DA  - 2003/04/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(02)00277-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849302002777
+KW  - Shared virtual environment
+KW  - Haptic
+KW  - Network latency
+KW  - Task performance
+KW  - Quality of haptic
+AB  - A cooperative shared haptic virtual environment (CSHVE), where the users can kinesthetically interact and simultaneously feel each other over the network, is beneficial for many distributed VR simulations. A little is known about the influences of the network delay on the quality of haptic sensation and the task performance in such environments. This paper has addressed these issues by conducting a subjective evaluation to the force feedback and the task performance in a tele-handshake cooperative shared haptic system for different delay setting. Also, four subjective measures to evaluate the quality of haptic in CSHVEs have been proposed. These measures are the feeling of force, the consistency between the haptic-visual feedback, the vibration, and the rebound in the haptic device. In addition, a detailed description of the haptic sensation for different time delays is also described. A network emulator was utilized to simulate the real network cloud. An objective evaluation of the force feedback and the performance showed that there was no effect of the delay on the force feedback. It had a negative impact on the task performance. In general, the quality of haptic deteriorated as the delay increased and vibration and rebound hampered the users for large time delay. The haptic-visual consistency was robust in the presented system even for large time delays. Nevertheless, the examined tele-handshake system was able to deliver a high quality of haptic sensation, good performance, and stability for large time delay over the network.
+ER  - 
+
+TY  - JOUR
+T1  - Hybrid client–server architecture and control techniques for collaborative product development using haptic interfaces
+AU  - Lin, Shiyong
+AU  - Narayan, Roger J.
+AU  - Lee, Yuan-Shin
+JO  - Computers in Industry
+VL  - 61
+IS  - 1
+SP  - 83
+EP  - 96
+PY  - 2010
+DA  - 2010/01/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2009.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361509001389
+KW  - Collaborative product development
+KW  - Deformable object modeling
+KW  - Haptic interface
+KW  - CAD/CAM
+AB  - In this paper, a collaborative product development and prototyping framework is proposed by using distributed haptic interfaces along with deformable objects modeling. Collaborative Virtual Environment (CVE) is a promising technique for industrial product development and virtual prototyping. Network control problems such as network traffic and network delay in communication have greatly limited collaborative virtual environment applications. The problems become more difficult when high-update-rate haptic interfaces and computation intensive deformable objects modeling are integrated into CVEs for intuitive manipulation and enhanced realism. A hybrid network architecture is proposed to balance the computational burden of haptic rendering and deformable object simulation. Adaptive artificial time compensation is used to reduce the time discrepancy between the server and the client. Interpolation and extrapolation approaches are used to synchronize graphic and haptic data transmitted over the network. The proposed techniques can be used for collaborative product development, virtual assembly, remote product simulation and other collaborative virtual environments where both haptic interfaces and deformable object models are involved.
+ER  - 
+
+TY  - JOUR
+T1  - The haptic paradigm in education: Challenges and case studies
+AU  - Hamza-Lup, Felix G.
+AU  - Stanescu, Ioana A.
+JO  - The Internet and Higher Education
+VL  - 13
+IS  - 1
+SP  - 78
+EP  - 81
+PY  - 2010
+DA  - 2010/01/01/
+T2  - Special Issue on the Community of Inquiry Framework: Ten Years Later
+SN  - 1096-7516
+DO  - https://doi.org/10.1016/j.iheduc.2009.12.004
+UR  - https://www.sciencedirect.com/science/article/pii/S1096751609000761
+KW  - Multimodal virtual environments
+KW  - Community of inquiry
+KW  - Haptics
+AB  - The process of learning involves interaction with the learning environment through our five senses (sight, hearing, touch, smell, and taste). Until recently, distance education focused only on the first two of those senses, sight and sound. Internet-based learning environments are predominantly visual with auditory components. With the advent of haptic technology we can now simulate/generate forces and, as a result, the sense of touch. The gaming industry has promoted the “touch” on the “wire,” allowing complex multimodal interactions online. In this article we provide a brief overview of the evolution of haptic technology, its potential for education, and existing challenges. We review recent data on 21st century students' behaviors, and share our experiences in designing interactive haptic environments for education. From the “Community of Inquiry” framework perspective, we discuss the potential impact of haptic feedback on cognitive and social presence.
+ER  - 
+
+TY  - JOUR
+T1  - Reduce CO2 from buildings with technology to zero emissions
+AU  - Meggers, Forrest
+AU  - Leibundgut, Hansjürg
+AU  - Kennedy, Sheila
+AU  - Qin, Menghao
+AU  - Schlaich, Mike
+AU  - Sobek, Werner
+AU  - Shukuya, Masanori
+JO  - Sustainable Cities and Society
+VL  - 2
+IS  - 1
+SP  - 29
+EP  - 36
+PY  - 2012
+DA  - 2012/02/01/
+SN  - 2210-6707
+DO  - https://doi.org/10.1016/j.scs.2011.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S2210670711000618
+KW  - Buildings
+KW  - CO
+KW  - Emissions
+KW  - Technology
+KW  - Systems
+KW  - Architecture
+AB  - This paper represents a unique collaboration between experts in architecture and engineering from around the globe to evaluate the true potential to reduce CO2 emissions from buildings. The result of this experiment in remote collaboration between Europe, USA, Japan and China, was a summary that was generated for the Holcim Forum workshop, “Reduce CO2 – With technology to zero emissions.” This covers challenges of reducing emissions from building construction, operation and maintenance while also presenting an array of potential solutions. Here we expand on that work for the benefit of a broader audience. The paper covers the overall problem of building emissions, both direct and indirect. It discusses the often-overlooked impacts of building material use. It also reviews the problems related directly to building CO2 emissions and energy consumption, as well as new analysis methods for better system design. Finally, many new processes are discussed that have the potential to drastically reduce building CO2 production to nearly zero. In summary we encourage new perspectives that increase the utilization of new methods and systems, thereby providing examples of technological groundwork that can incite new policy to reduce building CO2 emissions.
+ER  - 
+
+TY  - JOUR
+T1  - On Multi-Agent Cognitive Cooperation: Can virtual agents behave like humans?
+AU  - D’Avella, Salvatore
+AU  - Camacho-Gonzalez, Gerardo
+AU  - Tripicchio, Paolo
+JO  - Neurocomputing
+VL  - 480
+SP  - 27
+EP  - 38
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2022.01.025
+UR  - https://www.sciencedirect.com/science/article/pii/S092523122200042X
+KW  - Cognitive Collaboration
+KW  - Multi-Modal Feedback
+KW  - Multi-Agent Reinforcement Learning
+AB  - Individuals tend to cooperate or collaborate to reach a common goal when the going gets tough creating a common frame of reference that is a common mental representation of the situation. Information exchange among people is fundamental for building a shared strategy through the grounding process that exploits different communication channels like vision, haptic, or voice. Indeed, human perception is typically multi-modal. This work proposes a two-fold study investigating the cognitive collaboration process both among humans and virtual agents of a multi-agent reinforcement learning (MARL) system. The experiment with humans consists of an interactive virtual shared environment that uses multi-modal channels (visual and haptics) as interaction cues. Haptic feedback is fundamental for a good sense of presence and for improving the performance in completing a task. In this manuscript, an experiment, consisting of escaping a virtual maze trying to get the best score possible, is introduced. The experiment is meant to be performed in pairs, and the perceptual information is split among the participants. A custom haptic interface has been used for the interaction with the virtual environment. The machine learning case, instead, proposes two virtual agents implemented using a tabular Q-learning paradigm to control a single avatar in a 2D labyrinth, introducing a new form of MARL setting. As it is known, it is not easy to get familiar with haptics for people that have never used it, and that if not properly transmitted, the cognitive workflow does not produce any improvements. However, the main findings of the proposed work are that haptic-driven multi-modal feedback information is a valuable means of collaboration since it allows to establish a common frame of reference between the two participants. The machine learning experiments show that even independent agents, implemented with properly designed rewards, can learn the intentions of the other participant in the same environment and collaborate to accomplish a common task.
+ER  - 
+
+TY  - JOUR
+T1  - Trends in networked collaborative virtual environments
+AU  - Joslin, Chris
+AU  - Pandzic, Igor S
+AU  - Magnenat Thalmann, Nadia
+JO  - Computer Communications
+VL  - 26
+IS  - 5
+SP  - 430
+EP  - 437
+PY  - 2003
+DA  - 2003/03/20/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/S0140-3664(02)00163-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366402001639
+KW  - Networked collaborative virtual environments
+KW  - Collaborative work
+AB  - Networked Collaborative Virtual Environments (NCVEs) systems allow multiple geographically distant users to share the same 3D virtual environment using a network. The paper presents an overview of the developments in the field of NCVE in the past decade with an introduction of research challenges and solutions for such systems and a brief presentation of systems that brought major developments to the NCVE field. As a case study, we present a new generation NCVE system VPARK.
+ER  - 
+
+TY  - JOUR
+T1  - Mathematics and geometry education with collaborative augmented reality
+AU  - Kaufmann, Hannes
+AU  - Schmalstieg, Dieter
+JO  - Computers & Graphics
+VL  - 27
+IS  - 3
+SP  - 339
+EP  - 345
+PY  - 2003
+DA  - 2003/06/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(03)00028-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849303000281
+KW  - Augmented reality
+KW  - Mathematics education
+KW  - Geometry education
+KW  - Spatial intelligence
+AB  - Construct3D is a 3D geometric construction tool specifically designed for mathematics and geometry education. It is based on the mobile collaborative augmented reality system “Studierstube”. We describe our efforts in developing a system for the improvement of spatial abilities and maximization of transfer of learning. In order to support various teacher–student interaction scenarios we implemented flexible methods for context and user dependent rendering of parts of the construction. Together with hybrid hardware setups they allow the use of Construct3D in today's classrooms and provide a testbed for future evaluations. Means of application and integration in mathematics and geometry education at high school as well as university level are being discussed. Anecdotal evidence supports our claim that Construct3D is easy to learn, encourages experimentation with geometric constructions and improves spatial skills.
+ER  - 
+
+TY  - JOUR
+T1  - Nitty-gritties of customer experience in metaverse retailing
+AU  - Mehrotra, Ankit
+AU  - Agarwal, Reeti
+AU  - Khalil, Ashraf
+AU  - Alzeiby, Ebtesam Abdullah
+AU  - Agarwal, Vaishali
+JO  - Journal of Retailing and Consumer Services
+VL  - 79
+SP  - 103876
+PY  - 2024
+DA  - 2024/07/01/
+SN  - 0969-6989
+DO  - https://doi.org/10.1016/j.jretconser.2024.103876
+UR  - https://www.sciencedirect.com/science/article/pii/S0969698924001723
+KW  - Metaverse
+KW  - Metaverse retailing
+KW  - Customer experience
+KW  - Uses and gratifications theory 2.0
+AB  - Metaverse has revolutionized the retail landscape and related customer experience. Yet, research in this area remains limited. This study unveils metaverse retailing aspects and their impact on customer experience by linking extracted twenty latent topics grouped under four themes, namely, immersive technology adoption, controlled interaction, agency interface integration, and novel metaverse environment with the Uses and Gratification Theory 2.0 (UGT 2.0) elements - modality, agency, interactivity, and navigability. The paper discusses metaverse retailing and customer experience research that can advance consumer research and help companies identify metaverse retailing customer experience improvement areas. The paper concludes with possible directions that can be undertaken in future research related to the four themes identified in the context of customer experience in metaverse retailing. The authors also propose three probable future research models that are well grounded in theory and arise from our analysis of work undertaken in the area of customer experience in metaverse retailing.
+ER  - 
+
+TY  - JOUR
+T1  - Parametric Facial Animation for Affective Interaction Workflow for Avatar Retargeting
+AU  - Vargas Molano, Juan Sebastián
+AU  - Díaz, Gloria Mercedes
+AU  - Sarmiento, Wilson J.
+JO  - Electronic Notes in Theoretical Computer Science
+VL  - 343
+SP  - 73
+EP  - 88
+PY  - 2019
+DA  - 2019/05/04/
+T2  - The proceedings of AmI, the 2018 European Conference on Ambient Intelligence.
+SN  - 1571-0661
+DO  - https://doi.org/10.1016/j.entcs.2019.04.011
+UR  - https://www.sciencedirect.com/science/article/pii/S1571066119300131
+KW  - Animation
+KW  - Avatar
+KW  - Candide
+KW  - Emotion
+AB  - Virtual avatars/characters are essential in the interaction with virtual environments and 3D video games. While these avatars can be controlled by a bot or a human, they need a suitable model that allows emotion representation regardless of what or who is controlling them, since it increases the interaction and immersion. Provide facial expressions to any avatar require an animation process to emulate a particular gesture or emotion before to include it in a virtual environment. This process is specific to every single facial expression required in the avatar. This paper presents an initial approximation to contribute to the solve this problem with a workflow to apply a well-known parameterized face model called Candide. The proposal aims to adapt Candide into any avatar previously modeled through automatic morphological adjustment and texture mapping. This work includes the application of this workflow into six characters licensed under the Creative Commons copyright. We also present examples of facial emotion animation, as well as subjective assessment by five experts in audiovisual and animation production.
+ER  - 
+
+TY  - JOUR
+T1  - Building enriching realities with children: Creating makerspaces that intertwine virtual and physical worlds in pediatric hospitals
+AU  - Ahmadpour, Naseem
+AU  - Pillai, Ajit G.
+AU  - Yao, Sofia
+AU  - Weatherall, Andrew
+JO  - International Journal of Human-Computer Studies
+VL  - 183
+SP  - 103193
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2023.103193
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581923002021
+KW  - Virtual reality
+KW  - Participatory design
+KW  - Enrichment
+KW  - Children
+KW  - Worldbuilding
+KW  - Makerspace
+KW  - Pediatric hospital
+AB  - Virtual Reality (VR) has been used in the context of pediatric healthcare with clinical applications dominating the field, for example to distract a child from pain. We explore a research gap to use VR for enrichment by creating a makerspace with distributed access across the pediatric hospital. The aim is to weave enjoyment into the hospital experience while also empowering children to create their own virtual worlds. The envisioned makerspace forms part of an infrastructure of care to additionally broaden the therapeutic and communication opportunities for patients and carers. We conducted a series of 8 generative workshops with 15 participants (aged 8 to 16), who engaged in worldbuilding and narrative storytelling using the Tinytown platform in VR. Through observation of participants’ engagement with VR, we identified three different maker identities (explorer, artisan, planner) who would benefit from different technology assets and support in a makerspace. Further our findings characterize the experience of enrichment through worldbuilding in VR, and identify values to embed and risks to mitigate in makerspaces in pediatric hospitals. We contribute a set of design considerations for enrichment through VR and building makerspaces for children and adolescents in pediatric settings. Finally we provide reflections on conducting generative research in VR with children and adolescents.
+ER  - 
+
+TY  - JOUR
+T1  - A cyber-physical machine tool concept for education and workforce training in CNC machining
+AU  - Kaarlela, Tero
+AU  - Outeiro, José
+JO  - Manufacturing Letters
+VL  - 44
+SP  - 1209
+EP  - 1218
+PY  - 2025
+DA  - 2025/08/01/
+T2  - 53rd SME North American Manufacturing Research Conference (NAMRC 53)
+SN  - 2213-8463
+DO  - https://doi.org/10.1016/j.mfglet.2025.06.140
+UR  - https://www.sciencedirect.com/science/article/pii/S2213846325001725
+KW  - Cyber-physical machine tool
+KW  - Digital twin
+KW  - Extended reality
+KW  - Workforce training
+AB  - This paper explores a teleoperation system for CNC machines based on digital twins, focusing on education and workforce training. The system leverages a Cyber-Physical Machine Tool concept to allow trainees to remotely operate a physical CNC machine using a high-level virtual reality user interface. The presented approach enables a virtual environment that provides an immersive experience with real-time video, audio streaming, and bidirectional communication between the physical CNC machine and its digital counterpart. The research addresses the technical feasibility and challenges of integrating digital twin for CNC machining operator training. The system improves accessibility for remote trainees, but key challenges include the absence of haptic feedback and the need to ensure cybersecurity during data exchange. The work concludes with a demonstration that the CPMT training approach successfully offers scalable, time- and location-independent operator training. The presented approach can be improved by providing a more realistic training experience by adding the sense of vibrations, chip formation, and coolant dynamics. A video abstract summarizing this study is available here.
+ER  - 
+
+TY  - JOUR
+T1  - An IoMT based cyber training framework for orthopedic surgery using Next Generation Internet technologies
+AU  - Cecil, J.
+AU  - Gupta, Avinash
+AU  - Pirela-Cruz, Miguel
+AU  - Ramanathan, Parmesh
+JO  - Informatics in Medicine Unlocked
+VL  - 12
+SP  - 128
+EP  - 137
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 2352-9148
+DO  - https://doi.org/10.1016/j.imu.2018.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S2352914818300285
+KW  - Cyber physical systems
+KW  - Internet of Things
+KW  - Surgical training
+KW  - Telemedicine
+KW  - Virtual reality
+KW  - Internet of Medical Things
+AB  - Internet of Things based approaches and frameworks hold significant potential in changing the way in which engineering activities are accomplished. The information centric revolution underway has served as a catalyst in the design of innovative methods and practices in several engineering and other domains. In this paper, an Internet of Medical Things based framework for surgical training is discussed in the broader context of Next Generation frameworks. The design and development of this Internet of Medical Things based framework involving adoption of Global Environment for Network Innovations based networking principles is elaborated. The Virtual Reality based simulation environments incorporate haptic based interfaces which support collaborative training and interactions among expert surgeons and residents in orthopedic surgery from distributed locations. The impact of using this Internet of Medical Things based framework for medical education has also been studied; the outcomes underscore the potential of adopting such Internet of Medical Things based approaches for medical education.
+ER  - 
+
+TY  - JOUR
+T1  - MiRA—Mixed Reality Agents
+AU  - Holz, Thomas
+AU  - Campbell, Abraham G.
+AU  - O’Hare, Gregory M.P.
+AU  - Stafford, John W.
+AU  - Martin, Alan
+AU  - Dragone, Mauro
+JO  - International Journal of Human-Computer Studies
+VL  - 69
+IS  - 4
+SP  - 251
+EP  - 268
+PY  - 2011
+DA  - 2011/04/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2010.10.001
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581910001230
+KW  - Mixed Reality Agents
+KW  - Mixed Reality
+KW  - Interaction metaphors
+KW  - Survey
+AB  - In recent years, an increasing number of Mixed Reality (MR) applications have been developed using agent technology — both for the underlying software and as an interface metaphor. However, no unifying field or theory currently exists that can act as a common frame of reference for these varied works. As a result, much duplication of research is evidenced in the literature. This paper seeks to fill this important gap by outlining “for the first time” a formal field of research that has hitherto gone unacknowledged, namely the field of Mixed Reality Agents (MiRAs), which are defined as agents embodied in a Mixed Reality environment. Based on this definition, a taxonomy is offered that classifies MiRAs along three axes: agency, based on the weak and strong notions outlined by Wooldridge and Jennings (1995); corporeal presence, which describes the degree of virtual or physical representation (body) of a MiRA; and interactive capacity, which characterises its ability to sense and act on the virtual and physical environment. Furthermore, this paper offers the first comprehensive survey of the state-of-the-art of MiRA research and places each project within the proposed taxonomy. Finally, common trends and future directions for MiRA research are discussed. By defining Mixed Reality Agents as a formal field, establishing a common taxonomy, and retrospectively placing existing MiRA projects within it, future researchers can effectively position their research within this landscape, thereby avoiding duplication and fostering reuse and interoperability.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of the effectiveness and user experience of employing virtual reality to enhance the efficacy of occupational safety and health learning for electrical workers and graduate students
+AU  - Pribadi, Ari Prayogo
+AU  - Rahman, Yusuf Mukasyafah Rizqi
+AU  - Silalahi, Chris Dwina Anggiana Br
+JO  - Heliyon
+VL  - 10
+IS  - 15
+SP  - e34918
+PY  - 2024
+DA  - 2024/08/15/
+SN  - 2405-8440
+DO  - https://doi.org/10.1016/j.heliyon.2024.e34918
+UR  - https://www.sciencedirect.com/science/article/pii/S2405844024109498
+KW  - VR-Based training
+KW  - Occupational safety and health
+KW  - User experience
+KW  - Safety education
+KW  - Virtual reality technology
+KW  - Occupational safety training
+KW  - Worker education
+AB  - Introduction
+The integration of engineering approaches in education and training is pivotal for reducing workplace incidents. Effective safety education increases workers' awareness of potential risks and fosters a robust Occupational Safety and Health (OSH) culture. Virtual reality (VR) offers immersive experiences that enhance the efficacy of safety training.
+Method
+This study evaluated VR's effectiveness through two experiments that demonstrated improved learning capacities. The first study employed quantitative methods and quasi-experiments with electrical sector technical support professionals. The second study used a qualitative approach with scenario case studies involving graduate students.
+Results
+The quantitative study revealed significant improvements in OSH understanding among electrical workers, highlighting VR-based training's superiority over traditional methods. The qualitative study found positive outcomes in VR usability and user experience among graduate students, affirming VR's effectiveness in OSH education.
+Conclusion
+VR has proven to be an effective and efficient training tool for both graduate students and experienced workers. It significantly advances skills, knowledge, and proficiency in electrical engineering by providing realistic, immersive, and tailored learning experiences. As VR technology continues to evolve, its role in shaping the future of electrical technical education and training appears increasingly promising.
+ER  - 
+
+TY  - JOUR
+T1  - XR and Workers’ safety in High-Risk Industries: A comprehensive review
+AU  - Dodoo, Joana Eva
+AU  - Al-Samarraie, Hosam
+AU  - Alzahrani, Ahmed Ibrahim
+AU  - Tang, Tang
+JO  - Safety Science
+VL  - 185
+SP  - 106804
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0925-7535
+DO  - https://doi.org/10.1016/j.ssci.2025.106804
+UR  - https://www.sciencedirect.com/science/article/pii/S0925753525000293
+KW  - XR
+KW  - Virtual Reality
+KW  - Augmented Reality
+KW  - Mixed Reality
+KW  - Safety Training
+KW  - Workplace
+AB  - The wider application of extended reality (XR) in various industrial settings has created numerous opportunities for enhancing worker safety. Several XR solutions have been applied to address specific safety challenges faced by workers. This study reviewed the current literature (2017–2024) on how XR technologies can potentially enhance worker safety. The PRISMA protocol was used to highlight how XR technologies are utilized in safety training for high-risk industries, their limitations, and recommendations for future improvements. Findings from a review of 41 studies indicate diverse opportunities (e.g., improved knowledge and productivity, delivery of interactive and sequential instructions) for virtual reality (VR), augmented reality (AR), and mixed reality (MR) in industries such as mining, construction, manufacturing, healthcare, power distribution/thermal plants, aviation, and firefighting. Several challenges (e.g., limited viewing fields, motion sickness, and control issues) were identified in the use of VR, AR, and MR, stemming from both human and socio-technical factors. The overall sentiment towards the use of XR in safety training was predominantly positive (550 instances), reflecting confidence in these technologies to enhance safety training outcomes. Findings from this study offer new insights into the capabilities of XR technologies in improving worker safety in high-risk industries and outline key considerations for policymakers and technology providers when integrating XR technologies to promote worker safety.
+ER  - 
+
+TY  - JOUR
+T1  - VR/AR in ergonomics and workspace design: a dual-perspective analysis of applications and implications
+AU  - Singh, Ashish Kumar
+JO  - Applied Ergonomics
+VL  - 129
+SP  - 104612
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0003-6870
+DO  - https://doi.org/10.1016/j.apergo.2025.104612
+UR  - https://www.sciencedirect.com/science/article/pii/S0003687025001486
+KW  - Immersive experience
+KW  - Immersive technologies
+KW  - Human-centered design
+KW  - Mixed reality
+KW  - Human factors
+AB  - This literature review systematically examines virtual reality (VR) and augmented reality (AR) technologies in ergonomics and workspace design using a comprehensive dataset of scholarly articles from Web of Science database. A hybrid review methodology integrating both bibliometric and content analysis used HistCite enabled citation-based analysis and performance mapping on 279 articles. Bibliographic coupling analysis using VOSviewer identified five major research themes based on two distinct perspectives: (1) application of VR/AR as tools for improving ergonomic assessments and workspace design, and (2) ergonomic implications of VR/AR system usage. Content analysis of 48 highly relevant articles further explored these themes, elucidating insights into current trends, research gaps, and future research directions. Major outcomes emerged from this analysis demonstrated that integrating VR/AR can improve skill acquisition, reduce errors, and improve user engagement across multiple sectors, from clinical applications to industrial assembly lines. However, persistent barriers include limited field of view in headsets, insufficient haptic fidelity, risk of user fatigue (physical and mental) due to device weight and poorly optimized user interfaces. Key recommendations include prioritizing longitudinal studies on VR/AR efficacy, improving cognitive ergonomics metrics, advancing haptic feedback systems, etc. These insights could provide roadmap for researchers and practitioners implementing immersive technologies for physical and cognitive ergonomic evaluations.
+ER  - 
+
+TY  - JOUR
+T1  - Perceptions of visual and multimodal symbolic mediated social touch: Role of technology modality, relationship, and task emotional salience
+AU  - Yarosh, Svetlana
+AU  - Wang, Xizi
+AU  - Yao, Yuan
+JO  - International Journal of Human-Computer Studies
+VL  - 159
+SP  - 102757
+PY  - 2022
+DA  - 2022/03/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2021.102757
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581921001750
+KW  - Mediated-Social Touch
+KW  - Haptic Interaction
+KW  - Computer-Mediated Communication
+KW  - Projector-Camera Systems
+KW  - Shape Memory Alloys
+KW  - Social Disfordance
+KW  - Social Presence
+AB  - Mediated social touch technologies represent touch across distance as a mechanism for building and reinforcing social relationships. We investigated how people perceive and respond to mediated affective gestures given the relationship between participants (strangers vs. known partners), the task carried out (high vs. low emotional salience tasks), and the modality of mediated communication technology used (videochat vs. projector-camera duplexed workspace vs. projector-camera with shape-memory alloy haptics). Through a between-subjects 3 × 2 × 2 factorial design with 162 participants, we found that generally a projector-camera mediated social touch system without haptics performed no worse than one with haptics on most measures. However, we saw significant interaction effects, suggesting that haptics may offer some benefit for high-emotional salience tasks on measures of expressiveness and task load. We reflect on our findings by providing concrete recommendations on technologies to use, variables to include, and measures to consider for future mediated social touch research.
+ER  - 
+
+TY  - JOUR
+T1  - Digital twins-enabled game theoretical models and techniques for metaverse Connected and Autonomous Vehicles: A survey
+AU  - Aslam, Anjum Mohd
+AU  - Chaudhary, Rajat
+AU  - Bhardwaj, Aditya
+AU  - Kumar, Neeraj
+AU  - Buyya, Rajkumar
+JO  - Journal of Network and Computer Applications
+VL  - 238
+SP  - 104138
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 1084-8045
+DO  - https://doi.org/10.1016/j.jnca.2025.104138
+UR  - https://www.sciencedirect.com/science/article/pii/S1084804525000359
+KW  - Metaverse
+KW  - Digital Twins
+KW  - Blockchain
+KW  - CAVs
+KW  - Game Theory (GT)
+AB  - The popularity of information and communication technology in automobiles has led to the next generation of smart vehicles known as Connected and Autonomous Vehicles (CAVs). The advent of the CAVs has rapidly emerged as an essential component of Intelligent Transportation Systems (ITS) due to the usage of advanced technologies for autonomous navigation, sensing, and improved vehicle safety. Moreover, during this era, Metaverse, often known as an embodied version of the Internet, aims to create a fully immersive and self-sustaining virtual shared space where individuals can live and interact through digital avatars. Recent technological breakthroughs like Web 3.0, 6G networks, extended reality, artificial intelligence, edge computing, and blockchain propel the Metaverse from science fiction to a near-future reality. Moreover, an integral component enabling this transformation is Digital Twins (DTs), which play an essential role in establishing the communication link between the two realms. This article comprehensively analyzes a detailed assessment of the CAVs-assisted Digital Twin-enabled game theoretical models and techniques used in CAVs Metaverse. Moreover, we explore the decentralized and autonomous nature of blockchain technology, making it an ideal platform for CAVs for securing financial transactions in the Metaverse, fostering trust and authenticity. Finally, we discuss open issues and future research opportunities for Digital Twin-enabled CAV Metaverse systems.
+ER  - 
+
+TY  - JOUR
+T1  - Designing Immersive Tools for Expert and Worker Remote Collaboration
+AU  - Medina Galvis, Sergio Camilo
+AU  - Mazeas, Damien
+AU  - Noël, Frédéric
+AU  - Erkoyuncu, John Ahmet
+JO  - Procedia CIRP
+VL  - 128
+SP  - 591
+EP  - 596
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 34th CIRP Design Conference
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.07.055
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124007509
+KW  - Remote collaboration
+KW  - Human interfacing
+KW  - Design methodology
+KW  - tools
+KW  - technologies
+AB  - Remote collaboration between on-site workers and remote experts is challenging due to physical limitations and lack of context sharing. Immersive technologies like Augmented Reality (AR) offer innovative interaction methods. However, workers still need wearable or handheld devices, and restricted viewpoints limit remote experts and overall efficiency. This paper aims to design a framework that enables expert presence and improves worker usability, fostering greater collaboration. Our methodology involves using a collaborative robot (cobot) with a camera, projector, smartphone, and a Virtual Reality (VR) interface. The result enables images and 3D captures of the workspace to be shared with the remote expert, who can freely manipulate the cobot to project inspection guidance cues. This autonomy enhances the expert’s involvement and frees the worker to focus on other essential tasks. We detail the proposed architecture design and setup. Finally, we evaluate the system using time delay and latency technical analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Influences of haptic communication on a shared manual task
+AU  - Chellali, Amine
+AU  - Dumas, Cédric
+AU  - Milleville-Pennel, Isabelle
+JO  - Interacting with Computers
+VL  - 23
+IS  - 4
+SP  - 317
+EP  - 328
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Cognitive Ergonomics for Situated Human-Automation Collaboration
+SN  - 0953-5438
+DO  - https://doi.org/10.1016/j.intcom.2011.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0953543811000439
+KW  - Haptic communication
+KW  - Common ground
+KW  - Collaborative virtual environments
+KW  - User-centred design
+KW  - HCI
+AB  - With the advent of new haptic feedback devices, researchers are giving serious consideration to the incorporation of haptic communication in collaborative virtual environments. For instance, haptic interactions based tools can be used for medical and related education whereby students can train in minimal invasive surgery using virtual reality before approaching human subjects. To design virtual environments that support haptic communication, a deeper understanding of humans′ haptic interactions is required. In this paper, human′s haptic collaboration is investigated. A collaborative virtual environment was designed to support performing a shared manual task. To evaluate this system, 60 medical students participated to an experimental study. Participants were asked to perform in dyads a needle insertion task after a training period. Results show that compared to conventional training methods, a visual-haptic training improves user′s collaborative performance. In addition, we found that haptic interaction influences the partners′ verbal communication when sharing haptic information. This indicates that the haptic communication training changes the nature of the users′ mental representations. Finally, we found that haptic interactions increased the sense of copresence in the virtual environment: haptic communication facilitates users′ collaboration in a shared manual task within a shared virtual environment. Design implications for including haptic communication in virtual environments are outlined.
+ER  - 
+
+TY  - JOUR
+T1  - An efficient and scalable deformable model for virtual reality-based medical applications
+AU  - Choi, Kup-Sze
+AU  - Sun, Hanqiu
+AU  - Heng, Pheng-Ann
+JO  - Artificial Intelligence in Medicine
+VL  - 32
+IS  - 1
+SP  - 51
+EP  - 69
+PY  - 2004
+DA  - 2004/09/01/
+T2  - Atificial Intelligence in Medicine in China
+SN  - 0933-3657
+DO  - https://doi.org/10.1016/j.artmed.2004.01.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0933365704000363
+KW  - Virtual reality
+KW  - Deformable simulation
+KW  - Heuristic optimization
+KW  - Simulated annealing
+KW  - Haptic rendering
+KW  - Medical simulations
+AB  - Modeling of tissue deformation is of great importance to virtual reality (VR)-based medical simulations. Considerable effort has been dedicated to the development of interactively deformable virtual tissues. In this paper, an efficient and scalable deformable model is presented for virtual-reality-based medical applications. It considers deformation as a localized force transmittal process which is governed by algorithms based on breadth-first search (BFS). The computational speed is scalable to facilitate real-time interaction by adjusting the penetration depth. Simulated annealing (SA) algorithms are developed to optimize the model parameters by using the reference data generated with the linear static finite element method (FEM). The mechanical behavior and timing performance of the model have been evaluated. The model has been applied to simulate the typical behavior of living tissues and anisotropic materials. Integration with a haptic device has also been achieved on a generic personal computer (PC) platform. The proposed technique provides a feasible solution for VR-based medical simulations and has the potential for multi-user collaborative work in virtual environment.
+ER  - 

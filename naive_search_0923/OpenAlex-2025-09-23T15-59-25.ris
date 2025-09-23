@@ -1,0 +1,2898 @@
+TY  - JOUR
+TI  - Modeling the effects of delayed haptic and visual feedback in a collaborative virtual environment
+PY  - 2007
+PB  - Association for Computing Machinery
+SN  - 1073-0516
+T2  - ACM Transactions on Computer-Human Interaction
+DO  - 10.1145/1275511.1275514
+UR  - https://doi.org/10.1145/1275511.1275514
+DA  - 2007-08-01
+AU  - Jay, Caroline
+C1  - University of Manchester, Manchester, UK
+AU  - Glencross, Mashhuda
+C1  - University of Manchester, Manchester, UK
+AU  - Hubbold, Roger
+C1  - University of Manchester, Manchester, UK
+LA  - en
+KW  - Modality (human–computer interaction)
+KW  - Visual feedback
+KW  - Affect
+VL  - 14
+IS  - 2
+SP  - 8
+EP  - 8
+ER  -
+TY  - JOUR
+TI  - Virtual interpersonal touch: Haptic interaction and copresence in collaborative virtual environments
+PY  - 2007
+PB  - Springer Science+Business Media
+SN  - 1380-7501
+T2  - Multimedia Tools and Applications
+DO  - 10.1007/s11042-007-0171-2
+UR  - https://doi.org/10.1007/s11042-007-0171-2
+DA  - 2007-09-01
+AU  - Bailenson, Jeremy
+C1  - Department of Communication, Stanford University, Stanford, USA.
+AU  - Yee, Nick
+C1  - Department of Communication, Stanford University, Stanford, USA.
+LA  - en
+KW  - Face-to-face interaction
+VL  - 37
+IS  - 1
+SP  - 5
+EP  - 14
+ER  -
+TY  - JOUR
+TI  - Haptic Communication in Collaborative Virtual Environments
+PY  - 2015
+PB  - SAGE Publishing
+SN  - 0018-7208
+T2  - Human Factors The Journal of the Human Factors and Ergonomics Society
+DO  - 10.1177/0018720815618808
+UR  - https://doi.org/10.1177/0018720815618808
+DA  - 2015-12-29
+AU  - Wang, Jinling
+C1  - Ergonomics in Remote Environments Laboratory
+C1  - Wright State University, Dayton, Ohio
+AU  - Chellali, Amine
+C1  - Université d’Évry Val d’Essonne, Évry, France
+AU  - Cao, Caroline
+C1  - Department of Biomedical, Industrial and Human Factors Engineering
+C1  - Wright State University, Dayton, Ohio
+LA  - en
+KW  - Stereotaxy
+VL  - 58
+IS  - 3
+SP  - 496
+EP  - 508
+AB  - Objective: To understand the interaction between haptic and verbal communication, we quantified the relative effect of verbal, haptic, and haptic-plus-verbal feedback in a collaborative virtual pointing task. Background: Collaborative virtual environments (CVEs) provide a medium for interaction among remote participants. Better understanding of the role of haptic feedback as a supplement to verbalization can improve the design of CVEs. Methods: Thirty-six participants were randomly paired into 18 dyads to complete a 2-D pointing task in a CVE. In a mixed experimental design, participants completed the task in three communication conditions: haptic only (H), verbal only (V), and haptic plus verbal (HV). The order of the conditions presented to the participants was counterbalanced. Results: The time to task completion, path length, overshoot, and root mean square error were analyzed. Overall, performance in the V and HV conditions was significantly better than in the H condition. H was the least efficient communication channel but elicited response with the shortest reaction time. When verbalization was not available, the use of the haptic device was more likely to be exaggerated to ensure information transmission. When verbalization was used, participants converged on the use of a Cartesian coordinate system for communicating spatial information. Conclusion: Haptic communication can be used to complete a collaborative virtual task but is less efficient than verbal communication. A training period may help to improve the efficiency of haptic communication. Application: These results can be used to design remote collaboration tasks incorporating haptic components and for improving the design of CVEs that support haptic communication.
+ER  -
+TY  - JOUR
+TI  - Inter-stream synchronization between haptic media and voice in collaborative virtual environments
+PY  - 2004
+DO  - 10.1145/1027527.1027670
+UR  - https://doi.org/10.1145/1027527.1027670
+DA  - 2004-10-10
+AU  - Ishibashi, Yutaka
+C1  - Nagoya Institute of Technology, Nagoya, Japan
+AU  - Kanbara, T.
+C1  - Nagoya Institute of Technology, Nagoya, Japan
+AU  - Tasaka, Shuji
+C1  - Nagoya Institute of Technology, Nagoya, Japan
+LA  - en
+SP  - 604
+EP  - 611
+ER  -
+TY  - JOUR
+TI  - Combating Latency in Haptic Collaborative Virtual Environments
+PY  - 2005
+PB  - The MIT Press
+SN  - 1054-7460
+T2  - PRESENCE Virtual and Augmented Reality
+DO  - 10.1162/105474605323384663
+UR  - https://doi.org/10.1162/105474605323384663
+DA  - 2005-06-01
+AU  - Gunn, Chris
+C1  - Virtual Environments Laboratory, CSIRO, Canberra, Australia#TAB#
+AU  - Hutchins, Matthew
+C1  - Virtual Environments Laboratory, CSIRO, Canberra, Australia#TAB#
+AU  - Adcock, Matt
+C1  - Virtual Environments Laboratory, CSIRO, Canberra, Australia#TAB#
+LA  - en
+KW  - Work space
+VL  - 14
+IS  - 3
+SP  - 313
+EP  - 328
+ER  -
+TY  - JOUR
+TI  - Cooperative control with haptic visualization in shared virtual environments
+PY  - 2004
+T2  - IEEE International Conference on Information Visualization
+DO  - 10.1109/iv.2004.43
+UR  - https://doi.org/10.1109/iv.2004.43
+DA  - 2004-07-14
+AU  - Goncharenko, Igor
+C1  - 3D Inc., Yokohama, Japan
+AU  - Svinin, Mikhail
+C1  - Bio-Mimetic Control Research Center, RIKEN, Japan#TAB#
+AU  - Matsumoto, Sachiko
+C1  - 3D Incorporated, Japan#TAB#
+AU  - Masui, Y.
+C1  - Nagoya University, Japan
+AU  - Kanou, Y.
+C1  - 3D Incorporated, Japan#TAB#
+AU  - Hosoe, S.
+C1  - Bio-Mimetic Control Research Center, RIKEN, Japan; Nagoya University, Japan#TAB#
+LA  - en
+KW  - Crank
+VL  - 8
+SP  - 533
+EP  - 538
+ER  -
+TY  - CHAP
+TI  - The Effect of Haptic Feedback on Basic Social Interaction within Shared Virtual Environments
+PY  - 2008
+PB  - Springer Science+Business Media
+SN  - 0302-9743
+T2  - Lecture notes in computer science
+DO  - 10.1007/978-3-540-69057-3_36
+UR  - https://doi.org/10.1007/978-3-540-69057-3_36
+DA  - 2008-01-01
+AU  - Giannopoulos, Elias
+C1  - Universitat Politècnica de Catalunya, Barcelona, Spain 08028#TAB#
+AU  - Eslava, Victor
+C1  - Intelligent Robots and Machines Research Group, Universidad Politecnica de Madrid, Madrid, Spain E28006
+AU  - Oyarzabal, María
+C1  - Intelligent Robots and Machines Research Group, Universidad Politecnica de Madrid, Madrid, Spain E28006
+AU  - Hierro, Teresa
+C1  - Intelligent Robots and Machines Research Group, Universidad Politecnica de Madrid, Madrid, Spain E28006
+AU  - González, Laura
+C1  - Intelligent Robots and Machines Research Group, Universidad Politecnica de Madrid, Madrid, Spain E28006
+AU  - Ferré, Manuel
+C1  - Intelligent Robots and Machines Research Group, Universidad Politecnica de Madrid, Madrid, Spain E28006
+AU  - Slater, Mel
+C1  - ICREA-Universitat Politècnica de Catalunya, Barcelona, Spain 08028#TAB#
+LA  - en
+KW  - Sense of presence
+KW  - Stereotaxy
+SP  - 301
+EP  - 307
+ER  -
+TY  - JOUR
+TI  - Audio makes a difference in haptic collaborative virtual environments
+PY  - 2010
+PB  - Oxford University Press
+SN  - 0953-5438
+T2  - Interacting with Computers
+DO  - 10.1016/j.intcom.2010.06.001
+UR  - https://doi.org/10.1016/j.intcom.2010.06.001
+DA  - 2010-06-10
+AU  - Moll, Jonas
+C1  - Royal Institute of Technology, Lindstedtsvägen 5, SE-100 44 Stockholm, Sweden#TAB#
+AU  - Huang, Yingying
+C1  - Royal Institute of Technology, Lindstedtsvägen 5, SE-100 44 Stockholm, Sweden#TAB#
+AU  - Sallnäs, Eva-Lotta
+C1  - Royal Institute of Technology, Lindstedtsvägen 5, SE-100 44 Stockholm, Sweden#TAB#
+LA  - en
+KW  - Audio visual
+VL  - 22
+IS  - 6
+SP  - 544
+EP  - 555
+ER  -
+TY  - JOUR
+TI  - A network-adaptive transport scheme for haptic-based collaborative virtual environments
+PY  - 2006
+DO  - 10.1145/1230040.1230078
+UR  - https://doi.org/10.1145/1230040.1230078
+DA  - 2006-01-01
+AU  - Lee, Seok-Hee
+C1  -  Gwangju Institute of Science and Technology (GIST)
+AU  - Moon, SungTae
+C1  -  Gwangju Institute of Science and Technology (GIST)
+AU  - Kim, JongWon
+C1  -  Gwangju Institute of Science and Technology (GIST)
+LA  - en
+ER  -
+TY  - JOUR
+TI  - Cooperative control with haptic visualization in shared virtual environments
+PY  - 2004
+T2  - Proceedings. Eighth International Conference on Information Visualisation, 2004. IV 2004.
+DO  - 10.1109/iv.2004.1320196
+UR  - https://doi.org/10.1109/iv.2004.1320196
+DA  - 2004-11-12
+AU  - Goncharenko, Igor
+C1  - 3D, Inc., Yokohama, Kanagawa, Japan
+AU  - Svinin, Mikhail
+C1  - Bio-Mimetic Control Research Center, Nagoya, Japan
+AU  - Matsumoto, Sachiko
+C1  - 3D, Inc., Yokohama, Kanagawa, Japan
+AU  - Masui, Y.
+C1  - Department of Electronic-Mechanical Engineering, Faculty of Engineering, University of Nagoya, Japan
+AU  - Kanou, Y.
+C1  - 3D, Inc., Yokohama, Kanagawa, Japan
+AU  - Hosoe, S.
+C1  - Bio-Mimetic Control Research Center, Nagoya, Japan
+C1  - Department of Electronic-Mechanical Engineering, Faculty of Engineering, University of Nagoya, Japan
+LA  - en
+KW  - Crank
+VL  - 5
+SP  - 533
+EP  - 538
+ER  -
+TY  - JOUR
+TI  - Synchronization control for physics-based collaborative virtual environments with shared haptics
+PY  - 2007
+PB  - Taylor & Francis
+SN  - 0169-1864
+T2  - Advanced Robotics
+DO  - 10.1163/156855307781035628
+UR  - https://doi.org/10.1163/156855307781035628
+DA  - 2007-01-01
+AU  - Cheong, Joono
+C1  -  a Department of Control and Instrumentation Engineering, Korea Univeristy, Jochiwon 339-700, South Korea
+AU  - Niculescu, Silviu‐Iulian
+C1  - b    Laboratoire des Signaux et Systèmes, CNRS-Supélec, rue Joliot Curie, 91190 Gif-sur-Yvette, France
+AU  - Annaswamy, Anuradha
+C1  -  c Department of Mechanical Engineering, MIT, Cambridge, MA 02139-4307, USA
+AU  - Srinivasan, Mandayam
+C1  -  d Department of Mechanical Engineering, MIT, Cambridge, MA 02139-4307, USA
+LA  - en
+KW  - Interface (matter)
+VL  - 21
+IS  - 9
+SP  - 1001
+EP  - 1029
+ER  -
+TY  - JOUR
+TI  - Proactive haptic articulation for intercommunication in collaborative virtual environments
+PY  - 2016
+DO  - 10.1109/3dui.2016.7460036
+UR  - https://doi.org/10.1109/3dui.2016.7460036
+DA  - 2016-03-01
+AU  - de Jesus Oliveira, Victor
+C1  - Universidade Federal do Rio Grande do Sul (UFRGS) - Instituto de Informática (INF), Porto Alegre, RS, Brazil
+AU  - Nedel, Luciana
+C1  - Universidade Federal do Rio Grande do Sul (UFRGS) - Instituto de Informática (INF), Porto Alegre, RS, Brazil
+AU  - Maciel, Anderson
+C1  - Universidade Federal do Rio Grande do Sul (UFRGS) - Instituto de Informática (INF), Porto Alegre, RS, Brazil
+LA  - en
+KW  - Articulation (sociology)
+KW  - Place of articulation
+SP  - 91
+EP  - 94
+ER  -
+TY  - JOUR
+TI  - An efficient hybrid multicast transport protocol for collaborative virtual environment with networked haptic
+PY  - 2007
+PB  - Springer Science+Business Media
+SN  - 0942-4962
+T2  - Multimedia Systems
+DO  - 10.1007/s00530-007-0104-y
+UR  - https://doi.org/10.1007/s00530-007-0104-y
+DA  - 2007-10-29
+AU  - Boukerche, Azzedine
+C1  - Paradise Research Laboratory, School of Information Technology and Engineering (SITE), University of Ottawa, Ottawa, Canada
+AU  - Maamar, Haifa
+C1  - Paradise Research Laboratory, School of Information Technology and Engineering (SITE), University of Ottawa, Ottawa, Canada
+AU  - Hossain, A.B.M.
+C1  - Paradise Research Laboratory, School of Information Technology and Engineering (SITE), University of Ottawa, Ottawa, Canada
+LA  - en
+KW  - IP multicast
+KW  - Collaborative virtual environment
+VL  - 13
+IS  - 4
+SP  - 283
+EP  - 296
+ER  -
+TY  - JOUR
+TI  - Real-time haptic rendering of a high-resolution volumetric deformable object in a collaborative virtual environment
+PY  - 2005
+PB  - Taylor & Francis
+SN  - 0169-1864
+T2  - Advanced Robotics
+DO  - 10.1163/156855305774307022
+UR  - https://doi.org/10.1163/156855305774307022
+DA  - 2005-01-01
+AU  - Kim, Sang‐Youn
+C1  - Korea Advanced Institute Of Science and Technology
+AU  - Park, Jinah
+AU  - Kwon, Dong‐Soo
+LA  - en
+KW  - Virtual image
+VL  - 19
+IS  - 9
+SP  - 951
+EP  - 975
+ER  -
+TY  - JOUR
+TI  - An Integrated Haptic Data Transmission in Haptic Collaborative Virtual Environments
+PY  - 2007
+DO  - 10.1109/icis.2007.58
+UR  - https://doi.org/10.1109/icis.2007.58
+DA  - 2007-01-01
+AU  - You, Yonghee
+C1  - Univ. of lncheon, Incheon
+AU  - Sung, Mee
+C1  - Univ. of lncheon, Incheon
+AU  - Jun, Kyungkoo
+C1  - University of Incheon, Korea#TAB#
+LA  - en
+KW  - Stereotaxy
+SP  - 834
+EP  - 839
+ER  -
+TY  - JOUR
+TI  - Passive shared virtual environment for distributed haptic cooperation
+PY  - 2014
+DO  - 10.1109/haptics.2014.6775458
+UR  - https://doi.org/10.1109/haptics.2014.6775458
+DA  - 2014-02-01
+AU  - Rakhsha, Ramtin
+C1  - Mech. Eng. Dept., Univ. of Victoria, Victoria, BC, Canada
+AU  - Constantinescu, Daniela
+C1  - Mech. Eng. Dept., Univ. of Victoria, Victoria, BC, Canada
+LA  - en
+KW  - Passivity
+KW  - Port (circuit theory)
+SP  - 221
+EP  - 226
+ER  -
+TY  - JOUR
+TI  - Haptic interpersonal communication: improvement of actions coordination in collaborative virtual environments
+PY  - 2011
+PB  - Springer Science+Business Media
+SN  - 1359-4338
+T2  - Virtual Reality
+DO  - 10.1007/s10055-011-0201-2
+UR  - https://doi.org/10.1007/s10055-011-0201-2
+DA  - 2011-11-22
+AU  - Simard, Jean
+C1  - University of Paris Sud/LIMSI-CNRS, Orsay, France
+AU  - Ammi, Mehdi
+C1  - University of Paris Sud/LIMSI-CNRS, Orsay, France
+LA  - en
+KW  - Work space
+VL  - 16
+IS  - 3
+SP  - 173
+EP  - 186
+ER  -
+TY  - JOUR
+TI  - STABLE SHARED VIRTUAL ENVIRONMENT HAPTIC INTERACTION UNDER TIME-VARYING DELAY
+PY  - 2002
+PB  - Centre National de la Recherche Scientifique
+T2  - HAL (Le Centre pour la Communication Scientifique Directe)
+DA  - 2002-09-02
+AU  - Arioui, Hichem
+C1  - Laboratoire Systèmes Complexes
+AU  - Kheddar, Abderrahmane
+C1  - Laboratoire Systèmes Complexes
+AU  - Mammar, Saïd
+C1  - Laboratoire Systèmes Complexes
+LA  - en
+KW  - Constant (computer programming)
+KW  - Interface (matter)
+AB  - This paper addresses the stability of time-delayed force-reflecting displays used in human-in-the-loop virtual reality interactive systems. A novel predictive haptic-device model-based approach is proposed. The developed solution is stable and robust, and does not require either the estimation of time delay or any knowledge on its behavior. It applies without any adaptations to constant or causal time-varying delays. Efforts have been focused to simple developments in order to make the approach easy to implement in commercial haptic libraries and build-in interface controllers. Altought this study focuses on virtual environments haptics, it can be easily spreaded to teleoperation1. The obtained results are presented and discussed.
+ER  -
+TY  - JOUR
+TI  - A study on haptic collaborative game in shared virtual environment
+PY  - 2013
+PB  - SPIE
+SN  - 0277-786X
+T2  - Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE
+DO  - 10.1117/12.2021258
+UR  - https://doi.org/10.1117/12.2021258
+DA  - 2013-03-13
+AU  - Lu, Keke
+C1  - [Beihang Univ., China]
+AU  - Liu, Guanyang
+C1  - [Beihang Univ., China]
+AU  - L, Liu
+C1  - [Beihang Univ., China]
+LA  - en
+KW  - Collaborative software
+KW  - Collaborative virtual environment
+VL  - 8783
+SP  - 87831Y
+EP  - 87831Y
+ER  -
+TY  - JOUR
+TI  - Haptic Event Prioritization and Network Adaptation Scheme for Collaborative Virtual Environments
+PY  - 2007
+DO  - 10.1109/glocom.2007.411
+UR  - https://doi.org/10.1109/glocom.2007.411
+DA  - 2007-11-01
+AU  - Lee, Seok-Hee
+C1  - Networked Media Laboratory, Department of Information and Communications, Gwangju Institute of Science and Technology, Gwangju, South Korea
+AU  - Kim, JongWon
+C1  - Networked Media Laboratory, Department of Information and Communications, Gwangju Institute of Science and Technology, Gwangju, South Korea
+LA  - en
+KW  - Prioritization
+KW  - Stereotaxy
+SP  - 2151
+EP  - 2155
+ER  -
+TY  - JOUR
+TI  - The Use of a Proximity Agent in a Collaborative Virtual Environment with 6 Degrees-of-Freedom Voxel-Based Haptic Rendering
+PY  - 2005
+DO  - 10.1109/whc.2005.137
+UR  - https://doi.org/10.1109/whc.2005.137
+DA  - 2005-03-31
+AU  - Prior, Anthony
+C1  - School of Computer Science and Software Engineering, University of Western Australia, Australia
+AU  - Haines, Karen
+C1  - School of Computer Science and Software Engineering, University of Western Australia, Australia
+LA  - en
+KW  - Collaborative virtual environment
+SP  - 631
+EP  - 632
+ER  -
+TY  - JOUR
+TI  - Dynamic network adaptation scheme employing haptic event priority for collaborative virtual environments
+PY  - 2007
+DO  - 10.4108/icst.immerscom2007.2168
+UR  - https://doi.org/10.4108/icst.immerscom2007.2168
+DA  - 2007-01-01
+AU  - Lee, Seok-Hee
+C1  - Gwangju institute of Science and Technology
+AU  - Kim, JongWon
+C1  - Gwangju institute of Science and Technology
+LA  - en
+ER  -
+TY  - CHAP
+TI  - What You Feel Is What I Do: A Study of Dynamic Haptic Interaction in Distributed Collaborative Virtual Environment
+PY  - 2011
+PB  - Springer Science+Business Media
+SN  - 0302-9743
+T2  - Lecture notes in computer science
+DO  - 10.1007/978-3-642-21605-3_16
+UR  - https://doi.org/10.1007/978-3-642-21605-3_16
+DA  - 2011-01-01
+AU  - Ullah, Sehat
+C1  - IBISC Laboratory, University of Evry, France#TAB#
+AU  - Liu, Xianging
+C1  - Tokyo institute of Technology (Japan)
+AU  - Otmane, Samir
+C1  - IBISC Laboratory, University of Evry, France#TAB#
+AU  - Richard, Paul
+C1  - LISA Laboratory, University of Angers, France
+AU  - Mallem, Malik
+C1  - IBISC Laboratory, University of Evry, France#TAB#
+LA  - en
+KW  - Stereotaxy
+SP  - 140
+EP  - 147
+ER  -
+TY  - JOUR
+TI  - Networked multiplayer cooperative interaction using decoupled motion control method in a shared virtual environment with haptic, visual and movement feedback
+PY  - 2012
+PB  - Wiley
+SN  - 1546-4261
+T2  - Computer Animation and Virtual Worlds
+DO  - 10.1002/cav.1475
+UR  - https://doi.org/10.1002/cav.1475
+DA  - 2012-07-25
+AU  - Liu, Guanyang
+C1  - State Key Laboratory of Virtual Reality Technology and Systems, Robotics Institute, School of Mechanical Engineering and Automation Beihang University Beijing 100191 China
+AU  - Lu, Keke
+C1  - State Key Laboratory of Virtual Reality Technology and Systems, Robotics Institute, School of Mechanical Engineering and Automation Beihang University Beijing 100191 China
+LA  - en
+KW  - Avatar
+KW  - Interface (matter)
+VL  - 24
+IS  - 2
+SP  - 97
+EP  - 109
+ER  -
+TY  - JOUR
+TI  - Integrating Audio and Haptic Feedback in a Collaborative Virtual Environment
+PY  - 2007
+DA  - 2007-01-01
+AU  - Huang, Ying
+AU  - Moll, Jonas
+AU  - Sallnäs, Eva-Lotta
+AU  - Sundblad, Yngve
+LA  - en
+KW  - Modalities
+KW  - Work space
+KW  - Interface (matter)
+KW  - Audio feedback
+KW  - Multimodal Interaction
+ER  -
+TY  - JOUR
+TI  - An experimental study on the role of touch in shared virtual environments
+PY  - 2000
+PB  - Association for Computing Machinery
+SN  - 1073-0516
+T2  - ACM Transactions on Computer-Human Interaction
+DO  - 10.1145/365058.365082
+UR  - https://doi.org/10.1145/365058.365082
+DA  - 2000-12-01
+AU  - Başdoğan, Çağatay
+C1  - California Institute of Technology, Pasadena
+AU  - Ho, Chih-Hao
+C1  - Cambridge Research Association, McLean, VA
+AU  - Srinivasan, Mandayam
+C1  - Massachusetts Institute of Technology, Cambridge
+AU  - Slater, Mel
+C1  - Univ. College London, London, UK
+LA  - en
+VL  - 7
+IS  - 4
+SP  - 443
+EP  - 460
+AB  - Investigating virtual environments has become an increasingly interesting research topic for engineers, computer and cognitive scientists, and psychologists. Although there have been several recent studies focused on the development of multimodal virtual environments (VEs) to study human-machine interactions, less attention has been paid to human-human and human-machine interactions in shared virtual environments (SVEs), and to our knowledge, no attention paid at all to what extent the addition of haptic communication between people would contribute to the shared experience. We have developed a multimodal shared virtual environment and performed a set of experiments with human subjects to study the role of haptic feedback in collaborative tasks and whether haptic communication through force feedback can facilitate a sense of being and collaborating with a remote partner. The study concerns a scenario where two participants at remote sites must cooperate to perform a joint task in an SVE. The goals of the study are (1) to assess the impact of force feedback on task performance, (2) to better understand the role of haptic communication in human-human interactions, (3) to study the impact of touch on the subjective sense of collaborating with a human as reported by the participants based on what they could see and feel, and (4) to investigate if gender, personality, or emotional experiences of users can affect haptic communication in SVEs. The outcomes of this research can have a powerful impact on the development of next-generation human-computer interfaces and network protocols that integrate touch and force feedback technology into the internet, development of protocols and techniques for collaborative teleoperation such as hazardous material removal, space station.
+ER  -
+TY  - JOUR
+TI  - Passive shared virtual environment for haptic cooperation
+PY  - 2018
+PB  - Springer Science+Business Media
+SN  - 0929-5593
+T2  - Autonomous Robots
+DO  - 10.1007/s10514-018-9809-3
+UR  - https://doi.org/10.1007/s10514-018-9809-3
+DA  - 2018-10-17
+AU  - Rakhsha, Ramtin
+C1  - Department of Mechanical Engineering, University of Victoria, Victoria, BC, Canada
+AU  - Constantinescu, Daniela
+C1  - Department of Mechanical Engineering, University of Victoria, Victoria, BC, Canada
+AU  - Shi, Yang
+C1  - Department of Mechanical Engineering, University of Victoria, Victoria, BC, Canada
+LA  - en
+KW  - Passivity
+KW  - Port (circuit theory)
+VL  - 43
+IS  - 6
+SP  - 1489
+EP  - 1504
+ER  -
+TY  - JOUR
+TI  - Effects of Packet Loss on Haptic Communication in Collaborative Virtual Environments
+PY  - 2011
+DA  - 2011-01-01
+AU  - , 徐韧恒
+AU  - Choi, Kup‐Sze
+AU  - , 秦璟
+AU  - Pang, Wai‐Man
+AU  - , 王平安
+LA  - en
+KW  - Packet loss
+ER  -
+TY  - JOUR
+TI  - An efficient hybrid multicast transport protocol for collaborative virtual environment with networked haptic
+PY  - 2006
+DO  - 10.1109/have.2006.283778
+UR  - https://doi.org/10.1109/have.2006.283778
+DA  - 2006-01-01
+AU  - Boukerche, Azzedine
+C1  - PARADISE Res. Lab, Ottawa Univ., Ont.
+AU  - Maamar, Haifa
+C1  - PARADISE Res. Lab, Ottawa Univ., Ont.
+LA  - en
+KW  - Collaborative virtual environment
+KW  - IP multicast
+SP  - 78
+EP  - 83
+ER  -
+TY  - JOUR
+TI  - Dynamic network adaptation scheme employing haptic event priority for collaborative virtual environments
+PY  - 2010
+DA  - 2010-05-16
+AU  - Lee, Seok-Hee
+AU  - Kim, Jongwon
+LA  - en
+KW  - Network delay
+ER  -
+TY  - JOUR
+TI  - Decentralized H&lt;sup&gt;2&lt;/sup&gt; optimal control of haptic interfaces for a shared virtual environment
+PY  - 2013
+DO  - 10.1109/cdc.2013.6760707
+UR  - https://doi.org/10.1109/cdc.2013.6760707
+DA  - 2013-12-01
+AU  - Kristalny, Maxim
+C1  - [Fac. of Mech. Eng., Technion-Israel Inst. of Technol., Haifa, Israel]
+AU  - Cho, Jang
+C1  - [Autom. Control LTH, Lund Univ., Lund, Sweden]
+LA  - en
+KW  - Quadratic growth
+KW  - Interface (matter)
+SP  - 5204
+EP  - 5209
+ER  -
+TY  - JOUR
+TI  - Vehicle-Ride Sensation Sharing for Immersive Remote Collaboration with Vestibular Haptic Chair to reduce VR Sickness.
+PY  - 2019
+DA  - 2019-01-01
+AU  - Morita, Tsubasa
+AU  - Yem, Vibol
+AU  - Amemiya, Tomohiro
+AU  - Ikei, Yasushi
+LA  - en
+KW  - Sensation
+KW  - Simulator sickness
+SP  - 19
+EP  - 20
+ER  -
+TY  - JOUR
+TI  - A Method of Synchronization for Haptic Collaborative Virtual Environments in Multipoint and Multi-level Computer Performance Systems
+PY  - 2011
+PB  - IOS Press
+SN  - 0926-9630
+T2  - Studies in health technology and informatics
+DO  - 10.3233/978-1-60750-706-2-638
+UR  - https://doi.org/10.3233/978-1-60750-706-2-638
+DA  - 2011-01-01
+AU  - Tagawa, Kazuyoshi
+C1  - Ritsumeikan University, Japan. tagawa@tagawa.info
+AU  - Bito, Tatsuro
+AU  - Tanaka, Hiromi
+LA  - en
+ER  -
+TY  - JOUR
+TI  - Tangible interfaces for remote collaboration and communication
+PY  - 1998
+DO  - 10.1145/289444.289491
+UR  - https://doi.org/10.1145/289444.289491
+DA  - 1998-11-01
+AU  - Brave, Scott
+C1  - MIT Media Laboratory, Tangible Media Group, 20 Ames St., Cambridge, WA
+AU  - Ishii, Hiroshi
+C1  - MIT Media Laboratory, Tangible Media Group, 20 Ames St., Cambridge, WA
+AU  - Dahley, Andrew
+C1  - MIT Media Laboratory, Tangible Media Group, 20 Ames St., Cambridge, WA
+LA  - en
+KW  - Collaborative software
+ER  -
+TY  - JOUR
+TI  - Transatlantic Touch: A Study of Haptic Collaboration over Long Distance
+PY  - 2004
+PB  - The MIT Press
+SN  - 1054-7460
+T2  - PRESENCE Virtual and Augmented Reality
+DO  - 10.1162/1054746041422370
+UR  - https://doi.org/10.1162/1054746041422370
+DA  - 2004-06-01
+AU  - Kim, Jung
+C1  - The Touch Lab, Department of Mechanical Engineering and The Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA#TAB#
+AU  - Kim, Hyun
+C1  - The Touch Lab, Department of Mechanical Engineering and The Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA#TAB#
+AU  - Tay, Boon
+C1  - The Touch Lab, Department of Mechanical Engineering and The Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA#TAB#
+AU  - Manivannan, M.
+C1  - The Touch Lab, Department of Mechanical Engineering and The Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA#TAB#
+AU  - Srinivasan, Mandayam
+C1  - The Touch Lab, Department of Mechanical Engineering and The Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA#TAB#
+AU  - Jordan, Joel
+C1  - Department of Computer Science, University College London, London,
+AU  - Mortensen, Jesper
+C1  - Department of Computer Science, University College London, London,
+AU  - Oliveira, Manuel
+C1  - Department of Computer Science, University College London, London,
+AU  - Slater, Mel
+C1  - Department of Computer Science, University College London, London,
+LA  - en
+VL  - 13
+IS  - 3
+SP  - 328
+EP  - 337
+AB  - The extent to which the addition of haptic communication between human users in a shared virtual environment (SVE) contributes to the shared experience of the users has not received much attention in the literature. In this paper we describe a demonstration of and an experimental study on haptic interaction between two users over a network of significant physical distance and a number of network hops. A number of techniques to mitigate instability of the haptic interactions induced by network latency are presented. An experiment to evaluate the use of haptics in a collaborative situation mediated by a networked virtual environment is examined. The experimental subjects were to cooperate in lifting a virtual box together under one of four conditions in a between-groups design. Questionnaires were used to report the ease with which they could perform the task and the subjective levels of presence and copresence experienced. This extends earlier work by the authors to consider the possibility of haptic collaboration under real network conditions with a number of improvements. Using the technology described in this paper, transatlantic touch was successfully demonstrated between the Touch Lab at Massachusetts Institute of Technology, USA and Virtual Environments and Computer Graphics (VECG) lab at University College London (UCL), UK in 2002. It was also presented at the Internet II demonstration meeting in 2002 between University of Southern California and the Massachusetts Institute of Technology.
+ER  -
+TY  - JOUR
+TI  - Virtual interpersonal touch: expressing and recognizing emotions through haptic devices
+PY  - 2007
+PB  - Taylor & Francis
+SN  - 0737-0024
+T2  - Human-Computer Interaction
+DO  - 10.1080/07370020701493509
+UR  - https://doi.org/10.1080/07370020701493509
+DA  - 2007-08-01
+AU  - Bailenson, Jeremy
+C1  - Department of Communication, Stanford University, Stanford, CA,#TAB#
+AU  - Yee, Nick
+C1  - Department of Communication, Stanford University, Stanford, CA,#TAB#
+AU  - Brave, Scott
+C1  - Baynote, Inc., Cupertino, CA and Stanford University#TAB#
+AU  - Merget, Dan
+C1  - Department of Communication, Stanford University, Stanford, CA,#TAB#
+AU  - Koslow, David
+C1  - Department of Computer Science, Stanford University, Stanford, CA#TAB#
+LA  - en
+KW  - Joystick
+VL  - 22
+IS  - 3
+SP  - 325
+EP  - 353
+ER  -
+TY  - JOUR
+TI  - Voxel-Based 6-DOF Haptic Rendering Improvements
+PY  - 2006
+DA  - 2006-01-19
+AU  - McNeely, William
+AU  - Puterbaugh, Kevin
+AU  - Troy, James
+AU  - Phantom, Boeing
+LA  - en
+KW  - Stereotaxy
+ER  -
+TY  - JOUR
+TI  - The evaluation of delay jitter for haptics collaboration over the Internet
+PY  - 2004
+DO  - 10.1109/glocom.2002.1188447
+UR  - https://doi.org/10.1109/glocom.2002.1188447
+DA  - 2004-03-22
+AU  - Hikichi, Kenji
+C1  - Graduate School of Science and Engineering, Waseda University, Shinjuku, Tokyo, Japan
+AU  - Morino, Hironao
+C1  - Graduate School of Science and Engineering, Waseda University, Shinjuku, Tokyo, Japan
+AU  - Arimoto, I.
+C1  - Institute of Industrial Science, University of Tokyo, Meguro, Tokyo, Japan
+AU  - Sezaki, Kaoru
+C1  - Center for Spatial Information Science, University of Tokyo, Meguro, Tokyo, Japan
+AU  - Yasuda, Y.
+C1  - Graduate School of Science and Engineering, Waseda University, Shinjuku, Tokyo, Japan
+LA  - en
+KW  - Network delay
+KW  - Packet loss
+VL  - 2
+SP  - 1492
+EP  - 1496
+ER  -
+TY  - JOUR
+TI  - Architecture of haptics communication system for adaptation to network environments
+PY  - 2001
+T2  - 2022 IEEE International Conference on Multimedia and Expo (ICME)
+DO  - 10.1109/icme.2001.1237782
+UR  - https://doi.org/10.1109/icme.2001.1237782
+DA  - 2001-01-01
+AU  - Hikichi, Kenji
+C1  - Waseda University
+AU  - Morino, Hironao
+C1  - Graduate School of Science and Engineering, Waseda University
+AU  - Fukuda, Ichiro
+C1  - Graduate School of Science and Engineering, Waseda University
+AU  - Matsumoto, Shota
+C1  - Graduate School of Science and Engineering, Waseda University
+AU  - Yasuda, Y.
+C1  - Graduate School of Science and Engineering, Waseda University
+AU  - Arimoto, I.
+C1  - university of Tokyo;
+AU  - Iijima, Michihiro
+C1  - university of Tokyo;
+AU  - Sezaki, Kaoru
+C1  - university of Tokyo;
+LA  - en
+SP  - 563
+EP  - 566
+ER  -
+TY  - JOUR
+TI  - Haptic Feedback Helps Me? A VR-SAR Remote Collaborative System with Tangible Interaction
+PY  - 2020
+PB  - Taylor & Francis
+SN  - 1044-7318
+T2  - International Journal of Human-Computer Interaction
+DO  - 10.1080/10447318.2020.1732140
+UR  - https://doi.org/10.1080/10447318.2020.1732140
+DA  - 2020-03-02
+AU  - Wang, Peng
+C1  - Cyber-Physical Interaction Lab, Northwestern Polytechnical University, Xi'an, China
+AU  - Bai, Xiaoliang
+C1  - Cyber-Physical Interaction Lab, Northwestern Polytechnical University, Xi'an, China
+AU  - Billinghurst, Mark
+C1  - Cyber-Physical Interaction Lab, Northwestern Polytechnical University, Xi'an, China
+C1  - Empathic Computing Lab, University of South Australia, Mawson Lakes, Australia
+AU  - Zhang, Shusheng
+C1  - Cyber-Physical Interaction Lab, Northwestern Polytechnical University, Xi'an, China
+AU  - Han, Dechuan
+C1  - Cyber-Physical Interaction Lab, Northwestern Polytechnical University, Xi'an, China
+AU  - Sun, Mengmeng
+C1  - Cyber-Physical Interaction Lab, Northwestern Polytechnical University, Xi'an, China
+AU  - Wang, Zhuo
+C1  - Cyber-Physical Interaction Lab, Northwestern Polytechnical University, Xi'an, China
+AU  - Lv, Hao
+C1  - Cyber-Physical Interaction Lab, Northwestern Polytechnical University, Xi'an, China
+AU  - Han, Shu
+C1  - Cyber-Physical Interaction Lab, Northwestern Polytechnical University, Xi'an, China
+LA  - en
+KW  - Interface (matter)
+VL  - 36
+IS  - 13
+SP  - 1242
+EP  - 1257
+ER  -
+TY  - JOUR
+TI  - Effects of network delay on a collaborative motor task with telehaptic and televisual feedback
+PY  - 2004
+DO  - 10.1145/1044588.1044670
+UR  - https://doi.org/10.1145/1044588.1044670
+DA  - 2004-01-01
+AU  - Allison, Robert
+C1  - York University
+AU  - Zacher, James
+C1  - York University
+AU  - Wang, David
+C1  - Handshake Interactive, Technologies
+AU  - Shu, Joseph
+C1  - Handshake Interactive, Technologies
+LA  - en
+KW  - Network delay
+AB  - The incorporation of haptic interfaces into collaborative virtual environments is challenging when the users are geographically distributed. Reduction of latency is essential for maintaining realism, causality and the sense of co-presence in collaborative virtual environments during closely-coupled haptic tasks. In this study we consider the effects of varying amounts of simulated constant delay on the performance of a simple collaborative haptic task. The task was performed with haptic feedback alone or with visual feedback alone. Subjects were required to make a coordinated movement of their haptic displays as rapidly as possible, while maintaining a target simulated spring force between their end effector and that of their collaborator. Increasing simulated delay resulted in a decrease in performance, either in deviation from target spring force and in increased time to complete the task. At large latencies, there was evidence of dissociation between the states of the system that was observed by each of the collaborating users. This confirms earlier anecdotal evidence that users can be essentially seeing qualitatively different simulations with typical long distance network delays.
+ER  -
+TY  - BOOK
+TI  - Touch in Virtual Environments : Haptics and the Design of Interactive Systems
+PY  - 2001
+DA  - 2001-12-01
+AU  - McLaughlin, Margaret
+AU  - Sukhatme, Gaurav
+AU  - Hespanha, Jooao
+LA  - en
+KW  - Interface (matter)
+ER  -
+TY  - JOUR
+TI  - Virtual interpersonal touch
+PY  - 2007
+PB  - Taylor & Francis
+SN  - 0737-0024
+T2  - Human-Computer Interaction
+DO  - 10.5555/1466603.1466606
+UR  - https://doi.org/10.5555/1466603.1466606
+DA  - 2007-08-01
+AU  - BailensonJeremy, N
+AU  - , YeeNick
+AU  - , BraveScott
+AU  - , MergetDan
+AU  - , KoslowDavid
+LA  - en
+ER  -
+TY  - JOUR
+TI  - Exploring Remote Collaboration: The Impact of Avatar Representation on
+  Dyadic Haptic Interactions in Shared Virtual Environments
+PY  - 2024
+PB  - Cornell University
+T2  - arXiv (Cornell University)
+DO  - 10.48550/arxiv.2409.08577
+UR  - https://doi.org/10.48550/arxiv.2409.08577
+DA  - 2024-09-13
+AU  - Sasaki, Genki
+AU  - Igarashi, Hiroshi
+LA  - en
+KW  - Avatar
+KW  - Representation
+AB  - This study is the first to explore the interplay between haptic interaction and avatar representation in Shared Virtual Environments (SVEs). We focus on their combined effect on social presence and task-related scores in dyadic collaborations. In a series of experiments, participants performed the plate control task with haptic interaction under four avatar representation conditions: avatars of both participant and partner were displayed, only the participant's avatar was displayed, only the partner's avatar was displayed, and no avatars were displayed. The study finds that avatar representation, especially of the partner, significantly enhances the perception of social presence, which haptic interaction alone does not fully achieve. In contrast, neither the presence nor the type of avatar representation impacts the task performance or participants' force effort of the task, suggesting that haptic interaction provides sufficient interaction cues for the execution of the task. These results underscore the significance of integrating both visual and haptic modalities to optimize remote collaboration experiences in virtual environments, ensuring effective communication and a strong sense of social presence.
+ER  -
+TY  - JOUR
+TI  - Advances in voxel-based 6-DOF haptic rendering
+PY  - 2005
+DO  - 10.1145/1198555.1198606
+UR  - https://doi.org/10.1145/1198555.1198606
+DA  - 2005-01-01
+AU  - McNeely, William
+C1  - Boeing - Phantom Works
+AU  - Puterbaugh, Kevin
+C1  - Boeing - Phantom Works
+AU  - Troy, James
+C1  - Boeing - Phantom Works
+LA  - en
+KW  - Stereotaxy
+SP  - 50
+EP  - 50
+ER  -
+TY  - JOUR
+TI  - HapticBots: Distributed Encountered-type Haptics for VR with Multiple Shape-changing Mobile Robots
+PY  - 2021
+DO  - 10.1145/3472749.3474821
+UR  - https://doi.org/10.1145/3472749.3474821
+DA  - 2021-10-10
+AU  - Suzuki, Ryo
+C1  - University of Calgary, Canada
+AU  - Ofek, Eyal
+C1  - Microsoft Research, United States
+AU  - Sinclair, Mike
+C1  - Microsoft Research Microsoft, United States
+AU  - Leithinger, Daniel
+C1  - ATLAS Institute University of Colorado, Boulder, United States
+AU  - González-Franco, Mar
+C1  - Microsoft Research, United States
+LA  - en
+SP  - 1269
+EP  - 1281
+AB  - HapticBots introduces a novel encountered-type haptic approach for Virtual Reality (VR) based on multiple tabletop-size shape-changing robots. These robots move on a tabletop and change their height and orientation to haptically render various surfaces and objects on-demand. Compared to previous encountered-type haptic approaches like shape displays or robotic arms, our proposed approach has an advantage in deployability, scalability, and generalizability—these robots can be easily deployed due to their compact form factor. They can support multiple concurrent touch points in a large area thanks to the distributed nature of the robots. We propose and evaluate a novel set of interactions enabled by these robots which include: 1) rendering haptics for VR objects by providing just-in-time touch-points on the user's hand, 2) simulating continuous surfaces with the concurrent height and position change, and 3) enabling the user to pick up and move VR objects through graspable proxy objects. Finally, we demonstrate HapticBots with various applications, including remote collaboration, education and training, design and 3D modeling, and gaming and entertainment.
+ER  -
+TY  - JOUR
+TI  - ColabAR: A Toolkit for Remote Collaboration in Tangible Augmented Reality Laboratories
+PY  - 2022
+PB  - Association for Computing Machinery
+SN  - 2573-0142
+T2  - Proceedings of the ACM on Human-Computer Interaction
+DO  - 10.1145/3512928
+UR  - https://doi.org/10.1145/3512928
+DA  - 2022-03-30
+AU  - Villanueva, Ana
+C1  - Purdue University, West Lafayette, IN, USA
+AU  - Zhu, Zhengzhe
+C1  - Purdue University, West Lafayette, IN, USA
+AU  - Liu, Ziyi
+C1  - Purdue University, West Lafayette, IN, USA
+AU  - Wang, Feiyang
+C1  - Purdue University, West Lafayette, IN, USA
+AU  - Chidambaram, Subramanian
+C1  - Purdue University, West Lafayette, IN, USA
+AU  - Ramani, Karthik
+C1  - Purdue University, West Lafayette, IN, USA
+LA  - en
+VL  - 6
+IS  - CSCW1
+SP  - 1
+EP  - 22
+AB  - Current times are accelerating new technologies to provide high-quality education for remote collaboration, as well as hands-on learning. This is particularly important in the case of laboratory-based classes, which play an essential role in STEM education. In this paper, we introduce ColabAR, a toolkit that uses physical proxies to manipulate virtual objects in Tangible Augmented Reality (TAR) laboratories. ColabAR introduces haptic-based customizable interaction techniques to promote remote collaboration between students. Our toolkit provides hardware and software that enable haptic feedback to improve user experience and promote collaboration during learning. Also, we present the architecture of our cloud platform for haptic interaction that supports information sharing between students in a TAR laboratory. We performed two user studies (N=40) to test the effect of our toolkit in enriching local and remote collaborative experiences. Finally, we demonstrated that our TAR laboratory enables students' performance (i.e., lab completion rate, lab scores) to be similar to their performance in an in-person laboratory.
+ER  -
+TY  - JOUR
+TI  - Evaluating decorators for haptic collaboration over Internet
+PY  - 2005
+DO  - 10.1109/have.2004.1391890
+UR  - https://doi.org/10.1109/have.2004.1391890
+DA  - 2005-02-22
+AU  - Shirmohammadi, Shervin
+C1  - Distributed Collaborative Virtual Environments Research Laboratory (DISCOVERLab), School of Information Technology and Engineering, University of Ottawa, Ottawa, Canada
+AU  - Woo, Nancy
+C1  - Distributed Collaborative Virtual Environments Research Laboratory (DISCOVERLab), School of Information Technology and Engineering, University of Ottawa, Ottawa, Canada
+LA  - en
+KW  - Time lag
+SP  - 105
+EP  - 109
+ER  -
+TY  - JOUR
+TI  - Collaborative stretcher carrying: a case study
+PY  - 2002
+DO  - 10.5555/509709.509711
+UR  - https://doi.org/10.5555/509709.509711
+DA  - 2002-05-30
+AU  - Hubbold, Roger
+C1  - University of Manchester 
+LA  - en
+KW  - Interface (matter)
+SP  - 7
+EP  - 12
+ER  -
+TY  - JOUR
+TI  - Cooperative Interaction in Haptic Shared Virtual Environment Using
+PY  - 2001
+PB  - The MIT Press
+SN  - 0288-5883
+T2  - Kagoshima Kenritsu Tanki Daigaku Chiiki Kenkyūjo kenkyū nenpō
+DA  - 2001-07-13
+AU  - Halabi, Osama
+AU  - Horiguchi, Susumu
+LA  - en
+VL  - 2001
+SP  - 1
+EP  - 9
+ER  -
+TY  - JOUR
+TI  - Haptic communication to enhance collaboration in virtual environments
+PY  - 2010
+DO  - 10.1145/1962300.1962319
+UR  - https://doi.org/10.1145/1962300.1962319
+DA  - 2010-08-25
+AU  - Chellali, Amine
+C1  - Université de Nantes-IRCCyN, Nantes CEDEX
+AU  - Dumas, Cédric
+C1  - EMN-IRCCyN, Nantes CEDEX
+AU  - Milleville, Isabelle
+C1  - CNRS - IRCCyN, Nantes CEDEX
+LA  - en
+KW  - Stereotaxy
+KW  - Collaborative virtual environment
+VL  - 46
+SP  - 83
+EP  - 90
+AB  - Motivation -- To study haptic communication in collaborative virtual environments.
+ER  -
+TY  - THES
+TI  - Haptic-Enabled Collaborative Virtual Environments for Skills Training
+PY  - 2008
+DA  - 2008-06-01
+AU  - Moghimi, Saba
+LA  - en
+ER  -
+TY  - JOUR
+TI  - Effect of Transmission Delay on Haptic Perception in Shared Virtual Environments
+PY  - 2009
+DO  - 10.1002/9780470611470.ch17
+UR  - https://doi.org/10.1002/9780470611470.ch17
+DA  - 2009-01-01
+AU  - Arioui, Hichem
+C1  - Validation de Systèmes, Composants et Objets logiciels
+LA  - en
+KW  - Haptic perception
+KW  - Stereotaxy
+SP  - 431
+EP  - 444
+ER  -
+TY  - JOUR
+TI  - Haptic Designation Tool to Improve Working Strategy in Collaborative Virtual Environment
+PY  - 2015
+DO  - 10.1109/smc.2015.235
+UR  - https://doi.org/10.1109/smc.2015.235
+DA  - 2015-10-01
+AU  - Girard, Adrien
+C1  - INRIA, Rennes
+AU  - Ammi, Mehdi
+C1  - Univ. Paris Sud/LIMSI-CNRS
+LA  - en
+KW  - Collaborative virtual environment
+KW  - Collaborative software
+SP  - 1321
+EP  - 1328
+ER  -
+TY  - JOUR
+TI  - A COLLABORATIVE VIRTUAL HAPTIC ENVIRONMENT FOR SURGICAL TRAINING AND TELE-MENTORING
+PY  - 2007
+SN  - 0826-8185
+T2  - International Journal of Robotics and Automation
+DO  - 10.2316/journal.206.2007.1.206-1007
+UR  - https://doi.org/10.2316/journal.206.2007.1.206-1007
+DA  - 2007-01-01
+AU  - Chebbi, Brahim
+C1  - Algonquin College, Ottawa Ontario Canada
+AU  - Lázaro, Daniel
+C1  - Algonquin College, Ottawa Ontario Canada
+AU  - Liu, Peter
+C1  -  Carleton University Ottawa Ontario Canada
+LA  - en
+KW  - Component (thermodynamics)
+KW  - Graphical user interface
+KW  - Training System
+VL  - 22
+IS  - 1
+ER  -
+TY  - DATA
+TI  - Remote Collaboration with Haptic Icons Questionnaire
+PY  - 2008
+T2  - PsycTESTS Dataset
+DO  - 10.1037/t25589-000
+UR  - https://doi.org/10.1037/t25589-000
+DA  - 2008-01-01
+AU  - Chan, Andrew
+AU  - MacLean, Karon
+AU  - McGrenere, Joanna
+LA  - en
+ER  -
+TY  - JOUR
+TI  - Toward Volume-Based Haptic Collaborative Virtual Environment with Realistic Sensation
+PY  - 2008
+DO  - 10.1109/isuc.2008.47
+UR  - https://doi.org/10.1109/isuc.2008.47
+DA  - 2008-12-01
+AU  - Tanaka, Takahide
+C1  - Comput. Vision Lab., Ritsumeikan Univ., Kusatsu, Japan
+AU  - Yamaguchi, Satoshi
+C1  - Comput. Vision Lab., Ritsumeikan Univ., Kusatsu, Japan
+AU  - Joo-Ho, Lee
+C1  - Comput. Vision Lab., Ritsumeikan Univ., Kusatsu, Japan
+AU  - Shimada, Nobutaka
+C1  - Comput. Vision Lab., Ritsumeikan Univ., Kusatsu, Japan
+AU  - Tanaka, Hiromi
+C1  - Comput. Vision Lab., Ritsumeikan Univ., Kusatsu, Japan
+LA  - en
+KW  - Haptic perception
+KW  - Reflection
+KW  - Virtual image
+SP  - 268
+EP  - 273
+AB  - In this paper, we propose a volume-based realistic communication system called Haptic Communication that allows participants to interact in real-time with others at remote locations on the network in haptic perception (sense of touch) of soft objects in virtual environments. To provide sense of touch at remote locations in real-time we construct the system as follows. At first virtual soft objects are represented by adaptive volume model in the PCs at the remote locations. Next, from the parameters of positions and forces at contacting points transmitted via network, at each PC the reflection force of the soft object is calculated rapidly and accurately. Eventually, as a result the haptic and visual information are rendered by means of a haptic device PHANToM and a volume graphic software at the PCs. We investigated the efficiency of our system via experiments on a simulation of needle insertion with high force feedback rates at remote locations on a WAN between Ritsumeikan University, Biwako Kusatsu Campus and Osaka University, Toyonaka Campus. The experiment results show that the delay due to network traffic is negligible.
+ER  -
+TY  - JOUR
+TI  - Visio-haptic interactions for coordination and shared situation awareness in collaborative virtual environment
+PY  - 2014
+PB  - Centre National de la Recherche Scientifique
+T2  - HAL (Le Centre pour la Communication Scientifique Directe)
+DA  - 2014-05-12
+AU  - Girard, Adrien
+LA  - en
+KW  - Collaborative virtual environment
+ER  -
+TY  - JOUR
+TI  - Trans-world haptic collaboration
+PY  - 2003
+DO  - 10.1145/965400.965495
+UR  - https://doi.org/10.1145/965400.965495
+DA  - 2003-07-27
+AU  - Gunn, Chris
+C1  - [Csiro, Australia]
+AU  - Hutchins, Matthew
+C1  - [Csiro, Australia]
+AU  - Adcock, Matt
+C1  - [Csiro, Australia]
+AU  - Hawkins, Rhys
+C1  - [Csiro, Australia]
+LA  - en
+KW  - Sketch
+KW  - Virtual world
+SP  - 1
+EP  - 1
+ER  -
+TY  - JOUR
+TI  - Exploring Remote Collaborative Tasks: the Impact of Avatar Representation on Dyadic Haptic Interactions in Shared Virtual Environments
+PY  - 2025
+PB  - Institute of Electrical and Electronics Engineers
+SN  - 1077-2626
+T2  - IEEE Transactions on Visualization and Computer Graphics
+DO  - 10.1109/tvcg.2025.3580546
+UR  - https://doi.org/10.1109/tvcg.2025.3580546
+DA  - 2025-01-01
+AU  - Sasaki, Genki
+AU  - Igarashi, Hiroshi
+LA  - en
+KW  - Avatar
+KW  - Representation
+KW  - Collaborative software
+KW  - Virtual representation
+SP  - 1
+EP  - 13
+AB  - This study is the first to explore the interplay between haptic interaction and avatar representation in Shared Virtual Environments (SVEs). Specifically, how these factors shape users' sense of social presence during dyadic collaborations, while assessing potential effects on task performance. In a series of experiments, participants performed the collaborative task with haptic interaction under four avatar representation conditions: avatars of both participant and partner were displayed, only the participant's avatar was displayed, only the partner's avatar was displayed, and no avatars were displayed. The study finds that avatar representation, especially of the partner, significantly enhances the perception of social presence, which haptic interaction alone does not fully achieve. However, neither the presence nor the type of avatar representation impacts the task performance or participants' force effort of the task, suggesting that haptic interaction provides sufficient interaction cues for the execution of the task. These results underscore the significance of integrating both visual and haptic modalities to optimize remote collaboration experiences in virtual environments, ensuring effective communication and a strong sense of social presence.
+ER  -
+TY  - JOUR
+TI  - Keep in Touch
+PY  - 2017
+DO  - 10.1145/3027063.3052957
+UR  - https://doi.org/10.1145/3027063.3052957
+DA  - 2017-05-01
+AU  - Zarate, Juan
+C1  - École Polytechnique Fédérale de Lausanne (EPFL), Neuchâtel, Switzerland
+AU  - Gudozhnik, Olexandr
+C1  - École Polytechnique Fédérale de Lausanne (EPFL), Neuchâtel, Switzerland
+AU  - Ruch, Anthony
+C1  - École Polytechnique Fédérale de Lausanne (EPFL), Neuchâtel, Switzerland
+AU  - Shea, Herbert
+C1  - École Polytechnique Fédérale de Lausanne (EPFL), Neuchâtel, Switzerland
+LA  - en
+KW  - Tactile display
+AB  - We present a portable 12x16 taxel haptic display optimized to rapidly display dynamic graphical information. Each taxel changes state (up/down) in under 5 milliseconds, allowing the entire display of 192 independent taxels to be refreshed in under 2 seconds. The user uses his sense of fine touch to explore the 7-inch display. We demonstrate applications in serious gaming (tactile Pong for the visually impaired), remote collaboration between sighted and visually-impaired users (remote user draws in real-time on the local haptic display), and navigation scenarios. Information can be displayed as a series of static relief images, or as a static image with moving or vibrating taxels. For the navigation task, the outline of a room and furniture is shown first as a static relief, the path to be followed is added as a moving taxels, and the user location is shown as a vibrating taxel. The taxels latch in both up and down states, leading to low power consumption.
+ER  -
+TY  - JOUR
+TI  - Tangible images
+PY  - 2011
+DO  - 10.1145/2077378.2077430
+UR  - https://doi.org/10.1145/2077378.2077430
+DA  - 2011-12-12
+AU  - Rasool, Shahzad
+C1  - Nanyang Technological University, Singapore
+AU  - Sourin, Alexei
+C1  - Nanyang Technological University, Singapore
+LA  - en
+KW  - Stereotaxy
+KW  - Impression
+SP  - 1
+EP  - 2
+ER  -
+TY  - JOUR
+TI  - A prediction algorithm for haptic collaboration
+PY  - 2005
+DO  - 10.1109/have.2005.1545670
+UR  - https://doi.org/10.1109/have.2005.1545670
+DA  - 2005-12-13
+AU  - Boukerche, Azzedine
+C1  - PARADISE Research Laboratory, University of Ottawa, Canada, Ottawa, Canada
+AU  - Shirmohammadi, Shervin
+C1  - Distributed Collaborative Virtual Environments Research Laboratory School of Information Technology and Engineering, University of Ottawa, Canada, Ottawa, Canada
+AU  - Hossain, Abu
+C1  - PARADISE Research Laboratory, University of Ottawa, Canada, Ottawa, Canada
+LA  - en
+KW  - Causality
+SP  - 153
+EP  - 157
+ER  -
+TY  - JOUR
+TI  - Exploiting perception in high-fidelity virtual environments
+PY  - 2006
+DO  - 10.1145/1185657.1185814
+UR  - https://doi.org/10.1145/1185657.1185814
+DA  - 2006-01-01
+AU  - Glencross, Mashhuda
+AU  - Chalmers, Alan
+AU  - Lin, Ming
+AU  - Otaduy, Miguel
+AU  - Gutiérrez, Diego
+LA  - en
+KW  - High fidelity
+SP  - 1
+EP  - 1
+ER  -
+TY  - JOUR
+TI  - What you feel is what I do: a study of human performance in haptic collaborative virtual environments
+PY  - 2011
+PB  - Centre National de la Recherche Scientifique
+T2  - HAL (Le Centre pour la Communication Scientifique Directe)
+DA  - 2011-07-09
+AU  - Ullah, Sehat
+AU  - Otmane, Samir
+AU  - Richard, Paul
+C1  - LISA - Laboratoire d'Ingéniérie des Systèmes Automatisés (62, avenue notre Dame du Lac 49000 ANGERS - France)
+AU  - Mallem, Malik
+LA  - en
+KW  - Virtual actor
+ER  -
+TY  - JOUR
+TI  - Collaborative Haptic Interfaces and Distributed Control for Product Development and Virtual Prototyping
+PY  - 2007
+DO  - 10.1115/msec2007-31214
+UR  - https://doi.org/10.1115/msec2007-31214
+DA  - 2007-01-01
+AU  - Lin, Shiyong
+C1  - North Carolina State University, Raleigh, NC;
+AU  - Lee, Yuan‐Shin
+C1  - North Carolina State University, Raleigh, NC;
+AU  - Narayan, Roger
+C1  - University of North Carolina, Chapel, Hill, NC#TAB#
+LA  - en
+KW  - Virtual Prototyping
+KW  - Viewport
+SP  - 409
+EP  - 420
+ER  -
+TY  - CHAP
+TI  - Interactive Haptic Virtual Collaborative Training Simulator to Retain CPR Skills
+PY  - 2011
+T2  - Ambient Media and Systems
+DO  - 10.1007/978-3-642-23902-1_10
+UR  - https://doi.org/10.1007/978-3-642-23902-1_10
+DA  - 2011-01-01
+AU  - Khanal, Prabal
+C1  - Arizona State University
+AU  - Kahol, Kanav
+C1  - Arizona State University
+LA  - en
+KW  - Transferability
+KW  - Joystick
+SP  - 70
+EP  - 77
+ER  -
+TY  - JOUR
+TI  - Peer-to-peer control architecture for multiuser haptic collaboration over undirected delayed packet-switching network
+PY  - 2010
+DO  - 10.1109/robot.2010.5509578
+UR  - https://doi.org/10.1109/robot.2010.5509578
+DA  - 2010-05-01
+AU  - Lee, Dongjun
+C1  - Department of Mechanical, Aerospace, and Biomedical Engineering, University of Tennessee, Knoxville 37996, USA.
+AU  - Ke, Huang
+C1  - Department of Mechanical, Aerospace, and Biomedical Engineering, University of Tennessee, Knoxville 37996, USA.
+LA  - en
+VL  - 21
+SP  - 1333
+EP  - 1338
+ER  -
+TY  - JOUR
+TI  - Separate DOF control and mutual guidance in networked haptic collaboration maze game: Design and evaluation
+PY  - 2011
+DO  - 10.1109/icra.2011.5979832
+UR  - https://doi.org/10.1109/icra.2011.5979832
+DA  - 2011-05-01
+AU  - Liu, Lingzhi
+C1  - State Key Laboratory of Virtual Reality Technology and Systems, Robotics Institute, Beihang University, China
+AU  - Liu, Guanyang
+C1  - State Key Laboratory of Virtual Reality Technology and Systems, Robotics Institute, Beihang University, China
+AU  - Zhang, Yuru
+C1  - State Key Laboratory of Virtual Reality Technology and Systems, Robotics Institute, Beihang University, China
+AU  - Guo, Weidong
+C1  - [State Key Lab. of Virtual Reality Technol. & Syst., Beihang Univ., Beijing, China]
+AU  - Lu, Keke
+C1  - [State Key Lab. of Virtual Reality Technol. & Syst., Beihang Univ., Beijing, China]
+AU  - Zhou, Moyuan
+C1  - [State Key Lab. of Virtual Reality Technol. & Syst., Beihang Univ., Beijing, China]
+LA  - en
+KW  - Mode (computer interface)
+ER  -
+TY  - JOUR
+TI  - HoloBots: Augmenting Holographic Telepresence with Mobile Robots for Tangible Remote Collaboration in Mixed Reality
+PY  - 2023
+DO  - 10.1145/3586183.3606727
+UR  - https://doi.org/10.1145/3586183.3606727
+DA  - 2023-10-21
+AU  - Ihara, Keiichi
+C1  - University of Tsukuba, Japan
+AU  - Faridan, Mehrad
+C1  - University of Calgary, Canada
+AU  - Ichikawa, Ayumi
+C1  - University of Tsukuba, Japan
+AU  - Kawaguchi, Ikkaku
+C1  - University of Tsukuba, Japan
+AU  - Suzuki, Ryo
+C1  - University of Calgary, Canada
+LA  - en
+KW  - Synchronizing
+KW  - Telerobotics
+SP  - 1
+EP  - 12
+AB  - This paper introduces HoloBots, a mixed reality remote collaboration system that augments holographic telepresence with synchronized mobile robots. Beyond existing mixed reality telepresence, HoloBots lets remote users not only be visually and spatially present, but also physically engage with local users and their environment. HoloBots allows the users to touch, grasp, manipulate, and interact with the remote physical environment as if they were co-located in the same shared space. We achieve this by synchronizing holographic user motion (Hololens 2 and Azure Kinect) with tabletop mobile robots (Sony Toio). Beyond the existing physical telepresence, HoloBots contributes to an exploration of broader design space, such as object actuation, virtual hand physicalization, world-in-miniature exploration, shared tangible interfaces, embodied guidance, and haptic communication. We evaluate our system with twelve participants by comparing it with hologram-only and robot-only conditions. Both quantitative and qualitative results confirm that our system significantly enhances the level of co-presence and shared experience, compared to the other conditions.
+ER  -
+TY  - JOUR
+TI  - A Study of Communication Modalities in a Virtual Collaborative Task
+PY  - 2013
+DO  - 10.1109/smc.2013.98
+UR  - https://doi.org/10.1109/smc.2013.98
+DA  - 2013-10-01
+AU  - Wang, Jinling
+C1  - Dept. of Biomed., Ind. & Human Factors Eng., Wright State Univ., Dayton, OH, USA
+AU  - Chellali, Amine
+C1  - Dept. of Surg., Cambridge Health Alliance, Cambridge, MA, USA
+AU  - Cao, Caroline
+C1  - Dept. of Biomed., Ind. & Human Factors Eng., Wright State Univ., Dayton, OH, USA
+LA  - en
+KW  - Modalities
+KW  - Dyad
+KW  - Supervisor
+SP  - 542
+EP  - 546
+AB  - This paper examined the relative effectiveness of three communication modalities in a collaborative virtual environment. Communication modalities of verbal only (V), haptic only (H), and both (HV), were used in a 2D pointing task. A total of 36 participants were paired into 18 dyads. In each dyad, there was a supervisor and an acting agent. The supervisor used one of the three modalities to guide the acting agent to reach the target location. The time to task completion and the trajectory were recorded and analyzed. The results indicate that subjects using verbal only and haptic+verbal communication performed equally well in the collaborative pointing task. Subjects using haptic only communication spent more time and had longer path lengths than verbal only and haptic+verbal communication. Nevertheless, all three modalities were effective in communicating in a virtual collaborative task.
+ER  -
+TY  - JOUR
+TI  - Performance evaluation of transport protocols for networked haptic collaboration
+PY  - 2006
+PB  - SPIE
+SN  - 0277-786X
+T2  - Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE
+DO  - 10.1117/12.689994
+UR  - https://doi.org/10.1117/12.689994
+DA  - 2006-10-01
+AU  - Lee, Seok‐Hee
+C1  - Gwangju Institute of Science and Technology (South Korea)
+AU  - Moon, SungTae
+C1  - Gwangju Institute of Science and Technology (South Korea)
+AU  - Kim, JongWon
+C1  - Gwangju Institute of Science and Technology (South Korea)
+LA  - en
+VL  - 6391
+SP  - 639109
+EP  - 639109
+ER  -
+TY  - JOUR
+TI  - Virtual environments for aerospace training
+PY  - 2002
+T2  - Proceedings of WESCON'95
+DO  - 10.1109/wescon.1994.403567
+UR  - https://doi.org/10.1109/wescon.1994.403567
+DA  - 2002-12-17
+AU  - Loftin, R.
+C1  - Dept. of Natural Sci., Houston Univ., TX, USA
+LA  - en
+KW  - Replicate
+KW  - Virtual training
+SP  - 384
+EP  - 387
+ER  -
+TY  - JOUR
+TI  - Implementation and evaluation of a model processing pipeline for assembly simulation
+PY  - 2017
+PB  - Emerald Publishing Limited
+SN  - 0144-5154
+T2  - Assembly Automation
+DO  - 10.1108/aa-11-2015-104
+UR  - https://doi.org/10.1108/aa-11-2015-104
+DA  - 2017-07-11
+AU  - Iacob, Robert
+C1  - UPB - University Politehnica of Bucharest [Romania] (Splaiul Independentei nr. 313, sector 6, Bucuresti
+CP 060042
+ROUMANIE - Romania)
+AU  - Popescu, Diana
+C1  - UPB - University Politehnica of Bucharest [Romania] (Splaiul Independentei nr. 313, sector 6, Bucuresti
+CP 060042
+ROUMANIE - Romania)
+AU  - Noël, Frédéric
+C1  - G-SCOP_CC  - Conception collaborative (46 Avenue Félix Viallet 38031 GRENOBLE Cedex 1 - France)
+AU  - Masclet, Cédric
+C1  - G-SCOP_CC  - Conception collaborative (46 Avenue Félix Viallet 38031 GRENOBLE Cedex 1 - France)
+LA  - en
+VL  - 37
+IS  - 4
+SP  - 400
+EP  - 410
+ER  -
+TY  - JOUR
+TI  - Effect of Packet Loss on Collaborative Haptic Interactions in Networked Virtual Environments: An Experimental Study
+PY  - 2013
+PB  - The MIT Press
+SN  - 1054-7460
+T2  - PRESENCE Virtual and Augmented Reality
+DO  - 10.1162/pres_a_00132
+UR  - https://doi.org/10.1162/pres_a_00132
+DA  - 2013-02-01
+AU  - Qin, Jing
+C1  - Department of Computer Science and Engineering The Chinese University of Hong Kong
+C1  - Shenzhen Institute of Advanced Technology, Chinese Academy of Science
+C1  - Shenzhen Key Laboratory of Neuro-Psychiatric Modulation
+AU  - Choi, Kup‐Sze
+C1  - Centre for Integrative Digital Health, School of Nursing, The Hong Kong Polytechnic University
+AU  - Xu, Renheng
+C1  - Shenzhen Institute of Advanced Technology, Chinese Academy of Science
+C1  - Shenzhen Key Laboratory of Neuro-Psychiatric Modulation
+AU  - Pang, Wai‐Man
+C1  - Department of Computer Science, Caritas Institute of Higher Education
+AU  - Heng, Pheng‐Ann
+C1  - Department of Computer Science and Engineering, The Chinese University of Hong Kong
+C1  - Shenzhen Institute of Advanced Technology Chinese Academy of Science
+LA  - en
+KW  - Packet loss
+VL  - 22
+IS  - 1
+SP  - 36
+EP  - 53
+AB  - It has been widely demonstrated that haptic interaction can enrich the sense of copresence of distributed users and improve their performance in collaborative virtual environments (CVEs). However, the influence of network traffic on haptic collaboration, particularly packet loss in haptic data streams, is still largely unknown. In order to investigate this effect, we designed and conducted a series of experiments on a simulated lossy network. First, a single-user interactive task was designed to estimate the just- noticeable packet loss threshold in terms of the length of burst loss (LBL). Second, a CVE was developed in which two users are required to work together on a goal-directed task through haptic collaboration. Experiments were performed to evaluate the users' task performance at different packet loss rates and their perception using subjective measurements. Finally, the effect of packet loss combined with network latency was investigated. The findings are: (1) the threshold LBL value for haptic discontinuity to become noticeable is 60.18 ms; (2) haptic collaboration performance is sensitive to packet loss rate; and (3) while the combined effect of packet loss and communication delay adversely affects collaborative haptic interactions, the influence due to packet loss rate is dominant when the delay is below a certain threshold. These results can serve as a guiding reference for the design and development of virtual telepresence systems with rich haptic collaborations.
+ER  -
+TY  - JOUR
+TI  - Enhancing MR Remote Collaboration for Industrial Tasks: Using Sketch Cues with Passive Haptic Feedback in VR
+PY  - 2025
+PB  - Taylor & Francis
+SN  - 1044-7318
+T2  - International Journal of Human-Computer Interaction
+DO  - 10.1080/10447318.2025.2549078
+UR  - https://doi.org/10.1080/10447318.2025.2549078
+DA  - 2025-09-02
+AU  - Yang, Huan
+C1  - Big Data Institute, BaoShan University
+C1  - College of Computer Science and Technology, Chongqing University of Posts and Telecommunications
+AU  - Luo, Rong
+C1  - School of Advanced Manufacturing Engineering, Chongqing University of Posts and Telecommunications
+AU  - Billinghursd, Mark
+C1  - Auckland Bioengineering Institute, The University of Auckland
+AU  - Wang, Yue
+C1  - School of Advanced Manufacturing Engineering, Chongqing University of Posts and Telecommunications
+AU  - Wang, Peng
+C1  - School of Advanced Manufacturing Engineering, Chongqing University of Posts and Telecommunications
+AU  - Zhang, Yi
+C1  - School of Advanced Manufacturing Engineering, Chongqing University of Posts and Telecommunications
+LA  - en
+KW  - Sketch
+SP  - 1
+EP  - 21
+ER  -
+TY  - JOUR
+TI  - Transcending from Virtual Reality into Tele-Immersive Technologies and Applications
+PY  - 2008
+PB  - Association for Computing Machinery
+SN  - 1530-2180
+T2  - Ubiquity
+DO  - 10.1145/1403922.1399615
+UR  - https://doi.org/10.1145/1403922.1399615
+DA  - 2008-06-01
+AU  - Singh, Ramesh
+C1  - National Informatics Centre, New Delhi, India
+AU  - Singh, Anubhav
+C1  - National Institute of Technology, Surat, India
+LA  - en
+KW  - Immersion
+KW  - Converse
+KW  - Immersive technology
+KW  - Videoconferencing
+KW  - Teleconference
+KW  - Instructional simulation
+VL  - 2008
+IS  - June
+SP  - 3
+EP  - 3
+ER  -
+TY  - JOUR
+TI  - The Effect of Prediction on Collaborative Haptic Applications
+PY  - 2006
+T2  - Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems
+DO  - 10.1109/haptics.2006.178
+UR  - https://doi.org/10.1109/haptics.2006.178
+DA  - 2006-03-25
+AU  - Boukerche, Azzedine
+C1  - School of Information Technology and Engineering University of Ottawa, Ottawa, Canada boukerch@site.uottawa.ca
+AU  - Shirmohammadi, Shervin
+C1  - University of Ottawa, Ottawa, Canada.
+AU  - Hossein, Amir
+C1  - University of Ottawa, Ottawa, Canada.
+LA  - en
+KW  - Packet loss
+KW  - Network delay
+KW  - Position (finance)
+KW  - Position paper
+SP  - 77
+ER  -
+TY  - JOUR
+TI  - Conveying intentions through haptics in human-computer collaboration
+PY  - 2011
+DO  - 10.1109/whc.2011.5945523
+UR  - https://doi.org/10.1109/whc.2011.5945523
+DA  - 2011-06-01
+AU  - Küçükyılmaz, Ayşe
+C1  - [College of Engineering, Koç University, Turkey]
+AU  - Sezgin, Tevfik
+C1  - [College of Engineering, Koç University, Turkey]
+AU  - Başdoğan, Çağatay
+C1  - [College of Engineering, Koç University, Turkey]
+LA  - en
+SP  - 421
+EP  - 426
+AB  - Haptics has been used as a natural way for humans to communicate with computers in collaborative virtual environments. Human-computer collaboration is typically achieved by sharing control of the task between a human and a computer operator. An important research challenge in the field addresses the need to realize intention recognition and response, which involves a decision making process between the partners. In an earlier study, we implemented a dynamic role exchange mechanism, which realizes decision making by means of trading the parties' control levels on the task. This mechanism proved to show promise of a more intuitive and comfortable communication. Here, we extend our earlier work to further investigate the utility of a role exchange mechanism in dynamic collaboration tasks. An experiment with 30 participants was conducted to compare the utility of a role exchange mechanism with that of a shared control scheme where the human and the computer share control equally at all times. A no guidance condition is considered as a base case to present the benefits of these two guidance schemes more clearly. Our experiment show that the role exchange scheme maximizes the efficiency of the user, which is the ratio of the work done by the user within the task to the energy spent by her. Furthermore, we explored the added benefits of explicitly displaying the control state by embedding visual and vibrotactile sensory cues on top of the role exchange scheme. We observed that such cues decrease performance slightly, probably because they introduce an extra cognitive load, yet they improve the users' sense of collaboration and interaction with the computer. These cues also create a stronger sense of trust for the user towards her partner's control over the task.
+ER  -
+TY  - JOUR
+TI  - Collaborative haptic environment assessment
+PY  - 2009
+DO  - 10.1109/whc.2009.4810903
+UR  - https://doi.org/10.1109/whc.2009.4810903
+DA  - 2009-01-01
+AU  - Hamza-Lup, Felix
+C1  - Armstrong Atlantic State University, USA.
+AU  - Lambeth, Benjamin
+C1  - Armstrong Atlantic State University, USA.
+AU  - LaPlant, James
+C1  - Armstrong Atlantic State University, USA.
+LA  - en
+KW  - Collaborative virtual environment
+SP  - 397
+EP  - 398
+ER  -
+TY  - JOUR
+TI  - I’m in Control! Transferring Object Ownership Between Remote Users with Haptic Props in Virtual Reality
+PY  - 2021
+T2  - Symposium on Spatial User Interaction
+DO  - 10.1145/3485279.3485287
+UR  - https://doi.org/10.1145/3485279.3485287
+DA  - 2021-10-27
+AU  - Auda, Jonas
+C1  - HCI Group, University of Duisburg-Essen, Germany
+AU  - Busse, Leon
+C1  - LMU Munich, Germany
+AU  - Pfeuffer, Ken
+C1  - Bundeswehr University Munich, Germany
+AU  - Gruenefeld, Uwe
+C1  - University of Duisburg-Essen, Germany
+AU  - Rivu, Radiah
+C1  - Bundeswehr University Munich, Germany
+AU  - Alt, Florian
+C1  - Bundeswehr University Munich, Germany
+AU  - Schneegaß, Stefan
+C1  - HCI Group, University of Duisburg-Essen, Germany
+LA  - en
+KW  - Virtual image
+ER  -
+TY  - JOUR
+TI  - Network lag mitigation methods in collaborative distributed simulations
+PY  - 2005
+DO  - 10.1109/iscst.2005.1553319
+UR  - https://doi.org/10.1109/iscst.2005.1553319
+DA  - 2005-01-01
+AU  - Shirmohammadi, Shervin
+C1  - Distributed Collaborative Virtual Environments Res. Lab., Ottawa Univ., Ont.
+AU  - Woo, Nancy
+C1  - Distributed Collaborative Virtual Environments Res. Lab., Ottawa Univ., Ont.
+AU  - Алави, С.
+C1  - Distributed Collaborative Virtual Environments Res. Lab., Ottawa Univ., Ont.
+LA  - en
+KW  - Time lag
+KW  - Collaborative virtual environment
+SP  - 244
+EP  - 250
+ER  -
+TY  - JOUR
+TI  - The Effect of Prediction on Collaborative Haptic Applications
+PY  - 2006
+DO  - 10.1109/haptic.2006.1627096
+UR  - https://doi.org/10.1109/haptic.2006.1627096
+DA  - 2006-05-25
+AU  - Boukerche, A.
+C1  - School of Information Technology and Engineering, University of Ottawa, Ottawa, Canada
+AU  - Shirmohammadi, S.
+C1  - School of Information Technology and Engineering, University of Ottawa, Ottawa, Canada
+AU  - Hossein, A.
+C1  - School of Information Technology and Engineering, University of Ottawa, Ottawa, Canada
+LA  - en
+KW  - Packet loss
+KW  - Position (finance)
+KW  - Position paper
+KW  - Network delay
+KW  - Virtual image
+SP  - 515
+EP  - 516
+ER  -
+TY  - JOUR
+TI  - Gesture coordination in collaborative tasks through augmented haptic feedthrough
+PY  - 2010
+DO  - 10.2312/egve/jvrc10/043-050
+UR  - https://doi.org/10.2312/egve/jvrc10/043-050
+DA  - 2010-09-27
+AU  - Simard, Jean
+C1  - LIMSI, CNRS, University of Paris 11, France
+AU  - Ammi, Mehdi
+C1  - LIMSI, CNRS, University of Paris 11, France
+LA  - en
+KW  - Work space
+KW  - Feedthrough
+SP  - 43
+EP  - 50
+ER  -
+TY  - JOUR
+TI  - Pseudo-Haptics Survey: Human-Computer Interaction in Extended Reality and Teleoperation
+PY  - 2024
+PB  - Institute of Electrical and Electronics Engineers
+SN  - 2169-3536
+T2  - IEEE Access
+DO  - 10.1109/access.2024.3409449
+UR  - https://doi.org/10.1109/access.2024.3409449
+DA  - 2024-01-01
+AU  - Xavier, Rui
+C1  - Instituto Superior T&#x00E9;cnico (IST), University of Lisbon, Lisboa, Portugal
+AU  - Silva, José
+C1  - ITI/Laboratory of Robotics and Systems in Engineering and Science (LARSyS), Instituto Universit&#x00E1;rio de Lisboa (ISCTE-IUL), Lisboa, Portugal
+AU  - Ventura, Rodrigo
+C1  - Instituto Superior T&#x00E9;cnico (IST), University of Lisbon, Lisboa, Portugal
+AU  - Jorge, Joaquim
+C1  - Instituto Superior T&#x00E9;cnico (IST), University of Lisbon, Lisboa, Portugal
+LA  - en
+KW  - Teleoperation
+KW  - Kinesthetic learning
+KW  - Multimodal Interaction
+VL  - 12
+SP  - 80442
+EP  - 80467
+AB  - Pseudo-haptic techniques are becoming increasingly popular in human-computer interaction. They replicate haptic sensations by leveraging primarily visual feedback rather than mechanical actuators. These techniques bridge the gap between the real and virtual worlds by exploring the brain's ability to integrate visual and haptic information. One of the many advantages of pseudo-haptic techniques is that they are cost-effective, portable, and flexible. They eliminate the need for direct attachment of haptic devices to the body, which can be heavy and large and require a lot of power and maintenance. Recent research has focused on applying these techniques to extended reality and mid-air interactions. To better understand the potential of pseudo-haptic techniques, the authors developed a novel taxonomy encompassing tactile feedback, kinesthetic feedback, and combined categories in multimodal approaches, ground not covered by previous surveys. This survey highlights multimodal strategies and potential avenues for future studies, particularly regarding integrating these techniques into extended reality and collaborative virtual environments.
+ER  -
+TY  - JOUR
+TI  - &lt;title&gt;A delay compensation scheme based on prediction for networked haptic collaboration system&lt;/title&gt;
+PY  - 2007
+PB  - SPIE
+SN  - 0277-786X
+T2  - Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE
+DO  - 10.1117/12.742571
+UR  - https://doi.org/10.1117/12.742571
+DA  - 2007-08-29
+AU  - Son, Seokho
+C1  - Gwangju Inst. of Science and Technology South Korea
+AU  - Lee, Seok‐Hee
+C1  - Gwangju Inst. of Science and Technology South Korea
+AU  - Kim, Jong‐Won
+C1  - Gwangju Inst. of Science and Technology South Korea
+LA  - en
+KW  - Network delay
+VL  - 6777
+SP  - 67770Y
+EP  - 10
+ER  -
+TY  - JOUR
+TI  - Networked Collaborative Design and Control for Collaborative Product Development Using Haptic Interface
+PY  - 2012
+PB  - Taylor & Francis
+SN  - 1686-4360
+T2  - Computer-Aided Design and Applications
+DO  - 10.3722/cadaps.2012.327-343
+UR  - https://doi.org/10.3722/cadaps.2012.327-343
+DA  - 2012-01-01
+AU  - Lee, Yuan‐Shin
+C1  - North Carolina State University, yslee@ncsu.edu
+AU  - Lin, Shiyong
+C1  - North Carolina State University,
+AU  - Narayan, Roger
+C1  - North Carolina State University,
+LA  - en
+KW  - Interface (matter)
+KW  - Collaborative Design
+KW  - Interface design
+VL  - 9
+IS  - 3
+SP  - 327
+EP  - 343
+AB  - AbstractThis paper presents a collaborative product development and prototyping by using distributed haptic interfaces along with deformable objects modeling. Collaborative Virtual Environment (CVE) is a promising technique for industrial product development and virtual prototyping. Network control problems such as network traffic and network delay in communication have greatly limited collaborative virtual environment applications. The problems become more difficult when high-update-rate haptic interfaces and computation intensive deformable objects modeling are integrated into CVEs for intuitive manipulation and enhanced realism. A hybrid network architecture is proposed to balance the computational burden of haptic rendering and deformable object simulation. Adaptive artificial time compensation is used to reduce the time discrepancy between the server and the client. Interpolation and extrapolation approaches are used to synchronize graphic and haptic data transmitted over the network. The proposed te...
+ER  -
+TY  - JOUR
+TI  - Tool and object based synchronization in collaborative haptics
+PY  - 2003
+DO  - 10.1109/have.2002.1106923
+UR  - https://doi.org/10.1109/have.2002.1106923
+DA  - 2003-06-25
+AU  - Bogsanyi, F.
+C1  - Algonquin Coll., Ottawa, Ont., Canada
+AU  - Miller, M.
+C1  - Algonquin Coll., Ottawa, Ont., Canada
+LA  - en
+KW  - Memory model
+SP  - 109
+EP  - 113
+ER  -
+TY  - JOUR
+TI  - Demonstrating HapticBots
+PY  - 2021
+DO  - 10.1145/3474349.3480202
+UR  - https://doi.org/10.1145/3474349.3480202
+DA  - 2021-10-08
+AU  - Suzuki, Ryo
+C1  - University of Calgary, Canada
+AU  - Ofek, Eyal
+C1  - Microsoft Research, United States
+AU  - Sinclair, Mike
+C1  - Microsoft Research, Microsoft, United States
+AU  - Leithinger, Daniel
+C1  - ATLAS Institute, University of Colorado, Boulder, United States
+AU  - González-Franco, Mar
+C1  - Microsoft Research, United States
+LA  - en
+ER  -
+TY  - JOUR
+TI  - Shared Virtual Environments for Telerehabilitation
+PY  - 2002
+PB  - IOS Press
+SN  - 0926-9630
+T2  - Studies in health technology and informatics
+DO  - 10.3233/978-1-60750-929-5-362
+UR  - https://doi.org/10.3233/978-1-60750-929-5-362
+DA  - 2002-01-01
+AU  - Popescu, George
+C1  - Center for Advanced Information Processing, Rutgers University, Piscataway, NJ 08854, USA.
+AU  - Burdea, Grigore
+AU  - Boian, Rareș
+LA  - en
+KW  - Telerehabilitation
+ER  -
+TY  - JOUR
+TI  - Comparison of tracker-based to tracker-less haptic device calibration
+PY  - 2011
+DO  - 10.1109/whc.2011.5945472
+UR  - https://doi.org/10.1109/whc.2011.5945472
+DA  - 2011-06-01
+AU  - Knoerlein, Benjamin
+C1  - Virtual Reality in Medicine Group, Computer Vision Lab, ETH Zurich, Switzerland.
+AU  - Harders, Matthias
+C1  - Virtual Reality in Medicine Group, Computer Vision Lab, ETH Zurich, Switzerland.
+LA  - en
+KW  - Work space
+KW  - Laser tracker
+KW  - BitTorrent tracker
+SP  - 119
+EP  - 124
+ER  -
+TY  - JOUR
+TI  - Assessment of Environmental Effects on Collaborative Haptic Guidance
+PY  - 2011
+PB  - The MIT Press
+SN  - 1054-7460
+T2  - PRESENCE Virtual and Augmented Reality
+DO  - 10.1162/pres_a_00044
+UR  - https://doi.org/10.1162/pres_a_00044
+DA  - 2011-06-01
+AU  - Khademian, Behzad
+C1  - Department of of Electrical and Computer Engineering, Queen's University Kingston, ON Canada#TAB#
+AU  - Apkarian, Jacob
+C1  - Quanser Consulting Inc., Edward S. Rogers Sr. Department of Electrical and Computer Engineering, University of Toronto, Toronto, ON Canada#TAB#
+AU  - Hashtrudi-Zaad, Keyvan
+C1  - Department of of Electrical and Computer Engineering, Queen's University Kingston, ON Canada#TAB#
+LA  - en
+KW  - Viewpoints
+KW  - Tracking (education)
+KW  - Trainer
+VL  - 20
+IS  - 3
+SP  - 191
+EP  - 206
+ER  -
+TY  - JOUR
+TI  - Prediction-based decorators for distributed collaborative haptic virtual environments
+PY  - 2007
+PB  - Inderscience Publishers
+SN  - 0952-8091
+T2  - International Journal of Computer Applications in Technology
+DO  - 10.1504/ijcat.2007.014063
+UR  - https://doi.org/10.1504/ijcat.2007.014063
+DA  - 2007-01-01
+AU  - Boukerche, Azzedine
+C1  - PARADISE Research Laboratory, School of Information Technology and Engineering, University of Ottawa, Ottawa, Canada.
+AU  - Shirmohammadi, Shervin
+C1  - Distributed Collaborative Virtual Environments Laboratory, School of Information Technology and Engineering, University of Ottawa, Ottawa, Canada.
+AU  - Hossain, Abu
+C1  - PARADISE Research Laboratory, School of Information Technology and Engineering, University of Ottawa, Ottawa, Canada
+LA  - en
+KW  - Network delay
+VL  - 29
+IS  - 1
+SP  - 81
+EP  - 81
+ER  -
+TY  - JOUR
+TI  - Collaborative voxel-based surgical virtual environments.
+PY  - 2008
+PB  - National Institutes of Health
+T2  - PubMed
+DA  - 2008-01-01
+AU  - Acosta, Eric
+C1  - The National Capital Area Medical Simulation Center, Uniformed Services University, USA.
+AU  - Muniz, Gilbert
+AU  - Armonda, Rocco
+AU  - Bowyer, Mark
+AU  - Liu, Alan
+LA  - en
+VL  - 132
+SP  - 1
+EP  - 3
+ER  -
+TY  - JOUR
+TI  - Improvement of collaborative selection in 3D complex environments
+PY  - 2012
+DO  - 10.1109/haptic.2012.6183803
+UR  - https://doi.org/10.1109/haptic.2012.6183803
+DA  - 2012-03-01
+AU  - Girard, Adrien
+C1  - Univ. Paris-Sud 11, CNRS/LIMSI, France
+AU  - Ammi, Mehdi
+C1  - Univ. Paris-Sud 11, CNRS/LIMSI, France
+AU  - Simard, Jean
+C1  - Univ. Paris-Sud 11, CNRS/LIMSI, France
+AU  - Auvray, Malika
+C1  - Univ. Paris-Sud 11, CNRS/LIMSI, France
+LA  - en
+KW  - Work space
+KW  - Artifact (error)
+KW  - Virtual collaboration
+KW  - Collaborative virtual environment
+KW  - Collaborative software
+SP  - 281
+EP  - 288
+ER  -
+TY  - JOUR
+TI  - Transcending from Virtual Reality into Tele-Immersive Technologies and Applications: A Perspective
+PY  - 2008
+PB  - Association for Computing Machinery
+SN  - 1530-2180
+T2  - Ubiquity
+DO  - 10.1145/1399612.1399615
+UR  - https://doi.org/10.1145/1399612.1399615
+DA  - 2008-06-01
+AU  - Singh, Ramesh
+C1  - National Informatics Centre, New Delhi, India
+AU  - Singh, Anubhav
+C1  - National Institute of Technology, Surat, India
+LA  - en
+KW  - Immersion
+KW  - Converse
+KW  - Immersive technology
+KW  - Videoconferencing
+KW  - Teleconference
+KW  - Instructional simulation
+VL  - 2008
+SP  - 6
+ER  -
+TY  - JOUR
+TI  - Healthcare Metaverse: Applications, Challenges, and Future Development
+PY  - 2023
+PB  - RELX Group (Netherlands)
+SN  - 1556-5068
+T2  - SSRN Electronic Journal
+DO  - 10.2139/ssrn.4637901
+UR  - https://doi.org/10.2139/ssrn.4637901
+DA  - 2023-01-01
+AU  - Rane, Nitin
+C1  - University of Mumbai
+AU  - Choudhary, Saurabh
+C1  - University of Mumbai
+AU  - Rane, Jayesh
+C1  - University of Mumbai
+LA  - en
+KW  - Metaverse
+ER  -
+TY  - JOUR
+TI  - A Design and Analysis of a Hybrid Multicast Transport Protocol for the Haptic Virtual Reality Tracheotomy Tele-Surgery Application
+PY  - 2007
+DO  - 10.1109/ipdps.2007.370592
+UR  - https://doi.org/10.1109/ipdps.2007.370592
+DA  - 2007-01-01
+AU  - Boukerche, Azzedine
+C1  - PARADISE Res. Lab, Ottawa Univ., Ont.
+AU  - Maamar, Haifa
+C1  - PARADISE Res. Lab, Ottawa Univ., Ont.
+AU  - Hossain, A.B.M.
+C1  - PARADISE Res. Lab, Ottawa Univ., Ont.
+LA  - en
+KW  - Tracheotomy
+SP  - 1
+EP  - 6
+AB  - Nowadays, distributed collaborative virtual environments are used in many scenarios such as tele-surgery, gaming, and industrial training, however several challenging issues remain to be resolved before haptic virtual reality based class of applications become a common place. In this paper, we focus upon a tracheotomy tele-surgery application that is based on closely coupled and highly synchronized haptic tasks that require a high-level of coordination among the participants. We also propose a hybrid protocol that is able to satisfy all the collaborative and haptic virtual environment requirements in general and tracheotomy tele-surgery in particular. We discuss our C-HAVE tracheotomy tele-surgery framework and report on the performance results we have obtained to evaluate our protocol using an extensive set of experiments.
+ER  -
+TY  - JOUR
+TI  - Real-time Interactions and Synchronization of Voxel-based Collaborative Virtual Environments
+PY  - 2007
+DO  - 10.1109/3dui.2007.340785
+UR  - https://doi.org/10.1109/3dui.2007.340785
+DA  - 2007-01-01
+AU  - Acosta, Eric
+C1  - National Capital Area Med. Simulation Center, Uniformed Services Univ., Bethesda, MD
+AU  - Liu, Alan
+C1  - National Capital Area Med. Simulation Center, Uniformed Services Univ., Bethesda, MD
+LA  - en
+ER  -
+TY  - JOUR
+TI  - INC-Hg: An Intelligent Collaborative Haptic-Gripper Virtual Reality System
+PY  - 2022
+PB  - Association for Computing Machinery
+SN  - 1936-7236
+T2  - ACM Transactions on Accessible Computing
+DO  - 10.1145/3487606
+UR  - https://doi.org/10.1145/3487606
+DA  - 2022-03-04
+AU  - Zhao, Huan
+C1  - Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University, Nashville, Tennessee
+AU  - Amat, Ashwaq
+C1  - Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University, Nashville, Tennessee Department of Electrical Engineering and Computer Science, Vanderbilt University, Nashville, Tennessee
+AU  - Migovich, Miroslava
+C1  - Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University, Nashville, Tennessee Department of Mechanical Engineering, Vanderbilt University, Nashville, Tennessee
+AU  - Swanson, Amy
+C1  - Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University, Nashville, Tennessee
+AU  - Weitlauf, Amy
+C1  - Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University, Nashville, Tennessee
+AU  - Warren, Zachary
+C1  - Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University, Nashville, Tennessee
+AU  - Sarkar, Nilanjan
+C1  - Department of Mechanical Engineering, Vanderbilt University, Nashville, Tennessee
+LA  - en
+KW  - Pace
+VL  - 15
+IS  - 1
+SP  - 1
+EP  - 23
+ER  -
+TY  - THES
+TI  - A virtual reality-based training environment using haptic interfaces
+PY  - 2005
+DA  - 2005-01-01
+AU  - Shafieloo, Iman
+LA  - en
+KW  - Teleoperation
+KW  - Workstation
+ER  -
+TY  - JOUR
+TI  - An iterative approach to optimizing multi-user networked haptic simulations
+PY  - 2010
+SN  - 2324-7347
+T2  - IEEE Haptics Symposium
+DO  - 10.1109/haptic.2010.5444661
+UR  - https://doi.org/10.1109/haptic.2010.5444661
+DA  - 2010-03-01
+AU  - Niakosari, Sina
+C1  - McMaster University, Hamilton, ONT, Canada
+AU  - Sirouspour, Shahin
+C1  - McMaster University, Hamilton, ONT, Canada
+LA  - en
+KW  - Network delay
+KW  - Multi-user
+SP  - 167
+EP  - 174
+ER  -
+TY  - JOUR
+TI  - Packet-loss-resilient perception-based haptic data reduction and transmission using ACK packets
+PY  - 2012
+DO  - 10.1109/icosp.2012.6491784
+UR  - https://doi.org/10.1109/icosp.2012.6491784
+DA  - 2012-10-01
+AU  - Qin, Jing
+C1  - Department of Computer Science and Engineering, Chinese University of Hong Kong, Hong Kong, China
+C1  - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China
+AU  - Choi, Kup‐Sze
+C1  - School of Nursing, Hong Kong Polytechnic University, Hong Kong, China
+AU  - Xu, Renheng
+C1  - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China
+AU  - Pang, Wai‐Man
+C1  - Department of Computer Science, Caritas Institute of Higher Education, Hong Kong, China
+AU  - Heng, Pheng‐Ann
+C1  - Department of Computer Science and Engineering, Chinese University of Hong Kong, Hong Kong, China
+C1  - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China
+LA  - en
+KW  - Packet loss
+KW  - Communication source
+KW  - Acknowledgement
+KW  - Packet analyzer
+KW  - Packet segmentation
+SP  - 1165
+EP  - 1170
+ER  -
+TY  - JOUR
+TI  - The Design of a Graphics Engine for the Development of Virtual Reality Applications
+PY  - 2009
+SN  - 0103-4308
+T2  - Revista de Informática Teórica e Aplicada
+DO  - 10.22456/2175-2745.8261
+UR  - https://doi.org/10.22456/2175-2745.8261
+DA  - 2009-04-17
+AU  - Malfatti, Silvano
+C1  - Laboratório Nacional de Computação Científica, Laboratório ACiMA - RJ
+AU  - dos Santos, Selan
+C1  - Universidade Federal do Rio Grande do Norte - RN
+AU  - Fraga, Luciane
+C1  - Laboratório Nacional de Computação Científica, Laboratório ACiMA - RJ
+AU  - Justel, Cláudia
+C1  - Instituto Militar de Engenharia - RJ
+AU  - Rosa, Paulo
+C1  - Instituto Militar de Engenharia - RJ
+AU  - de Oliveira, Jauvane
+C1  - Laboratório Nacional de Computação Científica, Laboratório ACiMA - RJ
+LA  - en
+KW  - Game engine
+KW  - Testbed
+VL  - 15
+IS  - 3
+SP  - 25
+EP  - 46
+AB  - This work presents the design and the features of a flexible realtime 3D graphics engine aimed at the development of multimedia applications and collaborative virtual environments. The engine, called EnCIMA (Engine for Collaborative andImmersive Multimedia Applications), enables a fast development process of applications by providing a high level interface, which has been implemented using the C++object-oriented programming paradigm. The main features of the proposed engine are the support to scene management, ability to load static and animated 3D models, particle system effects, network connection management to support collaboration, and collision detection. In addition, the engine supports several specialized interaction devices such as 3D mice, haptic devices, 3D motion trackers, data-gloves, and joystickswith and without force feedback. The engine also enables the developer to choose the way the scene should be rendered to, i.e. using standard display devices, stereoscopy, or even several simultaneous projection for spatially immersive devices. As part of the evaluation process, we have compared the performance of EnCIMA to a game engine and two scene graph toolkits, through the use of a testbed application. The performanceresults and the wide variety of non-conventional interaction devices supported are evidences that EnCIMA can be considered a real time virtual reality engine.
+ER  -
+TY  - JOUR
+TI  - The metaverse in cancer care: Applications and challenges
+PY  - 2022
+PB  - Medknow
+SN  - 2347-5625
+T2  - Asia-Pacific Journal of Oncology Nursing
+DO  - 10.1016/j.apjon.2022.100111
+UR  - https://doi.org/10.1016/j.apjon.2022.100111
+DA  - 2022-07-05
+AU  - Zeng, Yingchun
+C1  - School of Medicine, Zhejiang University City College, Hangzhou, China
+AU  - Zeng, Linghui
+C1  - School of Medicine, Zhejiang University City College, Hangzhou, China
+AU  - Zhang, Chong
+C1  - School of Medicine, Zhejiang University City College, Hangzhou, China
+AU  - Cheng, Andy
+C1  - Department of Rehabilitation Sciences, The Hong Kong Polytechnic University, Hong Kong SAR, China
+LA  - en
+KW  - Metaverse
+VL  - 9
+IS  - 12
+SP  - 100111
+EP  - 100111
+AB  - Cancer is a global pandemic affecting nearly 30 million people worldwide and imposing a considerable human and economic burden.1.Sung H. Ferlay J. Siegel R.L. et al.Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries.CA Cancer J Clin. 2021; 71: 209-249Crossref PubMed Scopus (37538) Google Scholar A new paradigm of cancer care is required to reduce heavy care burden; one possible solution may be embracing artificial intelligence technologies to drive fundamental change in cancer care. The metaverse incorporates cutting-edge artificial intelligence technologies via an emergent amalgamation of augmented reality, virtual reality, and mixed reality, cloud computing techniques, blockchain, and 5G/6G wireless communication networks.2.Kim J. Advertising in the metaverse: research agenda.J Interact Advert. 2021; 21: 141-144Crossref Scopus (139) Google Scholar,3.Murtha J. Is the metaverse the new frontier in medicine? https://www.mdlinx.com/article/is-the-metaverse-the-new-frontier-in-medicine/4lN14X9eyCaeoOFEXWbQVo. Accessed on June 5, 2022.Google Scholar Hence, the metaverse may be the "new paradigm" and the "next frontier" of cancer care.4.Fulton A, Kim P, Kadish J, Pandya A. Digital Health in the Metaverse: Three Legal Considerations. Digital Health, published on May 31, 2022. https://www.sheppardhealthlaw.com/2022/05/articles/digital-health/digital-health-metaverse-legal/?utm_source=Mondaq&utm_medium=syndication&utm_campaign=LinkedIn-integration. Accessed on June 1, 2022.Google Scholar The concept of the metaverse has been widely discussed since 2021, particularly after the announcement of "Facebook" changing its company name to "Meta". Currently, there is a lack of a comprehensive definition of the metaverse. It is loosely defined as a broad term for a shared virtual environment accessed by individuals via augmented reality, virtual reality (VR), mixed reality, and extended reality, running on the Internet, and using blockchain.4.Fulton A, Kim P, Kadish J, Pandya A. Digital Health in the Metaverse: Three Legal Considerations. Digital Health, published on May 31, 2022. https://www.sheppardhealthlaw.com/2022/05/articles/digital-health/digital-health-metaverse-legal/?utm_source=Mondaq&utm_medium=syndication&utm_campaign=LinkedIn-integration. Accessed on June 1, 2022.Google Scholar Others believe that the metaverse is a ternary digital world established on the basis of digital technology integrating the virtual and real worlds, which people enter with digital identities.5.Yang D. Zhou J. Chen R.C. et al.Expert consensus on the metaverse in medicine.Clin eHealth. 2022; 5: 1-9Crossref Scopus (59) Google Scholar The metaverse has numerous potential applications in cancer care, ranging from immersive VR therapy for cognitive assessment and rehabilitation6.Zeng Y.C. Zeng L.H. Cheng A.S.K. et al.The use of immersive virtual reality for cancer-related cognitive impairment assessment and rehabilitation: a clinical feasibility study.Asia-Pacific J Oncol Nurs. 2022; 100079https://doi.org/10.1016/j.apjon.2022.100079Abstract Full Text Full Text PDF Scopus (4) Google Scholar to digital evaluation of drug interactions.7.Metaverse May Be $800 Billion Market, Next Tech Platform. Bloomberg Intelligence. https://www.bloomberg.com/professional/blog/metaverse-may-be-800-billion-market-next-tech-platform/. Accessed on June 1, 2022.Google Scholar Overall, the metaverse is considered to be the next-generation mobile computing platform.8.Javaid M. Haleem A. Virtual reality applications toward medical field.Clin Epidemiol Global Health. 2020; 8: 600-605https://doi.org/10.1016/j.cegh.2019.12.010Abstract Full Text Full Text PDF Scopus (73) Google Scholar An expert panel listed the potential applications of the metaverse in medicine, including eighteen potential scenarios. The following clinical applications are worthy of attention in cancer care: clinical research, healthcare, physical examination, self-care, diagnosis and treatment of disease, drug and devise therapy, surgical treatment, hospital management, pharmacy, quality control in medicine, and disease prevention.5.Yang D. Zhou J. Chen R.C. et al.Expert consensus on the metaverse in medicine.Clin eHealth. 2022; 5: 1-9Crossref Scopus (59) Google Scholar To be more specific, applications of the metaverse to cancer care could be in the areas of surgical treatment and cancer rehabilitation. For example, Johns Hopkins neurosurgeons using Augmedics headsets removed a cancerous tumor from a patient's spine.8.Javaid M. Haleem A. Virtual reality applications toward medical field.Clin Epidemiol Global Health. 2020; 8: 600-605https://doi.org/10.1016/j.cegh.2019.12.010Abstract Full Text Full Text PDF Scopus (73) Google Scholar This review also stated that the application of VR to rehabilitation practice improved patient outcomes.8.Javaid M. Haleem A. Virtual reality applications toward medical field.Clin Epidemiol Global Health. 2020; 8: 600-605https://doi.org/10.1016/j.cegh.2019.12.010Abstract Full Text Full Text PDF Scopus (73) Google Scholar For instance, Zeng et al. applied immersive VR to cognitive rehabilitation for patients with cancer and reported promising results in a pilot clinical study.6.Zeng Y.C. Zeng L.H. Cheng A.S.K. et al.The use of immersive virtual reality for cancer-related cognitive impairment assessment and rehabilitation: a clinical feasibility study.Asia-Pacific J Oncol Nurs. 2022; 100079https://doi.org/10.1016/j.apjon.2022.100079Abstract Full Text Full Text PDF Scopus (4) Google Scholar The metaverse could also give rise to new dimensions of telemedicine services in cancer care by enabling avatar-based patient–doctor consultations inside virtual rooms, regardless of the location of the participants.9.Skalidis I. Muller O. Fournier S. The metaverse in cardiovascular medicine: applications, challenges and the role of non-fungible tokens.Can J Cardiol. 2022; (S0828-282X(22)00222-7. https://doi.org/10.1016/j.cjca.2022.04.006. Epub ahead of print)Abstract Full Text Full Text PDF Scopus (13) Google Scholar By leveraging the strong visualization and navigation capabilities of augmented reality/VR technologies, it can introduce new approaches to delivering health education in cancer care for clinicians and patients via accessible 3D anatomical images.8.Javaid M. Haleem A. Virtual reality applications toward medical field.Clin Epidemiol Global Health. 2020; 8: 600-605https://doi.org/10.1016/j.cegh.2019.12.010Abstract Full Text Full Text PDF Scopus (73) Google Scholar Certainly, more application scenarios of the metaverse in cancer care need to be explored and carried out. While oncologists would work better with the help of the metaverse, especially surgeons, many ethical and legal challenges draw attention to data security and regulatory concerns regarding the use of AI technologies.3.Murtha J. Is the metaverse the new frontier in medicine? https://www.mdlinx.com/article/is-the-metaverse-the-new-frontier-in-medicine/4lN14X9eyCaeoOFEXWbQVo. Accessed on June 5, 2022.Google Scholar Murtha3.Murtha J. Is the metaverse the new frontier in medicine? https://www.mdlinx.com/article/is-the-metaverse-the-new-frontier-in-medicine/4lN14X9eyCaeoOFEXWbQVo. Accessed on June 5, 2022.Google Scholar pointed out that the metaverse relies on the capability of sharing data across systematic, institutional, and national lines, which will increase the risk of cyber-attack. Using blockchain technology, however, can partially solve the issue of data privacy and security in cancer care.10.Cheng A.S.K. Guan Q. Su Y. Zhou P. Zeng Y.C. Integration of machine learning and blockchain technology in the healthcare field: a literature review and implications for cancer care.Asia-Pacific J Oncol Nurs. 2021; 8: 720-724Abstract Full Text Full Text PDF PubMed Scopus (15) Google Scholar The blockchain is the digital key to the metaverse, as it is a distributed, decentralized ledger of information held across multiple users to maintain immutable records for users.11.Stokel-Walker C. Welcome to the Metaverse. New Scientist.2022https://doi.org/10.1016/S0262-4079(22)00018-5Crossref Scopus (7) Google Scholar The key characteristic of blockchain for data security is its utilization of non-fungible tokens as a security asset and an immutable and unique unit for recording patient data.9.Skalidis I. Muller O. Fournier S. The metaverse in cardiovascular medicine: applications, challenges and the role of non-fungible tokens.Can J Cardiol. 2022; (S0828-282X(22)00222-7. https://doi.org/10.1016/j.cjca.2022.04.006. Epub ahead of print)Abstract Full Text Full Text PDF Scopus (13) Google Scholar Certainly, the application of non-fungible tokens to electronic health records is still in its infancy. In addition, traditional aspects of healthcare require person-to-person relationships between healthcare professionals and patients, especially in cancer care, as "oncology is an area of medicine where human contact and empathy are essential."12.Fry A.L. Technology and humanity.Clin J Oncol Nurs. 2019; 23: 461Crossref PubMed Scopus (1) Google Scholar In consequence, the metaverse in cancer care could possibly disrupt the traditional clinician–patient relationship.3.Murtha J. Is the metaverse the new frontier in medicine? https://www.mdlinx.com/article/is-the-metaverse-the-new-frontier-in-medicine/4lN14X9eyCaeoOFEXWbQVo. Accessed on June 5, 2022.Google Scholar One of the keystones of the successful use of the metaverse in cancer care may therefore be the utilization of haptic technology to partially compensate for the lack of human contact, as haptics can apply vibrations to users' skin to mimic real physical touch.11.Stokel-Walker C. Welcome to the Metaverse. New Scientist.2022https://doi.org/10.1016/S0262-4079(22)00018-5Crossref Scopus (7) Google Scholar In the past two decades, nurses have adapted their workload and practice to the influx of data resulting from the introduction of clinical information systems, electronic medical records, and integrated medical equipment and support systems.13.Cleveland Clinic. How Artificial Intelligence Is Partnering with Nursing to Provide Care. https://consultqd.clevelandclinic.org/how-artificial-intelligence-is-partnering-with-nursing-to-provide-care/. Accessed on June 1, 2022.Google Scholar With fast technological advancement, the evolutional shift is moving beyond implementing new systems to capture clinical data, building a whole new type of relationship between nurses and technologies. In the near future, nurses will need to have a partnership with the metaverse, which will open unlimited innovative solutions to problems regarding efficiency, capacity, and quality of cancer care.13.Cleveland Clinic. How Artificial Intelligence Is Partnering with Nursing to Provide Care. https://consultqd.clevelandclinic.org/how-artificial-intelligence-is-partnering-with-nursing-to-provide-care/. Accessed on June 1, 2022.Google Scholar In conclusion, by utilizing cutting-edge AI technologies, there is huge potential for the metaverse to transform cancer care and to offer new frontiers over the spectrum of cancer prevention, treatment, and rehabilitation. None declared. This study was funded by the National Natural Science Foundation of China (Grant No. 72004039).
+ER  -
+TY  - JOUR
+TI  - Using a rendering engine to support the development of immersive virtual reality applications
+PY  - 2008
+DO  - 10.1109/vecims.2008.4592756
+UR  - https://doi.org/10.1109/vecims.2008.4592756
+DA  - 2008-07-01
+AU  - dos Santos, Selan
+C1  - Departamento deInformatica e Matematica Aplicada, Universidade Federal do Rio Grande do Norte, Natal, Brazil
+AU  - de Oliveira, Jauvane
+C1  - Laboratorio Nacional de Computacao Cientifica, Petropolis, Brazil
+AU  - Fraga, Luciane
+C1  - Laboratorio Nacional de Computacao Cientifica, Petropolis, Brazil
+C1  - Secao deEngenharia deComputacao, Instituto Militar de Engenharia, Rio de Janeiro, Brazil
+AU  - Trenhago, Paulo
+C1  - Laboratorio Nacional de Computacao Cientifica, Petropolis, Brazil
+AU  - Malfatti, Silvano
+C1  - Laboratorio Nacional de Computacao Cientifica, Petropolis, Brazil
+C1  - Secao deEngenharia deComputacao, Instituto Militar de Engenharia, Rio de Janeiro, Brazil
+LA  - en
+KW  - Game engine
+KW  - Testbed
+KW  - Joystick
+KW  - Physics engine
+SP  - 74
+EP  - 79
+ER  -
+TY  - THES
+TI  - Function-based visual and haptic rendering, interaction and collaboration in shared virtual spaces
+PY  - 2011
+DO  - 10.32657/10356/43980
+UR  - https://doi.org/10.32657/10356/43980
+DA  - 2011-01-01
+AU  - Wei, Lei
+LA  - en
+KW  - Stereotaxy
+AB  - Current collaborative shape modeling techniques could not utilize all our senses to achieve maximum immersion.Visual rendering alone is unable to convey object properties other than geometry and appearance, such as physical properties.This causes difficulties in practical modeling, and it could be solved by incorporating haptic rendering.On the other hand, traditional polygon-based modeling representation yields large files, which conflict with the limited network bandwidth in collaborative shape modeling.This deficiency could be overcome by employing memory-efficient function-based representations.A survey of the web visualization and shared virtual environments methods and tools leads to the conclusion on the active research niche for proposing new data models and frameworks suitable for visual and haptic rendering in shared virtual spaces.A novel uniform modeling paradigm of defining virtual objects' geometry, visual appearance and tangible physical properties is therefore proposed, in which these three entities are defined in their own coordinate domains and then merged into virtual objects in the application problem coordinate domain.To provide for a faster model exchange and any precision of the representation, mathematical functions and procedures are used for defining geometry, appearance and physical properties.An innovative visual and haptic collaborative framework for shared virtual spaces is also proposed, where the visual and haptic pipelines complement each other to provide a simple and efficient solution to problems requiring collaboration on the web.Mathematical functions and procedures are also adopted there to provide for rapid information transmission and flexible interactive modeling operations.First of all, I would like to thank my supervisor Associate Professor Alexei Sourin for his invaluable instructions.I am
+ER  -
+TY  - JOUR
+TI  - Dual-Driver Networked Fire Truck Simulator with Multimodal Display including Force Feedback Steering and Rotating Motion Platform
+PY  - 2007
+DO  - 10.1109/wetice.2007.4407202
+UR  - https://doi.org/10.1109/wetice.2007.4407202
+DA  - 2007-01-01
+AU  - Nagai, Tatsuya
+C1  - Spatial Media Group, University of Aizu, Fukushima, Japan
+AU  - Cohen, Michael
+C1  - Spatial Media Group, University of Aizu, Fukushima, Japan
+AU  - Moriguchi, Yoshinori
+C1  - Spatial Media Group, University of Aizu, Fukushima, Japan
+AU  - Murakami, Yoko
+C1  - Spatial Media Group, University of Aizu, Fukushima, Japan
+LA  - en
+KW  - Driving simulator
+KW  - Collaborative virtual environment
+SP  - 424
+EP  - 430
+ER  -
+TY  - JOUR
+TI  - Collaborative metaphor for haptic designation in complex 3D environments
+PY  - 2014
+DO  - 10.1145/2628257.2628262
+UR  - https://doi.org/10.1145/2628257.2628262
+DA  - 2014-07-29
+AU  - Girard, Adrien
+C1  - Univ. Paris-Sud / CNRS-LIMSI
+AU  - Auvray, Malika
+C1  - Univ. Paris-Sud / CNRS-LIMSI
+AU  - Ammi, Mehdi
+C1  - Univ. Paris-Sud / CNRS-LIMSI
+LA  - en
+VL  - 3517
+SP  - 31
+EP  - 37
+ER  -
+TY  - JOUR
+TI  - Speaking Haptics: Proactive haptic articulation for intercommunication in virtual environments
+PY  - 2016
+DO  - 10.1109/vr.2016.7504748
+UR  - https://doi.org/10.1109/vr.2016.7504748
+DA  - 2016-03-01
+AU  - de Jesus Oliveira, Victor
+C1  - Universidade Federal do Rio Grande do Sul (UFRGS) - Instituto de Informática (INF), Porto Alegre, RS, Brazil
+AU  - Nedel, Luciana
+C1  - Universidade Federal do Rio Grande do Sul (UFRGS) - Instituto de Informática (INF), Porto Alegre, RS, Brazil
+AU  - Maciel, Anderson
+C1  - Universidade Federal do Rio Grande do Sul (UFRGS) - Instituto de Informática (INF), Porto Alegre, RS, Brazil
+LA  - en
+KW  - Articulation (sociology)
+ER  -
+TY  - JOUR
+TI  - HapticPuppet: A Kinesthetic Mid-air Multidirectional Force-Feedback Drone-based Interface
+PY  - 2022
+DO  - 10.1145/3526114.3558694
+UR  - https://doi.org/10.1145/3526114.3558694
+DA  - 2022-10-28
+AU  - Feick, Martin
+C1  - DFKI, Saarland Informatics Campus, Germany
+AU  - Tang, Anthony
+C1  - University of Toronto, Canada
+AU  - Krüger, Antonio
+C1  - DFKI, Saarland Informatics Campus, Germany
+LA  - en
+KW  - Kinesthetic learning
+KW  - Drone
+KW  - Interface (matter)
+SP  - 1
+EP  - 3
+AB  - Providing kinesthetic force-feedback for human-scale interactions is challenging due to the relatively large forces needed. Therefore, robotic actuators are predominantly used to deliver this kind of haptic feedback; however, they offer limited flexibility and spatial resolution. In this work, we introduce HapticPuppet, a drone-based force-feedback interface which can exert multidirectional forces onto the human body. This can be achieved by attaching strings to different parts of the human body such as fingers, hands or ankles, which can then be affixed to multiple coordinated drones - puppeteering the user. HapticPuppet opens up a wide range of potential applications in virtual, augmented and mixed reality, exercising, physiotherapy, remote collaboration as well as haptic guidance.
+ER  -
+TY  - JOUR
+TI  - Function-Based Haptic Interaction in Cyberworlds
+PY  - 2011
+DO  - 10.1109/cw.2011.19
+UR  - https://doi.org/10.1109/cw.2011.19
+DA  - 2011-10-01
+AU  - Wei, Lei
+C1  - Nanyang Technological University, Singapore
+AU  - Sourin, Alexei
+C1  - Nanyang Technological University, Singapore
+LA  - en
+KW  - Stereotaxy
+KW  - Parametric surface
+KW  - Polygon (computer graphics)
+SP  - 217
+EP  - 221
+ER  -
+TY  - JOUR
+TI  - A feasibility study on the use of a remote supercomputer in a collaborative virtual environment with force feedback
+PY  - 2007
+T2  - Annual Conference on Computers
+DA  - 2007-07-26
+AU  - De Paolis, Lucio
+C1  - Department of Innovation Engineering, Salento University, Lecce and SPACI Consortium, Italy#TAB#
+AU  - Agrimi, Alessio
+C1  - Department of Innovation Engineering, Salento University, Lecce and SPACI Consortium, Italy#TAB#
+AU  - Zocco, Alessandro
+C1  - Department of Innovation Engineering, Salento University, Lecce and SPACI Consortium, Italy#TAB#
+AU  - Aloisio, Giovanni
+C1  - Department of Innovation Engineering, Salento University, Lecce and SPACI Consortium, Italy#TAB#
+LA  - en
+KW  - Collaborative software
+SP  - 514
+EP  - 517
+ER  -
+TY  - JOUR
+TI  - Design and performance analysis of a virtual reality-based telerehabilitation system
+PY  - 2001
+DA  - 2001-01-01
+AU  - Popescu, George
+AU  - Burdea, Grigore
+AU  - Parashar, Manish
+LA  - en
+KW  - Telerehabilitation
+KW  - Interface (matter)
+KW  - Component (thermodynamics)
+SP  - 162
+EP  - 162
+ER  -
+TY  - THES
+TI  - Multi-modal Interaction in Collaborative Virtual Environments: Study and analysis of performance in collaborative work
+PY  - 2011
+DA  - 2011-01-26
+AU  - Ullah, Sehat
+C1  - Informatique, Biologie Intégrative et Systèmes Complexes
+LA  - en
+KW  - Multimodal Interaction
+KW  - Computer-supported collaborative learning
+KW  - Collaborative virtual environment
+AB  - The recent advancement in the field of high quality computer graphics and the capability of inexpensive computers to render realistic 3D scenes have made it possible to develop virtual environments where two or more users can co-exist and work collaboratively to achieve a common goal. Such environments are called Collaborative Virtual Environments (CVEs). The potential application domains of CVEs are many, such as military, medical, assembling, computer aided designing, teleoperation, education, games and social networks etc.. One of the problems related to CVEs is the user's low level of awareness about the status, actions and intentions of his/her collaborator, which not only reduces users' performance but also leads to non satisfactory results. In addition, collaborative tasks without using any proper computer generated assistance are very dicult to perform and are more prone to errors. The basic theme of this thesis is to provide assistance in collaborative 3D interaction in CVEs. In this context, we study and develop the concept of multimodal (audio, visual and haptic) assistance of a user or group of users. Our study focuses on how we can assist users to collaboratively interact with the entities of CVEs. We propose here to study and analyze the contribution of multimodal assistance in collaborative (synchronous and asynchronous) interaction with objects in the virtual environment. Indeed, we propose and implement various multimodal virtual guides. These guides are evaluated through a series of experiments where selection/manipulation task is carried out by users both in synchronous and asynchronous mode. The experiments were carried out in LISA (Laboratoire d'Ingenierie et Systemes Automatises) lab at University of Angers and IBISC (Informatique, Biologie Integrative et Systemes Complexes) lab at University of Evry. In these experiments users were asked to perform a task under various conditions ( with and without guides). Analysis was done on the basis of task completion time, errors and users' learning. For subjective evaluations questionnaires were used. The ndings of this research work can contribute to the development of collaborative systems for teleoperation, assembly tasks, e-learning, rehabilitation, computer aided design and entertainment.
+ER  -
+TY  - JOUR
+TI  - Effect of packet loss on collaborative haptic interactions in networked virtual environments
+PY  - 2013
+PB  - The MIT Press
+SN  - 1054-7460
+T2  - PRESENCE Virtual and Augmented Reality
+DO  - 10.5555/2481136.2481140
+UR  - https://doi.org/10.5555/2481136.2481140
+DA  - 2013-02-01
+AU  - , QinJing
+AU  - , ChoiKup-Sze
+AU  - , XuRenheng
+AU  - , PangWai-Man
+AU  - , HengPheng-Ann
+LA  - en
+KW  - Packet loss
+KW  - Collaborative virtual environment
+ER  -
+TY  - JOUR
+TI  - Poster: Collaborative adjustment of selection areas for polygonal modelling
+PY  - 2013
+DO  - 10.1109/3dui.2013.6550215
+UR  - https://doi.org/10.1109/3dui.2013.6550215
+DA  - 2013-03-01
+AU  - Girard, Adrien
+C1  - LIMSI, Univ. of Paris-Sud, Paris, France
+AU  - Bellik, Yacine
+C1  - LIMSI, Univ. of Paris-Sud, Paris, France
+AU  - Auvray, Malika
+C1  - LIMSI, Univ. of Paris-Sud, Paris, France
+AU  - Ammi, Mehdi
+C1  - LIMSI, Univ. of Paris-Sud, Paris, France
+LA  - en
+KW  - Collaborative software
+KW  - Factor (programming language)
+SP  - 135
+EP  - 136
+ER  -
+TY  - JOUR
+TI  - Trans-world haptic collaboration
+PY  - 2003
+DO  - 10.1145/965494.965495
+UR  - https://doi.org/10.1145/965494.965495
+DA  - 2003-01-01
+AU  - Gunn, Chris
+C1  - CSIRO, Australia
+AU  - Hutchins, Matthew
+C1  - CSIRO, Australia
+AU  - Adcock, Matt
+C1  - CSIRO, Australia
+AU  - Hawkins, Rhys
+C1  - CSIRO, Australia
+LA  - en
+KW  - Sketch
+KW  - Virtual world
+ER  -
+TY  - JOUR
+TI  - [Front matter]
+PY  - 2014
+DO  - 10.1109/have.2014.6954321
+UR  - https://doi.org/10.1109/have.2014.6954321
+DA  - 2014-10-01
+LA  - en
+SP  - vii
+EP  - xlii
+AB  - Since its inauguration in 2002 in Ottawa, Canada, the IEEE International Symposium on Haptic Audio-Visual Environments and Games (HAVE) has been the international forum for all aspects of multimodal haptic audio-visual virtual environment technologies and related haptic applications, including but not limited to: haptic sensors and renderers, hapto-audio-visual systems and applications, Hapto-surgical/medical systems, haptic compression and prediction, multimodal perception and psychophysics, haptic game interfaces, tele-haptics and tele-operation, augmented and virtualized reality, collaborative virtual environments, human-computer interaction in virtual environments, multi-sensor data fusion, object modeling, soft computing techniques, etc.This year, HAVE 2014 is taking place at The University of Texas at Dallas, Texas, on October 10-11, 2014.It is a forum for paper contributions from researchers, practitioners, and developers to explore and disseminate cutting-edge ideas and results, and to exchange techniques, tools, and experiences.We have compiled a diverse and inspiring scientific program with 23 technical papers selected for presentation at the symposium.This year, we introduced a doctoral consortium where PhD students present their ongoing research.
+ER  -
+TY  - JOUR
+TI  - Study of communication modalities for teaching distance information
+PY  - 2022
+T2  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+DO  - 10.1109/vrw55335.2022.00204
+UR  - https://doi.org/10.1109/vrw55335.2022.00204
+DA  - 2022-03-01
+AU  - Fastelli, Francesco
+C1  - Paris Saclay
+C1  - Univ Evry, Universit&#x00E9; Paris Saclay,IBISC Lab
+AU  - Simon, Cassandre
+C1  - Paris Saclay
+C1  - Univ Evry, Universit&#x00E9; Paris Saclay,IBISC Lab
+AU  - Ricca, Aylen
+C1  - Arts et Metiers Institute of Technology, LISPEN, UBFC
+AU  - Chellali, Amine
+C1  - Paris Saclay
+C1  - Univ Evry, Universit&#x00E9; Paris Saclay,IBISC Lab
+LA  - en
+KW  - Modalities
+KW  - Modality (human–computer interaction)
+KW  - Exploratory research
+KW  - Stimulus modality
+SP  - 706
+EP  - 707
+AB  - We present an exploratory study to compare the haptic, visual, and verbal modalities for communicating distance information in a shared virtual environment. The results show that the visual modality decreased the distance estimation error while the haptic modality decreased the completion time. The verbal modality increased the sense of copresence but was the least preferred modality. These results suggest that a combination of modalities could improve communication of distance information to a partner. These findings can contribute to improving the design of collaborative VR systems and open new research perspectives on studying the effectiveness of multimodal interaction.
+ER  -
+TY  - JOUR
+TI  - Networked Haptic Virtual Environments Supporting Ultra High Resolution Display
+PY  - 2009
+DO  - 10.1109/hpcc.2009.92
+UR  - https://doi.org/10.1109/hpcc.2009.92
+DA  - 2009-01-01
+AU  - Son, Seokho
+C1  - Department of Information and Communications, Gwangju Institute of Science and Technology, Gwangju, South Korea
+AU  - Ramachandra, Vinay
+C1  - Department of Information and Communications, Gwangju Institute of Science and Technology, Gwangju, South Korea
+AU  - Kim, JongWon
+C1  - Department of Information and Communications, Gwangju Institute of Science and Technology, Gwangju, South Korea
+LA  - en
+KW  - Frame rate
+SP  - 579
+EP  - 584
+ER  -
+TY  - GEN
+TI  - Communication Cues in Augmented Remote Collaboration
+PY  - 2024
+DO  - 10.1002/9781119719830.ch3
+UR  - https://doi.org/10.1002/9781119719830.ch3
+DA  - 2024-05-24
+LA  - en
+SP  - 41
+EP  - 80
+ER  -
+TY  - JOUR
+TI  - Haptic Network Protocols: A Comprehensive Review and Directions for Next-Gen Metaverse Applications
+PY  - 2025
+PB  - Association for Computing Machinery
+SN  - 1551-6857
+T2  - ACM Transactions on Multimedia Computing Communications and Applications
+DO  - 10.1145/3759459
+UR  - https://doi.org/10.1145/3759459
+DA  - 2025-08-11
+AU  - Faisal, Mohd
+C1  - Multimedia Communications Research Laboratory (MCR Lab), School of Electrical Engineering and Computer Science, University of Ottawa, Canada
+AU  - Velazquez, Roberto
+C1  - Multimedia Communications Research Laboratory (MCR Lab), University of Ottawa, Canada
+AU  - Laamarti, Fedwa
+C1  - Computer Vision Department, Mohamed bin Zayed University of Artificial Intelligence, UAE and School of Electrical Engineering and Computer Science, University of Ottawa, Canada
+AU  - Al Osman, Hussein
+C1  - School of Electrical Engineering and Computer Science, University of Ottawa, Canada
+AU  - Saddik, Abdulmotaleb
+C1  - School of Electrical Engineering and Computer Science, University of Ottawa, Canada
+LA  - en
+ER  -
+TY  - RPRT
+TI  - Socially Relevant Knowledge Based Telemedicine
+PY  - 2012
+DO  - 10.21236/ada574230
+UR  - https://doi.org/10.21236/ada574230
+DA  - 2012-10-01
+AU  - Smith, Marshall
+LA  - en
+ER  -
+TY  - JOUR
+TI  - Cooperation in virtual environments with individual views
+PY  - 2015
+DO  - 10.1109/vr.2015.7223372
+UR  - https://doi.org/10.1109/vr.2015.7223372
+DA  - 2015-03-01
+AU  - Küszter, Vincent
+C1  - Technische Universitat, Chemnitz, Germany
+AU  - Brunnett, Guido
+C1  - Technische Universitat, Chemnitz, Germany
+AU  - Pietschmann, Daniel
+C1  - Technische Universitat, Chemnitz, Germany
+LA  - en
+VL  - 2005
+SP  - 215
+EP  - 216
+ER  -
+TY  - JOUR
+TI  - Passive Control Architectures for Collaborative Virtual Haptic Interaction and Bilateral Teleoperation over Unreliable Packet-Switched Digital Network
+PY  - 2012
+DA  - 2012-01-01
+AU  - Ke, Huang
+LA  - en
+KW  - Teleoperation
+KW  - Packet loss
+KW  - Packet Switching
+ER  -
+TY  - JOUR
+TI  - Enhancing Human-Computer Interaction in Augmented Reality (AR) and Virtual Reality (VR) Environments: The Role of Adaptive Interfaces and Haptic Feedback Systems
+PY  - 2024
+SN  - 2822-6607
+T2  - Human computer interaction.
+DO  - 10.62802/jfxtjt43
+UR  - https://doi.org/10.62802/jfxtjt43
+DA  - 2024-11-11
+AU  - Tunçel, Kaya
+LA  - en
+KW  - Immersion
+KW  - Stereotaxy
+VL  - 8
+IS  - 1
+SP  - 9
+EP  - 9
+ER  -
+TY  - JOUR
+TI  - The Influence of Modality Combinations on Communication in Collaborative Virtual Environments
+PY  - 2013
+DA  - 2013-01-01
+AU  - Moll, Jonas
+LA  - en
+KW  - Modality (human–computer interaction)
+KW  - Modalities
+KW  - Computer-supported cooperative work
+KW  - Multimodal Interaction
+ER  -
+TY  - JOUR
+TI  - Wip chairs
+PY  - 2013
+DO  - 10.1109/ismar.2013.6671753
+UR  - https://doi.org/10.1109/ismar.2013.6671753
+DA  - 2013-10-01
+AU  - DiVerdi, Stephen
+C1  - Google, USA
+AU  - Park, Jun
+C1  - Hongik University, South Korea
+LA  - en
+SP  - 1
+EP  - 1
+AB  - New this year to ISMAR 2013, we are proud to present the Works In Progress (WIP) Program. Augmented Reality is rapidly growing into many new areas, so the WIP is a platform to present the field's latest, emerging results to the larger community before the work has reached its final form. This year, the program includes bread and butter AR technologies such as remote collaboration interfaces, fiducial marker design, and perceptual studies, to even loftier applications like AR interactions aboard the International Space Station. Passive haptics, bare-handed gesture interfaces, and realistic rendering round out the offerings. So come to the WIP sessions to hear about active AR research and find the spark of inspiration!
+ER  -
+TY  - JOUR
+TI  - Works in progress chairs
+PY  - 2013
+DO  - 10.1109/ismar-amh.2013.6671255
+UR  - https://doi.org/10.1109/ismar-amh.2013.6671255
+DA  - 2013-10-01
+LA  - en
+SP  - 1
+EP  - 1
+AB  - New this year to ISMAR 2013, we are proud to present the Works In Progress (WIP) Program.Augmented Reality is rapidly growing into many new areas, so the WIP is a platform to present the field's latest, emerging results to the larger community before the work has reached its final form.This year, the program includes bread and butter AR technologies such as remote collaboration interfaces, fiducial marker design, and perceptual studies, to even loftier applications like AR interactions aboard the International Space Station.Passive haptics, bare-handed gesture interfaces, and realistic rendering round out the offerings.So come to the WIP sessions to hear about active AR research and find the spark of inspiration!
+ER  -
+TY  - JOUR
+TI  - TheEffect ofPrediction onCollaborative Haptic Applications
+PY  - 2006
+DA  - 2006-01-01
+AU  - Boukerche, Azzedine
+AU  - Shirmohammadi, Shervin
+LA  - en
+KW  - Position (finance)
+ER  -
+TY  - JOUR
+TI  - Haptized Shared VR based Surgical Simulator – Applying to Vocational Experience.
+PY  - 2006
+PB  - Lippincott Williams & Wilkins
+SN  - 1559-2332
+T2  - Simulation in Healthcare The Journal of the Society for Simulation in Healthcare
+DO  - 10.1097/01266021-200600130-00072
+UR  - https://doi.org/10.1097/01266021-200600130-00072
+DA  - 2006-01-01
+AU  - Kuroda, Takashi
+C1  - Editors Note:Abstracts are presented as they were submitted except for minor fortmatting. Conflict of Interest statements were not made available.
+C1  - Kyoto University Hospital/University of Oulu, Finland, Mitsubishi Precision Co., Mitsubishi Electric Co., Tokyo University
+AU  - Rissanen, Mikko
+C1  - Editors Note:Abstracts are presented as they were submitted except for minor fortmatting. Conflict of Interest statements were not made available.
+C1  - Kyoto University Hospital/University of Oulu, Finland, Mitsubishi Precision Co., Mitsubishi Electric Co., Tokyo University
+AU  - Terada, Takafumi
+C1  - Editors Note:Abstracts are presented as they were submitted except for minor fortmatting. Conflict of Interest statements were not made available.
+C1  - Kyoto University Hospital/University of Oulu, Finland, Mitsubishi Precision Co., Mitsubishi Electric Co., Tokyo University
+AU  - Harada, Masayuki
+C1  - Editors Note:Abstracts are presented as they were submitted except for minor fortmatting. Conflict of Interest statements were not made available.
+C1  - Kyoto University Hospital/University of Oulu, Finland, Mitsubishi Precision Co., Mitsubishi Electric Co., Tokyo University
+AU  - Ōyama, Hiroshi
+C1  - Editors Note:Abstracts are presented as they were submitted except for minor fortmatting. Conflict of Interest statements were not made available.
+C1  - Kyoto University Hospital/University of Oulu, Finland, Mitsubishi Precision Co., Mitsubishi Electric Co., Tokyo University
+AU  - Yoshihara, Hiroyuki
+C1  - Editors Note:Abstracts are presented as they were submitted except for minor fortmatting. Conflict of Interest statements were not made available.
+C1  - Kyoto University Hospital/University of Oulu, Finland, Mitsubishi Precision Co., Mitsubishi Electric Co., Tokyo University
+LA  - en
+VL  - 1
+IS  - 3
+SP  - 197
+EP  - 197
+AB  - This report presents a newly developed surgical simulator based on a haptized shared virtual reality technique. The developed system enables users to share virtual surgical field with realistic haptic sensation by implementing finite element model based computation on server and transmiting the resulting visual and haptic feedback to clients. Additionally, the prototype can record trajectories of virtual tools of performed trials for further investigation or as a good example. As the developed system enables surgical training under the guidance of expert doctors, the shared virtual environment makes virtual training available not only for “self learning” but also for “off line tele-teaching”, “on-the-fly tele-teaching” and even “mass-class style teaching”. On the other hand, the networked virtual reality opens up opportunities for the general public to experience clinical work under specialists’ supervision. Thus, the networked surgical simulator may promote social understandings for clinical and surgical works, and ease current difficulties in securing fresh students for medical schools. This research performs a vocational experience of neurosurgery under neurologist for high school students. The results indicate that a single experience under the specialist supervision via share virtual space promotes interest about the clinical and surgical works for young students.
+ER  -
+TY  - BOOK
+TI  - Virtual Environments 2000: Proceedings of the Eurographics Workshop in Amsterdam, The Netherlands, June 1-2, 2000
+PY  - 2000
+DA  - 2000-05-19
+AU  - Mulder, Jurriaan
+AU  - van Liere, Robert
+LA  - en
+KW  - Workbench
+ER  -
+TY  - JOUR
+TI  - Human-Human Collaboration in Virtual Teams
+PY  - 2005
+DA  - 2005-11-01
+AU  - Erbe, Heinz-H.
+LA  - en
+KW  - Virtual team
+VL  - 1
+IS  - 1
+SP  - 45
+EP  - 51
+ER  -
+TY  - CHAP
+TI  - Haptic vision, acoustic and navigation control in virtual reality game
+PY  - 2007
+PB  - Penerbit UTHM
+T2  - Penerbit UTM eBooks
+DA  - 2007-01-01
+AU  - Basori, Ahmad
+AU  - Bade, Abdullah
+AU  - Daman, Daut
+AU  - Sunar, Mohd
+AU  - Saari, Nadzari
+LA  - en
+KW  - Joystick
+KW  - Interactivity
+KW  - Navigation System
+ER  -
+TY  - JOUR
+TI  - Dual Purpose Multi-User Semi-Immersive Hapto-Acoustic Virtual Environment
+PY  - 2005
+DO  - 10.1109/dicta.2005.32
+UR  - https://doi.org/10.1109/dicta.2005.32
+DA  - 2005-12-01
+AU  - Adriaansen, Tony
+C1  - CSIRO, ICT Centre
+LA  - en
+KW  - Workbench
+KW  - Mode (computer interface)
+KW  - Multi-user
+SP  - 21
+EP  - 21
+ER  -
+TY  - JOUR
+TI  - AI-Powered Multisensory Feedback Systems for Virtual Collaboration: Enhancing Remote Communication with Haptic, Auditory, and Thermal Cues
+PY  - 2024
+SN  - 2582-2160
+T2  - International Journal For Multidisciplinary Research
+DO  - 10.36948/ijfmr.2024.v06i03.40668
+UR  - https://doi.org/10.36948/ijfmr.2024.v06i03.40668
+DA  - 2024-06-06
+AU  - Kundu, Subhasis
+LA  - en
+KW  - Auditory feedback
+VL  - 6
+IS  - 3
+ER  -
+TY  - JOUR
+TI  - Simulating Humans as Integral Parts of Spacecraft Missions
+PY  - 2006
+DA  - 2006-02-01
+AU  - Bruins, Anthony
+C1  - NASA Johnson Space Center Houston, TX, United States
+AU  - RICE, ROBERT
+C1  - Dynoverse Corp. United States
+AU  - Nguyen, Lac
+C1  - HPN Software Consultant, Inc. Houston, TX, United States
+AU  - Nguyen, Heidi
+C1  - HPN Software Consultant, Inc. Houston, TX, United States
+AU  - Saito, Tim
+C1  - HPN Software Consultant, Inc. Houston, TX, United States
+AU  - Russell, Elaine
+C1  - Institute of Somatic Sciences United States
+LA  - en
+KW  - Software suite
+KW  - Plug-in
+ER  -
+TY  - JOUR
+TI  - Towards Bare-Hand Interaction for Whiteboard Collaboration in Virtual Reality
+PY  - 2025
+PB  - Association for Computing Machinery
+SN  - 2573-0142
+T2  - Proceedings of the ACM on Human-Computer Interaction
+DO  - 10.1145/3711092
+UR  - https://doi.org/10.1145/3711092
+DA  - 2025-05-02
+AU  - Liu, Guangtian
+C1  - State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China
+AU  - Su, Haiyun
+C1  - State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China
+AU  - Wang, Jingyu
+C1  - State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China and Pengcheng Laboratory, Beijing, China
+AU  - Qi, Qi
+C1  - State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China
+AU  - Sun, Haifeng
+C1  - State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China
+AU  - Zhuang, Zirui
+C1  - State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China
+AU  - Ren, Pengfei
+C1  - State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China and E-byte.com, Beijing, China
+AU  - Liao, Jianxin
+C1  - State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing, China
+LA  - en
+KW  - Whiteboard
+VL  - 9
+IS  - 2
+SP  - 1
+EP  - 31
+ER  -
+TY  - JOUR
+TI  - 13‐2: An Electrotactile‐Centered Cross‐Modal Application for Immersive Virtual Reality
+PY  - 2025
+PB  - Wiley
+SN  - 0097-966X
+T2  - SID Symposium Digest of Technical Papers
+DO  - 10.1002/sdtp.18737
+UR  - https://doi.org/10.1002/sdtp.18737
+DA  - 2025-06-01
+AU  - Huang, Jing‐Ye
+C1  - School of Electronic Science and Engineering Southeast University  Nanjing P.R. China 211189
+AU  - Zhang, Kang
+C1  - School of Electronic Science and Engineering Southeast University  Nanjing P.R. China 211189
+AU  - Gao, Zhengyang
+C1  - School of Electronic Science and Engineering Southeast University  Nanjing P.R. China 211189
+AU  - Rui, Zebao
+C1  - School of Electronic Science and Engineering Southeast University  Nanjing P.R. China 211189
+AU  - Zhang, Xiong
+C1  - School of Electronic Science and Engineering Southeast University  Nanjing P.R. China 211189
+LA  - en
+VL  - 56
+IS  - S1
+SP  - 108
+EP  - 111
+ER  -
+TY  - JOUR
+TI  - Rise of Revision Arthroplasties in Indian Subcontinent: An Inadvertent Future
+PY  - 2025
+PB  - Indian Orthopaedic Research Group
+SN  - 2250-0685
+T2  - Journal of Orthopaedic Case Reports
+DO  - 10.13107/jocr.2025.v15.i05.5532
+UR  - https://doi.org/10.13107/jocr.2025.v15.i05.5532
+DA  - 2025-01-01
+AU  - Aneja, Kunal
+C1  - Department of Orthopaedics, Max Super Speciality Hospital, Shalimar Bagh, New Delhi, India.
+C1  - Department of Orthopaedics, Naveda Healthcare Centre, New Delhi, India.
+AU  - Bajwa, Supreet
+C1  - Department of Orthopaedics, Wockhardt Hospitals, Mumbai Central, Mumbai, Maharashtra, India.
+AU  - Shyam, Ashok
+C1  - Department of Orthopaedics, Sancheti Institute for Orthopaedics and Rehabilitation, Pune, Maharashtra, India.
+C1  - Indian Orthopaedic Research Group, Thane, Maharashtra, India.
+LA  - en
+KW  - Avascular Necrosis
+KW  - Implant Failure
+VL  - 15
+IS  - 5
+SP  - 1
+EP  - 5
+AB  - Introduction In the past two decades, developing countries like India have experienced a surge in joint replacement surgeries, driven by an aging population, rising lifestyle diseases, and increased awareness of arthroplasty’s benefits. However, this growth has led to a rise in revision arthroplasties due to complications such as implant failure, infection, and malalignment, placing a strain on both patients and healthcare systems [1]. A better understanding of causes, preventive strategies, and advancements in implant technology and surgical techniques is crucial to address this issue. Understanding the Rise of Revision Arthroplasties Suboptimal implant survivorship The increasing incidence of revision arthroplasties is largely attributed to the limited longevity of implants. Contributing factors include the use of potentially less durable implants, a younger, more active patient demographic, and a high prevalence of osteoarthritis and avascular necrosis. Globally, implant survivorship typically exceeds 15–20 years, but in India, revisions are often needed within a decade due to wear, aseptic loosening, or mechanical failures [2]. Periprosthetic joint infection (PJI) PJI is among the most challenging and common complications following lower-extremity joint arthroplasty and are a leading cause of revision surgeries [1]. Reported infection rates after primary total knee arthroplasty (TKA) range from 0.51% to 1.55% [3], while for total hip arthroplasty (THA), the incidence is estimated at 0.5–0.7% within the 1st-year post-surgery. Late-onset infections present a cumulative incidence of 0.04–0.06% per prosthesis-year [4]. Alarmingly, studies from India indicate infection rates as high as 87% [1]. Aseptic loosening and wear Aseptic loosening is the leading cause of implant failure, accounting for approximately 55% of hip revisions and 31% of knee revisions [2]. Aseptic loosening is often linked to polyethylene wear, where particulate debris triggers osteoclast-mediated bone resorption, leading to periprosthetic osteolysis and eventual loosening. This issue is particularly pronounced in younger, more active patients, suggesting a rising prevalence in this population [5]. Instability and malalignment Joint instability, resulting from factors such as ligament imbalance, improper component alignment, and surgical errors, is another significant cause of revision surgeries [1]. Malalignment, particularly of the femoral component, has been strongly linked to increased revision rates [6]. Poor positioning can accelerate wear, diminish functionality, and compromise the overall outcome of the procedure. Furthermore, mechanical malalignment that fails to replicate natural joint movement can lead to long-term complications [6]. Patient-related factors The growing trend of joint replacements in younger, more active patients has been associated with increased revision rates. Elevated activity levels in this demographic often result in accelerated wear and degradation of prosthetic components [1]. Whereas, in older adults, increasing comorbidities and associated ailments are the major cause of implant failure or decreased satisfaction rate. Prevention: The Key to Curbing Revision Burden Advanced technologies Recent advancements in surgical technologies aim to improve precision and accuracy in orthopedic procedures. Innovations like patient-specific instrumentation, navigation systems, smart tools, and computer or robotic-assisted surgery enable tailored interventions based on individual anatomy and ligament characteristics. These technologies enhance 3D surgical planning, optimize implant positioning, and improve alignment precision, leading to superior outcomes [7]. Modular operating theaters (OTs) Modular OTs equipped with advanced infection control technologies significantly reduce PJI and post-operative complications. Featuring HEPA filters, laminar airflow systems, and efficient sterilization, these OTs ensure a sterile environment, enhance workflow adaptability, and contribute to better surgical outcomes [8]. Robotic-assisted arthroplasty Robotic systems have revolutionized orthopedic surgeries, by providing unmatched precision and consistency. The introduction of ROBODOC in 1992 marked a pivotal moment in robotic-assisted joint surgeries, improving bone resection accuracy and component alignment while reducing reliance on conventional cutting guides and manual positioning. Since then, robotic-assisted technologies have continuously evolved, with a primary focus on minimizing human error during surgery. Conventional robotic-assisted TKA platforms typically rely on haptic feedback and oscillating saws controlled by surgeons for bone preparation. In contrast, the novel MISSO active robotic system (Meril Healthcare Pvt. Ltd., Vapi, India) represents a significant leap forward with its fully automated approach. This cutting-edge system integrates artificial intelligence and machine learning to enhance both pre-operative planning and intraoperative execution. By utilizing patient-specific computed tomography data, MISSO generates precise 3D bone models and personalized surgical plans tailored to individual anatomical variations [9]. The system’s real-time guidance ensures optimal prosthetic alignment and precise bone cuts, improving surgical accuracy, preserving soft tissues, and reducing the risk of complications. In addition, MISSO’s virtual simulation capability allows surgeons to rehearse procedures on 3D bone models, ensuring sub-millimetric precision during surgery. By automating complex tasks, the system enhances soft tissue management, minimizes collateral damage, and accelerates recovery, contributing to improved long-term patient outcomes. Surgeon training and mentorship Specialized training programs are crucial for equipping surgeons with the skills needed to adopt advanced technologies in orthopedic care. Organizations like Meril Life Sciences and Johnson and Johnson provide comprehensive educational frameworks that include live surgeries, hands-on workshops, cadaveric labs, and virtual reality (VR) simulations [10]. These programs emphasize key aspects such as patient selection, robotic system utilization, and complication management, enhancing surgical precision and decision-making. Mentorship is a cornerstone of these initiatives, with expert surgeons leading case discussions and offering real-time feedback. Virtual mentorship and remote collaborations further enhance accessibility, fostering peer connections and promoting global knowledge-sharing. VR simulations and cadaveric training allow surgeons to practice complex procedures, accelerating their learning curve and building confidence in robotic-assisted surgeries. By combining hands-on training with mentorship and cutting-edge simulations, these programs ensure that surgeons remain proficient, improving surgical outcomes and optimizing the use of innovative technologies. Patient education and engagement Patients may be hesitant to embrace robotic total joint arthroplasty (rTJA), often due to misperceptions about the technology. Common concerns include potential robotic malfunctions causing harm, incorrect procedures, inadequate surgeon training, high costs, and prolonged surgical times. Only half of surveyed patients fully understood the robot’s role in rTJA [11]. Tailored pre-operative counseling can address individual concerns, improve shared decision-making, and identify patients most likely to benefit from rTJA. In addition, factors such as education, income, and age may influence patient understanding and acceptance of such innovations, with marketing campaigns potentially increasing interest and preference for rTJA. Implant innovations: The game changers In revision THA, tapered fluted titanium stems, both Modular and Monoblock, are essential for managing bone loss and restoring hip function. The Wagner Cone Prosthesis (Zimmer Biomet), introduced in the 1980s, was a pivotal innovation but faced limitations like subsidence and dislocation [12]. Modern modular systems, such as the S-ROM Modular Hip System (DePuy Synthes Johnson and Johnson, Warsaw, IN, USA), offer proximal fixation with a porous-coated sleeve and intraoperative adjustability to correct femoral anteversion and leg length discrepancies [13]. The RECLAIM™ (DePuy Synthes Johnson and Johnson, Warsaw, IN, USA) [14] and Restoration® Modular Systems ((Stryker, Kalamazoo, MI USA) [15] provide distal fixation and modular reconstruction for significant femoral bone loss, while the Exeter® V40 Cemented Stem (Stryker, Kalamazoo, MI, USA) [16] ensures long-term durability with its double-tapered design. Innovations like the Latitud MonoMod Stem (Meril Healthcare Pvt. Ltd, India) merge modular flexibility with Monoblock durability to optimize joint stability in complex cases [17]. In revision TKA, modern rotating hinge knee systems, such as the NexGen LCCK (Zimmer Biomet), provide rotational flexibility and joint stabilization in severe ligamentous instability [18, 19]. The TC3® System (DePuy Synthes Johnson and Johnson, Warsaw, IN, USA) [20] and Freedom PCK® System (Meril Healthcare Pvt. Ltd, India) [21] use modular augments and condylar blocks for severe bone loss while balancing flexion laxity and extension stability. The DESTIKNEE® (Meril Healthcare Pvt. Ltd, India) supports high-flexion motion with minimal bone resection, and the Opulent™ Total Knee System (Meril Healthcare Pvt. Ltd, India) features TiNbN-coated components to reduce metal ion release and infection risks [22, 23]. DePuy Synthes’ Attune® Revision Knee System employs an S-curve cam to optimize femoral rollback and patellofemoral tracking [24], while Zimmer Biomet’s LPS-Flex Mobile Bearing Knee accommodates deep flexion (up to 155°) supported by an enhanced cam/spine mechanism, catering to patients with specific physical or cultural needs [25]. Bone deficiency solutions, such as Trabecular Metal Cones (Zimmer Biomet) and Restoration Tritanium Cones (Stryker Kalamazoo, MI, USA), promote osseointegration and address metaphyseal defects [26, 27]. In addition, systems like G7® Acetabular System (Zimmer Biomet) and dual-mobility acetabular cups (Zimmer Biomet, DePuy Synthes) offer enhanced stability and lower dislocation risk in hip revisions, particularly for patients with prior trauma or neuromuscular disorders [28,29]. These innovations collectively increase implant longevity and address complex revision scenarios in both THA and TKA. The road ahead: Balancing cost and accessibility The integration of advanced implants and robotic-assisted technologies is crucial for improving arthroplasty outcomes, yet economic constraints often limit their widespread adoption. To combat this, collaboration among healthcare providers, policymakers, and manufacturers is essential to develop cost-effective solutions. Initiatives such as public-private partnership, subsidies, and targeted investments in training and research can bridge the gap between innovation and affordability. The development of modular implants and accessible robotic platforms, along with streamlined training programs, can further enhance the global reach of advanced arthroplasty care. Conclusion The increasing prevalence of revision surgeries in orthopedics underscores the importance of a comprehensive strategy to optimize primary procedures and minimize failures. Addressing key factors such as component malalignment, bone loss, infection, and implant wear involves adopting a multipronged approach that integrates advanced implant designs, robotic-assisted surgery, and improved perioperative protocols. Standardizing pre-operative planning, improving surgical precision, and fostering research on long-term implant performance are pivotal in achieving durable outcomes. In addition, continuous investment in surgeon education and the development of modular operating systems can further reduce revision rates. By prioritizing innovations, collaboration, and data-driven improvements, the orthopedic community can significantly reduce the burden of revision arthroplasties and improve long-term patient outcome globally.
+ER  -
+TY  - JOUR
+TI  - Comparing collaborative interaction in different virtual environments
+PY  - 2007
+PB  - SPIE
+SN  - 1818-2259
+T2  - SPIE Newsroom
+DO  - 10.1117/2.1200711.0922
+UR  - https://doi.org/10.1117/2.1200711.0922
+DA  - 2007-01-01
+AU  - Shahab, Qonita
+LA  - en
+ER  -
+TY  - JOUR
+TI  - Design a socialVR tool for the remote co-design of customized cakes
+PY  - 2020
+DA  - 2020-01-01
+AU  - Mei, Yidan
+LA  - en
+KW  - Communication design
+ER  -
+TY  - JOUR
+TI  - Special issue “Physiological Human”
+PY  - 2009
+PB  - Wiley
+SN  - 1546-4261
+T2  - Computer Animation and Virtual Worlds
+DO  - 10.1002/cav.275
+UR  - https://doi.org/10.1002/cav.275
+DA  - 2009-01-01
+AU  - Hahn, James
+AU  - Magnenat‐Thalmann, Nadia
+LA  - en
+KW  - Modality (human–computer interaction)
+KW  - Modalities
+KW  - Ray casting
+KW  - Scientific visualization
+VL  - 20
+IS  - 1
+SP  - iii
+EP  - iii
+AB  - The field of computer graphics has impacted a number of application domains in medicine. Medical volume visualization, in particular, has a long and active history in the computer graphics community. However, there are many other techniques in computer graphics that have been applied successfully in medicine. Virtual Reality Simulators have been used to train physicians on difficult procedures. Image-guidance has been used to assist surgeons using different imaging modalities. Different types of visualization techniques have been applied to analyze medical images. This special issue is devoted to novel applications of computer graphics in medical domains. The emphasis has been on technical novelty as opposed to novel medical applications of well-known techniques. The hope is that these papers will be a catalyst for computer graphics community to become more aware of the enormous potential that they hold in making significant contributions to medical domain. The first two papers deals with visualization of medical datasets. Virtual colonoscopy has been used successfully as a faster and painless alternative to real colonoscopy. The paper “Coherence aware GPU based ray casting for virtual colonoscopy” proposes using Graphic Processing Units (GPUs) to ray-trace volumes for use in real-time virtual colonoscopy. An emerging imaging modality is the 3D ultrasound. In “GPU-based Interactive Visualization Framework for Ultrasound Datasets,” the volumetric data generated from a 3D ultrasound is rendered in real-time using the GPU. Simulation can be used in two different ways. They can be use used to train surgeons to perform difficult procedures as described in the next two papers. They can also be used to analyze the physiology as a part of the diagnostic process. In “Haptic Ventriculostomy Simulation in a Grid Environment,” a full-featured surgery simulator that encompass haptic interaction with deformable models in a shared virtual environment is described. Currently, there is little work on evaluating surgical simulators for their effectiveness in training. In “A New Assessment Methodology for Virtual Reality Surgical Simulators,” an assessment methodology for evaluating virtual reality surgical simulators is presented. Simulation offer physicians the ability to analyze biomechanical properties. In “From MRI to Anatomical Simulation of The Hip Joint,” a system for simulating a patient-specific hip joint is presented. The anatomy is generated from Magnetic Resonance Imaging and motion capture is used to drive the simulation. “Image Guided Medialization Laryngoplasty,” describes a system to guide surgeons intra-operatively using image-based modeling and registration.
+ER  -
+TY  - JOUR
+TI  - Toward a Frontierless Collaboration in Neurosurgery: A Systematic Review of Remote Augmented and Virtual Reality Technologies
+PY  - 2024
+PB  - Research Square (United States)
+T2  - Research Square (Research Square)
+DO  - 10.21203/rs.3.rs-3922557/v2
+UR  - https://doi.org/10.21203/rs.3.rs-3922557/v2
+DA  - 2024-02-07
+AU  - Bocanegra‐Becerra, Jhon
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Sánchez, José
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Castilla-Encinas, Adriam
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Sociedad Científica de San Fernando, Universidad Nacional Mayor de San Marcos, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Ríos-García, Wagner
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Mendieta, Cristian
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Quiroz-Marcelo, Diego
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Alhwaishel, Khaled
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Aguilar-Zegarra, Luis
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - López-González, Miguel
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+LA  - en
+KW  - Subspecialty
+AB  - <title>Abstract</title> <bold>Introduction</bold> Augmented Reality (AR) and Virtual Reality (VR) technologies have been introduced to Neurosurgery with the goal of improving the experience of human visualization. In recent years, the application of remote AR and VR has opened new horizons for neurosurgical collaboration across diverse domains of education and patient treatment. Herein, we aimed to systematically review the literature about the feasibility of this technology and discuss the technical aspects, current limitations, and future perspectives.<bold>Methods</bold> Following the PRISMA guidelines, four databases (PubMed, Embase, Scopus, and Cochrane Library) were queried for articles discussing the use of remote AR and VR technologies in Neurosurgery. Data were collected in various fields, including surgery type, application type, subspecialty, software and hardware descriptions, haptic device utilization, visualization technology, internet connection, remote site descriptions, technical outcomes, and limitations. Data were summarized as counts and proportions and analyzed using IBM® SPSS® software.<bold>Results</bold> Our search strategy generated 466 records, out of which 9 studies satisfied the inclusion criteria. The majority of AR and VR applications were used in cranial procedures (77.8%), mainly in education (63.6%), followed by telesurgical assistance (18.2%), patient monitoring (9.1%), and surgical planning (9.1%). Local collaborations were established in 55.6% of the studies, while national and international partnerships were formed in 44.4% of the studies. AR was the main visualization technology, and 3G internet connection was predominantly used (27.5%). All studies subjectively reported the utility of remote AR and VR for real-time interaction. The major technical challenges and limitations included audiovisual latency, the requirement for higher-fidelity and resolution image reconstructions, and the level of proficiency of the patient with the software.<bold>Conclusion</bold> The results from this systematic review suggest that AR and VR technologies are dynamically advancing to offer remote collaboration in Neurosurgery. Although still incipient in development and with an imperative need for technical improvement, remote AR and VR hold a frontierless potential for patient monitoring, neurosurgical education, and long-distance surgical assistance.
+ER  -
+TY  - JOUR
+TI  - Toward a Frontierless Collaboration in Neurosurgery: A Systematic Review of Remote Augmented and Virtual Reality Technologies
+PY  - 2024
+PB  - Research Square (United States)
+T2  - Research Square (Research Square)
+DO  - 10.21203/rs.3.rs-3922557/v1
+UR  - https://doi.org/10.21203/rs.3.rs-3922557/v1
+DA  - 2024-02-06
+AU  - Bocanegra‐Becerra, Jhon
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Sánchez, José
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Castilla-Encinas, Adriam
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Sociedad Científica de San Fernando, Universidad Nacional Mayor de San Marcos, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Ríos-García, Wagner
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Mendieta, Cristian
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Quiroz-Marcelo, Diego
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Alhwaishel, Khaled
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - Aguilar-Zegarra, Luis
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+AU  - López-González, Miguel
+C1  - Department of Neurosurgery, Loma Linda University Medical Center, Loma Linda, California, United States
+C1  - Facultad de Medicina Humana, Universidad Nacional San Luis Gonzaga, Ica, Peru
+C1  - Mansoura Manchester Program, Faculty of Medicine, Mansoura University, Mansoura, Egypt
+C1  - School of Medicine, Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Universidad Mayor Real y Ponti cia de San Francisco Xavier de Chuquisaca, Bolivia
+C1  - Universidad Peruana Cayetano Heredia, Lima, Peru
+C1  - Vascular Neurosurgery and Skull Base Division, Department of Neurosurgery, Hospital Nacional Dos de Mayo, Lima, Peru
+LA  - en
+KW  - Subspecialty
+AB  - <title>Abstract</title> <bold>Introduction</bold> Augmented Reality (AR) and Virtual Reality (VR) technologies have been introduced to Neurosurgery with the goal of improving the experience of human visualization. In recent years, the application of remote AR and VR has opened new horizons for neurosurgical collaboration across diverse domains of education and patient treatment. Herein, we aimed to systematically review the literature about the feasibility of this technology and discuss the technical aspects, current limitations, and future perspectives.<bold>Methods</bold> Following the PRISMA guidelines, four databases (PubMed, Embase, Scopus, and Cochrane Library) were queried for articles discussing the use of remote AR and VR technologies in Neurosurgery. Data were collected in various fields, including surgery type, application type, subspecialty, software and hardware descriptions, haptic device utilization, visualization technology, internet connection, remote site descriptions, technical outcomes, and limitations. Data were summarized as counts and proportions and analyzed using IBM® SPSS® software.<bold>Results</bold> Our search strategy generated 466 records, out of which 9 studies satisfied the inclusion criteria. The majority of AR and VR applications were used in cranial procedures (77.8%), mainly in education (63.6%), followed by telesurgical assistance (18.2%), patient monitoring (9.1%), and surgical planning (9.1%). Local collaborations were established in 55.6% of the studies, while national and international partnerships were formed in 44.4% of the studies. AR was the main visualization technology, and 3G internet connection was predominantly used (27.5%). All studies subjectively reported the utility of remote AR and VR for real-time interaction. The major technical challenges and limitations included audiovisual latency, the requirement for higher-fidelity and resolution image reconstructions, and the level of proficiency of the patient with the software.<bold>Conclusion</bold> The results from this systematic review suggest that AR and VR technologies are dynamically advancing to offer remote collaboration in Neurosurgery. Although still incipient in development and with an imperative need for technical improvement, remote AR and VR hold a frontierless potential for patient monitoring, neurosurgical education, and long-distance surgical assistance.
+ER  -
+TY  - THES
+TI  - Towards Enhancing Awareness in Designing Collaborative Computing Systems
+PY  - 2017
+DA  - 2017-01-01
+AU  - Le, Khanh
+LA  - en
+KW  - Collaboration
+KW  - Situation Awareness
+ER  -
+TY  - JOUR
+TI  - Scientific Collaboratories: Evaluating their Potential
+PY  - 2002
+PB  - Association for Information Science and Technology
+SN  - 0095-4403
+T2  - Bulletin of the American Society for Information Science and Technology
+DO  - 10.1002/bult.255
+UR  - https://doi.org/10.1002/bult.255
+DA  - 2002-08-01
+AU  - Sonnenwald, Diane
+C1  - University of North Carolina at Chapel Hill
+AU  - Whitton, Mary
+C1  - University of North Carolina at Chapel Hill
+AU  - Maglaughlin, Kelly
+C1  - University of North Carolina at Chapel Hill
+LA  - en
+KW  - Collaboratory
+KW  - Scientific Communication
+VL  - 28
+IS  - 6
+SP  - 12
+EP  - 15
+AB  - Scientific collaboratories have the potential to be centers "without walls, in which researchers can perform their research without regard to physical location – interacting with colleagues, accessing instrumentation, sharing data and computational resources, and accessing information in digital libraries" [Wulf, W.A. (1993). The collaboratory opportunity. Science, 261, 854-855]. A number of scientific collaboratories have been developed, and a comprehensive discussion of these collaboratories can be found in Finholt, T. (2002). Collaboratories, In B. Kronin (Ed.) Annual Review of Information Science and Technology. Washington, DC: American Society for Information Science and Technology. However, the evaluation of scientific collaboratories has lagged behind their development. So few evaluations of scientific collaboratories exist that fundamental questions regarding their potential have yet to be answered: Can distributed scientific research produce high quality results? Do the capabilities afforded by collaboratories outweigh their disadvantages from scientists' perspectives? How does the scientific process change in the context of a collaboratory? The answers to these questions are not obvious. Previous research in computer-supported cooperative work [e.g., Olson, G.M. & Olson, J.S. (2000). Distance matters. Human-Computer Interaction, 15 (2-3), 139-178] and theory of language [Clark, H. (1996). Using Language. Cambridge, UK: Cambridge University Press] would predict that working remotely would lack the richness of collocation and face-to-face interaction such as multiple and redundant communication channels, implicit cues and spatial co-references, which are difficult to support via computer-mediated communications. This lack of richness is thought to impair performance because it is more difficult to establish the common ground that enables individuals to understand the meaning of each other's utterances. The collaboratory system we evaluated provides distributed, collaborative access to a specialized scientific instrument called a nanoManipulator (nM). The single-user nM provides haptic and 3D visualization interfaces to a local (co-located) atomic force microscope (AFM), providing a natural scientist with the ability to interact directly with physical samples ranging in size from DNA to single cells. The nM and its uses are described in Guthold, M., Falvo, M.R., Matthews, W.G., Paulson, S., Washburn, S., Erie, D.A., Superfine, R., Brooks, Jr., F.P., & Taylor, III, R.M.(2000). Controlled Manipulation of Molecular Samples with the nanoManipulator. IEEE/ASME Transactions on Mechatronics, 5(2), 189-198. The collaboratory version of the nM was designed based on results of an ethnographic study from which we developed an understanding of the scientific research process, current collaborative work practices, the role of an nM as a scientific instrument and scientists' expectations regarding technology to support scientific collaborations [Sonnenwald, D.H., Bergquist, R., Maglaughlin, K.L., Kupstas-Soo, E. & Whitton, M.C. (2001). Designing to support collaborative scientific research across distances: The nanoManipulator example, In E. Churchill, D. Snowdon, &A. Munro, (Eds.), Collaborative Virtual Environments (pp. 202-224). London: Springer Verlag]. One PC is equipped with a Sensable Devices Phantom force-feedback device. This PC and its associated software provide haptic and 3D visualization interfaces to a local or remote atomic force microscope (AFM) and support collaborative manipulation and exploration of scientific data. Scientists can dynamically switch between working together in shared mode and working independently in private mode. In shared mode, remote, that is, non-collocated, collaborators view and analyze the same (scientific) data. Mutual awareness is supported via multiple pointers, each showing the focus of attention and interaction state for one collaborator. Collaborators can perform almost all operations synchronously. Because of the risk of damage to an AFM, control of the microscope tip is explicitly passed between collaborators. In private mode, each collaborator can independently analyze the same or different data from stream files previously generated. When switching back to private from shared mode, collaborators return to the exact data they were previously using. Another PC supports shared application functionality and video conferencing (via Microsoft NetMeeting) and an electronic writing/drawing tablet. This PC allows collaborators to work together synchronously using a variety of domain-specific and off-the-shelf applications, including specialized data analysis, word processing and whiteboard applications. Video conferencing is supported by two cameras. One camera is mounted on a gooseneck stand so it can be pointed at the scientist's hands, sketches or other physical artifacts scientists may use during experiments; the other is positioned to capture a head and shoulders view of the user. Collaborators have software control of which camera view is broadcast from their site. A wireless telephone headset and speakerphone connected to a commercial telephone network provides high quality audio communications for collaborators. The experimental evaluation study was a repeated-measures, or within-subjects, controlled experiment comparing working face-to-face and working remotely with the order of conditions counterbalanced. Twenty pairs of study participants (upper level undergraduate natural science students) conducted two realistic scientific research activities each requiring two to three hours to complete. Ten pairs of study participants worked face-to-face first and, on a different day, worked remotely (in different locations.) Another 10 pairs worked remotely first and, on a different day, face-to-face. When face-to-face, the participants shared a single collaboratory system; when collaborating remotely, each location was equipped with its own complete collaboratory system. The scientific research activities completed by the participants were designed in collaboration with natural scientists. The tasks were actual activities the scientists completed and documented during the course of their investigations. To complete the tasks the participants had to engage in the following activities typical of scientific research: operate the scientific equipment properly; capture and record data in their (electronic) notebooks; perform analysis using scientific data analysis software applications and include the results of that analysis in their notebooks; draw conclusions, create hypotheses and support those hypotheses based on their data and analysis; and prepare a formal report of their work. We collected a variety of quantitative and qualitative evaluation data, including task performance measures to compare the quality of scientific work produced in the two collaboration conditions, and post-interviews to gain, from participants' perspectives, a more in-depth understanding of the scientific process in both conditions. Task performance was measured through graded lab reports. The information participants were asked to provide in the reports mirrored the information found in the scientists' lab notes created when they conducted their original research. Each pair of study participants collaboratively created a lab report under each condition, generating a total of 40 lab reports; 20 created working remotely and 20 created working face-to-face. The lab reports were graded blindly; the graders had no knowledge of the report authors or under which condition the report was created. To further our understanding of participants' perceptions of the system, we conducted semi-structured interviews with each participant after each task. Study participants were asked what they thought about their experience, including the most satisfying and dissatisfying aspects of their experience. In addition, we inquired about work patterns that emerged during the experience, and the impact technology may have had on their interactions with their collaborator. After completing their second task, participants were also asked to compare working face-to-face and working remotely. To better learn each participant's perspective, participants were interviewed individually, for a total of 80 interviews, each lasting from 30 to 60 minutes. Task Performance: Analysis of Graded Lab Reports. The average lab report scores for the first task session were identical (70/100) for both the face-to-face and remote condition. Previous research would predict that scores from a remote first session would be lower because the remote session would lack the richness of collocation and face-to-face interaction, including multiple and redundant communication channels, implicit cues and spatial co-references, that are difficult to support via computer-mediated communications. This lack of richness is often thought to impair performance. Perhaps technical features such as seeing your partner's pointer and functions, optimized shared control of scientific instrumentation and applications, improved video that provides multiple views and high quality audio communications may be "good enough" for scientific tasks focusing on collecting, analyzing and interpreting data. The data further suggest that collaborating first remotely may have a positive effect. Using a multivariate analysis of variance (MANOVA) test, the differences in scores for the face-to-face and remote conditions were not statistically significant. However, when order is taken into account, participants who collaborated remotely first scored significantly higher on the second task than did those who collaborated face-to-face first. There was no statistically significant difference between face-to-face and remote lab scores for participants who collaborated face-to-face first. In general, the literature suggests that participants would learn more about the system, science and each other when collaborating face-to-face and that this knowledge helps increase their current and future performance. Our performance data suggest collaborating first remotely does not negatively impact current performance, and may positively impact future performance for scientific tasks such as data collection, analysis and interpretation. We looked to our interview data for explanations of this result. Participants' Perceptions of the Scientific Process: Post-Interview Analysis. As expected, participants reported disadvantages to collaborating remotely. However, participants also reported that some of these disadvantages are not significant in scientific work contexts and that coping strategies, or work-arounds, can reduce the impact of other disadvantages. Furthermore, participants reported that remote collaboration provided several relative advantages compared with face-to-face collaboration (see Table 1). Similar to previous studies [e.g., Olson, G.M. & Olson, J.S. (2000). Distance matters. Human-Computer Interaction, 15 (2-3), 139-178], study participants reported remote collaboration was less personal than face-to-face collaboration. When comparing working face-to-face and remotely, participants reported collaborating face-to-face was more personal and it was easier to express themselves. However, participants also reported that lacking this type of interaction when working remotely did not seem to have a negative impact on their work. The impersonal nature of remote collaboration increased their productivity and facilitated collaborative intellectual contributions. As participants explained: If we were. . . working side by side, we might tell more stories or something like that. . . . [However] if you're trying to get something done, sometimes the stories and stuff can get in your way. I think that being in separate rooms helps a little bit because it's more impersonal. . . [You] just throw stuff back and forth more easily. Participants also reported that when working remotely they received fewer implicit cues about what their partners were doing and thinking. The study participants explained that without these cues, it may be difficult to follow social interaction norms and assist your collaborators: [when collaborating face to face] it was a lot easier to ask questions of each other. . . since you have a feeling [about] when to interrupt them . . . if you're in the same room . . . you'll wait [to ask a question] until the other person is not doing as much or not doing something very specific. It is hard to get the context of any question that's asked because you're not paying attention to what the other person is doing because they're in a little [video-conferencing] screen. To compensate for this lack of cues, several participants reported they needed to talk more frequently and descriptively when collaborating remotely. Participants reported Even though we were in separate rooms, it kind of seemed like there was more interaction compared to being face-to-face, which seems kind of strange. . . . It just seemed more interaction was expected. . . . Maybe needed. We had a really good interaction [when collaborating remotely]. . . . You're conscious that you're not together and you can't see [some things, and] so you think more about [interacting. For example, you think] 'I need to let this person know that I'm about to do this' or 'this is what I'm seeing and I'm trying to let you know so, and you're like doing the same to me.' Thus to compensate for the absence of implicit cues in the remote condition participants provided explicit cues for their partner. When working remotely, it appears that individuals recognize they do not have a common shared physical reality and subsequently may not have a shared cognitive reality. However, humans are intrinsically motivated to develop a shared reality [Schutz, A., & Luckmann, T. (1983). The Structures of the Life-World, Vol. I. Evanston, IL: Northwestern University Press]. Subsequently, study participants developed a strategy, providing explicit cues to their partners, to develop a shared reality. These explicit cues, or joint actions, typically contribute to faster and more accurate formation of common ground and mutual understanding [Clark, H. (1996). Using Language. Cambridge, UK: Cambridge University Press]. In addition to receiving fewer cues from a partner, participants also reported that some physical tasks are more difficult when collaborating remotely. These tasks include drawing, e.g., creating sketches of scientific structures and manipulating mathematical equations, and sharing control of applications within NetMeeting. Some of these problems may be remedied with advances in technology, such as shared applications that support multiple pointers and concurrent floor control. Participants explained [when collaborating face to face] you could draw more easily, communicate diagrams more easily, and you could look at the other person and see their level of understanding more easily. The thing that frustrated me the most [collaborating remotely] was the shared applications [NetMeeting] . . . you could see the other person doing things but you couldn't do anything [simultaneously]. Although technology made some tasks more difficult, study participants also reported that the collaboratory system provides some advantages over collaborating face-to-face. These advantages include the ability to easily explore the scientific instrument and data and their own ideas both independently and collaboratively, having identical views of the data visualization, and working simultaneously with the data visualization. I liked that we were separate. I think it gave a whole new twist on the interactions, and if one of us got snagged up with something the other could independently work and get it done rather than both of us being bogged down by having to work on it simultaneously. Sometimes when you're working side by side with somebody, you have to deal with 'Well, you're looking at [the data] from a different angle than I am, and so you're seeing a different perspective there.' Now [working remotely] we could both of us be straight on, having the exact same perspective from where we're sitting. It made it easier. [My partner] could be changing the light focusing somewhere, while I could be zooming or moving [the plane] around. And that was really helpful because you're thinking, 'OK, as soon as I'm done moving the light I want to go ahead and shift [the plane] . . . [to be able to] say to [my partner], 'Why don't you [shift the plane] while I'm shining the light,' was really cool. It was really helpful. The participants in this study experienced disadvantages attributed to remote collaboration that have been previously reported in the literature. However, the study participants also reported that some disadvantages had minimal impact on their scientific work, and they used coping strategies to compensate for disadvantages. In addition, they perceived remote collaboration to provide some advantages relative to face-to-face collaboration. These findings corroborate our findings regarding task performance. The results illustrate the potential of collaboratories, allowing individuals who do not have specialized, state-of-the-art scientific instruments locally to access scientific instruments remotely and conduct scientific experiments in collaboration with other students, faculty and staff at institutions that have the instruments. When collaborating first remotely, study participants were able to use the technology and conduct science as well as or better than if they were face-to-face. Working face-to-face before working remotely did not produce the anticipated positive impact on the scientific process or outcomes. These conclusions are supported by the similarity in lab report grades for the first task session and statistically significant higher lab report grades for pairs who first worked remotely, as well as interview data that illustrate that the technology provides unique advantages and, although the technology has disadvantages, many individuals can develop coping strategies to reduce the impact of these disadvantages. The evaluation data combine to illustrate the potential of the collaboratory system for adoption by scientists and how this technology mediates collaborative scientific work processes without negatively impacting scientific data collection and analysis task outcomes. However, the tasks used in the study do not encompass the entire life cycle of the scientific process. For example, problem formulation, research design and research dissemination were not included in the tasks. Furthermore, the tasks in the first and second sessions differed. Although designed to be similar in complexity, additional investigation may uncover aspects of the tasks that are inherently impacted by an interaction condition. Future work includes a longitudinal field study to investigate whether the results reported here hold for professional scientific contexts. In the field study, the technology will be provided to scientists who have expressed an interest in conducting scientific investigations using the system. We plan to investigate the similarities and differences between scientists' and study participants' perceptions and use of the technology to further our understanding of the impact of collaboratories on the scientific process and outcomes. Our thanks to the study participants; to students who helped run the experiment sessions and assisted in data analysis; to the team who built the nM, including Frederick P. Brooks, Jr., Martin Guthold, Aron Helser, Tom Hudson, Richard Superfine and Russell M. Taylor II. The development of the nM and this work have been funded by the NIH National Center for Research Resources, NCRR 5-P41-RR02170. The nanoManipulator project is part of the Computer Graphics for Molecular Studies and Microscopy Research Resource at the University of North Carolina at Chapel Hill.
+ER  -
