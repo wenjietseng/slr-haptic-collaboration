@@ -1,0 +1,1985 @@
+TY  - CONF
+TI  - A Peer-to-peer Architecture for Collaborative Haptic Assembly
+T2  - 2006 Tenth IEEE International Symposium on Distributed Simulation and Real-Time Applications
+SP  - 25
+EP  - 34
+AU  - R. Iglesias
+AU  - S. Casado
+AU  - T. Gutierrez
+AU  - A. Garcia-Alonso
+AU  - K. M. Yap
+AU  - W. Yu
+AU  - A. Marshall
+PY  - 2006
+DO  - 10.1109/DS-RT.2006.3
+JO  - 2006 Tenth IEEE International Symposium on Distributed Simulation and Real-Time Applications
+IS  - 
+SN  - 1550-6525
+VO  - 
+VL  - 
+JA  - 2006 Tenth IEEE International Symposium on Distributed Simulation and Real-Time Applications
+Y1  - 2-4 Oct. 2006
+ER  - 
+
+TY  - JOUR
+TI  - Assessment of Environmental Effects on Collaborative Haptic Guidance
+T2  - Presence
+SP  - 191
+EP  - 206
+AU  - B. Khademian
+AU  - J. Apkarian
+AU  - K. Hashtrudi-Zaad
+PY  - 2011
+DO  - 10.1162/PRES_a_00044
+JO  - Presence
+IS  - 3
+SN  - 1054-7460
+VO  - 20
+VL  - 20
+JA  - Presence
+Y1  - 1 June 2011
+ER  - 
+
+TY  - CONF
+TI  - Using collaborative haptics in remote surgical training
+T2  - First Joint Eurohaptics Conference and Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems. World Haptics Conference
+SP  - 481
+EP  - 482
+AU  - C. Gunn
+AU  - M. Hutchins
+AU  - D. Stevenson
+AU  - M. Adcock
+AU  - P. Youngblood
+PY  - 2005
+DO  - 10.1109/WHC.2005.141
+JO  - First Joint Eurohaptics Conference and Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems. World Haptics Conference
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - First Joint Eurohaptics Conference and Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems. World Haptics Conference
+Y1  - 18-20 March 2005
+ER  - 
+
+TY  - JOUR
+TI  - The role of haptics in immersive telecommunication environments
+T2  - IEEE Transactions on Circuits and Systems for Video Technology
+SP  - 392
+EP  - 401
+AU  - M. Reiner
+PY  - 2004
+DO  - 10.1109/TCSVT.2004.823399
+JO  - IEEE Transactions on Circuits and Systems for Video Technology
+IS  - 3
+SN  - 1558-2205
+VO  - 14
+VL  - 14
+JA  - IEEE Transactions on Circuits and Systems for Video Technology
+Y1  - March 2004
+ER  - 
+
+TY  - JOUR
+TI  - How Do Novice Hapticians Design? A Case Study in Creating Haptic Learning Environments
+T2  - IEEE Transactions on Haptics
+SP  - 791
+EP  - 805
+AU  - H. Seifi
+AU  - M. Chun
+AU  - C. Gallacher
+AU  - O. Schneider
+AU  - K. E. MacLean
+PY  - 2020
+DO  - 10.1109/TOH.2020.2968903
+JO  - IEEE Transactions on Haptics
+IS  - 4
+SN  - 2329-4051
+VO  - 13
+VL  - 13
+JA  - IEEE Transactions on Haptics
+Y1  - Oct.-Dec. 2020
+ER  - 
+
+TY  - CONF
+TI  - Sharing and bridging information in a collaborative virtual environment: Application to ergonomics
+T2  - 2013 IEEE 4th International Conference on Cognitive Infocommunications (CogInfoCom)
+SP  - 121
+EP  - 126
+AU  - C. Pontonnier
+AU  - T. Duval
+AU  - G. Dumont
+PY  - 2013
+DO  - 10.1109/CogInfoCom.2013.6719226
+JO  - 2013 IEEE 4th International Conference on Cognitive Infocommunications (CogInfoCom)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE 4th International Conference on Cognitive Infocommunications (CogInfoCom)
+Y1  - 2-5 Dec. 2013
+ER  - 
+
+TY  - CONF
+TI  - Implementation and evaluation of decorators for delayed live streaming video on remote control system
+T2  - 2008 6th IEEE International Conference on Industrial Informatics
+SP  - 1220
+EP  - 1225
+AU  - Shinichi Hamasaki
+AU  - Takahiro Yakoh
+PY  - 2008
+DO  - 10.1109/INDIN.2008.4618288
+JO  - 2008 6th IEEE International Conference on Industrial Informatics
+IS  - 
+SN  - 2378-363X
+VO  - 
+VL  - 
+JA  - 2008 6th IEEE International Conference on Industrial Informatics
+Y1  - 13-16 July 2008
+ER  - 
+
+TY  - CONF
+TI  - Haptic virtual environment performance over IP networks: a case study
+T2  - Proceedings Seventh IEEE International Symposium on Distributed Simulation and Real-Time Applications
+SP  - 181
+EP  - 189
+AU  - Rima Tfaily Souayed
+AU  - D. Gaiti
+AU  - G. Pujolle
+AU  - Wai Yu
+AU  - Qiang Gu
+AU  - A. Marshall
+PY  - 2003
+DO  - 10.1109/DISRTA.2003.1243014
+JO  - Proceedings Seventh IEEE International Symposium on Distributed Simulation and Real-Time Applications
+IS  - 
+SN  - 1530-1990
+VO  - 
+VL  - 
+JA  - Proceedings Seventh IEEE International Symposium on Distributed Simulation and Real-Time Applications
+Y1  - 23-25 Oct. 2003
+ER  - 
+
+TY  - CONF
+TI  - The evaluation of delay jitter for haptics collaboration over the Internet
+T2  - Global Telecommunications Conference, 2002. GLOBECOM '02. IEEE
+SP  - 1492
+EP  - 1496 vol.2
+AU  - K. Hikichi
+AU  - H. Morino
+AU  - I. Arimoto
+AU  - K. Sezaki
+AU  - Y. Yasuda
+PY  - 2002
+DO  - 10.1109/GLOCOM.2002.1188447
+JO  - Global Telecommunications Conference, 2002. GLOBECOM '02. IEEE
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - Global Telecommunications Conference, 2002. GLOBECOM '02. IEEE
+Y1  - 17-21 Nov. 2002
+ER  - 
+
+TY  - CONF
+TI  - Hapto-audio-visual environments for collaborative training of ophthalmic surgery over optical network
+T2  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+SP  - 21
+EP  - 26
+AU  - P. Boulanger
+AU  - G. Wu
+AU  - W. F. Bischof
+AU  - X. D. Yang
+PY  - 2006
+DO  - 10.1109/HAVE.2006.283801
+JO  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+Y1  - 4-5 Nov. 2006
+ER  - 
+
+TY  - CONF
+TI  - Immersed remotely: Evaluating the use of Head Mounted Devices for remote collaboration in robotic telepresence
+T2  - 2016 25th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)
+SP  - 638
+EP  - 645
+AU  - S. Kratz
+AU  - F. Rabelo Ferriera
+PY  - 2016
+DO  - 10.1109/ROMAN.2016.7745185
+JO  - 2016 25th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)
+IS  - 
+SN  - 1944-9437
+VO  - 
+VL  - 
+JA  - 2016 25th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)
+Y1  - 26-31 Aug. 2016
+ER  - 
+
+TY  - CONF
+TI  - Architecture and Evaluation of Tele-Haptic Environments
+T2  - Eighth IEEE International Symposium on Distributed Simulation and Real-Time Applications
+SP  - 53
+EP  - 60
+AU  - Xiaojun Shen
+AU  - Jilin Zhou
+AU  - A. El Saddik
+AU  - N. D. Georganas
+PY  - 2004
+DO  - 10.1109/DS-RT.2004.8
+JO  - Eighth IEEE International Symposium on Distributed Simulation and Real-Time Applications
+IS  - 
+SN  - 1550-6525
+VO  - 
+VL  - 
+JA  - Eighth IEEE International Symposium on Distributed Simulation and Real-Time Applications
+Y1  - 21-23 Oct. 2004
+ER  - 
+
+TY  - CONF
+TI  - Delay compensation in Shared Haptic Virtual Environments
+T2  - 2014 IEEE Haptics Symposium (HAPTICS)
+SP  - 371
+EP  - 377
+AU  - C. Schuwerk
+AU  - R. Chaudhari
+AU  - E. Steinbach
+PY  - 2014
+DO  - 10.1109/HAPTICS.2014.6775484
+JO  - 2014 IEEE Haptics Symposium (HAPTICS)
+IS  - 
+SN  - 2324-7355
+VO  - 
+VL  - 
+JA  - 2014 IEEE Haptics Symposium (HAPTICS)
+Y1  - 23-26 Feb. 2014
+ER  - 
+
+TY  - JOUR
+TI  - Evaluating Visual-Spatiotemporal Co-Registration of a Physics-Based Virtual Reality Haptic Interface
+T2  - IEEE Access
+SP  - 57017
+EP  - 57032
+AU  - S. T. Mubarrat
+AU  - S. K. Chowdhury
+AU  - A. S. Fernandes
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3391186
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - The Proactive Desk: A New Haptic Display System for a Digital Desk Using a 2-DOF Linear Induction Motor
+T2  - Presence
+SP  - 146
+EP  - 163
+AU  - H. Noma
+AU  - S. Yoshida
+AU  - Y. Yanagida
+AU  - N. Tetsutani
+PY  - 2004
+DO  - 10.1162/1054746041382438
+JO  - Presence
+IS  - 2
+SN  - 1054-7460
+VO  - 13
+VL  - 13
+JA  - Presence
+Y1  - April 2004
+ER  - 
+
+TY  - JOUR
+TI  - Transatlantic Touch: A Study of Haptic Collaboration over Long Distance
+T2  - Presence
+SP  - 328
+EP  - 337
+AU  - J. Kim
+AU  - H. Kim
+AU  - B. K. Tay
+AU  - M. Muniyandi
+AU  - M. A. Srinivasan
+AU  - J. Jordan
+AU  - J. Mortensen
+AU  - M. Oliveira
+AU  - M. Slater
+PY  - 2004
+DO  - 10.1162/1054746041422370
+JO  - Presence
+IS  - 3
+SN  - 1054-7460
+VO  - 13
+VL  - 13
+JA  - Presence
+Y1  - June 2004
+ER  - 
+
+TY  - CONF
+TI  - A Performance Evaluation of a Hybrid Multicast Transport Protocol for a Distributed Collaborative Virtual Simulation of a Brain Tumor Tele-Surgery Class of Applications
+T2  - 2007 12th IEEE Symposium on Computers and Communications
+SP  - 975
+EP  - 980
+AU  - A. Boukerche
+AU  - H. Maamar
+AU  - A. Hossain
+PY  - 2007
+DO  - 10.1109/ISCC.2007.4381516
+JO  - 2007 12th IEEE Symposium on Computers and Communications
+IS  - 
+SN  - 1530-1346
+VO  - 
+VL  - 
+JA  - 2007 12th IEEE Symposium on Computers and Communications
+Y1  - 1-4 July 2007
+ER  - 
+
+TY  - CONF
+TI  - A meta user interface for interaction with mixed reality environments
+T2  - 2015 IEEE International Symposium on Haptic, Audio and Visual Environments and Games (HAVE)
+SP  - 1
+EP  - 6
+AU  - A. Mostafazadeh
+AU  - A. A. N. Shirehjini
+AU  - S. Daraei
+AU  - N. Khojasteh
+AU  - S. Shirmohammadi
+PY  - 2015
+DO  - 10.1109/HAVE.2015.7359449
+JO  - 2015 IEEE International Symposium on Haptic, Audio and Visual Environments and Games (HAVE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Symposium on Haptic, Audio and Visual Environments and Games (HAVE)
+Y1  - 11-11 Oct. 2015
+ER  - 
+
+TY  - CONF
+TI  - Remote collaboration using a tele-presence mobile projector robot tele-operated by a smartphone
+T2  - 2016 IEEE/SICE International Symposium on System Integration (SII)
+SP  - 236
+EP  - 241
+AU  - J. -g. Ahn
+AU  - G. J. Kim
+PY  - 2016
+DO  - 10.1109/SII.2016.7844004
+JO  - 2016 IEEE/SICE International Symposium on System Integration (SII)
+IS  - 
+SN  - 2474-2325
+VO  - 
+VL  - 
+JA  - 2016 IEEE/SICE International Symposium on System Integration (SII)
+Y1  - 13-15 Dec. 2016
+ER  - 
+
+TY  - CONF
+TI  - "Personal Practically Panoramic" Multimodal Interfaces
+T2  - IEEE Virtual Reality Conference (VR 2006)
+SP  - 322
+EP  - 322
+AU  - K. Kanno
+AU  - N. Fernando
+AU  - A. Bolhassan
+AU  - S. Narita
+AU  - M. Cohen
+PY  - 2006
+DO  - 10.1109/VR.2006.1
+JO  - IEEE Virtual Reality Conference (VR 2006)
+IS  - 
+SN  - 2375-5334
+VO  - 
+VL  - 
+JA  - IEEE Virtual Reality Conference (VR 2006)
+Y1  - 25-29 March 2006
+ER  - 
+
+TY  - JOUR
+TI  - Designing a Vibrotactile Head-Mounted Display for Spatial Awareness in 3D Spaces
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 1409
+EP  - 1417
+AU  - V. A. de Jesus Oliveira
+AU  - L. Brayda
+AU  - L. Nedel
+AU  - A. Maciel
+PY  - 2017
+DO  - 10.1109/TVCG.2017.2657238
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 4
+SN  - 1941-0506
+VO  - 23
+VL  - 23
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - April 2017
+ER  - 
+
+TY  - CONF
+TI  - Evaluation Patterns of Tele-Haptics
+T2  - 2006 Canadian Conference on Electrical and Computer Engineering
+SP  - 1542
+EP  - 1545
+AU  - X. Shen
+AU  - J. Zhou
+AU  - N. D. Georganas
+PY  - 2006
+DO  - 10.1109/CCECE.2006.277764
+JO  - 2006 Canadian Conference on Electrical and Computer Engineering
+IS  - 
+SN  - 0840-7789
+VO  - 
+VL  - 
+JA  - 2006 Canadian Conference on Electrical and Computer Engineering
+Y1  - 7-10 May 2006
+ER  - 
+
+TY  - CONF
+TI  - Separate DOF control and mutual guidance in networked haptic collaboration maze game: Design and evaluation
+T2  - 2011 IEEE International Conference on Robotics and Automation
+SP  - 913
+EP  - 918
+AU  - Lingzhi Liu
+AU  - Guanyang Liu
+AU  - Yuru Zhang
+AU  - Weidong Guo
+AU  - Keke Lu
+AU  - Moyuan Zhou
+PY  - 2011
+DO  - 10.1109/ICRA.2011.5979832
+JO  - 2011 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 1050-4729
+VO  - 
+VL  - 
+JA  - 2011 IEEE International Conference on Robotics and Automation
+Y1  - 9-13 May 2011
+ER  - 
+
+TY  - CONF
+TI  - How to improve group performances on colocated synchronous manipulation tasks?
+T2  - 2012 IEEE International Workshop on Haptic Audio Visual Environments and Games (HAVE 2012) Proceedings
+SP  - 13
+EP  - 18
+AU  - J. Simard
+AU  - A. Girard
+AU  - A. Mayeur
+AU  - M. Ammi
+PY  - 2012
+DO  - 10.1109/HAVE.2012.6374435
+JO  - 2012 IEEE International Workshop on Haptic Audio Visual Environments and Games (HAVE 2012) Proceedings
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 IEEE International Workshop on Haptic Audio Visual Environments and Games (HAVE 2012) Proceedings
+Y1  - 8-9 Oct. 2012
+ER  - 
+
+TY  - JOUR
+TI  - Guest Editorial: Special Issue on Haptics, Virtual, and Augmented Reality
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 611
+EP  - 613
+AU  - G. C. Burdea
+AU  - M. C. Lin
+AU  - W. Ribarsky
+AU  - B. Watson
+PY  - 2005
+DO  - 10.1109/TVCG.2005.102
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 6
+SN  - 1941-0506
+VO  - 11
+VL  - 11
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Nov.-Dec. 2005
+ER  - 
+
+TY  - CONF
+TI  - Passivity-based position consensus of multiple mechanical integrators with communication delay
+T2  - Proceedings of the 2010 American Control Conference
+SP  - 836
+EP  - 841
+AU  - K. Huang
+AU  - D. Lee
+PY  - 2010
+DO  - 10.1109/ACC.2010.5530740
+JO  - Proceedings of the 2010 American Control Conference
+IS  - 
+SN  - 2378-5861
+VO  - 
+VL  - 
+JA  - Proceedings of the 2010 American Control Conference
+Y1  - 30 June-2 July 2010
+ER  - 
+
+TY  - CONF
+TI  - Auditory decorator of complex sounds for teleoperation systems
+T2  - 2011 9th IEEE International Conference on Industrial Informatics
+SP  - 227
+EP  - 232
+AU  - H. Kuramata
+AU  - T. Yakoh
+PY  - 2011
+DO  - 10.1109/INDIN.2011.6034878
+JO  - 2011 9th IEEE International Conference on Industrial Informatics
+IS  - 
+SN  - 2378-363X
+VO  - 
+VL  - 
+JA  - 2011 9th IEEE International Conference on Industrial Informatics
+Y1  - 26-29 July 2011
+ER  - 
+
+TY  - CONF
+TI  - Immerstar, a still evolving 25 years old VR research facility
+T2  - 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+SP  - 181
+EP  - 184
+AU  - R. Gaugne
+PY  - 2025
+DO  - 10.1109/VRW66409.2025.00045
+JO  - 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+Y1  - 8-12 March 2025
+ER  - 
+
+TY  - CONF
+TI  - Impact of Multimodal Instructions for Tool Manipulation Skills on Performance and User Experience in an Immersive Environment
+T2  - 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+SP  - 670
+EP  - 680
+AU  - C. Simon
+AU  - M. Boukli-Hacene
+AU  - F. Lebrun
+AU  - S. Otmane
+AU  - A. Chellali
+PY  - 2024
+DO  - 10.1109/VR58804.2024.00087
+JO  - 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+IS  - 
+SN  - 2642-5254
+VO  - 
+VL  - 
+JA  - 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+Y1  - 16-21 March 2024
+ER  - 
+
+TY  - CONF
+TI  - Replicating Human-Human Physical Interaction
+T2  - Proceedings 2007 IEEE International Conference on Robotics and Automation
+SP  - 3615
+EP  - 3620
+AU  - K. B. Reed
+AU  - J. Patton
+AU  - M. Peshkin
+PY  - 2007
+DO  - 10.1109/ROBOT.2007.364032
+JO  - Proceedings 2007 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 1050-4729
+VO  - 
+VL  - 
+JA  - Proceedings 2007 IEEE International Conference on Robotics and Automation
+Y1  - 10-14 April 2007
+ER  - 
+
+TY  - CONF
+TI  - Field of view deficiency-based dominance distribution for collaborative teleoperation
+T2  - 2012 12th International Conference on Control, Automation and Systems
+SP  - 1990
+EP  - 1993
+AU  - B. Gromov
+AU  - G. Ivanova
+AU  - J. -H. Ryu
+PY  - 2012
+DO  - 
+JO  - 2012 12th International Conference on Control, Automation and Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 12th International Conference on Control, Automation and Systems
+Y1  - 17-21 Oct. 2012
+ER  - 
+
+TY  - JOUR
+TI  - A network architecture supporting consistent rich behavior in collaborative interactive applications
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 405
+EP  - 416
+AU  - J. Marsh
+AU  - M. Glencross
+AU  - S. Pettifer
+AU  - R. Hubbold
+PY  - 2006
+DO  - 10.1109/TVCG.2006.40
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 3
+SN  - 1941-0506
+VO  - 12
+VL  - 12
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - May-June 2006
+ER  - 
+
+TY  - CONF
+TI  - Dual Purpose Multi-User Semi-Immersive Hapto-Acoustic Virtual Environment
+T2  - Digital Image Computing: Techniques and Applications (DICTA'05)
+SP  - 21
+EP  - 21
+AU  - T. Adriaansen
+PY  - 2005
+DO  - 10.1109/DICTA.2005.32
+JO  - Digital Image Computing: Techniques and Applications (DICTA'05)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Digital Image Computing: Techniques and Applications (DICTA'05)
+Y1  - 6-8 Dec. 2005
+ER  - 
+
+TY  - CONF
+TI  - Subjective and Objective Analyses of Collaboration and Co-Presence in a Virtual Reality Remote Environment
+T2  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+SP  - 485
+EP  - 487
+AU  - A. Bayro
+AU  - Y. Ghasemi
+AU  - H. Jeong
+PY  - 2022
+DO  - 10.1109/VRW55335.2022.00108
+JO  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+Y1  - 12-16 March 2022
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Virtual Material Perception with Vibrotactile and Visual Cues
+T2  - 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+SP  - 1011
+EP  - 1012
+AU  - A. Tang
+AU  - M. Billinghurst
+AU  - S. Rosset
+AU  - I. Anderson
+PY  - 2023
+DO  - 10.1109/VRW58643.2023.00351
+JO  - 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+Y1  - 25-29 March 2023
+ER  - 
+
+TY  - CONF
+TI  - Automatic face recognition system architecture for collaborative virtual environments
+T2  - IEEE International Workshop HAVE Haptic Virtual Environments and Their
+SP  - 1
+EP  - 6
+AU  - A. Adler
+PY  - 2002
+DO  - 10.1109/HAVE.2002.1106905
+JO  - IEEE International Workshop HAVE Haptic Virtual Environments and Their
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE International Workshop HAVE Haptic Virtual Environments and Their
+Y1  - 17-18 Nov. 2002
+ER  - 
+
+TY  - CONF
+TI  - Joint manipulation management in collaborative virtual environments
+T2  - The 2nd IEEE Internatioal Workshop on Haptic, Audio and Visual Environments and Their Applications, 2003. HAVE 2003. Proceedings.
+SP  - 95
+EP  - 99
+AU  - Xiaojun Shen
+AU  - N. D. Georganas
+PY  - 2003
+DO  - 10.1109/HAVE.2003.1244732
+JO  - The 2nd IEEE Internatioal Workshop on Haptic, Audio and Visual Environments and Their Applications, 2003. HAVE 2003. Proceedings.
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - The 2nd IEEE Internatioal Workshop on Haptic, Audio and Visual Environments and Their Applications, 2003. HAVE 2003. Proceedings.
+Y1  - 21-21 Sept. 2003
+ER  - 
+
+TY  - JOUR
+TI  - Combating Latency in Haptic Collaborative Virtual Environments
+T2  - Presence
+SP  - 313
+EP  - 328
+AU  - C. Gunn
+AU  - M. Hutchins
+AU  - M. Adcock
+PY  - 2005
+DO  - 10.1162/105474605323384663
+JO  - Presence
+IS  - 3
+SN  - 1054-7460
+VO  - 14
+VL  - 14
+JA  - Presence
+Y1  - June 2005
+ER  - 
+
+TY  - CONF
+TI  - AlloHaptic: Robot-Mediated Haptic Collaboration for Learning Linear Functions
+T2  - 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+SP  - 27
+EP  - 34
+AU  - H. Khodr
+AU  - S. Kianzad
+AU  - W. Johal
+AU  - A. Kothiyal
+AU  - B. Bruno
+AU  - P. Dillenbourg
+PY  - 2020
+DO  - 10.1109/RO-MAN47096.2020.9223563
+JO  - 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+IS  - 
+SN  - 1944-9437
+VO  - 
+VL  - 
+JA  - 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+Y1  - 31 Aug.-4 Sept. 2020
+ER  - 
+
+TY  - CONF
+TI  - Dual-Driver Networked Fire Truck Simulator with Multimodal Display including Force Feedback Steering and Rotating Motion Platform
+T2  - 16th IEEE International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2007)
+SP  - 424
+EP  - 430
+AU  - T. Nagai
+AU  - M. Cohen
+AU  - Y. Moriguchi
+AU  - Y. Murakami
+PY  - 2007
+DO  - 10.1109/WETICE.2007.4407202
+JO  - 16th IEEE International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2007)
+IS  - 
+SN  - 1524-4547
+VO  - 
+VL  - 
+JA  - 16th IEEE International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2007)
+Y1  - 18-20 June 2007
+ER  - 
+
+TY  - JOUR
+TI  - Dual-User Teleoperation Systems: New Multilateral Shared Control Architecture and Kinesthetic Performance Measures
+T2  - IEEE/ASME Transactions on Mechatronics
+SP  - 895
+EP  - 906
+AU  - B. Khademian
+AU  - K. Hashtrudi-Zaad
+PY  - 2012
+DO  - 10.1109/TMECH.2011.2141673
+JO  - IEEE/ASME Transactions on Mechatronics
+IS  - 5
+SN  - 1941-014X
+VO  - 17
+VL  - 17
+JA  - IEEE/ASME Transactions on Mechatronics
+Y1  - Oct. 2012
+ER  - 
+
+TY  - CONF
+TI  - Real-time Interactions and Synchronization of Voxel-based Collaborative Virtual Environments
+T2  - 2007 IEEE Symposium on 3D User Interfaces
+SP  - 1
+EP  - 
+AU  - E. Acosta
+AU  - A. Liu
+PY  - 2007
+DO  - 10.1109/3DUI.2007.340785
+JO  - 2007 IEEE Symposium on 3D User Interfaces
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 IEEE Symposium on 3D User Interfaces
+Y1  - 10-11 March 2007
+ER  - 
+
+TY  - JOUR
+TI  - Collada-Based File Format for Various Attributes of Realistic Objects in Networked VR Applications Supporting Various Peripherals
+T2  - Journal of Mobile Multimedia
+SP  - 128
+EP  - 144
+AU  - K. Miyahara
+AU  - Y. Okada
+PY  - 2010
+DO  - JMM/JMM.2010.11074379
+JO  - Journal of Mobile Multimedia
+IS  - 2
+SN  - 1550-4654
+VO  - 6
+VL  - 6
+JA  - Journal of Mobile Multimedia
+Y1  - April 2010
+ER  - 
+
+TY  - CONF
+TI  - A Novel Method for Supporting Massively Multi-user Virtual Environments
+T2  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+SP  - 72
+EP  - 77
+AU  - D. T. Ahmed
+AU  - S. Shirmohammadi
+AU  - J. C. De Oliveira
+PY  - 2006
+DO  - 10.1109/HAVE.2006.283807
+JO  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+Y1  - 4-5 Nov. 2006
+ER  - 
+
+TY  - JOUR
+TI  - SensARy Substitution: Augmented Reality Techniques to Enhance Force Perception in Touchless Robot Control
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 3235
+EP  - 3244
+AU  - T. Mielke
+AU  - F. Heinrich
+AU  - C. Hansen
+PY  - 2025
+DO  - 10.1109/TVCG.2025.3549856
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 5
+SN  - 1941-0506
+VO  - 31
+VL  - 31
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - May 2025
+ER  - 
+
+TY  - JOUR
+TI  - QoS Provisioning: Key Drivers and Enablers Toward the Tactile Internet in Beyond 5G Era
+T2  - IEEE Access
+SP  - 85720
+EP  - 85754
+AU  - M. Z. Islam
+AU  - R. Ali
+AU  - A. Haider
+AU  - H. S. Kim
+PY  - 2022
+DO  - 10.1109/ACCESS.2022.3197900
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+ER  - 
+
+TY  - CONF
+TI  - Exploring Stereoscopic Multi-user Interaction with Individual Views
+T2  - 2014 International Conference on Cyberworlds
+SP  - 101
+EP  - 106
+AU  - V. Küszter
+AU  - G. Brunnett
+AU  - D. Pietschmann
+PY  - 2014
+DO  - 10.1109/CW.2014.22
+JO  - 2014 International Conference on Cyberworlds
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 International Conference on Cyberworlds
+Y1  - 6-8 Oct. 2014
+ER  - 
+
+TY  - CONF
+TI  - Visual and force feedback time-delays change telepresence: Quantitative evidence from crossmodal congruecy task
+T2  - 2013 World Haptics Conference (WHC)
+SP  - 577
+EP  - 582
+AU  - A. Sengül
+AU  - F. Rivest
+AU  - M. van Elk
+AU  - O. Blanke
+AU  - H. Bleuler
+PY  - 2013
+DO  - 10.1109/WHC.2013.6548472
+JO  - 2013 World Haptics Conference (WHC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 World Haptics Conference (WHC)
+Y1  - 14-17 April 2013
+ER  - 
+
+TY  - CONF
+TI  - The Two-User Seating Buck: Enabling Face-to-Face Discussions of Novel Car Interface Concepts
+T2  - 2008 IEEE Virtual Reality Conference
+SP  - 75
+EP  - 82
+AU  - H. Salzmann
+AU  - B. Froehlich
+PY  - 2008
+DO  - 10.1109/VR.2008.4480754
+JO  - 2008 IEEE Virtual Reality Conference
+IS  - 
+SN  - 2375-5334
+VO  - 
+VL  - 
+JA  - 2008 IEEE Virtual Reality Conference
+Y1  - 8-12 March 2008
+ER  - 
+
+TY  - JOUR
+TI  - Design of a Desktop Virtual Reality-Based Collaborative Activities Simulator (ViRCAS) to Support Teamwork in Workplace Settings for Autistic Adults
+T2  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+SP  - 2184
+EP  - 2194
+AU  - A. Z. Amat
+AU  - D. Adiani
+AU  - M. Tauseef
+AU  - M. Breen
+AU  - S. Hunt
+AU  - A. R. Swanson
+AU  - A. S. Weitlauf
+AU  - Z. E. Warren
+AU  - N. Sarkar
+PY  - 2023
+DO  - 10.1109/TNSRE.2023.3271139
+JO  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+IS  - 
+SN  - 1558-0210
+VO  - 31
+VL  - 31
+JA  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+Y1  - 2023
+ER  - 
+
+TY  - CONF
+TI  - Collaborative Virtual Assembly Environment for Product Design
+T2  - 2019 International Conference on Computational Science and Computational Intelligence (CSCI)
+SP  - 606
+EP  - 611
+AU  - S. Sharma
+AU  - S. -T. Bodempudi
+AU  - M. Arrolla
+AU  - A. Upadhyay
+PY  - 2019
+DO  - 10.1109/CSCI49370.2019.00114
+JO  - 2019 International Conference on Computational Science and Computational Intelligence (CSCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Computational Science and Computational Intelligence (CSCI)
+Y1  - 5-7 Dec. 2019
+ER  - 
+
+TY  - JOUR
+TI  - Haptics for Product Design and Manufacturing Simulation
+T2  - IEEE Transactions on Haptics
+SP  - 358
+EP  - 375
+AU  - P. Xia
+PY  - 2016
+DO  - 10.1109/TOH.2016.2554551
+JO  - IEEE Transactions on Haptics
+IS  - 3
+SN  - 2329-4051
+VO  - 9
+VL  - 9
+JA  - IEEE Transactions on Haptics
+Y1  - 1 July-Sept. 2016
+ER  - 
+
+TY  - JOUR
+TI  - Gaze Augmented Hand-Based Kinesthetic Interaction: What You See is What You Feel
+T2  - IEEE Transactions on Haptics
+SP  - 114
+EP  - 127
+AU  - Z. Li
+AU  - D. Akkil
+AU  - R. Raisamo
+PY  - 2019
+DO  - 10.1109/TOH.2019.2896027
+JO  - IEEE Transactions on Haptics
+IS  - 2
+SN  - 2329-4051
+VO  - 12
+VL  - 12
+JA  - IEEE Transactions on Haptics
+Y1  - 1 April-June 2019
+ER  - 
+
+TY  - CONF
+TI  - Collaborative virtual training using force feedback devices
+T2  - Proceedings. 17th Brazilian Symposium on Computer Graphics and Image Processing
+SP  - 332
+EP  - 339
+AU  - M. A. F. Rodrigues
+AU  - R. R. C. Chaves
+AU  - W. B. Silva
+PY  - 2004
+DO  - 10.1109/SIBGRA.2004.1352978
+JO  - Proceedings. 17th Brazilian Symposium on Computer Graphics and Image Processing
+IS  - 
+SN  - 1530-1834
+VO  - 
+VL  - 
+JA  - Proceedings. 17th Brazilian Symposium on Computer Graphics and Image Processing
+Y1  - 20-20 Oct. 2004
+ER  - 
+
+TY  - CONF
+TI  - Challenges for real time long distance holoportation to enable human bond communication
+T2  - 2019 42nd International Conference on Telecommunications and Signal Processing (TSP)
+SP  - 529
+EP  - 534
+AU  - A. Manolova
+AU  - N. Neshov
+AU  - K. Tonchev
+AU  - P. Koleva
+AU  - V. Poulkov
+PY  - 2019
+DO  - 10.1109/TSP.2019.8769053
+JO  - 2019 42nd International Conference on Telecommunications and Signal Processing (TSP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 42nd International Conference on Telecommunications and Signal Processing (TSP)
+Y1  - 1-3 July 2019
+ER  - 
+
+TY  - CONF
+TI  - Using a rendering engine to support the development of immersive virtual reality applications
+T2  - 2008 IEEE Conference on Virtual Environments, Human-Computer Interfaces and Measurement Systems
+SP  - 74
+EP  - 79
+AU  - S. R. dos Santos
+AU  - J. C. de Oliveira
+AU  - L. M. Fraga
+AU  - P. R. Trenhago
+AU  - S. M. Malfatti
+PY  - 2008
+DO  - 10.1109/VECIMS.2008.4592756
+JO  - 2008 IEEE Conference on Virtual Environments, Human-Computer Interfaces and Measurement Systems
+IS  - 
+SN  - 1944-9410
+VO  - 
+VL  - 
+JA  - 2008 IEEE Conference on Virtual Environments, Human-Computer Interfaces and Measurement Systems
+Y1  - 14-16 July 2008
+ER  - 
+
+TY  - CONF
+TI  - Application of robotic mechanisms to simulation of the international space station
+T2  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+SP  - 3047
+EP  - 3052 vol.3
+AU  - E. Freund
+AU  - J. Rossmann
+AU  - C. Turner
+PY  - 2003
+DO  - 10.1109/IROS.2003.1249624
+JO  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+IS  - 
+SN  - 
+VO  - 4
+VL  - 4
+JA  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+Y1  - 27-31 Oct. 2003
+ER  - 
+
+TY  - JOUR
+TI  - Non-Contact Thermo-Visual Augmentation by IR-RGB Projection
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 1707
+EP  - 1716
+AU  - D. Iwai
+AU  - M. Aoki
+AU  - K. Sato
+PY  - 2019
+DO  - 10.1109/TVCG.2018.2820121
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 4
+SN  - 1941-0506
+VO  - 25
+VL  - 25
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 1 April 2019
+ER  - 
+
+TY  - JOUR
+TI  - Immersive Multiplayer VR: Unreal Engine’s Strengths, Limitations, and Future Prospects
+T2  - IEEE Access
+SP  - 85597
+EP  - 85612
+AU  - S. Berrezueta-Guzman
+AU  - S. Wagner
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3570166
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - Real-Time Medical Training in Virtual Reality over 5G Open RAN: A Performance Study
+T2  - 2025 IEEE 50th Conference on Local Computer Networks (LCN)
+SP  - 1
+EP  - 7
+AU  - V. Ravihansa
+AU  - C. Sandeepa
+AU  - O. Vasilapostolos
+AU  - F. McAuliffe
+AU  - E. Mangina
+AU  - M. Liyanage
+PY  - 2025
+DO  - 10.1109/LCN65610.2025.11146288
+JO  - 2025 IEEE 50th Conference on Local Computer Networks (LCN)
+IS  - 
+SN  - 2832-1421
+VO  - 
+VL  - 
+JA  - 2025 IEEE 50th Conference on Local Computer Networks (LCN)
+Y1  - 13-16 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - Haptic Feedback Relocation from the Fingertips to the Wrist for Two-Finger Manipulation in Virtual Reality
+T2  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 628
+EP  - 633
+AU  - J. E. Palmer
+AU  - M. Sarac
+AU  - A. A. Garza
+AU  - A. M. Okamura
+PY  - 2022
+DO  - 10.1109/IROS47612.2022.9981392
+JO  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 23-27 Oct. 2022
+ER  - 
+
+TY  - CONF
+TI  - The wobbly table: Increased social presence via subtle incidental movement of a real-virtual table
+T2  - 2016 IEEE Virtual Reality (VR)
+SP  - 11
+EP  - 17
+AU  - M. Lee
+AU  - K. Kim
+AU  - S. Daher
+AU  - A. Raij
+AU  - R. Schubert
+AU  - J. Bailenson
+AU  - G. Welch
+PY  - 2016
+DO  - 10.1109/VR.2016.7504683
+JO  - 2016 IEEE Virtual Reality (VR)
+IS  - 
+SN  - 2375-5334
+VO  - 
+VL  - 
+JA  - 2016 IEEE Virtual Reality (VR)
+Y1  - 19-23 March 2016
+ER  - 
+
+TY  - JOUR
+TI  - A DASH-Based Adaptive Multiple Sensorial Content Delivery Solution for Improved User Quality of Experience
+T2  - IEEE Access
+SP  - 89172
+EP  - 89187
+AU  - L. Zou
+AU  - T. Bi
+AU  - G. -M. Muntean
+PY  - 2019
+DO  - 10.1109/ACCESS.2019.2926207
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 7
+VL  - 7
+JA  - IEEE Access
+Y1  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Digital Transformation in Nursing Education: A Systematic Review on Computer-Aided Nursing Education Pedagogies, Recent Advancements and Outlook on the Post-COVID-19 Era
+T2  - IEEE Access
+SP  - 135659
+EP  - 135695
+AU  - N. K. Dicheva
+AU  - I. U. Rehman
+AU  - A. Anwar
+AU  - M. M. Nasralla
+AU  - L. Husamaldin
+AU  - S. Aleshaiker
+PY  - 2023
+DO  - 10.1109/ACCESS.2023.3337669
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+ER  - 
+
+TY  - CONF
+TI  - A distributed collaborative simulation environment for orthopedic surgical training
+T2  - 2017 Annual IEEE International Systems Conference (SysCon)
+SP  - 1
+EP  - 8
+AU  - J. Cecil
+AU  - A. Gupta
+AU  - P. Ramanathan
+AU  - M. Pirela-Cruz
+PY  - 2017
+DO  - 10.1109/SYSCON.2017.7934721
+JO  - 2017 Annual IEEE International Systems Conference (SysCon)
+IS  - 
+SN  - 2472-9647
+VO  - 
+VL  - 
+JA  - 2017 Annual IEEE International Systems Conference (SysCon)
+Y1  - 24-27 April 2017
+ER  - 
+
+TY  - CONF
+TI  - Tactical Training Using Augmented Reality/Virtual Reality and Haptics
+T2  - 2024 4th International Conference on Technological Advancements in Computational Sciences (ICTACS)
+SP  - 646
+EP  - 651
+AU  - S. Vashisht
+PY  - 2024
+DO  - 10.1109/ICTACS62700.2024.10840957
+JO  - 2024 4th International Conference on Technological Advancements in Computational Sciences (ICTACS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 4th International Conference on Technological Advancements in Computational Sciences (ICTACS)
+Y1  - 13-15 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - Zone Based Messaging in Collaborative Virtual Environments
+T2  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+SP  - 165
+EP  - 170
+AU  - D. T. Ahmed
+AU  - S. Shirmohammadi
+AU  - I. Kazem
+PY  - 2006
+DO  - 10.1109/HAVE.2006.283794
+JO  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+Y1  - 4-5 Nov. 2006
+ER  - 
+
+TY  - CONF
+TI  - Control system for the Schaire Internet chair
+T2  - The Fourth International Conference onComputer and Information Technology, 2004. CIT '04.
+SP  - 215
+EP  - 220
+AU  - U. C. Duminduwardena
+AU  - M. Cohen
+PY  - 2004
+DO  - 10.1109/CIT.2004.1357199
+JO  - The Fourth International Conference onComputer and Information Technology, 2004. CIT '04.
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - The Fourth International Conference onComputer and Information Technology, 2004. CIT '04.
+Y1  - 16-16 Sept. 2004
+ER  - 
+
+TY  - CONF
+TI  - An application-layer multicasting protocol for distributed collaboration
+T2  - IEEE International Workshop on Haptic Audio Visual Environments and their Applications
+SP  - 4 pp.
+EP  - 
+AU  - S. Shirmohammadi
+AU  - A. Diabi
+AU  - P. Lacombe
+PY  - 2005
+DO  - 10.1109/HAVE.2005.1545667
+JO  - IEEE International Workshop on Haptic Audio Visual Environments and their Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE International Workshop on Haptic Audio Visual Environments and their Applications
+Y1  - 1-1 Oct. 2005
+ER  - 
+
+TY  - JOUR
+TI  - Collaborative Networked Virtual Surgical Simulators (CNVSS) Implementing Hybrid Client–Server Architecture: Factors Affecting Collaborative Performance
+T2  - Presence
+SP  - 393
+EP  - 409
+AU  - C. Diaz
+AU  - H. Trefftz
+AU  - L. Quintero
+AU  - D. A. Acosta
+AU  - S. Srivastava
+PY  - 2014
+DO  - 10.1162/PRES_a_00208
+JO  - Presence
+IS  - 4
+SN  - 1054-7460
+VO  - 23
+VL  - 23
+JA  - Presence
+Y1  - 1 Nov. 2014
+ER  - 
+
+TY  - CONF
+TI  - Investigating the application of virtual environment technology for use in the petroleum exploration industry
+T2  - Proceedings 23rd Australasian Computer Science Conference. ACSC 2000 (Cat. No.PR00518)
+SP  - 181
+EP  - 188
+AU  - K. V. Nesbitt
+AU  - R. J. Gallimore
+AU  - B. J. Orenstein
+PY  - 2000
+DO  - 10.1109/ACSC.2000.824400
+JO  - Proceedings 23rd Australasian Computer Science Conference. ACSC 2000 (Cat. No.PR00518)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings 23rd Australasian Computer Science Conference. ACSC 2000 (Cat. No.PR00518)
+Y1  - 31 Jan.-3 Feb. 2000
+ER  - 
+
+TY  - JOUR
+TI  - Oasis: Procedurally Generated Social Virtual Spaces from 3D Scanned Real Spaces
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 3174
+EP  - 3187
+AU  - M. Sra
+AU  - S. Garrido-Jurado
+AU  - P. Maes
+PY  - 2018
+DO  - 10.1109/TVCG.2017.2762691
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 12
+SN  - 1941-0506
+VO  - 24
+VL  - 24
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 1 Dec. 2018
+ER  - 
+
+TY  - CONF
+TI  - Predictive force display for tele-handling/machining system
+T2  - Proceedings of 1993 2nd IEEE International Workshop on Robot and Human Communication
+SP  - 160
+EP  - 164
+AU  - M. Mitsuishi
+AU  - T. Hori
+AU  - T. Nagao
+PY  - 1993
+DO  - 10.1109/ROMAN.1993.367729
+JO  - Proceedings of 1993 2nd IEEE International Workshop on Robot and Human Communication
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of 1993 2nd IEEE International Workshop on Robot and Human Communication
+Y1  - 3-5 Nov. 1993
+ER  - 
+
+TY  - CONF
+TI  - Jamming in MR: Towards Real-Time Music Collaboration in Mixed Reality
+T2  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+SP  - 854
+EP  - 855
+AU  - R. Schlagowski
+AU  - K. Gupta
+AU  - S. Mertes
+AU  - M. Billinghurst
+AU  - S. Metzner
+AU  - E. André
+PY  - 2022
+DO  - 10.1109/VRW55335.2022.00278
+JO  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+Y1  - 12-16 March 2022
+ER  - 
+
+TY  - CONF
+TI  - A Shared Haptic Virtual Environment for Dental Surgical Skill Training
+T2  - 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+SP  - 347
+EP  - 352
+AU  - M. Kaluschke
+AU  - M. S. Yin
+AU  - P. Haddawy
+AU  - N. Srimaneekarn
+AU  - P. Saikaew
+AU  - G. Zachmann
+PY  - 2021
+DO  - 10.1109/VRW52623.2021.00069
+JO  - 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+Y1  - 27 March-1 April 2021
+ER  - 
+
+TY  - CONF
+TI  - Design of a master-slave rehabilitation system using self-tuning fuzzy PI controller
+T2  - 2012 IEEE International Conference on Mechatronics and Automation
+SP  - 2088
+EP  - 2092
+AU  - S. Guo
+AU  - S. Zhang
+AU  - Z. Song
+AU  - M. Pang
+PY  - 2012
+DO  - 10.1109/ICMA.2012.6285665
+JO  - 2012 IEEE International Conference on Mechatronics and Automation
+IS  - 
+SN  - 2152-744X
+VO  - 
+VL  - 
+JA  - 2012 IEEE International Conference on Mechatronics and Automation
+Y1  - 5-8 Aug. 2012
+ER  - 
+
+TY  - CONF
+TI  - Virtual Reality In Education: Promise And Reality
+T2  - Proceedings. IEEE 1998 Virtual Reality Annual International Symposium (Cat. No.98CB36180)
+SP  - 208
+EP  - 208
+AU  - R. B. Loftin
+AU  - F. P. Brooks
+AU  - C. Dede
+PY  - 1998
+DO  - 10.1109/VRAIS.1998.658491
+JO  - Proceedings. IEEE 1998 Virtual Reality Annual International Symposium (Cat. No.98CB36180)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings. IEEE 1998 Virtual Reality Annual International Symposium (Cat. No.98CB36180)
+Y1  - 14-18 March 1998
+ER  - 
+
+TY  - CONF
+TI  - From 3d bimanual toward distant collaborative interaction techniques: an awareness issue
+T2  - 2014 International Workshop on Collaborative Virtual Environments (3DCVE)
+SP  - 1
+EP  - 8
+AU  - M. L. Chénéchal
+AU  - B. Arnaldi
+AU  - T. Duval
+AU  - V. Gouranton
+AU  - J. Royan
+PY  - 2014
+DO  - 10.1109/3DCVE.2014.7160929
+JO  - 2014 International Workshop on Collaborative Virtual Environments (3DCVE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 International Workshop on Collaborative Virtual Environments (3DCVE)
+Y1  - 30-30 March 2014
+ER  - 
+
+TY  - CONF
+TI  - Performance evaluation of a novel telerehabilitation system for the elbow joint training
+T2  - 2015 IEEE International Conference on Mechatronics and Automation (ICMA)
+SP  - 420
+EP  - 424
+AU  - S. Zhang
+AU  - S. Guo
+PY  - 2015
+DO  - 10.1109/ICMA.2015.7237522
+JO  - 2015 IEEE International Conference on Mechatronics and Automation (ICMA)
+IS  - 
+SN  - 2152-744X
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Mechatronics and Automation (ICMA)
+Y1  - 2-5 Aug. 2015
+ER  - 
+
+TY  - CONF
+TI  - Assembly Modelling Through Constraint-based Manipulations in A Virtual Reality Environment
+T2  - TENCON 2005 - 2005 IEEE Region 10 Conference
+SP  - 1
+EP  - 6
+AU  - Y. Zhong
+AU  - B. Shirinzadeh
+AU  - W. Ma
+AU  - H. C. Liaw
+PY  - 2005
+DO  - 10.1109/TENCON.2005.301317
+JO  - TENCON 2005 - 2005 IEEE Region 10 Conference
+IS  - 
+SN  - 2159-3450
+VO  - 
+VL  - 
+JA  - TENCON 2005 - 2005 IEEE Region 10 Conference
+Y1  - 21-24 Nov. 2005
+ER  - 
+
+TY  - CONF
+TI  - Virtual Human-Machine Interaction Force Algorithm in Astronaut Virtual Training
+T2  - 2022 12th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)
+SP  - 1299
+EP  - 1304
+AU  - L. Lingjie
+AU  - W. Lan
+AU  - C. Ying
+AU  - Z. Lixun
+AU  - X. Feng
+PY  - 2022
+DO  - 10.1109/CYBER55403.2022.9907056
+JO  - 2022 12th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)
+IS  - 
+SN  - 2642-6633
+VO  - 
+VL  - 
+JA  - 2022 12th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)
+Y1  - 27-31 July 2022
+ER  - 
+
+TY  - CONF
+TI  - Virtual impedance based remote tele-collaboration with time delay
+T2  - 8th IEEE International Workshop on Robot and Human Interaction. RO-MAN '99 (Cat. No.99TH8483)
+SP  - 267
+EP  - 272
+AU  - Nak Young Chong
+AU  - T. Kotoku
+AU  - K. Ohba
+AU  - K. Komoriya
+AU  - N. Matsuhira
+AU  - K. Taniel
+PY  - 1999
+DO  - 10.1109/ROMAN.1999.900351
+JO  - 8th IEEE International Workshop on Robot and Human Interaction. RO-MAN '99 (Cat. No.99TH8483)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 8th IEEE International Workshop on Robot and Human Interaction. RO-MAN '99 (Cat. No.99TH8483)
+Y1  - 27-29 Sept. 1999
+ER  - 
+
+TY  - CONF
+TI  - Autonomous agents in collaborative virtual environments
+T2  - Proceedings. IEEE 8th International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WET ICE'99)
+SP  - 208
+EP  - 215
+AU  - S. Noll
+AU  - C. Paul
+AU  - R. Peters
+AU  - N. Schiffner
+PY  - 1999
+DO  - 10.1109/ENABL.1999.805203
+JO  - Proceedings. IEEE 8th International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WET ICE'99)
+IS  - 
+SN  - 1080-1383
+VO  - 
+VL  - 
+JA  - Proceedings. IEEE 8th International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WET ICE'99)
+Y1  - 18-18 June 1999
+ER  - 
+
+TY  - CONF
+TI  - Authoring multimedia objects in collaborative ambient intelligent virtual environment
+T2  - IEEE International Workshop on Haptic Audio Visual Environments and their Applications
+SP  - 6 pp.
+EP  - 
+AU  - A. El Saddik
+AU  - M. A. Rahman
+AU  - M. A. Hossain
+PY  - 2005
+DO  - 10.1109/HAVE.2005.1545671
+JO  - IEEE International Workshop on Haptic Audio Visual Environments and their Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE International Workshop on Haptic Audio Visual Environments and their Applications
+Y1  - 1-1 Oct. 2005
+ER  - 
+
+TY  - CONF
+TI  - The roles of haptic-ostensive referring expressions in cooperative, task-based human-robot dialogue
+T2  - 2008 3rd ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+SP  - 295
+EP  - 302
+AU  - M. E. Foster
+AU  - E. G. Bard
+AU  - M. Guhe
+AU  - R. L. Hill
+AU  - J. Oberlander
+AU  - A. Knoll
+PY  - 2008
+DO  - 10.1145/1349822.1349861
+JO  - 2008 3rd ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+IS  - 
+SN  - 2167-2148
+VO  - 
+VL  - 
+JA  - 2008 3rd ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+Y1  - 12-15 March 2008
+ER  - 
+
+TY  - CONF
+TI  - Managing collaboration in the nanoManipulator
+T2  - IEEE Virtual Reality, 2003. Proceedings.
+SP  - 180
+EP  - 187
+AU  - T. C. Hudson
+AU  - A. T. Helser
+AU  - D. H. Sonnenwald
+AU  - M. C. Whitton
+PY  - 2003
+DO  - 10.1109/VR.2003.1191137
+JO  - IEEE Virtual Reality, 2003. Proceedings.
+IS  - 
+SN  - 1087-8270
+VO  - 
+VL  - 
+JA  - IEEE Virtual Reality, 2003. Proceedings.
+Y1  - 22-26 March 2003
+ER  - 
+
+TY  - JOUR
+TI  - A Survey on Remote Assistance and Training in Mixed Reality Environments
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 2291
+EP  - 2303
+AU  - C. G. Fidalgo
+AU  - Y. Yan
+AU  - H. Cho
+AU  - M. Sousa
+AU  - D. Lindlbauer
+AU  - J. Jorge
+PY  - 2023
+DO  - 10.1109/TVCG.2023.3247081
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 5
+SN  - 1941-0506
+VO  - 29
+VL  - 29
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - May 2023
+ER  - 
+
+TY  - CONF
+TI  - Tele-Board Prototyper - Distributed 3D Modeling in a Web-Based Real-Time Collaboration System
+T2  - 2016 International Conference on Collaboration Technologies and Systems (CTS)
+SP  - 446
+EP  - 453
+AU  - M. Wenzel
+AU  - A. Klinger
+AU  - C. Meinel
+PY  - 2016
+DO  - 10.1109/CTS.2016.0084
+JO  - 2016 International Conference on Collaboration Technologies and Systems (CTS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Collaboration Technologies and Systems (CTS)
+Y1  - 31 Oct.-4 Nov. 2016
+ER  - 
+
+TY  - CONF
+TI  - A Comparison Study Understanding the Impact of Mixed Reality Collaboration on Sense of Co-Presence
+T2  - 2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+SP  - 580
+EP  - 590
+AU  - J. Yin
+AU  - W. Zheng
+AU  - Y. Wang
+AU  - X. Tong
+AU  - Y. Yan
+PY  - 2025
+DO  - 10.1109/VR59515.2025.00081
+JO  - 2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+IS  - 
+SN  - 2642-5254
+VO  - 
+VL  - 
+JA  - 2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+Y1  - 8-12 March 2025
+ER  - 
+
+TY  - CONF
+TI  - A Review of Bilateral Teleoperation Control Strategies with Soft Environment
+T2  - 2021 6th IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)
+SP  - 459
+EP  - 464
+AU  - Y. Deng
+AU  - Y. Tang
+AU  - B. Yang
+AU  - W. Zheng
+AU  - S. Liu
+AU  - C. Liu
+PY  - 2021
+DO  - 10.1109/ICARM52023.2021.9536056
+JO  - 2021 6th IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 6th IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)
+Y1  - 3-5 July 2021
+ER  - 
+
+TY  - JOUR
+TI  - Scene Synchronization for Real-Time Interaction in Distributed Mixed Reality and Virtual Reality Environments
+T2  - Presence
+SP  - 315
+EP  - 327
+AU  - F. G. Hamza-Lup
+AU  - J. P. Rolland
+PY  - 2004
+DO  - 10.1162/1054746041422343
+JO  - Presence
+IS  - 3
+SN  - 1054-7460
+VO  - 13
+VL  - 13
+JA  - Presence
+Y1  - June 2004
+ER  - 
+
+TY  - CONF
+TI  - Tactile-ViewGCN: Learning Shape Descriptor from Tactile Data using Graph Convolutional Network
+T2  - 2025 7th International Conference on Signal Processing, Computing and Control (ISPCC)
+SP  - 657
+EP  - 662
+AU  - S. Vs
+AU  - M. Sharma
+PY  - 2025
+DO  - 10.1109/ISPCC66872.2025.11039550
+JO  - 2025 7th International Conference on Signal Processing, Computing and Control (ISPCC)
+IS  - 
+SN  - 2643-8615
+VO  - 
+VL  - 
+JA  - 2025 7th International Conference on Signal Processing, Computing and Control (ISPCC)
+Y1  - 6-8 March 2025
+ER  - 
+
+TY  - CONF
+TI  - Study of communication modalities for teaching distance information
+T2  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+SP  - 706
+EP  - 707
+AU  - F. Fastelli
+AU  - C. Simon
+AU  - A. Ricca
+AU  - A. Chellali
+PY  - 2022
+DO  - 10.1109/VRW55335.2022.00204
+JO  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+Y1  - 12-16 March 2022
+ER  - 
+
+TY  - CONF
+TI  - Providing a Wide Field of View for Effective Interaction in Desktop Tangible Augmented Reality
+T2  - 2008 IEEE Virtual Reality Conference
+SP  - 3
+EP  - 10
+AU  - S. Jeon
+AU  - G. J. Kim
+PY  - 2008
+DO  - 10.1109/VR.2008.4480743
+JO  - 2008 IEEE Virtual Reality Conference
+IS  - 
+SN  - 2375-5334
+VO  - 
+VL  - 
+JA  - 2008 IEEE Virtual Reality Conference
+Y1  - 8-12 March 2008
+ER  - 
+
+TY  - JOUR
+TI  - Collaborative Strategies for the Search of 3-D Targets in Molecular Environments
+T2  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+SP  - 1555
+EP  - 1565
+AU  - J. Simard
+AU  - M. Ammi
+AU  - M. Auvray
+PY  - 2012
+DO  - 10.1109/TSMCC.2012.2206805
+JO  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+IS  - 6
+SN  - 1558-2442
+VO  - 42
+VL  - 42
+JA  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+Y1  - Nov. 2012
+ER  - 
+
+TY  - JOUR
+TI  - A Systematic Review of Multilateral Teleoperation Systems
+T2  - IEEE Transactions on Haptics
+SP  - 338
+EP  - 356
+AU  - M. Shahbazi
+AU  - S. F. Atashzar
+AU  - R. V. Patel
+PY  - 2018
+DO  - 10.1109/TOH.2018.2818134
+JO  - IEEE Transactions on Haptics
+IS  - 3
+SN  - 2329-4051
+VO  - 11
+VL  - 11
+JA  - IEEE Transactions on Haptics
+Y1  - 1 July-Sept. 2018
+ER  - 
+
+TY  - JOUR
+TI  - A Small-Gain Approach for Nonpassive Bilateral Telerobotic Rehabilitation: Stability Analysis and Controller Synthesis
+T2  - IEEE Transactions on Robotics
+SP  - 49
+EP  - 66
+AU  - S. F. Atashzar
+AU  - I. G. Polushin
+AU  - R. V. Patel
+PY  - 2017
+DO  - 10.1109/TRO.2016.2623336
+JO  - IEEE Transactions on Robotics
+IS  - 1
+SN  - 1941-0468
+VO  - 33
+VL  - 33
+JA  - IEEE Transactions on Robotics
+Y1  - Feb. 2017
+ER  - 
+
+TY  - JOUR
+TI  - The Metaverse: Survey, Trends, Novel Pipeline Ecosystem & Future Directions
+T2  - IEEE Communications Surveys & Tutorials
+SP  - 2914
+EP  - 2960
+AU  - H. Sami
+AU  - A. Hammoud
+AU  - M. Arafeh
+AU  - M. Wazzeh
+AU  - S. Arisdakessian
+AU  - M. Chahoud
+AU  - O. Wehbi
+AU  - M. Ajaj
+AU  - A. Mourad
+AU  - H. Otrok
+AU  - O. Abdel Wahab
+AU  - R. Mizouni
+AU  - J. Bentahar
+AU  - C. Talhi
+AU  - Z. Dziong
+AU  - E. Damiani
+AU  - M. Guizani
+PY  - 2024
+DO  - 10.1109/COMST.2024.3392642
+JO  - IEEE Communications Surveys & Tutorials
+IS  - 4
+SN  - 1553-877X
+VO  - 26
+VL  - 26
+JA  - IEEE Communications Surveys & Tutorials
+Y1  - Fourthquarter 2024
+ER  - 
+
+TY  - JOUR
+TI  - Virtual Training via Vibrotactile Arrays
+T2  - Presence
+SP  - 103
+EP  - 120
+AU  - A. Bloomfield
+AU  - N. I. Badler
+PY  - 2008
+DO  - 10.1162/pres.17.2.103
+JO  - Presence
+IS  - 2
+SN  - 1054-7460
+VO  - 17
+VL  - 17
+JA  - Presence
+Y1  - 1 April 2008
+ER  - 
+
+TY  - JOUR
+TI  - Wearable Augmented Reality: Research Trends and Future Directions from Three Major Venues
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 4782
+EP  - 4793
+AU  - T. T. Minh Tran
+AU  - S. Brown
+AU  - O. Weidlich
+AU  - M. Billinghurst
+AU  - C. Parker
+PY  - 2023
+DO  - 10.1109/TVCG.2023.3320231
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 11
+SN  - 1941-0506
+VO  - 29
+VL  - 29
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Nov. 2023
+ER  - 
+
+
