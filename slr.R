@@ -1,5 +1,5 @@
 ## packages
-packages <- c("easyPubMed",
+packages <- c("easyPubMed", "dplyr"
               "litsearchr", "stopwords", "igraph",
               "ggplot2", "ggraph", "ggrepel",
               "rvest", "polite", "remotes", "httr2"
@@ -73,8 +73,8 @@ session |> scrape()
 # one ris is based on the final list
 # another is based on the naive search on ACM DL,
 # collaborative virtual environment AND haptic AND virtual reality
-setwd("./Documents/slr-haptic-collaboration/naive_search/")
-search_directory <- "~/Documents/slr-haptic-collaboration/naive_search"
+setwd("./Documents/slr-haptic-collaboration/")
+search_directory <- "~/Documents/slr-haptic-collaboration/naive_search_0923/"
 naive_import <- litsearchr::import_results(search_directory, verbose = TRUE)
 naive_results <- litsearchr::remove_duplicates(naive_import, field = "title", method = "string_osa")
 table(naive_import$filename)
@@ -83,11 +83,30 @@ table(naive_results$filename)
 # final_list$issn
 # str(final_list)
 
+## let's keep conference and journals
+ggplot(naive_results, aes(x=source_type)) +
+  geom_bar()
+
+dta <- filter(naive_results, source_type == "JOUR" | source_type == "CONF")
+
+dim(naive_import)
+dim(naive_results)
+dim(dta)
+
+is.na(dta$year)
+ifelse(is.na(dta$year), dta$date_generated, substr(dta$year, start = 1, stop = 4))
+
+
+dta |> filter(is.na(year))
+ggplot(dta, aes(x=year)) +
+  geom_bar()
+  
+
 rakedkeywords <-
   litsearchr::extract_terms(
     text = paste(naive_results$title, naive_results$abstract),
     method = "fakerake",
-    min_freq = 3,
+    min_freq = 4,
     ngrams = TRUE,
     min_n = 2,
     language = "English"
