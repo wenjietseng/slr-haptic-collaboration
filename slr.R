@@ -12,67 +12,12 @@ if (any(installed_packages == FALSE)) {
 # Load packages
 lapply(packages, library, character.only = TRUE)
 
-
-
-#' Testing Scraping from google scholars
-#' to do:
-#' 1. a set of proxies
-#' 2. a set of user agents
-#' 3. random delays (45-120 secs)
-#' 4. backoff on CAPTCHAs (pause for an hour)
-
-### the function
-# useragent <- httr::user_agent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36") # spoof user agent
-# proxy <- httr::use_proxy(url = "proxy.com", port = 8080, username = "dave", password = "pass", auth = "basic")
-
-## 1) Read an html page with urls: input strings and polite
-## 2) Scrap useful information from the html data. In our case, title, authors, year, citation, venue?
-## 3) Use regular expressions to parse the scraped html data.
-## 4) Store the data, consder tibble? json?
-
-
-gs_url_base <- "https://scholar.google.com/scholar"
-gs_test_url <- "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22collaboration%22+%22haptic%22+%22virtual+reality%22&oq="
-result_list <- list()
-
-
-wbpage <- rvest::read_html(gs_test_url)
-rvest::html_elements(wbpage, ".gs_ab_mdw")
-rvest::html_elements(wbpage, ".gs_rt")
-rvest::html_elements(wbpage, ".gs_a")
-rvest::html_elements(wbpage, ".gs_rs")
-bottom_row_nodes <- rvest::html_elements(wbpage, ".gs_fl")
-bottom_row_nodes <- bottom_row_nodes[!grepl("gs_ggs gs_fl", as.character(bottom_row_nodes), fixed = TRUE)] # exclude the ones with this tag, they are download links 
-bottom_row <- rvest::html_text(bottom_row_nodes)
-
-
-session <- bow("https://www.cheese.com/by_type", force = TRUE)
-result <- scrape(session, query=list(t="semi-soft", per_page=100)) %>%
-  html_node("#main-body") %>% 
-  html_nodes("h3") %>% 
-  html_text()
-head(result)
-
-### testing polite, not super useful for scraping on GS
-session <- bow(gs_test_url,
-               user_agent = "WJTS")
-
-session |> scrape()
-
-## <polite session> https://en.wikipedia.org/wiki/AFC_Asian_Cup_records_and_statistics
-##     User-agent: Ryo's R Webscraping Tutorial
-##     robots.txt: 454 rules are defined for 33 bots
-##    Crawl delay: 5 sec
-##   The path is scrapable for this user-agent
-
-### Testing litsearchr
+## Testing litsearchr
 # https://rdrr.io/github/elizagrames/litsearchr/f/vignettes/litsearchr_vignette.rmd
-
-
-### create my own naive search terms first
-# one ris is based on the final list
-# another is based on the naive search on ACM DL,
-# collaborative virtual environment AND haptic AND virtual reality
+# https://luketudge.github.io/litsearchr-tutorial/litsearchr_tutorial.html#Writing_a_new_search
+# Naive search term is:
+# ("collaborative virtual environment" OR
+## "shared virtual environment" OR "remote collaboration") AND "haptic"
 search_directory <- "~/Documents/slr-haptic-collaboration/naive_search_0923/"
 naive_import <- litsearchr::import_results(search_directory, verbose = TRUE)
 naive_results <- litsearchr::remove_duplicates(naive_import, field = "title", method = "string_osa")
@@ -95,6 +40,12 @@ dta$cleaned_year <- ifelse(is.na(dta$year), substr(dta$date_generated, start = 1
 ggplot(dta, aes(x=cleaned_year)) +
   geom_bar() +
   theme(axis.text.x = element_text(angle = -60))
+
+## Check: if we cover the final list
+final_list_import <- litsearchr::import_results("./final_list/", verbose = TRUE)
+sum((final_list_import$title) %in% (dta$title))
+length(final_list_import$title) # with the naive search, we only cover 1/3 of the final list.
+final_list_import$title[(final_list_import$title) %in% (dta$title)] 
 
 ## extract keywords from titles and abstracts using the fakerake algorithm.
 rakedkeywords <-
@@ -202,7 +153,6 @@ search_terms_core
 ## the core keywords include VR, AR, MR, and XR.
 
 ## now we check the medium strength keywords.
-
 reduced_graph_medium <- reduce_graph(naivegraph, cutoff_strength = cutoff_medium)
 plot(reduced_graph_medium)
 search_terms_medium <- get_keywords(reduced_graph_medium)
@@ -213,7 +163,9 @@ idx <- sapply(search_terms_core, function(x) {
 })
 search_terms_medium <- search_terms_medium[-idx]
 
-c(search)
-write.table(as.data.frame(sort(search_terms)), "./search_terms/2409.csv",
-            row.names = FALSE, col.names = FALSE,
-            sep = ",")
+keywords <- c(search_terms_core, search_terms_medium)
+keyword_type <- c(rep("core", length(search_terms_core)), rep("medium", length(search_terms_medium)))
+
+write.table(data.frame(keywords, keyword_type), "./search_terms/2409.csv",
+            row.names = FALSE, col.names = TRUE,
+            sep = ";")
