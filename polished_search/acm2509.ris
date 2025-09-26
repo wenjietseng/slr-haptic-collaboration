@@ -1,0 +1,1626 @@
+TY  - CONF
+TI  - HoloBots: Augmenting holographic telepresence with mobile robots for tangible remote collaboration in mixed reality
+AU  - Ihara, Keiichi
+AU  - Faridan, Mehrad
+AU  - Ichikawa, Ayumi
+AU  - Kawaguchi, Ikkaku
+AU  - Suzuki, Ryo
+T3  - Uist '23
+AB  - This paper introduces HoloBots, a mixed reality remote collaboration system that augments holographic telepresence with synchronized mobile robots. Beyond existing mixed reality telepresence, HoloBots lets remote users not only be visually and spatially present, but also physically engage with local users and their environment. HoloBots allows the users to touch, grasp, manipulate, and interact with the remote physical environment as if they were co-located in the same shared space. We achieve this by synchronizing holographic user motion (Hololens 2 and Azure Kinect) with tabletop mobile robots (Sony Toio). Beyond the existing physical telepresence, HoloBots contributes to an exploration of broader design space, such as object actuation, virtual hand physicalization, world-in-miniature exploration, shared tangible interfaces, embodied guidance, and haptic communication. We evaluate our system with twelve participants by comparing it with hologram-only and robot-only conditions. Both quantitative and qualitative results confirm that our system significantly enhances the level of co-presence and shared experience, compared to the other conditions.
+C1  - San Francisco, CA, USA
+C3  - Proceedings of the 36th annual ACM symposium on user interface software and technology
+DA  - 2023///
+PY  - 2023
+DO  - 10.1145/3586183.3606727
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0132-0
+UR  - https://doi.org/10.1145/3586183.3606727
+KW  - Actuated Tangible UI
+KW  - Mixed Reality
+KW  - Mobile Robots
+KW  - Physical Telepresence
+KW  - Remote Collaboration
+ER  - 
+
+TY  - CONF
+TI  - A haptic-enabled, distributed and networked immersive system for multi-user collaborative virtual reality
+AU  - Van Damme, Sam
+AU  - Van de Velde, Fangio
+AU  - Sameri, Mohammad Javad
+AU  - De Turck, Filip
+AU  - Vega, Maria Torres
+T3  - Ixr '23
+AB  - Virtual Reality (VR) is gaining attention in various domains such as entertainment, industry, mental healthcare and VR training. Al- though most of these use-cases are still limited to single-user tasks, a lot of applications are heavily depending on multi-user collaboration. Existing multi-user VR systems are most often created in a classic server-client architecture, however, which induces unpredictable network behaviour which can affect the end-user's Quality-of-Experience (QoE) and performance. In addition, the interaction methods in these systems are often constrained to either traditional VR controllers or very use-case specific interaction methods, such that general purpose haptic gloves form a somewhat under-explored part of literature. Therefore, we (i) present a networked, distributed multi-user VR system with synchronization of environments over a low-bandwidth networked connection. In addition, we (ii) enhance the experience by adding haptic gloves to the system, which we compare to the traditional VR controllers in a subjective experiment. As a proof-of-concept, a use case is implemented in which two users have to prepare and bake a virtual pizza. The results show that high framerates (&gt; 90 Frames Per Second (FPS)) can be obtained while keeping network throughput to a minimum ( &lt; 1 Mbps). The accompanying user study shows that haptic gloves are preferred when immersiveness is the main emphasis of the virtual environment, while controllers are more suited when performance is in the center of attention. In objective terms, the applicability of haptic feedback is highly dependent on the task at hand.
+C1  - Ottawa ON, Canada
+C3  - Proceedings of the 2nd international workshop on interactive extended reality
+DA  - 2023///
+PY  - 2023
+DO  - 10.1145/3607546.3616804
+SP  - 11
+EP  - 19
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0280-8
+UR  - https://doi.org/10.1145/3607546.3616804
+KW  - collaborative vr
+KW  - haptic feedback
+KW  - multi-user
+KW  - quality-of-experience (qoe)
+KW  - virtual reality (vr)
+ER  - 
+
+TY  - CONF
+TI  - HexTouch: Affective robot touch for complementary interactions to companion agents in virtual reality
+AU  - Zhou, Ran
+AU  - Wu, Yanzhe
+AU  - Sareen, Harpreet
+T3  - Vrst '20
+AB  - There is a growing need for social interaction in Virtual Reality (VR). Current social VR applications enable human-agent or interpersonal communication, usually by means of visual and audio cues. Touch, which is also an essential method for affective communication, has not received as much attention. To address this, we introduce HexTouch, a forearm-mounted robot that performs touch behaviors in sync with the behaviors of a companion agent, to complement visual and auditory feedback in virtual reality. The robot consists of four robotic tactors driven by servo motors, which render specific tactile patterns to communicate primary emotions (fear, happiness, disgust, anger, and sympathy). We demonstrate HexTouch through a VR game with physical-virtual agent interactions that facilitate the player-companion relationship and increase the immersion of the VR experience. The player will receive affective haptic cues while collaborating with the agent to complete the mission in the game. The multisensory system for affective communication also has the potential to enhance sociality in the virtual world.
+C1  - Virtual Event, Canada
+C3  - Proceedings of the 26th ACM symposium on virtual reality software and technology
+DA  - 2020///
+PY  - 2020
+DO  - 10.1145/3385956.3422100
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7619-8
+UR  - https://doi.org/10.1145/3385956.3422100
+KW  - Emotion Communication
+KW  - Expressive Robotics
+KW  - Haptics
+KW  - Physical Contact
+KW  - Virtual Reality
+KW  - Wearable
+ER  - 
+
+TY  - CONF
+TI  - Citizen-centered design in urban planning: How augmented reality can be used in citizen participation processes
+AU  - Saßmannshausen, Sheree May
+AU  - Radtke, Jörg
+AU  - Bohn, Nino
+AU  - Hussein, Hassan
+AU  - Randall, Dave
+AU  - Pipek, Volkmar
+T3  - Dis '21
+AB  - Most participation processes in urban planning offer poor incentives, especially for young citizens, hence important citizen's needs are excluded. Our work aims at identifying the degree to which Augmented Reality (AR) might motivate young people. We developed an AR-app with Unity3D to create new interaction concepts for use cases in urban planning. Building projects and environment changes are visualized, so citizens can contribute design ideas to the process. Using a human-centered design approach, we invited different stakeholders to participate. We conducted 40 interviews and a survey, then interaction concepts were evolved by citizens in four participatory design workshops. Our findings show that AR can motivate increased participation in urban planning. We also demonstrate a new approach to engaging low-tech users in designing high-tech solutions such as AR systems by using haptic 3D-tools like Lego or clay. Furthermore, we propose ways in which AR could be used collaboratively and embedded in existing participation processes.
+C1  - Virtual Event, USA
+C3  - Proceedings of the 2021 ACM designing interactive systems conference
+DA  - 2021///
+PY  - 2021
+DO  - 10.1145/3461778.3462130
+SP  - 250
+EP  - 265
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-8476-6
+UR  - https://doi.org/10.1145/3461778.3462130
+KW  - augmented reality
+KW  - citizen participation
+KW  - human-centered design
+KW  - urban planning
+ER  - 
+
+TY  - CONF
+TI  - I’m in control! Transferring object ownership between remote users with haptic props in virtual reality
+AU  - Auda, Jonas
+AU  - Busse, Leon
+AU  - Pfeuffer, Ken
+AU  - Gruenefeld, Uwe
+AU  - Rivu, Radiah
+AU  - Alt, Florian
+AU  - Schneegass, Stefan
+T3  - Sui '21
+AB  - Virtual Reality (VR) remote collaboration is becoming more and more relevant in a wide range of scenarios, such as remote assistance or group work. A way to enhance the user experience is using haptic props that make virtual objects graspable. But physical objects are only present in one location and cannot be manipulated directly by remote users. We explore different strategies to handle ownership of virtual objects enhanced by haptic props. In particular, two strategies of handling object ownership – SingleOwnership and SharedOwnership. SingleOwnership restricts virtual objects to local haptic props, while SharedOwnership allows collaborators to take over ownership of virtual objects using local haptic props. We study both strategies for a collaborative puzzle task regarding their influence on performance and user behavior. Our findings show that SingleOwnership increases communication and enhanced with virtual instructions, results in higher task completion times. SharedOwnership is less reliant on verbal communication and faster, but there is less social interaction between the collaborators.
+C1  - Virtual Event, USA
+C3  - Proceedings of the 2021 ACM symposium on spatial user interaction
+DA  - 2021///
+PY  - 2021
+DO  - 10.1145/3485279.3485287
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9091-0
+UR  - https://doi.org/10.1145/3485279.3485287
+KW  - Collaboration
+KW  - Haptic Props
+KW  - Interaction Techniques
+KW  - Virtual Reality
+ER  - 
+
+TY  - CONF
+TI  - HexTouch: a wearable haptic robot for complementary interactions to companion agents in virtual reality
+AU  - Zhou, Ran
+AU  - Wu, Yanzhe
+AU  - Sareen, Harpreet
+T3  - Sa '20
+AB  - We propose a forearm-mounted robot that performs complementary touches in relation to the behaviors of a companion agent in virtual reality (VR). The robot consists of a series of tactors driven by servo motors that render specific tactile patterns to communicate primary emotions (fear, happiness, disgust, anger, and sympathy) and other notification cues. We showcase this through a VR game with physical-virtual agent interactions that facilitate the player-companion relationship and increase user immersion in specific scenarios. The player collaborates with the agent to complete a mission while receiving affective haptic cues with the potential to enhance sociality in the virtual world.
+C1  - Virtual Event, Republic of Korea
+C3  - SIGGRAPH asia 2020 emerging technologies
+DA  - 2020///
+PY  - 2020
+DO  - 10.1145/3415255.3422881
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-8110-9
+UR  - https://doi.org/10.1145/3415255.3422881
+KW  - Emotion Communication
+KW  - Expressive Robotics
+KW  - Haptics
+KW  - Physical Contact
+KW  - Virtual Reality
+KW  - Wearable
+ER  - 
+
+TY  - CONF
+TI  - Development of MirrorShape: High fidelity large-scale shape rendering framework for virtual reality
+AU  - Fedoseev, Aleksey
+AU  - Chernyadev, Nikita
+AU  - Tsetserukou, Dzmitry
+T3  - Vrst '19
+AB  - Today there is a high variety of haptic devices capable of providing tactile feedback. Although most of existing designs are aimed at realistic simulation of the surface properties, their capabilities are limited in attempts of displaying shape and position of virtual objects. This paper suggests a new concept of distributed haptic display for realistic interaction with virtual object of complex shape by a collaborative robot with shape display end-effector. MirrorShape renders the 3D object in virtual reality (VR) system by contacting the user hands with the robot end-effector at the calculated point in real-time. Our proposed system makes it possible to synchronously merge the position of contact point in VR and end-effector in real world. This feature provides presentation of different shapes, and at the same time expands the working area comparing to desktop solutions. The preliminary user study revealed that MirrorShape was effective at reducing positional error in VR interactions. Potentially this approach can be used in the virtual systems for rendering versatile VR objects with wide range of sizes with high fidelity large-scale shape experience.
+C1  - Parramatta, NSW, Australia
+C3  - Proceedings of the 25th ACM symposium on virtual reality software and technology
+DA  - 2019///
+PY  - 2019
+DO  - 10.1145/3359996.3365049
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7001-1
+UR  - https://doi.org/10.1145/3359996.3365049
+KW  - 3D interaction
+KW  - collaborative technologies
+KW  - haptics
+KW  - interaction technologies
+KW  - robotics
+KW  - shape-changing interfaces
+KW  - virtual reality
+ER  - 
+
+TY  - JOUR
+TI  - Towards bare-hand interaction for whiteboard collaboration in virtual reality
+AU  - Liu, Guangtian
+AU  - Su, Haonan
+AU  - Wang, Jingyu
+AU  - Qi, Qi
+AU  - Sun, Haifeng
+AU  - Zhuang, Zirui
+AU  - Ren, Pengfei
+AU  - Liao, Jianxin
+T2  - Proc. ACM Hum.-Comput. Interact.
+AB  - Whiteboard collaboration in virtual reality (VR) is an important task in collaborative virtual environments. The current research mainly relies on the use of controllers or dedicated pens but additional devices will cause inconvenience to users. Bare-hand writing offers rich collaborative semantics through natural gestures but remains underexplored. This paper addresses challenges and solutions for bare-hand whiteboard collaboration. We analyze the input process and identify key challenges in determining pen-drop, writing, and pen-lift intentions while maintaining user control over their avatar. Our approach addresses two VR scenarios: one without and one with physical planes. The method for the first case is called Air-writing, which dynamically adjusts the distance between the avatar's torso and the virtual whiteboard during the processes of pen-drop and pen-lift to ensure a consistent writing experience in VR. The method for the second case is called Physical-writing, which allows users to write smoothly with passive haptic feedback and physical constraints provided by the real surface by remapping the whiteboard in VR with a plane in reality. A comprehensive user study is conducted to evaluate communication efficiency, input accuracy, collaboration efficiency, and user experience of the two methods. The experimental results indicate that bare-hand interaction improves communication efficiency by 8
+DA  - 2025/05//
+PY  - 2025
+DO  - 10.1145/3711092
+VL  - 9
+IS  - 2
+UR  - https://doi.org/10.1145/3711092
+KW  - bare-hand whiteboard collaboration
+KW  - virtual reality
+ER  - 
+
+TY  - CONF
+TI  - Zenbu Koko - A mixed reality platform for inward contemplation
+AU  - Vuarnesson, Loup
+AU  - Nelson, Richard David
+AU  - Bek, Erkin
+T3  - Sa '24
+AB  - We present the first showcase of Zenbu Koko, a XR meditation platform, developed by All Here and designed in collaboration with Kengo Kuma and Associates. This platform presents a 5 minute immersive experience that guides participants on a journey focused on self-awareness and inner sensations. It features immersive visuals and audio, meditation guidance, haptic feedback, and a tool for reconstructing and displaying participants’ bodies in virtual environments using depth sensor cameras. Originally conceived as a project bridging neuroscience and meditation, this platform has been accepted for a talk presentation at SIGGRAPH Denver in 2024. We aim to provide a first public demonstration here.
+C1  - New York, NY, USA
+C3  - SIGGRAPH asia 2024 XR
+DA  - 2024///
+PY  - 2024
+DO  - 10.1145/3681759.3688915
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1141-1
+UR  - https://doi.org/10.1145/3681759.3688915
+ER  - 
+
+TY  - JOUR
+TI  - ColabAR: a toolkit for remote collaboration in tangible augmented reality laboratories
+AU  - Villanueva, Ana
+AU  - Zhu, Zhengzhe
+AU  - Liu, Ziyi
+AU  - Wang, Feiyang
+AU  - Chidambaram, Subramanian
+AU  - Ramani, Karthik
+T2  - Proc. ACM Hum.-Comput. Interact.
+AB  - Current times are accelerating new technologies to provide high-quality education for remote collaboration, as well as hands-on learning. This is particularly important in the case of laboratory-based classes, which play an essential role in STEM education. In this paper, we introduce ColabAR, a toolkit that uses physical proxies to manipulate virtual objects in Tangible Augmented Reality (TAR) laboratories. ColabAR introduces haptic-based customizable interaction techniques to promote remote collaboration between students. Our toolkit provides hardware and software that enable haptic feedback to improve user experience and promote collaboration during learning. Also, we present the architecture of our cloud platform for haptic interaction that supports information sharing between students in a TAR laboratory. We performed two user studies (N=40) to test the effect of our toolkit in enriching local and remote collaborative experiences. Finally, we demonstrated that our TAR laboratory enables students' performance (i.e., lab completion rate, lab scores) to be similar to their performance in an in-person laboratory.
+DA  - 2022/04//
+PY  - 2022
+DO  - 10.1145/3512928
+VL  - 6
+IS  - CSCW1
+UR  - https://doi.org/10.1145/3512928
+KW  - augmented reality
+KW  - collaboration
+KW  - distance
+KW  - education
+KW  - haptics
+KW  - laboratory
+KW  - learning
+KW  - remote
+KW  - STEM
+KW  - tangibles
+ER  - 
+
+TY  - CONF
+TI  - PhyShare: Sharing physical interaction in virtual reality
+AU  - He, Zhenyi
+AU  - Zhu, Fengyuan
+AU  - Perlin, Ken
+T3  - UIST '17 adjunct
+AB  - We present PhyShare, a new haptic user interface based on actuated robots. Virtual reality has recently been gaining wide adoption, and an effective haptic feedback in these scenarios can strongly support user's sensory in bridging virtual and physical world. Since participants do not directly observe these robotic proxies, we investigate the multiple mappings between physical robots and virtual proxies that can utilize the resources needed to provide a well rounded VR experience. PhyShare bots can act either as directly touchable objects or invisible carriers of physical objects, depending on different scenarios. They also support distributed collaboration, allowing remotely located VR collaborators to share the same physical feedback.
+C1  - Québec City, QC, Canada
+C3  - Adjunct proceedings of the 30th annual ACM symposium on user interface software and technology
+DA  - 2017///
+PY  - 2017
+DO  - 10.1145/3131785.3131795
+SP  - 17
+EP  - 19
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-5419-6
+UR  - https://doi.org/10.1145/3131785.3131795
+KW  - haptic user interfaces
+KW  - robots
+KW  - virtual reality
+ER  - 
+
+TY  - CONF
+TI  - ShareHaptics: a modular haptic feedback system using shape memory alloy for mixed reality shared space applications
+AU  - Nakao, Takuro
+AU  - Santana, Stevanus Kevin
+AU  - Isogai, Megumi
+AU  - Shimizu, Shinya
+AU  - Kimata, Hideaki
+AU  - Kunze, Kai
+AU  - Pai, Yun Suen
+T3  - Siggraph '19
+AB  - We present ShareHaptics, a novel modular system to provide tactile and pressure feedback in mixed reality applications using a novel actuator: shape memory alloy (SMA). We apply it to fingers, wrist and foot ankle. Although it can be used for haptic feedback in a diverse set of use cases, we specifically focus on collaborative applications: ShareHaptics allows to haptically jack-in to a remote environment via a custom glove and ankle braces. We demonstrate a wide range of applications: watching sports, gaming, and collaborative discussions and skill transfer.
+C1  - Los Angeles, California
+C3  - ACM SIGGRAPH 2019 posters
+DA  - 2019///
+PY  - 2019
+DO  - 10.1145/3306214.3338597
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6314-3
+UR  - https://doi.org/10.1145/3306214.3338597
+KW  - collaborative
+KW  - haptics
+KW  - mixed reality
+KW  - shape memory alloy
+KW  - sharing
+KW  - tactile
+ER  - 
+
+TY  - JOUR
+TI  - INC-hg: An intelligent collaborative haptic-gripper virtual reality system
+AU  - Zhao, Huan
+AU  - Zaini Amat, Ashwaq
+AU  - Migovich, Miroslava
+AU  - Swanson, Amy
+AU  - Weitlauf, Amy S.
+AU  - Warren, Zachary
+AU  - Sarkar, Nilanjan
+T2  - ACM Trans. Access. Comput.
+AB  - Collaborative Virtual Environments (CVE) have shown potential to be an effective social skill training platform for children with Autism Spectrum Disorders (ASD) to learn and practice collaborative and communication skills through peer interactions. However, most existing CVE systems require that appropriately matched partners be available at the same time to promote interaction, which limits their applicability to some community settings due to scheduling constraints. A second shortcoming of these more naturalistic peer-based designs is the intensive resources required to manually code the unrestricted conversations that occurred during the peer-based interactions. To preserve the benefits of CVE-based platforms and mitigate some of the resource limitations related to peer availability, we developed an Intelligent Collaborative Haptic-Gripper System (INC-Hg). This system provides an intelligent agent partner who can understand, communicate, and haptically interact with the user, without requiring the presence of another human peer. The INC-Hg operates in real time and thus is able to perform collaborative training tasks at any time and at the user's pace. INC-Hg can also record the real-time data regarding spoken language and task performance, thereby greatly reducing the resource burden of communication and interaction performance analysis. A preliminary usability study with 10 participants with ASD (ages 8–12 years) indicated that the system could classify the participant's utterances into five classes with an accuracy of 70.34
+DA  - 2022/03//
+PY  - 2022
+DO  - 10.1145/3487606
+VL  - 15
+IS  - 1
+SN  - 1936-7228
+UR  - https://doi.org/10.1145/3487606
+KW  - AI techniques
+KW  - Autism Spectrum Disorders
+KW  - collaborative virtual environments
+KW  - conversational agent
+KW  - haptic interaction
+KW  - social interaction
+ER  - 
+
+TY  - CONF
+TI  - Neural functional analysis in virtual reality simulation: example of a human-robot collaboration tasks
+AU  - Zhu, Qi
+AU  - Du, Jing
+T3  - Wsc '20
+AB  - Human-robot collaboration has gained its popularity with the fast evolution of the Industry 4.0. One of the challenges of HRC is human-robot interface design that adapts to the personalized needs. This paper presents a method of using Virtual Reality (VR) simulation as a testbed and data collector for examining and modeling personal reactions to different human-robot interface designs. To obtain real-time leading indicator of human performance, this study focuses on the neural functional analysis in VR. An integrated system is presented using eye-tracking and force input data as event makers for Neuroimaging technique, i.e., Functional Near Infrared Spectroscopy (fNIRS). The real-time hemodynamic responses in subjects' brains are analyzed based on the general linear model (GLM) for modeling neural functional changes under different levels of haptic designs. Our results indicate that the neurobehavioral data collected from the VR environment can be used directly as a personalized model for human-robot interface optimization.
+C1  - Orlando, Florida
+C3  - Proceedings of the winter simulation conference
+DA  - 2021///
+PY  - 2021
+SP  - 2424
+EP  - 2434
+PB  - IEEE Press
+SN  - 978-1-7281-9499-8
+ER  - 
+
+TY  - JOUR
+TI  - Investigating a combination of input modalities, canvas geometries, and inking triggers on on-air handwriting in virtual reality
+AU  - Venkatakrishnan, Roshan
+AU  - Venkatakrishnan, Rohith
+AU  - Chung, Chih-Han
+AU  - Wang, Yu-Shuen
+AU  - Babu, Sabarish
+T2  - ACM Trans. Appl. Percept.
+AB  - Humans communicate by writing, often taking notes that assist thinking. With the growing popularity of collaborative Virtual Reality (VR) applications, it is imperative that we better understand aspects that affect writing in these virtual experiences. On-air writing in VR is a popular writing paradigm due to its simplicity in implementation without any explicit needs for specialized hardware. A host of factors can affect the efficacy of this writing paradigm and in this work, we delved into investigating the same. Along these lines, we investigated the effects of a combination of factors on users’ on-air writing performance, aiming to understand the circumstances under which users can both effectively and efficiently write in VR. We were interested in studying the effects of the following factors: (1) input modality: brush vs. near-field raycast vs. pointing gesture, (2) inking trigger method: haptic feedback vs. button based trigger, and (3) canvas geometry: plane vs. hemisphere. To evaluate the writing performance, we conducted an empirical evaluation with thirty participants, requiring them to write the words we indicated under different combinations of these factors. Dependent measures including the writing speed, accuracy rates, perceived workloads, and so on, were analyzed. Results revealed that the brush based input modality produced the best results in writing performance, that haptic feedback was not always effective over button based triggering, and that there are trade-offs associated with the different types of canvas geometries used. This work attempts at laying a foundation for future investigations that seek to understand and further improve the on-air writing experience in immersive virtual environments.
+DA  - 2022/11//
+PY  - 2022
+DO  - 10.1145/3560817
+VL  - 19
+IS  - 4
+SN  - 1544-3558
+UR  - https://doi.org/10.1145/3560817
+KW  - interaction
+KW  - interfaces
+KW  - text entry
+KW  - Virtual reality
+KW  - writing
+ER  - 
+
+TY  - CONF
+TI  - Pain distraction for children through VR- or audio-haptic soundscapes in situ
+AU  - Bordum, Maya
+AU  - Engberg, Emil
+AU  - Hansen, Peter Blomsgård
+AU  - Jensen, Nickolai Frederik Schouborg
+AU  - Jægerlund, Martin Fritzbøger
+AU  - Mouritzen, Jeppe Nygaard
+AU  - Poulsen, Hannibal Hjelming
+AU  - Ravnsborg, Lukas Gade
+AU  - Rybak, Celine Zeh
+AU  - Stappert, Frederik Hald
+AU  - Troldahl, Bjørn
+AU  - Winther, Julius Ebenau
+AU  - Nordahl, Rolf
+T3  - Vrst '23
+AB  - In this pilot study we compare two prototype applications developed in collaboration with Rigshospitalet, the main hospital in Denmark, aimed to evaluate the effectiveness of a virtual reality (VR)- versus an audio-haptic based solution, as a pain distraction tool for children aged 5 to 8 during needle-related medical procedures. Both prototypes were developed with a narrative where children help a farmer find hidden animals. The final prototype underwent testing in situ, at Rigshospitalet’s clinic for blood tests. Here, participants’ pain levels were assessed using the Wong-Baker FACES Scale [9] and the Visual Analogue Scale [5]. Both prototypes saw participants report reduced pain perception, skewing more in favor of the VR prototype. However, the audio-haptic prototype showed similar levels of reduction in pain perception when effective. The study concludes that both VR- and audio-haptic based distraction are viable methods, that each cover a group’s needs within medical procedures involving young children (those who need to not see the procedure, and those who do), and that these should be further developed and implemented in said medical procedures.
+C1  - Christchurch, New Zealand
+C3  - Proceedings of the 29th ACM symposium on virtual reality software and technology
+DA  - 2023///
+PY  - 2023
+DO  - 10.1145/3611659.3617220
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0328-7
+UR  - https://doi.org/10.1145/3611659.3617220
+ER  - 
+
+TY  - CONF
+TI  - Low-cost VR collaborative system equipped with haptic feedback
+AU  - Benbelkacem, Samir
+AU  - Bellarbi, Abdelkader
+AU  - Zenati-Henda, Nadia
+AU  - Bentaleb, Ahmed
+AU  - Bellabaci, Ahmed Nazim
+AU  - Otmane, Samir
+T3  - Vrst '18
+AB  - In this paper, we present a low-cost virtual reality (VR) collaborative system equipped with a haptic feedback sensation system. This system is composed of a Kinect sensor for bodies and gestures detection, a microcontroller and vibrators to simulate outside interactions, and smartphone powered cardboard, all of this are put into a network implemented with Unity 3D game engine.
+C1  - Tokyo, Japan
+C3  - Proceedings of the 24th ACM symposium on virtual reality software and technology
+DA  - 2018///
+PY  - 2018
+DO  - 10.1145/3281505.3281615
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6086-9
+UR  - https://doi.org/10.1145/3281505.3281615
+KW  - collaborative virtual reality
+KW  - haptic feedback system
+ER  - 
+
+TY  - CONF
+TI  - Visuo-haptic collaborative augmented reality ping-pong
+AU  - Knoerlein, Benjamin
+AU  - Székely, Gábor
+AU  - Harders, Matthias
+T3  - Ace '07
+AB  - In our current work we examine the development of visuohaptic augmented reality setups and their extension to collaborative experiences in entertainment settings. To this end, an expandable system architecture supporting multiple users is one of the most indispensable prerequisites. In addition, system stability, low latency, accurate calibration and stable overlay of the virtual objects have to be assured. In this paper we provide an overview of our framework and present our collaborative example application, an augmented reality visuo-haptic ping-pong game for two players. The users play with a virtual ball in a real environmentwhile, by using virtual bats colocated with haptic devices, they are able to feel the impact of the simulated ball on the bat.
+C1  - Salzburg, Austria
+C3  - Proceedings of the international conference on advances in computer entertainment technology
+DA  - 2007///
+PY  - 2007
+DO  - 10.1145/1255047.1255065
+SP  - 91
+EP  - 94
+PB  - Association for Computing Machinery
+SN  - 978-1-59593-640-0
+UR  - https://doi.org/10.1145/1255047.1255065
+KW  - augmented reality
+KW  - collaboration
+KW  - haptics
+ER  - 
+
+TY  - CONF
+TI  - Haptic collaboration with augmented reality
+AU  - Adcock, Matt
+AU  - Hutchins, Matthew
+AU  - Gunn, Chris
+T3  - Siggraph '04
+AB  - We describe a (face-to-face) collaborative environment that provides a coherent mix of real world video, computer haptics, graphics and audio. This system is a test-bed for investigating new collaborative affordances and behaviours.
+C1  - Los Angeles, California
+C3  - ACM SIGGRAPH 2004 posters
+DA  - 2004///
+PY  - 2004
+DO  - 10.1145/1186415.1186463
+SP  - 41
+PB  - Association for Computing Machinery
+SN  - 1-58113-896-2
+UR  - https://doi.org/10.1145/1186415.1186463
+ER  - 
+
+TY  - CONF
+TI  - Demonstrating HapticBots: Distributed encountered-type haptics for VR with multiple shape-changing mobile robots
+AU  - Suzuki, Ryo
+AU  - Ofek, Eyal
+AU  - Sinclair, Mike
+AU  - Leithinger, Daniel
+AU  - Gonzalez-Franco, Mar
+T3  - UIST '21 adjunct
+AB  - HapticBots introduces a novel encountered-type haptic approach for Virtual Reality (VR) based on multiple tabletop-size shape-changing robots. These robots move on a tabletop and change their height and orientation to haptically render various surfaces and objects on-demand. Compared to previous encountered-type haptic approaches like shape displays or robotic arms, our proposed approach has an advantage in deployability, scalability, and generalizability—these robots can be easily deployed due to their compact form factor. They can support multiple concurrent touch points in a large area thanks to the distributed nature of the robots. We propose and evaluate a novel set of interactions enabled by these robots which include: 1) rendering haptics for VR objects by providing just-in-time touch-points on the user’s hand, 2) simulating continuous surfaces with the concurrent height and position change, and 3) enabling the user to pick up and move VR objects through graspable proxy objects. Finally, we demonstrate HapticBots with various applications, including remote collaboration, education and training, design and 3D modeling, and gaming and entertainment.
+C1  - Virtual Event, USA
+C3  - Adjunct proceedings of the 34th annual ACM symposium on user interface software and technology
+DA  - 2021///
+PY  - 2021
+DO  - 10.1145/3474349.3480202
+SP  - 131
+EP  - 133
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-8655-5
+UR  - https://doi.org/10.1145/3474349.3480202
+KW  - encountered-type haptics
+KW  - swarm user interfaces
+KW  - tabletop mobile robots
+KW  - virtual reality
+ER  - 
+
+TY  - JOUR
+TI  - Haptic network protocols: a comprehensive review and directions for next-gen metaverse applications
+AU  - Faisal, Mohd
+AU  - Martinez-Velazquez, Roberto Alejandro
+AU  - Laamarti, Fedwa
+AU  - Al Osman, Hussein
+AU  - El Saddik, Abdulmotaleb
+T2  - ACM Trans. Multimedia Comput. Commun. Appl.
+AB  - This paper presents a systematic review of haptic network protocols, in the context of the Metaverse. With the increasing integration of haptic technologies into applications like remote collaboration and robotic surgery, the need for reliable, low-latency data transmission has intensified. This work provides a comprehensive analysis of existing haptic protocols and frameworks, focusing on their development, implementation, and the methods employed to optimize Quality of Service (QoS) parameters such as latency, delay, packet loss, jitter, throughput, and bandwidth. By examining the strengths and limitations of these protocols in real-time applications, this paper identifies critical areas for improvement and suggests future directions, including the potential for incorporating machine learning (ML) and artificial intelligence (AI) to enable next-generation haptic communication suited for high-demand environments like the Metaverse.
+DA  - 2025/08//
+PY  - 2025
+DO  - 10.1145/3759459
+SN  - 1551-6857
+UR  - https://doi.org/10.1145/3759459
+N1  - Just Accepted
+KW  - Bandwidth
+KW  - Communication
+KW  - Data Integration Frameworks
+KW  - Data Transmission
+KW  - Delay
+KW  - Haptic
+KW  - Jitter
+KW  - Latency
+KW  - Metaverse
+KW  - Network
+KW  - Packet Loss
+KW  - Protocol
+KW  - Quality of Experience (QoE)
+KW  - Quality of Service (QoS)
+KW  - Real-Time
+KW  - Systematic Review
+KW  - Tactile Internet
+KW  - Throughput
+ER  - 
+
+TY  - CONF
+TI  - Sustainable haptic design: Improving collaboration, sharing, and reuse in haptic design research
+AU  - Schneider, Oliver
+AU  - Fruchard, Bruno
+AU  - Wittchen, Dennis
+AU  - Joshi, Bibhushan Raj
+AU  - Freitag, Georg
+AU  - Degraen, Donald
+AU  - Strohmeier, Paul
+T3  - Chi ea '22
+AB  - Haptic devices have been around for decades, providing critical information, usability benefits and improved experiences across tasks from surgical operations to playful applications in Mixed Reality. We see more and more software and hardware solutions emerging that provide design tools, design approaches and platforms, both in academia and industry. However, we believe that designers often re-invent the wheel, and must spend an inordinate amount of time doing their work, which is not sustainable for long-term research. This workshop aims at gathering people from academia and industry to provide a common ground to discuss various insights on and visions of the field. We aim to bring together the various strands of haptics—devices, software, and design—to assess the current state-of-the-art and propose an agenda towards haptics as a united design discipline. We expect the outcome of the workshop to be a comprehensive overview of existing tools and approaches, along with recommendations on how to move the field forward, together.
+C1  - New Orleans, LA, USA
+C3  - Extended abstracts of the 2022 CHI conference on human factors in computing systems
+DA  - 2022///
+PY  - 2022
+DO  - 10.1145/3491101.3503734
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9156-6
+UR  - https://doi.org/10.1145/3491101.3503734
+KW  - design tools
+KW  - encoding
+KW  - haptic design
+KW  - sustainability
+ER  - 
+
+TY  - CONF
+TI  - A wearable smart glove for tactile interaction
+AU  - Zhu, Jiahang
+AU  - Song, Aiguo
+AU  - Shang, Ke
+AU  - Wei, Zhikai
+T3  - RobCE '24
+AB  - Haptic interaction plays an indispensable role in human-computer interaction. By simulating tactile sensations and providing vivid tactile feedbacks, it enriches the interaction experience between users and digital interfaces. We designed a wearable haptic interaction glove that utilizes a dual-layer cooperative conductive structure of flexible resistive bending sensors to detect the degree of finger flexion, combined with a vibratory tactile actuator array to deliver tactile feedback. To enhance the effectiveness of tactile interaction delivery, we encoded tactile feedback based on vibration frequency, intensity, and duration, and designed a virtual scenario simulating the opening of a spacecraft door. Our glove showed its potential as a low-cost and advanced solution for human-computer interaction, with significant prospects in remote operation, rehabilitation medicine, and virtual reality applications.
+C1  - Edinburgh, United Kingdom
+C3  - Proceedings of the 2024 4th international conference on robotics and control engineering
+DA  - 2024///
+PY  - 2024
+DO  - 10.1145/3674746.3674771
+SP  - 160
+EP  - 164
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1678-2
+UR  - https://doi.org/10.1145/3674746.3674771
+KW  - Haptic interaction
+KW  - Human-computer interaction
+KW  - Vibration feedback
+KW  - Wearable glove
+ER  - 
+
+TY  - CONF
+TI  - HapticPuppet: a kinesthetic mid-air multidirectional force-feedback drone-based interface
+AU  - Feick, Martin
+AU  - Tang, Anthony
+AU  - Krüger, Antonio
+T3  - UIST '22 adjunct
+AB  - Providing kinesthetic force-feedback for human-scale interactions is challenging due to the relatively large forces needed. Therefore, robotic actuators are predominantly used to deliver this kind of haptic feedback; however, they offer limited flexibility and spatial resolution. In this work, we introduce HapticPuppet, a drone-based force-feedback interface which can exert multidirectional forces onto the human body. This can be achieved by attaching strings to different parts of the human body such as fingers, hands or ankles, which can then be affixed to multiple coordinated drones - puppeteering the user. HapticPuppet opens up a wide range of potential applications in virtual, augmented and mixed reality, exercising, physiotherapy, remote collaboration as well as haptic guidance.
+C1  - Bend, OR, USA
+C3  - Adjunct proceedings of the 35th annual ACM symposium on user interface software and technology
+DA  - 2022///
+PY  - 2022
+DO  - 10.1145/3526114.3558694
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9321-8
+UR  - https://doi.org/10.1145/3526114.3558694
+KW  - AR
+KW  - Directional Kinesthetic Force-Feedback
+KW  - Drones
+KW  - Haptics
+KW  - VR
+ER  - 
+
+TY  - CONF
+TI  - Collaborative experience prototyping of automotive interior in VR with 3D sketching and haptic helpers
+AU  - An, Sang-Gyun
+AU  - Kim, Yongkwan
+AU  - Lee, Joon Hyub
+AU  - Bae, Seok-Hyung
+T3  - AutomotiveUI '17
+AB  - Technological advances and socioeconomic disruptions such as self-driving cars, car-sharing services and artificial intelligence assistance may fundamentally alter interactions inside the future car. However, existing design tools and processes geared toward static physical authoring are ill-equipped for such interaction design. We propose a new design workflow that combines experience prototyping methods typically used by the user interface and product design communities with 3D sketching and haptic helper techniques to help automotive designers ideate, prototype, experience and evaluate multi-sensory interactions in a collaborative manner. Using our workflow, designers use 3D sketching to quickly and expressively author 3D shape and motion ideas in space; augment them with tactile and other sensory feedback through physical proxies and other available gadgets; and immediately enact and immersively experience them to progressively explore and develop them.
+C1  - Oldenburg, Germany
+C3  - Proceedings of the 9th international conference on automotive user interfaces and interactive vehicular applications
+DA  - 2017///
+PY  - 2017
+DO  - 10.1145/3122986.3123002
+SP  - 183
+EP  - 192
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-5150-8
+UR  - https://doi.org/10.1145/3122986.3123002
+KW  - 3D sketching
+KW  - Automotive design
+KW  - design methodology
+KW  - experience prototyping
+KW  - haptic feedback
+KW  - virtual reality
+ER  - 
+
+TY  - CONF
+TI  - HapticBots: Distributed encountered-type haptics for VR with multiple shape-changing mobile robots
+AU  - Suzuki, Ryo
+AU  - Ofek, Eyal
+AU  - Sinclair, Mike
+AU  - Leithinger, Daniel
+AU  - Gonzalez-Franco, Mar
+T3  - Uist '21
+AB  - HapticBots introduces a novel encountered-type haptic approach for Virtual Reality (VR) based on multiple tabletop-size shape-changing robots. These robots move on a tabletop and change their height and orientation to haptically render various surfaces and objects on-demand. Compared to previous encountered-type haptic approaches like shape displays or robotic arms, our proposed approach has an advantage in deployability, scalability, and generalizability—these robots can be easily deployed due to their compact form factor. They can support multiple concurrent touch points in a large area thanks to the distributed nature of the robots. We propose and evaluate a novel set of interactions enabled by these robots which include: 1) rendering haptics for VR objects by providing just-in-time touch-points on the user’s hand, 2) simulating continuous surfaces with the concurrent height and position change, and 3) enabling the user to pick up and move VR objects through graspable proxy objects. Finally, we demonstrate HapticBots with various applications, including remote collaboration, education and training, design and 3D modeling, and gaming and entertainment.
+C1  - Virtual Event, USA
+C3  - The 34th annual ACM symposium on user interface software and technology
+DA  - 2021///
+PY  - 2021
+DO  - 10.1145/3472749.3474821
+SP  - 1269
+EP  - 1281
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-8635-7
+UR  - https://doi.org/10.1145/3472749.3474821
+KW  - encountered-type haptics
+KW  - swarm user interfaces
+KW  - tabletop mobile robots
+KW  - virtual reality
+ER  - 
+
+TY  - CONF
+TI  - Haptic enhancements for collaborative scenarios in virtual environment
+AU  - Daly, Jason
+AU  - Washburn, Don
+AU  - Lazarus, Todd
+AU  - Reeder, John
+AU  - Martin, Glenn A.
+T3  - Siggraph '03
+C1  - San Diego, California
+C3  - ACM SIGGRAPH 2003 sketches &amp; applications
+DA  - 2003///
+PY  - 2003
+DO  - 10.1145/965400.965496
+SP  - 1
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7466-8
+UR  - https://doi.org/10.1145/965400.965496
+ER  - 
+
+TY  - CONF
+TI  - A platform for bimanual virtual assembly training with haptic feedback in large multi-object environments
+AU  - Sagardia, Mikel
+AU  - Hulin, Thomas
+AU  - Hertkorn, Katharina
+AU  - Kremer, Philipp
+AU  - Schätzle, Simon
+T3  - Vrst '16
+AB  - We present a virtual reality platform which addresses and integrates some of the currently challenging research topics in the field of virtual assembly: realistic and practical scenarios with several complex geometries, bimanual six-DoF haptic interaction for hands and arms, and intuitive navigation in large workspaces. We put an especial focus on our collision computation framework, which is able to display stiff and stable forces in 1 kHz using a combination of penalty- and constraint-based haptic rendering methods. Interaction with multiple arbitrary geometries is supported in realtime simulations, as well as several interfaces, allowing for collaborative training experiences. Performance results for an exemplary car assembly sequence which show the readiness of the system are provided.
+C1  - Munich, Germany
+C3  - Proceedings of the 22nd ACM conference on virtual reality software and technology
+DA  - 2016///
+PY  - 2016
+DO  - 10.1145/2993369.2993386
+SP  - 153
+EP  - 162
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-4491-3
+UR  - https://doi.org/10.1145/2993369.2993386
+KW  - haptic devices
+KW  - haptic rendering
+KW  - interaction techniques
+KW  - virtual assembly
+ER  - 
+
+TY  - JOUR
+TI  - Modeling the effects of delayed haptic and visual feedback in a collaborative virtual environment
+AU  - Jay, Caroline
+AU  - Glencross, Mashhuda
+AU  - Hubbold, Roger
+T2  - ACM Trans. Comput.-Hum. Interact.
+AB  - Collaborative virtual environments (CVEs) enable two or more people, separated in the real world, to share the same virtual “space.” They can be used for many purposes, from teleconferencing to training people to perform assembly tasks. Unfortunately, the effectiveness of CVEs is compromised by one major problem: the delay that exists in the networks linking users together. Whilst we have a good understanding, especially in the visual modality, of how users are affected by delayed feedback from their own actions, little research has systematically examined how users are affected by delayed feedback from other people, particularly in environments that support haptic (force) feedback. The current study addresses this issue by quantifying how increasing levels of latency affect visual and haptic feedback in a collaborative target acquisition task. Our results demonstrate that haptic feedback in particular is very sensitive to low levels of delay. Whilst latency affects visual feedback from 50 ms, it impacts on haptic task performance 25 ms earlier, and causes the haptic measures of performance deterioration to rise far more steeply than visual. The “impact-perceive-adapt” model of user performance, which considers the interaction between performance measures, perception of latency, and the breakdown of perception of immediate causality, is proposed as an explanation for the observed pattern of performance.
+DA  - 2007/08//
+PY  - 2007
+DO  - 10.1145/1275511.1275514
+VL  - 14
+IS  - 2
+SP  - 8
+EP  - es
+SN  - 1073-0516
+UR  - https://doi.org/10.1145/1275511.1275514
+KW  - distributed collaboration
+KW  - Haptics
+KW  - latency
+KW  - virtual environments
+ER  - 
+
+TY  - CONF
+TI  - Revealing the realities of collaborative virtual reality
+AU  - Fraser, Mike
+AU  - Glover, Tony
+AU  - Vaghi, Ivan
+AU  - Benford, Steve
+AU  - Greenhalgh, Chris
+AU  - Hindmarsh, Jon
+AU  - Heath, Christian
+T3  - Cve '00
+AB  - We look at differences between the experience of virtual environments and physical reality, and consider making the technical limitations which cause these differences 'visible', aiming to provide resources to enhance communication between users. Three causes of such discrepancies are considered to illustrate this idea: field-of-view; haptic feedback; and network delays. For each, we examine ways of revealing the limitations of the virtual world as resources to better understand the intricacies of system and co-user behaviour. These examples introduce a broader discussion of design issues involved in producing interfaces for day-to-day collaboration through virtual environments. Issues include: the application and activity undertaken through the virtual world; the ability to focus on the business at hand rather than the system in use; and extent of users' familiarity with application and system.
+C1  - San Francisco, California, USA
+C3  - Proceedings of the third international conference on collaborative virtual environments
+DA  - 2000///
+PY  - 2000
+DO  - 10.1145/351006.351010
+SP  - 29
+EP  - 37
+PB  - Association for Computing Machinery
+SN  - 1-58113-303-0
+UR  - https://doi.org/10.1145/351006.351010
+KW  - desktop and immersive interfaces
+KW  - haptic feedback
+KW  - interaction techniques
+KW  - network delays
+KW  - realism
+ER  - 
+
+TY  - CONF
+TI  - Collaborative hands-on training on haptic simulators
+AU  - Licona R., Angel R.
+AU  - Liu, Fei
+AU  - Lelevé, Arnaud
+AU  - Pham, Minh Tu
+T3  - Icvars '19
+AB  - Medical trainees are required to acquire sufficient skills before touching a real patient. Nowadays, haptic simulators provide an effective solution but they do not facilitate an active supervision by a trainer who should show the right gestures in terms of motions and forces to apply, in the simulated environment. Dual user training systems aim at this purpose. Even though they permit a cooperative training, they generally dot not enable efficient demonstration/evaluation modes where the user who observes the person performing a manipulation is also able to feel the interaction forces, not only the motion. We earlier introduced the Energy Shared Control (ESC) architecture aiming at providing the latter function. It is modeled with the Port Hamiltonian framework and it embeds a Time Domain Passivity Controller, to compose a one degree-of-freedom (dof) dual-user haptic system for hands-on training. In this paper, we extend it to three dof with three identical haptic devices. Experiments bring information about its performance.
+C1  - Perth, WN, Australia
+C3  - Proceedings of the 2019 3rd international conference on virtual and augmented reality simulations
+DA  - 2019///
+PY  - 2019
+DO  - 10.1145/3332305.3332318
+SP  - 39
+EP  - 45
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6592-5
+UR  - https://doi.org/10.1145/3332305.3332318
+KW  - Dual User Teleoperation
+KW  - Haptics
+KW  - Training Systems
+ER  - 
+
+TY  - CONF
+TI  - Groovy assignment: the VR ride: a cross disciplinary assignment in computer graphics and interactivity
+AU  - Jushchyshyn, Nick
+AU  - Lloyd, Robert
+AU  - Sundquist, Erik
+T3  - Siggraph '19
+AB  - In this Groovy Assignment submission, we present a VR Ride assignment that challenges students to create a fully interactive VR computer graphics experience integrated with a themed ride. For this assignment, a ride is an apparatus that fully supports the users weight, utilizes the user's body motions as a primary input for computer interactivity, and provides haptic feedback relevant to the VR experience.The assignment is designed to inspire and motivate creative thinking and cross disciplinary collaboration with faculty and students from outside the scope of those traditionally involved in programs focused on computer graphics and interaction.The assignment can be easily scaled, by utilizing wholly existing, found or purchased platforms (exercise equipment such as a rowing machine or stationary bike) for use with small groups of students if desired. In the example presented, students from Electrical Engineering, Mechanical Engineering, Industrial Design, Game Design, VR &amp; Immersive Media, Animation &amp; VFX and Game Design programs collaborated using primarily found or recycled components to build a bespoke, human powered "VR Cycle" ride, integrated with original VR experiences developed for the ride.
+C1  - Los Angeles, California
+C3  - ACM SIGGRAPH 2019 educators forum
+DA  - 2019///
+PY  - 2019
+DO  - 10.1145/3326542.3328018
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6782-0
+UR  - https://doi.org/10.1145/3326542.3328018
+KW  - augmented reality (AR)
+KW  - curricular development
+KW  - education
+KW  - immersive media
+KW  - location-based entertainment
+KW  - motion-based attractions
+KW  - out-of-home entertainment
+KW  - themed entertainment
+KW  - virtual reality (VR)
+ER  - 
+
+TY  - CONF
+TI  - Tangible construction kit for blind and partially sighted drawers: Co-designing a cross-sensory 3D interface with blind and partially sighted drawers during covid-19
+AU  - Kamat, Mitali
+AU  - Uribe Quevedo, Alvaro
+AU  - Coppin, Peter
+T3  - Tei '22
+AB  - Drawing as an activity aids problem solving, collaboration, and presentation in design, science, and engineering and artistic creativity as well as expression in the arts. Unfortunately, blind, and partially sighted learners still lack an inclusive and effective drawing tool, even in the digital age. In response, this research aims to explore what an effective drawing tool for blind and partially sighted individuals (BPSI) would be. Raised-line drawing kits aim to provide this, but in prior work, our usability tests of raised line graphics with blind and partially sighted participants rated the raised line graphics that we tested as barely comprehensible relative to 3D models, which they rated as highly comprehensible. Semi-structured interviews with our participants afterward suggest that they found 3D models to be more comprehensible because these are consistent with haptic principles of perception whereas conventions of raised line graphics, such as a line representing a surface edge, replicate visual cues of source images and thereby violate haptic principles of perception. Therefore, we hypothesize that a drawing tool for blind and partially sighted drawers could be effective by recruiting affordances of 3D models. Through co-design sessions conducted during the Covid-19 pandemic with blind and partially sighted drawers (BPSD), we prototyped a tangible 3D model construction kit for non-visual haptic drawing with a digital interface to a 3D virtual environment. Our current investigation of user needs is informing us of our ongoing iterative development of an accessible 3D scanning application that is enabling blind and partially sighted individuals to build and scan in 3D models constructed from a more flexible range of materials beyond what was possible with our previous prototype.
+C1  - Daejeon, Republic of Korea
+C3  - Proceedings of the sixteenth international conference on tangible, embedded, and embodied interaction
+DA  - 2022///
+PY  - 2022
+DO  - 10.1145/3490149.3505580
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9147-4
+UR  - https://doi.org/10.1145/3490149.3505580
+KW  - 3D Drawing
+KW  - Blind and Partially Sighted
+KW  - Haptic Drawing
+KW  - Tangible User Interface
+ER  - 
+
+TY  - CONF
+TI  - Collaborative stretcher carrying: a case study
+AU  - Hubbold, Roger J.
+T3  - Egve '02
+AB  - This paper describes a simulation of a collaborative task in a shared virtual environment — two users carrying a shared object (a stretcher) in a complex chemical plant. The implementation includes a haptic interface for each user, so that forces transmitted through the stretcher from one user to the other can be experienced. Preliminary experiments show that the addition of haptic feedback significantly enhances the sense of sharing and each user's perception of the actions of the other user. The implementation is described, and some conclusions about the value of haptics, and plans for future work are given.
+C1  - Barcelona, Spain
+C3  - Proceedings of the workshop on virtual environments 2002
+DA  - 2002///
+PY  - 2002
+SP  - 7
+EP  - 12
+PB  - Eurographics Association
+SN  - 1-58113-535-1
+KW  - collaborative virtual environments
+KW  - force feedback
+KW  - haptics
+KW  - shared virtual environments
+ER  - 
+
+TY  - CONF
+TI  - Gesture and audio-haptic guidance techniques to direct conversations with intelligent voice interfaces
+AU  - Rajaram, Shwetha
+AU  - Surale, Hemant Bhaskar
+AU  - McConkey, Codie
+AU  - Rognon, Carine
+AU  - Mehta, Hrim
+AU  - Glueck, Michael
+AU  - Collins, Christopher
+T3  - Chi '25
+AB  - Advances in large language models (LLMs) empower new interactive capabilities for wearable voice interfaces, yet traditional voice-and-audio I/O techniques limit users’ ability to flexibly navigate information and manage timing for complex conversational tasks. We developed a suite of gesture and audio-haptic guidance techniques that enable users to control conversation flows and maintain awareness of possible future actions, while simultaneously contributing and receiving conversation content through voice and audio. A 14-participant exploratory study compared our parallelized I/O techniques to a baseline of voice-only interaction. The results demonstrate the efficiency of gestures and haptics for information access, while allowing system speech to be redirected and interrupted in a socially acceptable manner. The techniques also raised user awareness of how to leverage intelligent capabilities. Our findings inform design recommendations to facilitate role-based collaboration between multimodal I/O techniques and reduce users’ perception of time pressure when interleaving interactions with system speech.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2025 CHI conference on human factors in computing systems
+DA  - 2025///
+PY  - 2025
+DO  - 10.1145/3706598.3714310
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1394-1
+UR  - https://doi.org/10.1145/3706598.3714310
+KW  - multimodal interaction
+KW  - voice interfaces
+ER  - 
+
+TY  - CONF
+TI  - Haptic exploration of remote environments with gesture-based collaborative guidance
+AU  - Kim, Seokyeol
+AU  - Park, Jinah
+T3  - Sui '16
+AB  - We present a collaborative haptic interaction method for exploring a remote physical environment with guidance from a distant helper. Spatial information, which is represented by a point cloud, of the remote environment is directly rendered as a contact force without reconstruction of surfaces. On top of this, the helper can selectively exert an attractive force for reaching a target or a repulsive force for avoiding a forbidden region to the user by using free-hand gestures.
+C1  - Tokyo, Japan
+C3  - Proceedings of the 2016 symposium on spatial user interaction
+DA  - 2016///
+PY  - 2016
+DO  - 10.1145/2983310.2989201
+SP  - 211
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-4068-7
+UR  - https://doi.org/10.1145/2983310.2989201
+KW  - collaborative guidance
+KW  - haptic interaction
+KW  - telepresence
+ER  - 
+
+TY  - CONF
+TI  - Haptic communication to enhance collaboration in virtual environments
+AU  - Chellali, Amine
+AU  - Dumas, Cédric
+AU  - Milleville, Isabelle
+T3  - Ecce '10
+AB  - Motivation – To study haptic communication in collaborative virtual environments.Research approach – An experimental study was conducted, in which 60 students were asked to perform in dyads a shared manual task after a training period.Findings/Design – The results show that haptic communication can influence the common frame of reference development in a shared manual task.Research limitations/Implications – Deeper verbalization analyses are needed to evaluate the common frame of reference development.Originality/Value – This study highlights haptic interactions importance when designing virtual environment that support shared manual tasks.Take away message – Haptic communication, combined with visual and verbal communication, enriches interactions in collaborative virtual environments.
+C1  - Delft, Netherlands
+C3  - Proceedings of the 28th annual european conference on cognitive ergonomics
+DA  - 2010///
+PY  - 2010
+DO  - 10.1145/1962300.1962319
+SP  - 83
+EP  - 90
+PB  - Association for Computing Machinery
+SN  - 978-1-60558-946-6
+UR  - https://doi.org/10.1145/1962300.1962319
+KW  - collaborative virtual environments
+KW  - common frame of reference
+KW  - haptic communication
+KW  - human interactions
+ER  - 
+
+TY  - CONF
+TI  - Haptic collaboration: biomedical engineering meets digital design
+AU  - Narahara, Taro
+AU  - Abbruzzese, Kevin M.
+AU  - Foulds, Richard A.
+T3  - Siggraph '15
+AB  - This talk presents results of ongoing research and educational collaboration between the School of Art + Design (SoA+D) and the Department of Biomedical Engineering (BME) at New Jersey Institute of Technology. This collaboration began when researchers from BME became aware of a series of projects by digital design students from SoA+D producing virtual games that interface with fabricated physical design prototypes with microcontrollers through the use of the Unity 3D game engine as an application hub to connect the virtual and real worlds. The BME researchers had developed a novel admittance-controlled haptic robotic exoskeleton for assisting the upper extremity motions of people with stroke and cerebral palsy and were seeking to integrate it with an engaging and challenging virtual environment that can retain a user's interest. The result is a user-controlled haptic manipulator that allows individuals with neurological impairment to be therapeutically assisted by the exoskeleton (BME) while haptically interacting with virtual objects in a 3-D animated environment (SoA+D). The talk also introduces a new cross-disciplinary educational approach employing expertise of both academic units.
+C1  - Los Angeles, California
+C3  - SIGGRAPH 2015: Studio
+DA  - 2015///
+PY  - 2015
+DO  - 10.1145/2785585.2792520
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-3637-6
+UR  - https://doi.org/10.1145/2785585.2792520
+ER  - 
+
+TY  - CONF
+TI  - Role negotiation in a haptic shared control framework
+AU  - Ghasemi, Amir H.
+AU  - Johns, Mishel
+AU  - Garber, Benjamin
+AU  - Boehm, Paul
+AU  - Jayakumar, Paramsothy
+AU  - Ju, Wendy
+AU  - Gillespie, R. Brent
+T3  - AutomotiveUI '16 adjunct
+AB  - Haptic shared control is a promising means for combining the best of human manual control with automatic control, keeping the human in the loop while avoiding automation pitfalls. In this study, we consider a situation in which both human and the automation system recognize an obstacle but choose different paths of avoidance. While the driver and automation have similar perceptions of the situation, the commands they issue are incompatible and their simple sum is most likely dangerous. To resolve this issue, this study is focused on exploring how roles (i.e. leader and follower) in a haptic collaboration can be negotiated and exchanged between the two partners. Specifically, we test the influence of the timing of cues to promote adoption of leader and follower roles in a shared control task. Preliminary results suggest that haptic feedback can enhance drivability and prevent accidents.
+C1  - Ann Arbor, MI, USA
+C3  - Adjunct proceedings of the 8th international conference on automotive user interfaces and interactive vehicular applications
+DA  - 2016///
+PY  - 2016
+DO  - 10.1145/3004323.3004349
+SP  - 179
+EP  - 184
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-4654-2
+UR  - https://doi.org/10.1145/3004323.3004349
+KW  - HAPTIC shared control
+KW  - role negotiation
+KW  - semi-autonomous vehicles
+ER  - 
+
+TY  - CONF
+TI  - Supporting parent-child collaborative learning through haptic feedback displays
+AU  - Beheshti, Elham
+AU  - Borgos-Rodriguez, Katya
+AU  - Piper, Anne Marie
+T3  - Idc '19
+AB  - Haptic feedback displays are an emerging technology that have the potential to enhance how children and their parents interact with and learn about science concepts. Yet, we know little about how to design haptic feedback applications for science learning or how children and their parents make use of these interactive features. This paper presents the design and evaluation of TCircuit, an application for a variable friction touch-screen display (i.e., Tanvas Tablet) that enables parent-child dyads to feel electric current flowing through a circuit diagram by touching the display. We describe results from a formative design study with 10 parent-child dyads that reveal which texture patterns and mappings are most appropriate for representing the concept of electrical current through haptic feedback. We also report results of a comparative study with 40 parent-child dyads in a museum setting. Our analysis shows that dyads in the haptic condition performed slightly better when predicting their answers to learning tasks. However, we found that haptic feedback introduced new complexities for how dyads perceived and discussed the exhibit content. We discuss the potential for haptic feedback displays to support science learning, particularly in collaborative settings, and design considerations for future systems.
+C1  - Boise, ID, USA
+C3  - Proceedings of the 18th ACM international conference on interaction design and children
+DA  - 2019///
+PY  - 2019
+DO  - 10.1145/3311927.3323137
+SP  - 58
+EP  - 70
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6690-8
+UR  - https://doi.org/10.1145/3311927.3323137
+KW  - Children
+KW  - Circuits
+KW  - Museum Learning
+KW  - Parents
+KW  - Surface Haptics
+ER  - 
+
+TY  - CONF
+TI  - Explicit task representation based on gesture interaction
+AU  - Müller-Tomfelde, Christian
+AU  - Paris, Cécile
+T3  - Mmui '05
+AB  - This paper describes the role and the use of an explicit task representation in applications where humans interact in non-traditional computer environments using gestures. The focus lies on training and assistance applications, where the objective of the training includes implicit knowledge, e.g., motor-skills. On the one hand, these applications require a clear and transparent description of what has to be done during the interaction, while, on the other hand, they are highly interactive and multimodal. Therefore, the human computer interaction becomes modelled from the top down as a collaboration in which each participant pursues their individual goal that is stipulated by a task. In a bottom up processing, gesture recognition determines the actions of the user by applying processing on the continuous data streams from the environment. The resulting gesture or action is interpreted as the user's intention and becomes evaluated during the collaboration, allowing the system to reason about how to best provide guidance at this point. A vertical prototype based on the combination of a haptic virtual environment and a knowledge-based reasoning system is discussed and the evolvement of the task-based collaboration becomes demonstrated.
+C1  - Sydney, Australia
+C3  - Proceedings of the 2005 NICTA-hcsnet multimodal user interaction workshop - volume 57
+DA  - 2006///
+PY  - 2006
+SP  - 39
+EP  - 45
+PB  - Australian Computer Society, Inc.
+SN  - 1-920682-39-2
+KW  - collaboration
+KW  - gesture interaction
+KW  - gesture recognition
+KW  - task model
+KW  - virtual environment
+ER  - 
+
+TY  - JOUR
+TI  - What is happening behind the wall? Towards a better understanding of a hidden robot's intent by multimodal cues
+AU  - Kassem, Khaled
+AU  - Ungerböck, Tobias
+AU  - Wintersberger, Philipp
+AU  - Michahelles, Florian
+T2  - Proc. ACM Hum.-Comput. Interact.
+AB  - Research in human-robot collaboration explores aspects of using interaction modalities and their effect on human perception. Particular attention is paid to intent communication, which is essential for successful interaction and collaboration. This work investigates the effect of using audio, visual, and haptic feedback on intent communication in a human-robot collaboration task where the collaborators do not share a direct line of sight. A user study was conducted in virtual reality with 20 participants. Qualitative and quantitative feedback was collected from all participants. When compared with a baseline of no feedback given to the participants, results show that using visual feedback had a significant impact on task efficiency, user experience, and cognitive load. Audio feedback was slightly less impactful, while haptic feedback had a divisive effect. Multimodal feedback combining the three modalities showed the highest impact compared to the individual modalities, leading to the highest task efficiency and user experience, and the lowest cognitive load.
+DA  - 2022/09//
+PY  - 2022
+DO  - 10.1145/3546731
+VL  - 6
+IS  - MHCI
+UR  - https://doi.org/10.1145/3546731
+KW  - human-robot collaboration
+KW  - human-robot interaction
+KW  - robotics
+KW  - user studies
+ER  - 
+
+TY  - CONF
+TI  - Demo: a multi-modal training environment for surgeons
+AU  - Payandeh, Shahram
+AU  - Dill, John
+AU  - Wilson, Graham
+AU  - Zhang, Hui
+AU  - Shi, Lilong
+AU  - Lomax, Alan
+AU  - MacKenzie, Christine
+T3  - Icmi '03
+AB  - This demonstration presents the current state of an on-going team project at Simon Fraser University in developing a virtual environment for helping to train surgeons in performing laparoscopic surgery. In collaboration with surgeons, an initial set of training procedures has been developed. Our goal has been to develop procedures in each of several general categories, such as basic hand-eye coordination, single-handed and bi-manual approaches and dexterous manipulation. The environment is based on an effective data structure that offers fast graphics and physically based modeling of both rigid and deformable objects. In addition, the environment supports both 3D and 5D input devices and devices generating haptic feedback. The demonstration allows users to interact with a scene using a haptic device.
+C1  - Vancouver, British Columbia, Canada
+C3  - Proceedings of the 5th international conference on multimodal interfaces
+DA  - 2003///
+PY  - 2003
+DO  - 10.1145/958432.958489
+SP  - 301
+EP  - 302
+PB  - Association for Computing Machinery
+SN  - 1-58113-621-8
+UR  - https://doi.org/10.1145/958432.958489
+KW  - haptics
+KW  - surgery training
+KW  - surgical simulation
+KW  - virtual laparoscopy
+KW  - virtual reality
+ER  - 
+
+TY  - CONF
+TI  - MMT+AVR: enabling collaboration in augmented virtuality/reality using ISO's MPEG media transport
+AU  - Venkatraman, Karthik
+AU  - Tian, Yuan
+AU  - Raghuraman, Suraj
+AU  - Prabhakaran, Balakrishnan
+AU  - Nguyen, Nhut
+T3  - MMSys '15
+AB  - Augmented Reality (AR) and Augmented Virtuality (AV) systems have been used in various fields such as entertainment, broadcasting, gaming [1], etc. Collaborative AR or AV (CAR/CAV) systems are a special kind of such system in which the interaction happens through the exchange of multi-modal data between multiple users/sites. Multiple sensors capture the real objects and enable interaction with shared virtual objects in a customizable virtual environment. Haptic devices can be added to introduce force feedback when the virtual objects are manipulated. These applications are demanding in terms of network resources to support low latency media delivery and media source switching similar to broadcast applications. Enabling real time interaction with multiple modalities with high volume data requires an advanced media transport protocol that supports low latency media delivery and fast media source (channel) switching. To enable such collaboration over a stochastic network like the Internet requires a combination of technologies from data design, synchronization to real time media delivery. MPEG Media Transport (MMT) [ISO/IEC 23008-1] is a new standard suite of protocols designed to work with demanding, real-time interactive multimedia applications, typically in the context of one-to-one and one-to-many communication. In this paper, we identify the augmentations that are required for the many-to-many nature of CAR/CAV applications and propose MMT+AVR as a middle ware solution for use in CAV applications. Through an example CAV application implemented on top of MMT+AVR, we show how it provides efficient support for developing CAV applications with ease.
+C1  - Portland, Oregon
+C3  - Proceedings of the 6th ACM multimedia systems conference
+DA  - 2015///
+PY  - 2015
+DO  - 10.1145/2713168.2713170
+SP  - 112
+EP  - 119
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-3351-1
+UR  - https://doi.org/10.1145/2713168.2713170
+KW  - augmented virtuality
+KW  - collaboration
+KW  - media transport protocols
+KW  - software architecture
+ER  - 
+
+TY  - JOUR
+TI  - The MADE-axis: a modular actuated device to embody the axis of a data dimension
+AU  - Smiley, Jim
+AU  - Lee, Benjamin
+AU  - Tandon, Siddhant
+AU  - Cordeil, Maxime
+AU  - Besançon, Lonni
+AU  - Knibbe, Jarrod
+AU  - Jenny, Bernhard
+AU  - Dwyer, Tim
+T2  - Proc. ACM Hum.-Comput. Interact.
+AB  - Tangible controls-especially sliders and rotary knobs-have been explored in a wide range of interactive applications for desktop and immersive environments. Studies have shown that they support greater precision and provide proprioceptive benefits, such as support for eyes-free interaction. However, such controls tend to be expressly designed for specific applications. We draw inspiration from a bespoke controller for immersive data visualisation, but decompose this design into a simple, wireless, composable unit featuring two actuated sliders and a rotary encoder. Through these controller units, we explore the interaction opportunities around actuated sliders; supporting precise selection, infinite scrolling, adaptive data representations, and rich haptic feedback; all within a mode-less interaction space. We demonstrate the controllers' use for simple, ad hoc desktop interaction,before moving on to more complex, multi-dimensional interactions in VR and AR. We show that the flexibility and composability of these actuated controllers provides an emergent design space which covers the range of interactive dynamics for visual analysis. In a user study involving pairs performing collaborative visual analysis tasks in mixed-reality, our participants were able to easily compose rich visualisations, make insights and discuss their findings.
+DA  - 2021/11//
+PY  - 2021
+DO  - 10.1145/3488546
+VL  - 5
+IS  - ISS
+UR  - https://doi.org/10.1145/3488546
+KW  - data visualization
+KW  - embodied interfaces
+ER  - 
+
+TY  - CONF
+TI  - Exploring feedback modality designs to improve young children's collaborative actions
+AU  - Melniczuk, Amy
+AU  - Vrapi, Egesa
+T3  - Icmi '23
+AB  - Tangible user interfaces offer the benefit of incorporating physical aspects in the interaction with digital systems, enriching how system information can be conveyed. We investigated how visual, haptic, and audio modalities influence young children’s joint actions. We used a design-based research method to design and develop a multi-sensory tangible device. Two kindergarten teachers and 31 children were involved in our design process. We tested the final prototype with 20 children aged 5-6 from three kindergartens. The main findings were: a)&nbsp;involving and getting approval from kindergarten teachers in the design process was essential; b)&nbsp;simultaneously providing visual and audio feedback might help improve children’s collaborative actions. Our study was an interdisciplinary research on human-computer interaction and children’s education, which contributed an empirical understanding of the factors influencing children collaboration and communication.
+C1  - Paris, France
+C3  - Proceedings of the 25th international conference on multimodal interaction
+DA  - 2023///
+PY  - 2023
+DO  - 10.1145/3577190.3614140
+SP  - 271
+EP  - 281
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0055-2
+UR  - https://doi.org/10.1145/3577190.3614140
+KW  - children
+KW  - collaboration
+KW  - feedback modality
+KW  - tangible designs
+KW  - tangible interaction
+ER  - 
+
+TY  - CONF
+TI  - Verbal communication during cooperative object manipulation
+AU  - Ruddle, Roy A.
+AU  - Savage, Justin CD
+AU  - Jones, Dylan M.
+T3  - Cve '02
+AB  - Cooperation between multiple users in a virtual environment (VE) can take place at one of three levels, but it is only at the highest level that users can simultaneously interact with the same object. This paper describes a study in a straightforward real-world task (maneuvering a large object through a restricted space) was used to investigate object manipulation by pairs of participants in a VE, and focuses on the verbal communication that took place. This communication was analyzed using both categorizing and conversation analysis techniques. Of particular note was the sheer volume of communication that took place. One third of this was instructions from one participant to another of the locomotion and manipulation movements that they should make. Another quarter was general communication that was not directly related to performance of the experimental task, and often involved explicit statements of participants' actions or requests for clarification about what was happening. Further research is required to determine the extent to which haptic and auditory feedback reduce the need for inter-participant communication in collaborative tasks.
+C1  - Bonn, Germany
+C3  - Proceedings of the 4th international conference on collaborative virtual environments
+DA  - 2002///
+PY  - 2002
+DO  - 10.1145/571878.571897
+SP  - 120
+EP  - 127
+PB  - Association for Computing Machinery
+SN  - 1-58113-489-4
+UR  - https://doi.org/10.1145/571878.571897
+KW  - object manipulation
+KW  - piano movers' problem
+KW  - rules of interaction
+KW  - verbal communication
+KW  - virtual environments
+ER  - 
+
+TY  - CONF
+TI  - Pseudo-haptics interfaces for robotic teleoperation
+AU  - Xavier, Rui
+AU  - Silva, José Luı́s
+AU  - Ventura, Rodrigo
+T3  - Hri '24
+AB  - When remotely operating robotic systems, the situation awareness and the absence of the possibility of direct human touch in such a remote environment constitute major challenges in telerobotics. Haptic feedback has been playing an important role when people interact with remote environments (e.g., in robotic teleoperation) or provide more immersive experiences in virtual environments. Like haptic devices, pseudo-haptic techniques aim to simulate haptic sensations in human-computer interaction between real and remote or virtual worlds, by exploring multimodal feedback, mainly the visual, and the brain's capabilities and limitations, without needing a haptic device to be attached or applied to the body. The authors discuss the possibility of exploring pseudo-haptic techniques, notably combined multimodal techniques, to improve robotic teleoperation, in remote vehicle driving, object maneuvering, situation awareness, and collaborative tasks, which as per the best authors' knowledge has not been explored in the literature.
+C1  - Boulder, CO, USA
+C3  - Companion of the 2024 ACM/IEEE international conference on human-robot interaction
+DA  - 2024///
+PY  - 2024
+DO  - 10.1145/3610978.3640704
+SP  - 1139
+EP  - 1142
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0323-2
+UR  - https://doi.org/10.1145/3610978.3640704
+KW  - human-computer interaction
+KW  - human-robot interaction
+KW  - pseudo-haptics
+KW  - robotic teleoperation
+KW  - situation awareness
+ER  - 
+
+TY  - CONF
+TI  - Visual immersive haptic rendering on the web
+AU  - Sourin, Alexei
+AU  - Wei, Lei
+T3  - Vrcai '08
+AB  - We propose how to define complex geometry, appearance and tangible physical properties of the X3D and VRML objects using mathematical functions straight in the scene definition code or in loadable libraries. We can also touch and feel surfaces of X3D and VRML objects as well as convert them to solid tangible objects. We can define tangible density and force fields associated with standard and function-defined geometries. Since the function-defined models are small in size, it is possible to perform their collaborative interactive modifications with concurrent synchronous visualization at each client computer with any required level of detail. We illustrate this concept with several application examples based on our plug-in to X3D and VRML browser.
+C1  - Singapore
+C3  - Proceedings of the 7th ACM SIGGRAPH international conference on virtual-reality continuum and its applications in industry
+DA  - 2008///
+PY  - 2008
+DO  - 10.1145/1477862.1477890
+PB  - Association for Computing Machinery
+SN  - 978-1-60558-335-8
+UR  - https://doi.org/10.1145/1477862.1477890
+KW  - 3D web visualization
+KW  - function-based shape modeling
+KW  - haptic interaction
+KW  - implicit functions
+KW  - parametric functions
+KW  - X3D
+ER  - 
+
+TY  - CONF
+TI  - Exploiting perception in high-fidelity virtual environments (Additional presentations from the 24th course are available on the citation page)
+AU  - Glencross, Mashhuda
+AU  - Chalmers, Alan G.
+AU  - Lin, Ming C.
+AU  - Otaduy, Miguel A.
+AU  - Gutierrez, Diego
+T3  - Siggraph '06
+AB  - The objective of this course is to provide an introduction to the issues that must be considered when building high-fidelity 3D engaging shared virtual environments. The principles of human perception guide important development of algorithms and techniques in collaboration, graphical, auditory, and haptic rendering. We aim to show how human perception is exploited to achieve realism in high fidelity environments within the constraints of available finite computational resources.In this course we address the challenges faced when building such high-fidelity engaging shared virtual environments, especially those that facilitate collaboration and intuitive interaction. We present real applications in which such high-fidelity is essential. With reference to these, we illustrate the significant need for the combination of high-fidelity graphics in real time, better modes of interaction, and appropriate collaboration strategies.After introducing the concept of high-fidelity virtual environments and why these convey important information to the user, we cover the main issues in two parts linked by the common thread of exploiting human perception. First we explore perceptually driven techniques that can be employed to achieve high-fidelity graphical rendering in real-time, and how incorporating authentic lighting effects helps to convey a sense of realism and scale in virtual re-constructions of historical sites.Secondly, we examine how intuitive interaction between participants, and with objects in the environment, also plays a key role in the overall experience. How perceptual methods can be used to guide interest management and distribution choices, is considered with an emphasis on avoiding potential pitfalls when distributing physically-based simulations. An analysis of real network conditions and the implications of these for distribution strategies that facilitate collaboration is presented. Furthermore, we describe technologies necessary to provide intuitive interaction in virtual environments, paying particular attention to engaging multiple sensory modalities, primarily through physically-based sound simulation and perceptually high-fidelity haptic interaction.The combination of realism and intuitive compelling interaction can lead to engaging virtual environments capable of exhibiting skills transfer, an illusive goal of many virtual environment applications.
+C1  - Boston, Massachusetts
+C3  - ACM SIGGRAPH 2006 courses
+DA  - 2006///
+PY  - 2006
+DO  - 10.1145/1185657.1185814
+SP  - 1
+EP  - es
+PB  - Association for Computing Machinery
+SN  - 1-59593-364-6
+UR  - https://doi.org/10.1145/1185657.1185814
+KW  - collaborative environments
+KW  - haptics
+KW  - high-fidelity rendering
+KW  - human-computer interaction
+KW  - multi-user
+KW  - networked applications
+KW  - perception
+KW  - virtual reality
+ER  - 
+
+TY  - CONF
+TI  - Effects of network delay on a collaborative motor task with telehaptic and televisual feedback
+AU  - Allison, Robert S.
+AU  - Zacher, James E.
+AU  - Wang, David
+AU  - Shu, Joseph
+T3  - Vrcai '04
+AB  - The incorporation of haptic interfaces into collaborative virtual environments is challenging when the users are geographically distributed. Reduction of latency is essential for maintaining realism, causality and the sense of co-presence in collaborative virtual environments during closely-coupled haptic tasks. In this study we consider the effects of varying amounts of simulated constant delay on the performance of a simple collaborative haptic task. The task was performed with haptic feedback alone or with visual feedback alone. Subjects were required to make a coordinated movement of their haptic displays as rapidly as possible, while maintaining a target simulated spring force between their end effector and that of their collaborator. Increasing simulated delay resulted in a decrease in performance, either in deviation from target spring force and in increased time to complete the task. At large latencies, there was evidence of dissociation between the states of the system that was observed by each of the collaborating users. This confirms earlier anecdotal evidence that users can be essentially seeing qualitatively different simulations with typical long distance network delays.
+C1  - Singapore
+C3  - Proceedings of the 2004 ACM SIGGRAPH international conference on virtual reality continuum and its applications in industry
+DA  - 2004///
+PY  - 2004
+DO  - 10.1145/1044588.1044670
+SP  - 375
+EP  - 381
+PB  - Association for Computing Machinery
+SN  - 1-58113-884-9
+UR  - https://doi.org/10.1145/1044588.1044670
+KW  - collaborative virtual environments
+KW  - delay
+KW  - haptics
+KW  - teleoperation
+KW  - virtual environments
+ER  - 
+
+TY  - CONF
+TI  - Trans-world haptic collaboration
+AU  - Gunn, Chris
+AU  - Hutchins, Matthew
+AU  - Adcock, Matt
+AU  - Hawkins, Rhys
+T3  - Siggraph '03
+AB  - This sketch describes a collaborative virtual environment application involving haptic interaction over long Internet distances. We have developed algorithms to accommodate significant latency for certain applications, notably in the medical domain. The results have shown that we can manipulate simulated human body organs, as well as guide each other's 'hands' (and shake hands!) over 22,000 km.
+C1  - San Diego, California
+C3  - ACM SIGGRAPH 2003 sketches &amp; applications
+DA  - 2003///
+PY  - 2003
+DO  - 10.1145/965400.965495
+SP  - 1
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7466-8
+UR  - https://doi.org/10.1145/965400.965495
+ER  - 
+
+TY  - JOUR
+TI  - Compensating the effect of communication delay in client-server–based shared haptic virtual environments
+AU  - Schuwerk, Clemens
+AU  - Xu, Xiao
+AU  - Chaudhari, Rahul
+AU  - Steinbach, Eckehard
+T2  - ACM Trans. Appl. Percept.
+AB  - Shared haptic virtual environments can be realized using a client-server architecture. In this architecture, each client maintains a local copy of the virtual environment (VE). A centralized physics simulation running on a server calculates the object states based on haptic device position information received from the clients. The object states are sent back to the clients to update the local copies of the VE, which are used to render interaction forces displayed to the user through a haptic device. Communication delay leads to delayed object state updates and increased force feedback rendered at the clients. In this article, we analyze the effect of communication delay on the magnitude of the rendered forces at the clients for cooperative multi-user interactions with rigid objects. The analysis reveals guidelines on the tolerable communication delay. If this delay is exceeded, the increased force magnitude becomes haptically perceivable. We propose an adaptive force rendering scheme to compensate for this effect, which dynamically changes the stiffness used in the force rendering at the clients. Our experimental results, including a subjective user study, verify the applicability of the analysis and the proposed scheme to compensate the effect of time-varying communication delay in a multi-user SHVE.
+DA  - 2015/12//
+PY  - 2015
+DO  - 10.1145/2835176
+VL  - 13
+IS  - 1
+SN  - 1544-3558
+UR  - https://doi.org/10.1145/2835176
+KW  - collaboration
+KW  - communication delay
+KW  - haptic rendering
+KW  - multi-user
+KW  - perceived transparency
+KW  - Shared haptic virtual environment
+ER  - 
+
+TY  - JOUR
+TI  - Supporting presence in collaborative environments by haptic force feedback
+AU  - Sallnäs, Eva-Lotta
+AU  - Rassmus-Gröhn, Kirsten
+AU  - Sjöström, Calle
+T2  - ACM Trans. Comput.-Hum. Interact.
+AB  - An experimental study of interaction in a collaborative desktop virtual environment is described. The aim of the experiment was to investigate if added haptic force feedback in such an environment affects perceived virtual presence, perceived social presence, perceived task performance, and task performance. A between-group design was employed, where seven pairs of subjects used an interface with graphic representation of the environment, audio connection, and haptic force feedback. Seven other pairs of subjects used an interface without haptic force feedback, but with identical features otherwise. The PHANToM, a one-point haptic device, was used for the haptic force feedback, and a program especially developed for the purpose provided the virtual environment. The program enables for two individuals placed in different locations to simultaneously feel and manipulate dynamic objects in a shared desktop virtual environment. Results show that haptic force feedback significantly improves task performance, perceived task performance, and pereceived virtual presence in the collaborative distributed environment. The results suggest that haptic force feedback increases perceived social presence, but the difference is not significant.
+DA  - 2000/12//
+PY  - 2000
+DO  - 10.1145/365058.365086
+VL  - 7
+IS  - 4
+SP  - 461
+EP  - 476
+SN  - 1073-0516
+UR  - https://doi.org/10.1145/365058.365086
+KW  - distributed collaboration
+KW  - haptic force feedback
+KW  - presence
+ER  - 
+
+TY  - CONF
+TI  - Function-based haptic collaboration in X3D
+AU  - Wei, Lei
+AU  - Sourin, Alexei
+AU  - Stocker, Herbert
+T3  - Web3D '09
+AB  - We seek to further expand X3D by augmenting it with function-based definitions of geometry, appearance and tangible physical properties. Besides using alone, the introduced nodes can augment and enrich the standard X3D shapes by function-defined geometry, appearance and tangible physical properties. These new virtual objects can be explored haptically with various desktop force-feedback devices. We also propose a general visual and haptic collaborative framework for using it with X3D. We implement it as new pilot versions of BS Collaborate server and BS Contact VRML/X3D viewer. In our collaborative framework, two pipelines—visual and haptic—complement each other to provide a simple and efficient solution to problems requiring collaboration in shared virtual spaces on the web.
+C1  - Darmstadt, Germany
+C3  - Proceedings of the 14th international conference on 3D web technology
+DA  - 2009///
+PY  - 2009
+DO  - 10.1145/1559764.1559767
+SP  - 15
+EP  - 23
+PB  - Association for Computing Machinery
+SN  - 978-1-60558-432-4
+UR  - https://doi.org/10.1145/1559764.1559767
+KW  - 3D web visualization
+KW  - collaborative platform
+KW  - function-based shape modeling
+KW  - haptic interaction
+KW  - implicit functions
+KW  - parametric functions
+KW  - physical properties
+KW  - X3D
+ER  - 
+
+TY  - JOUR
+TI  - A haptic tool for group work on geometrical concepts engaging blind and sighted pupils
+AU  - Moll, Jonas
+AU  - Pysander, Eva-Lotta Sallnäs
+T2  - ACM Trans. Access. Comput.
+AB  - In the study presented here, two haptic and visual applications for learning geometrical concepts in group work in primary school have been designed and evaluated. The aim was to support collaborative learning among sighted and visually impaired pupils. The first application is a static flattened 3D environment that supports learning to distinguish between angles by means of a 3D haptic device providing touch feedback. The second application is a dynamic 3D environment that supports learning of spatial geometry. The scene is a room with a box containing geometrical objects, which pupils can pick up and move around. The applications were evaluated in four schools with groups of two sighted and one visually impaired pupil. The results showed the support for the visually impaired pupil and for the collaboration to be satisfying. A shared understanding of the workspace could be achieved, as long as the virtual environment did not contain movable objects. Verbal communication was crucial for the work process but haptic guiding to some extent substituted communication about direction. When it comes to joint action between visually impaired and sighted pupils a number of interesting problems were identified when the dynamic and static virtual environments were compared. These problems require further investigation. The study extends prior work in the areas of assistive technology and multimodal communication by evaluating functions for joint haptic manipulation in the unique setting of group work in primary school.
+DA  - 2013/07//
+PY  - 2013
+DO  - 10.1145/2493171.2493172
+VL  - 4
+IS  - 4
+SN  - 1936-7228
+UR  - https://doi.org/10.1145/2493171.2493172
+ER  - 
+
+TY  - CONF
+TI  - Design of haptic interfaces for therapy
+AU  - Vaucelle, Cati
+AU  - Bonanni, Leonardo
+AU  - Ishii, Hiroshi
+T3  - Chi '09
+AB  - Touch is fundamental to our emotional well-being. Medical science is starting to understand and develop touch-based therapies for autism spectrum, mood, anxiety and borderline disorders. Based on the most promising touch therapy protocols, we are presenting the first devices that simulate touch through haptic devices to bring relief and assist clinical therapy for mental health. We present several haptic systems that enable medical professionals to facilitate the collaboration between patients and doctors and potentially pave the way for a new form of non-invasive treatment that could be adapted from use in care-giving facilities to public use. We developed these prototypes working closely with a team of mental health professionals.
+C1  - Boston, MA, USA
+C3  - Proceedings of the SIGCHI conference on human factors in computing systems
+DA  - 2009///
+PY  - 2009
+DO  - 10.1145/1518701.1518776
+SP  - 467
+EP  - 470
+PB  - Association for Computing Machinery
+SN  - 978-1-60558-246-7
+UR  - https://doi.org/10.1145/1518701.1518776
+KW  - haptics
+KW  - health care
+KW  - psychotherapy
+KW  - tangible user interfaces
+KW  - touch therapy
+KW  - wearable computing
+ER  - 
+
+TY  - BOOK
+TI  - UIST '19: Proceedings of the 32nd annual ACM symposium on user interface software and technology
+AB  - Welcome to the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST), held from October 20th to October 23rd, 2019, in New Orleans, Louisiana, USA.UIST is the premier forum for presenting innovative research on software and technology for human-computer interfaces. Sponsored by ACM's special interest groups on computer-human interaction (SIGCHI) and computer graphics (SIGGRAPH), UIST brings together researchers and practitioners from diverse areas, including input and output devices, augmented/virtual reality, programming tools, mobile interaction, haptic and tactile interfaces, human-robot interaction, AI and HCI, fabrication, design and prototyping tools, creativity tools, ubiquitous computing, accessibility, visualization, information management, wearable computing, social computing, toolkits, education, crowdsourcing, and computer-supported cooperative work.UIST 2019 received 381 technical paper submissions. After a thorough review process, the program committee accepted 93 papers (24.4
+CY  - New York, NY, USA
+DA  - 2019///
+PY  - 2019
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6816-2
+ER  - 
+
+TY  - CONF
+TI  - HapticLib: a haptic feedback library for embedded platforms
+AU  - Guardati, Leonardo
+AU  - Vallorani, Silvio
+AU  - Milosevic, Bojan
+AU  - Farella, Elisabetta
+AU  - Benini, Luca
+T3  - Sap '13
+AB  - Mobile and wearable embedded devices connect the user with digital information in a continuous and pervasive way. A key benefit is given by the possibility to exploit multi-modal interaction capabilities that can dynamically act on different human senses and the cooperative capabilities of the small and pervasive devices.In this scenario we present HapticLib, a software library for the development and implementation of vibro-tactile feedback on resource-constrained embedded devices. It was designed to offer a high-level programming interface for the rendering of haptic patterns, accurately modeling the nature of vibro-tactile actuators and different touch experiences.
+C1  - Dublin, Ireland
+C3  - Proceedings of the ACM symposium on applied perception
+DA  - 2013///
+PY  - 2013
+DO  - 10.1145/2492494.2501882
+SP  - 125
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-2262-1
+UR  - https://doi.org/10.1145/2492494.2501882
+KW  - development tools
+KW  - embedded platform
+KW  - haptic feedback
+KW  - human computer interface
+KW  - software library
+ER  - 
+
+TY  - BOOK
+TI  - UIST '19 adjunct: Adjunct proceedings of the 32nd annual ACM symposium on user interface software and technology
+AB  - Welcome to the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST), held from October 20th to October 23rd, 2019, in New Orleans, Louisiana, USA.UIST is the premier forum for presenting innovative research on software and technology for human-computer interfaces. Sponsored by ACM's special interest groups on computer-human interaction (SIGCHI) and computer graphics (SIGGRAPH), UIST brings together researchers and practitioners from diverse areas, including input and output devices, augmented/virtual reality, programming tools, mobile interaction, haptic and tactile interfaces, human-robot interaction, AI and HCI, fabrication, design and prototyping tools, creativity tools, ubiquitous computing, accessibility, visualization, information management, wearable computing, social computing, toolkits, education, crowdsourcing, and computer-supported cooperative work.UIST 2019 received 381 technical paper submissions. After a thorough review process, the program committee accepted 93 papers (24.4
+CY  - New York, NY, USA
+DA  - 2019///
+PY  - 2019
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6817-9
+ER  - 
+
+TY  - CONF
+TI  - Designing for children's social play in responsive multi-sensory environments
+AU  - Lyu, Yanjun
+T3  - ISS companion '23
+AB  - A responsive multi-sensory environment is designed to create an engaging experience by integrating various sensory stimuli such as sight, sound, and touch. Most prior research in the Human-computer Interaction (HCI) field has investigated its use for children with disabilities (e.g., autism) or for personal play or dyadic activities. Our work focuses on the use of responsive media for children without disabilities in primary education contexts and within a group of children. Our goal is to evaluate the capabilities of responsive multi-sensory environments, integrating wearable garments to foster children's social interaction behavior and collaboration. The enhanced garments we are developing will feature multi-channel haptic actuators, allowing players to feel tactile sensations corresponding to the proximity and activity of other peers. Additionally, virtual creatures will be projected visually an acoustic floor, which players will be able to interact with. Our design involves a series of aquatic creatures that display different "greeting" behaviors as participants stand in different proximity zones to each other.
+C1  - Pittsburgh, PA, USA
+C3  - Companion proceedings of the 2023 conference on interactive surfaces and spaces
+DA  - 2023///
+PY  - 2023
+DO  - 10.1145/3626485.3626552
+SP  - 89
+EP  - 92
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0425-3
+UR  - https://doi.org/10.1145/3626485.3626552
+ER  - 
+
+TY  - CONF
+TI  - SHRUG: stroke haptic rehabilitation using gaming
+AU  - Peiris, Roshan Lalintha
+AU  - Janaka, Nuwan
+AU  - De Silva, Deepthika
+AU  - Nanayakkara, Suranga
+T3  - OzCHI '14
+AB  - In this paper we present SHRUG, an interactive shoulder rehabilitation exerciser. With this work-in-progress system, we intend to (1) explore the effectiveness of providing interactive and just-in-time feedback to the patients and therapists; (2) explore the effect of adding a gaming element on the motivation of the patients. The SHRUG prototype was developed in collaboration with the rehabilitation therapists by augmenting their existing exercising system. We present the implementation details of the system and some of the initial reactions from the therapists on various aspects of the SHRUG prototypes.
+C1  - Sydney, New South Wales, Australia
+C3  - Proceedings of the 26th australian computer-human interaction conference on designing futures: The future of design
+DA  - 2014///
+PY  - 2014
+DO  - 10.1145/2686612.2686669
+SP  - 380
+EP  - 383
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-0653-9
+UR  - https://doi.org/10.1145/2686612.2686669
+KW  - responsive objects
+KW  - serious games
+KW  - stroke rehabilitation
+ER  - 
+
+TY  - BOOK
+TI  - AltMM'18: Proceedings of the 3rd international workshop on multimedia alternate realities
+AB  - It is our great pleasure to welcome you to the third edition of the ACM International Workshop on Multimedia Alternate Realities, AltMM 2018.Novel multimedia technologies enable us to experience imaginary worlds, to live other people's stories, to communicate with or experience alternate realities. Different spaces, times or situations can be entered thanks to multimedia contents and systems, which coexist with our current reality, and are sometimes so vivid and engaging that we feel we are immersed in them. Advances in multimedia are making it possible to create immersive experiences that may involve the user in a different or augmented world, as an alternate reality.Recent advancements in multimedia and related technologies facilitated creating increased computational capabilities to produce hypermedia content with higher quality in multiple human sensory domains, including audio, visual, haptic, olfactory, and taste. Such advances have enabled the creation of immersive experiences that may involve the user in a different or augmented world, as an alternate reality. The AltMM workshop aims to bring together researchers and practitioners in both academia and industry to foster the creation of novel multimedia technologies that allows users to experience alternate realities. By exploring the meaning of alternate realness and the research questions for designing, creating, consuming, and evaluating alternate reality experience, AltMM serves as a unique international venue to foster the ideation of alternate realities based on immersive and interactive multimedia systems of the future.AltMM 2018 keynote speaker is Professor Woontack Woo from the Graduate School of Cultural Technology (GSCT) at Korea Advanced Institute of Science and Technology (KAIST), Korea. His keynote highlights several concerns and future avenues towards improving the quality of life through augmented human technology that helps humans to live as smart citizens in a Smart City. We are pleased to have Professor Woo at the workshop and we thank him for sharing his thoughts on the important issue of 'augmented humans' and the framework of context-aware VR/AR.The technical program of AltMM 2018 also includes two paper sessions covering a diverse set of topics, including: Innovative Display and Interaction Techniques to deploy immersive multimedia experiences, via head-mounted displays or cave automatic virtual environments; and the Design of Virtual Collaborative Experiences, such as augmented reality tours or escape room games to be presented as oral presentations and technical demonstrations. The papers were accepted after the workshop submissions were carefully reviewed and shepherded by the workshop Program Committee (PC) members, with at least three reviewers per paper. In addition to the keynote and paper sessions, there will be a talk and interactive session to envision the future opportunities in this field.
+CY  - New York, NY, USA
+DA  - 2018///
+PY  - 2018
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-5979-5
+ER  - 
+
+TY  - CONF
+TI  - Learning lab "digital technologies" keeps distance
+AU  - Günzel, Holger
+AU  - Brehm, Lars
+AU  - Humpe, Andreas
+T3  - Cserc '20
+AB  - Over the last years the Learning Lab "Digital Technologies" has been developed as a growing platform for the education of digital technologies in the context of university teaching. It significantly increases the motivation and involvement of students through active and collaborative learning in combination with a haptic experience. Unfortunately, in the summer semester 2020 the concept of the haptic experience was suspended due to the corona pandemic and the associated online teaching.In this article we will describe and evaluate how the concept can be adapted to the current situation and implemented online. With new workshops and an adapted online working method the Learning Lab "Digital Technologies" overcomes the physical distance. The conversion to constructivism in an online environment presented in the article shows the new possibilities, but also the challenges. Compared to physical workshops, the aspects constructive and emotional do not show clear trends, social interactions become less and the aspect of self-regulation decreases. Nevertheless, the aspects of activity and situation are increasing.Using the example of the new virtual workshop "Data Management Foundation" (DMF) - design a solution for data management - based on the relational database Oracle Apex and a specific case "Second Chance", the procedure, bottlenecks, and positive results of the execution will be explained. This workshop is also accessible to the existing community which welcomes new lecturers and developers.
+C1  - Virtual Event, Netherlands
+C3  - Proceedings of the 9th computer science education research conference
+DA  - 2021///
+PY  - 2021
+DO  - 10.1145/3442481.3442506
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-8872-6
+UR  - https://doi.org/10.1145/3442481.3442506
+KW  - collaborative learning
+KW  - constructivism
+KW  - corona virus
+KW  - digital capabilities
+KW  - online learning
+ER  - 
+
+TY  - CONF
+TI  - Mazi: Tangible technologies as a channel for collaborative play
+AU  - Nonnis, Antonella
+AU  - Bryan-Kinns, Nick
+T3  - Chi '19
+AB  - This paper investigates how haptic and auditory stimulation can be playfully implemented as an accessible and stimulating form of interaction for children. We present the design of Mazi, a sonic Tangible User Interface (TUI) designed to encourage spontaneous and collaborative play between children with high support needs autism. We report on a five week study of Mazi with five children aged between 6 and 9 years old at a Special Education Needs (SEN) school in London, UK. We found that collaborative play emerged from the interaction with the system especially in regards to socialization and engagement. Our study contributes to exploring the potential of user-centered TUI development as a channel to facilitate social interaction while providing sensory regulation for children with SENs.
+C1  - Glasgow, Scotland Uk
+C3  - Proceedings of the 2019 CHI conference on human factors in computing systems
+DA  - 2019///
+PY  - 2019
+DO  - 10.1145/3290605.3300670
+SP  - 1
+EP  - 13
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-5970-2
+UR  - https://doi.org/10.1145/3290605.3300670
+KW  - autism
+KW  - children
+KW  - play
+KW  - sensory integration
+KW  - smart textiles
+KW  - social interaction
+KW  - tangible user interfaces
+ER  - 
+
+TY  - CONF
+TI  - Iterative design of an audio-haptic drawing application
+AU  - Rassmus-Gröhn, Kirsten
+AU  - Magnusson, Charlotte
+AU  - Eftring, HäWIP Ekan
+T3  - Chi ea '07
+AB  - This paper presents the ongoing design and evaluation of an audio-haptic drawing program that allows visually impaired users to create and access graphical images. The application is developed in close collaboration with a user reference group of five blind/low vision school children. The objective of the application is twofold. It is used as a research vehicle to investigate user interaction techniques and do basic research on navigation strategies and help tools, including e.g. sound fields, shape creation tools and beacons with pulling forces in the context of drawing. In the progress of the development, the preferred features have been implemented as standard tools in the application. The final aim of the application in its current form is to aid school work in different subjects, and part of the application development is also to create tasks relevant in a school setting.
+C1  - San Jose, CA, USA
+C3  - CHI '07 extended abstracts on human factors in computing systems
+DA  - 2007///
+PY  - 2007
+DO  - 10.1145/1240866.1241053
+SP  - 2627
+EP  - 2632
+PB  - Association for Computing Machinery
+SN  - 978-1-59593-642-4
+UR  - https://doi.org/10.1145/1240866.1241053
+KW  - auditory
+KW  - blind
+KW  - drawing
+KW  - force-feedback
+KW  - haptic
+KW  - interface
+KW  - iterative design
+KW  - low vision
+ER  - 
+
+TY  - CONF
+TI  - Turn-by-wire: Computationally mediated physical fabrication
+AU  - Tian, Rundong
+AU  - Saran, Vedant
+AU  - Kritzler, Mareike
+AU  - Michahelles, Florian
+AU  - Paulos, Eric
+T3  - Uist '19
+AB  - Advances in digital fabrication have simultaneously created new capabilities while reinforcing outdated workflows that constrain how, and by whom, these fabrication tools are used. In this paper, we investigate how a new class of hybrid-controlled machines can collaborate with novice and expert users alike to yield a more lucid making experience. We demonstrate these ideas through our system, Turn-by-Wire. By combining the capabilities of a traditional lathe with haptic input controllers that modulate both position and force, we detail a series of novel interaction metaphors that invite a more fluid making process spanning digital, model-centric, computer control, and embodied, adaptive, human control. We evaluate our system through a user study and discuss how these concepts generalize to other fabrication tools.
+C1  - New Orleans, LA, USA
+C3  - Proceedings of the 32nd annual ACM symposium on user interface software and technology
+DA  - 2019///
+PY  - 2019
+DO  - 10.1145/3332165.3347918
+SP  - 713
+EP  - 725
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6816-2
+UR  - https://doi.org/10.1145/3332165.3347918
+KW  - augmented tools
+KW  - digital companions
+KW  - digital fabrication
+KW  - haptics
+KW  - interactive fabrication
+ER  - 
+
+TY  - CONF
+TI  - Human-robot medical interaction
+AU  - Scimeca, Luca
+AU  - Iida, Fumiya
+AU  - Maiolino, Perla
+AU  - Nanayakkara, Thrishantha
+T3  - Hri '20
+AB  - Advances in Soft Robotics, Haptics, AI and simulation have changed the medical robotics field, allowing robotics technologies to be deployed in medical environments. In this context, the relationship between doctors, robotics devices, and patients is fundamental, as only with the synergetic collaboration of the three parties results in medical robotics can be achieved. This workshop focuses on the use of soft robotics technologies, sensing, AI and Simulation, to further improve medical practitioner training, as well as the creation of new tools for diagnosis and healthcare through the medical interaction of humans and robots. The Robo-patient is more specifically the idea behind the creation of sensorised robotic patient with controllable organs to present a given set of physiological conditions. This is both to investigate the embodied nature of haptic interaction in physical examination, as well as the doctor-patient relationship to further improve medical practice through robotics technologies. The Robo-doctor aspect is also relevant, with robotics prototypes performing, or helping to perform, medical diagnosis. In the workshop, key technologies as well as future views in the field will be discussed both by expert and new upcoming researchers.
+C1  - Cambridge, United Kingdom
+C3  - Companion of the 2020 ACM/IEEE international conference on human-robot interaction
+DA  - 2020///
+PY  - 2020
+DO  - 10.1145/3371382.3374847
+SP  - 660
+EP  - 661
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7057-8
+UR  - https://doi.org/10.1145/3371382.3374847
+KW  - hri
+KW  - human centered robotics
+KW  - medical robotics
+ER  - 
+
+TY  - CONF
+TI  - A comparison of immersive HMD, fish tank VR and fish tank with haptics displays for volume visualization
+AU  - Qi, Wen
+AU  - Taylor, Russell M.
+AU  - Healey, Christopher G.
+AU  - Martens, Jean-Bernard
+T3  - Apgv '06
+AB  - Although a wide range of virtual reality (VR) systems are in use, there are few guidelines to help system and application developers select the components most appropriate for the domain problem they are investigating. Using the results of an empirical study, we developed such guidelines for the choice of display environment for four specific, but common, volume visualization problems: identification and judgment of the size, shape, density, and connectivity of objects present in a volume. These tasks are derived from questions being asked by collaborators studying Cystic Fibrosis (CF). We compared user performance in three different stereo VR systems: (1) head-mounted display (HMD); (2) fish tank VR (fish tank); and (3) fish tank VR augmented with a haptic device (haptic). HMD participants were placed "inside" the volume and walked within it to explore its structure. Fish tank and haptic participants saw the entire volume on-screen and rotated it to view it from different perspectives. Response time and accuracy were used to measure performance. Results showed that the fish tank and haptic groups were significantly more accurate at judging the shape, density, and connectivity of objects and completed the tasks significantly faster than the HMD group. Although the fish tank group was itself significantly faster than the haptic group, there were no statistical differences in accuracy between the two. Participants classified the HMD system as an "inside-out" display (looking outwards from inside the volume), and the fish tank and haptic systems as "outside-in" displays (looking inwards from outside the volume). Including haptics added an inside-out capability to the fish tank system through the use of touch. We recommend an outside-in system because it offers both overview and context, two visual properties that are important for the volume visualization tasks we studied. In addition, based on the haptic group's opinion (80
+C1  - Boston, Massachusetts, USA
+C3  - Proceedings of the 3rd symposium on applied perception in graphics and visualization
+DA  - 2006///
+PY  - 2006
+DO  - 10.1145/1140491.1140502
+SP  - 51
+EP  - 58
+PB  - Association for Computing Machinery
+SN  - 1-59593-429-4
+UR  - https://doi.org/10.1145/1140491.1140502
+KW  - fish tank
+KW  - force feedback
+KW  - haptics
+KW  - head mounted display
+KW  - virtual reality
+KW  - visualization
+KW  - volume rendering
+ER  - 
+
+TY  - JOUR
+TI  - An experimental study on the role of touch in shared virtual environments
+AU  - Basdogan, Cagatay
+AU  - Ho, Chih-Hao
+AU  - Srinivasan, Mandayam A.
+AU  - Slater, Mel
+T2  - ACM Trans. Comput.-Hum. Interact.
+AB  - Investigating virtual environments has become an increasingly interesting research topic for engineers, computer and cognitive scientists, and psychologists. Although there have been several recent studies focused on the development of multimodal virtual environments (VEs) to study human-machine interactions, less attention has been paid to human-human and human-machine interactions in shared virtual environments (SVEs), and to our knowledge, no attention paid at all to what extent the addition of haptic communication between people would contribute to the shared experience. We have developed a multimodal shared virtual environment and performed a set of experiments with human subjects to study the role of haptic feedback in collaborative tasks and whether haptic communication through force feedback can facilitate a sense of being and collaborating with a remote partner. The study concerns a scenario where two participants at remote sites must cooperate to perform a joint task in an SVE. The goals of the study are (1) to assess the impact of force feedback on task performance, (2) to better understand the role of haptic communication in human-human interactions, (3) to study the impact of touch on the subjective sense of collaborating with a human as reported by the participants based on what they could see and feel, and (4) to investigate if gender, personality, or emotional experiences of users can affect haptic communication in SVEs. The outcomes of this research can have a powerful impact on the development of next-generation human-computer interfaces and network protocols that integrate touch and force feedback technology into the internet, development of protocols and techniques for collaborative teleoperation such as hazardous material removal, space station.
+DA  - 2000/12//
+PY  - 2000
+DO  - 10.1145/365058.365082
+VL  - 7
+IS  - 4
+SP  - 443
+EP  - 460
+SN  - 1073-0516
+UR  - https://doi.org/10.1145/365058.365082
+KW  - copresence
+KW  - haptic interaction
+KW  - shared virtual environments
+KW  - force feedback devices
+ER  - 
+
+TY  - CONF
+TI  - Sound forest: Evaluation of an accessible multisensory music installation
+AU  - Frid, Emma
+AU  - Lindetorp, Hans
+AU  - Hansen, Kjetil Falkenberg
+AU  - Elblaus, Ludvig
+AU  - Bresin, Roberto
+T3  - Chi '19
+AB  - Sound Forest is a music installation consisting of a room with light-emitting interactive strings, vibrating platforms and speakers, situated at the Swedish Museum of Performing Arts. In this paper we present an exploratory study focusing on evaluation of Sound Forest based on picture cards and interviews. Since Sound Forest should be accessible for everyone, regardless age or abilities, we invited children, teens and adults with physical and intellectual disabilities to take part in the evaluation. The main contribution of this work lies in its findings suggesting that multisensory platforms such as Sound Forest, providing whole-body vibrations, can be used to provide visitors of different ages and abilities with similar associations to musical experiences. Interviews also revealed positive responses to haptic feedback in this context. Participants of different ages used different strategies and bodily modes of interaction in Sound Forest, with activities ranging from running to synchronized music-making and collaborative play.
+C1  - Glasgow, Scotland Uk
+C3  - Proceedings of the 2019 CHI conference on human factors in computing systems
+DA  - 2019///
+PY  - 2019
+DO  - 10.1145/3290605.3300907
+SP  - 1
+EP  - 12
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-5970-2
+UR  - https://doi.org/10.1145/3290605.3300907
+KW  - haptic feedback
+KW  - accessible digital musical instruments
+KW  - evaluation of music systems
+KW  - music installations
+KW  - music production
+ER  - 
+

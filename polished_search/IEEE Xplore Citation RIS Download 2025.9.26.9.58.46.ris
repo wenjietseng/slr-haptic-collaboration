@@ -1,0 +1,2149 @@
+TY  - CONF
+TI  - The roles of haptic-ostensive referring expressions in cooperative, task-based human-robot dialogue
+T2  - 2008 3rd ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+SP  - 295
+EP  - 302
+AU  - M. E. Foster
+AU  - E. G. Bard
+AU  - M. Guhe
+AU  - R. L. Hill
+AU  - J. Oberlander
+AU  - A. Knoll
+PY  - 2008
+KW  - Pragmatics
+KW  - Context
+KW  - Robot kinematics
+KW  - Humans
+KW  - Joints
+KW  - Color
+KW  - Multimodal dialogue
+KW  - referring expressions
+DO  - 10.1145/1349822.1349861
+JO  - 2008 3rd ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+IS  - 
+SN  - 2167-2148
+VO  - 
+VL  - 
+JA  - 2008 3rd ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+Y1  - 12-15 March 2008
+AB  - Generating referring expressions is a task that has received a great deal of attention in the natural-language generation community, with an increasing amount of recent effort targeted at the generation of multimodal referring expressions. However, most implemented systems tend to assume very little shared knowledge between the speaker and the hearer, and therefore must generate fully-elaborated linguistic references. Some systems do include a representation of the physical context or the dialogue context; however, other sources of contextual information are not normally used. Also, the generated references normally consist only of language and, possibly, deictic pointing gestures. When referring to objects in the context of a task-based interaction involving jointly manipulating objects, a much richer notion of context is available, which permits a wider range of referring options. In particular, when conversational partners cooperate on a mutual task in a shared environment, objects can be made accessible simply by manipulating them as part of the task. We demonstrate that such expressions are common in a corpus of human-human dialogues based on constructing virtual objects, and then describe how this type of reference can be incorporated into the output of a humanoid robot that engages in similar joint construction dialogues with a human partner.
+ER  - 
+
+TY  - JOUR
+TI  - Consensus Based Networking of Distributed Virtual Environments
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 3138
+EP  - 3153
+AU  - S. Friston
+AU  - E. Griffith
+AU  - D. Swapp
+AU  - S. Julier
+AU  - C. Irondi
+AU  - F. Jjunju
+AU  - R. Ward
+AU  - A. Marshall
+AU  - A. Steed
+PY  - 2022
+KW  - Synchronization
+KW  - Collaboration
+KW  - Servers
+KW  - Kalman filters
+KW  - Haptic interfaces
+KW  - Task analysis
+KW  - Solid modeling
+KW  - C.2.4.b distributed applications
+KW  - I.6.8.e distributed simulations
+KW  - H.5.1.b artificial
+KW  - augmented
+KW  - and virtual realities
+DO  - 10.1109/TVCG.2021.3052580
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 9
+SN  - 1941-0506
+VO  - 28
+VL  - 28
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 1 Sept. 2022
+AB  - Distributed virtual environments (DVEs) are challenging to create as the goals of consistency and responsiveness become contradictory under increasing latency. DVEs have been considered as both distributed transactional databases and force-reflection systems. Both are good approaches, but they do have drawbacks. Transactional systems do not support Level 3 (L3) collaboration: manipulating the same degree-of-freedom at the same time. Force-reflection requires a client-server architecture and stabilisation techniques. With Consensus Based Networking (CBN), we suggest DVEs be considered as a distributed data-fusion problem. Many simulations run in parallel and exchange their states, with remote states integrated with continous authority. Over time the exchanges average out local differences, performing a distribued-average of a consistent, shared state. CBN aims to build simulations that are highly responsive, but consistent enough for use cases such as the piano-movers problem. CBN’s support for heterogeneous nodes can transparently couple different input methods, avoid the requirement of determinism, and provide more options for personal control over the shared experience. Our work is early, however we demonstrate many successes, including L3 collaboration in room-scale VR, 1000’s of interacting objects, complex configurations such as stacking, and transparent coupling of haptic devices. These have been shown before, but each with a different technique; CBN supports them all within a single, unified system.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing the sense of togetherness with vibrational feedback in virtual communication
+T2  - 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+SP  - 421
+EP  - 422
+AU  - A. Yamashita
+AU  - K. Sato
+AU  - M. Fuyuno
+AU  - H. -N. Ho
+PY  - 2024
+KW  - Social computing
+KW  - Avatars
+KW  - Design methodology
+KW  - Collaboration
+KW  - Virtual environments
+KW  - Haptic interfaces
+KW  - Augmented reality
+KW  - Collaborative and social computing design and evaluation methods
+KW  - Interaction design process and methods
+DO  - 10.1109/ISMAR-Adjunct64951.2024.00121
+JO  - 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+IS  - 
+SN  - 2771-1110
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+Y1  - 21-25 Oct. 2024
+AB  - In interpersonal communication, nonverbal cues play a crucial role alongside verbal information. Haptic communication offers an affective dimension crucial for expressing emotions, yet it is notably absent in virtual environments. This absence can lead to drawbacks such as a diminished sense of another person’s social presence in virtual settings and a reduced sense of togetherness. To address this gap, our study explores the integration of vibrational feedback during virtual communication specifically within the context of collaborative tasks. In the experiment, participants engaged in a collaborative task with an avatar. Vibrational feedback was transmitted to participants whenever the avatar engaged in actions such as clicking or typing. This feedback aimed to enhance the avatar’s presence in virtual communication. Our findings indicate that such vibrational feedback can significantly enhance the sense of togetherness, potentially bridging the gap typically experienced in virtual interactions. These improvements suggest that incorporating haptic feedback into virtual communication platforms may foster a more immersive and emotionally connected experience.
+ER  - 
+
+TY  - CONF
+TI  - Architecture and Evaluation of Tele-Haptic Environments
+T2  - Eighth IEEE International Symposium on Distributed Simulation and Real-Time Applications
+SP  - 53
+EP  - 60
+AU  - Xiaojun Shen
+AU  - Jilin Zhou
+AU  - A. El Saddik
+AU  - N. D. Georganas
+PY  - 2004
+KW  - Haptic interfaces
+KW  - Collaboration
+KW  - Virtual environment
+KW  - Information technology
+KW  - Manipulator dynamics
+KW  - Feedback
+KW  - Electronic mail
+KW  - Prototypes
+KW  - Delay effects
+KW  - Particle measurements
+DO  - 10.1109/DS-RT.2004.8
+JO  - Eighth IEEE International Symposium on Distributed Simulation and Real-Time Applications
+IS  - 
+SN  - 1550-6525
+VO  - 
+VL  - 
+JA  - Eighth IEEE International Symposium on Distributed Simulation and Real-Time Applications
+Y1  - 21-23 Oct. 2004
+AB  - A collaborative, haptic, audio and visual environment (C-HAVE) consists of a network of nodes. Each node in the C-HAVE world contributes to the shared environment with some virtual objects. These can be static, e.g., a sculpture or the ground, or dynamic, e.g., an object that can be virtually manipulated. We aim at developing a heterogeneous scalable architecture for large collaborative haptics environments where a number of potential users participate with different kinds of haptic devices. The main objective of the presented research is the development of three prototypes to demonstrate quantitatively the effects of adding haptics to a task. The experimental results reveal the effects of the different implementations on the performance and time delay of a particular task through objective measurement results.
+ER  - 
+
+TY  - JOUR
+TI  - Tactile–Thermal Interactions: Cooperation and Competition
+T2  - IEEE Transactions on Haptics
+SP  - 456
+EP  - 469
+AU  - L. A. Jones
+AU  - H. -N. Ho
+PY  - 2025
+KW  - Skin
+KW  - Temperature sensors
+KW  - Force
+KW  - Temperature measurement
+KW  - Cooling
+KW  - Hands
+KW  - Vibrations
+KW  - Haptic interfaces
+KW  - Thumb
+KW  - Temperature distribution
+KW  - Cutaneous displays
+KW  - multimodal haptic interfaces
+KW  - tactile displays
+KW  - thermal sensing
+DO  - 10.1109/TOH.2025.3549677
+JO  - IEEE Transactions on Haptics
+IS  - 3
+SN  - 2329-4051
+VO  - 18
+VL  - 18
+JA  - IEEE Transactions on Haptics
+Y1  - July-Sept. 2025
+AB  - This review focuses on the interactions between the cutaneous senses, and in particular touch and temperature, as these are the most relevant for developing skin-based display technologies for use in virtual reality (VR) and for designing multimodal haptic devices. A broad spectrum of research is reviewed ranging from studies that have examined the mechanisms involved in thermal intensification and tactile masking, to more applied work that has focused on implementing thermal-tactile illusions such as thermal referral and illusory wetness in VR environments. Research on these tactile-thermal illusions has identified the differences between the senses of cold and warmth in terms of their effects on the perception of object properties and the prevalence of the perceptual experiences elicited. They have also underscored the fundamental spatial and temporal differences between the tactile and thermal senses. The wide-ranging body of research on compound sensations such as wetness and stickiness has highlighted the mechanisms involved in sensing moisture and provided a framework for measuring these sensations in a variety of contexts. Although the interactions between the two senses are complex, it is clear that the addition of thermal inputs to a tactile display enhances both user experience and enables novel sensory experiences.
+ER  - 
+
+TY  - CONF
+TI  - Movement strategy and EMG activities of the upper extremity at assisted reaching exercise with a 7 DOF collaborative robot
+T2  - 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+SP  - 4886
+EP  - 4889
+AU  - Y. Kato
+AU  - A. Olenšek
+AU  - M. Zadravec
+AU  - Z. Matjačić
+AU  - T. Tsuji
+AU  - I. Cikajlo
+PY  - 2020
+KW  - Task analysis
+KW  - Haptic interfaces
+KW  - Robots
+KW  - Muscles
+KW  - Electromyography
+KW  - Extremities
+KW  - Virtual environments
+DO  - 10.1109/EMBC44109.2020.9176181
+JO  - 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+IS  - 
+SN  - 2694-0604
+VO  - 
+VL  - 
+JA  - 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+Y1  - 20-24 July 2020
+AB  - Recovering of upper extremity functions is important for stroke patients to perform various tasks in daily life. For better rehabilitation outcomes and accurate measurement, robot assisted exercises have been developed. However, there are limited number of studies related to arm muscles activities corresponding to task complexity. We conducted a preliminary case study on strategy and activities of upper extremity muscles in a healthy volunteer at reaching exercise with haptic feedback by a robot with seven degree-of-freedom when a different target was presented in the virtual environment. Impedance control for Franka Emika Panda robot arm has been developed. The study protocol consisted of 4 sets of 40 reaching trials. The trials had two modes with two different feedback: big target task mode and the small target task mode. In each mode both options, with/without haptic feedback were tested. The preliminary results suggest that different distance to target and target's size is related to the change of activation order and intensity of muscle activities at reaching task. Additionally, the haptic feedback required different activation order and higher intensity regardless of the task difficulty.
+ER  - 
+
+TY  - CONF
+TI  - Realtime Collision Avoidance for Mechanisms with Complex Geometries
+T2  - 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+SP  - 1
+EP  - 1
+AU  - M. Sagardia
+AU  - A. M. Turrillas
+AU  - T. Hulin
+PY  - 2018
+KW  - Collision avoidance
+KW  - Geometry
+KW  - Robots
+KW  - Haptic interfaces
+KW  - Virtual reality
+KW  - Force
+KW  - Solid modeling
+KW  - Computing methodologies-Artificial intelligence-Planning and scheduling-Robotic planning
+KW  - Computing methodologies-Computer graphics-Animation-Collision detection
+KW  - Human-centered computing-Human computer interaction-Interaction paradigms-Collaborative interaction
+KW  - Human-centered computing-Human computer interaction-
+DO  - 10.1109/VR.2018.8446527
+JO  - 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+Y1  - 18-22 March 2018
+AB  - This video presents a collision avoidance framework for mechanisms with complex geometries. The performance of the framework is showcased with the haptic interface HUG [3]. We are able to avoid contacts with the robot links and with moving objects in the environment in 1 kHz. The main contribution of our approach is its generic and extensible nature; it can be applied to any mechanism consisting of arbitrarily complex rigid bodies, in contrast to common solutions that use simplified models [2], [7]. In the preprocessing phase, first, the kinematic chain of the mechanism is described [1]. Second, we generate voxelized distance fields and point-sphere hierarchies for the geometry of each mechanism link and each object in the environment [6]. After that, our system requires only the joint angles and information of the environment state (e.g., object poses tracked by optical sensors) to compute collision avoidance forces. At runtime, each link is artificially dilated by a safety isosurface. If a point of an object goes through this surface, a normal force scaled by its penetration depth is computed and applied to the corresponding link. If humans are generically modeled as mechanisms and properly tracked, our system can also prevent collisions with them, ensuring save human-machine collaboration. Figure 1 illustrates the framework and its basic components. The multi-body collision computation architecture was first developed for virtual maintenance simulations with haptic feedback [5], [4], and thereafter extended to collision avoidance of mechanisms. A first prototype was previously published in [8].
+ER  - 
+
+TY  - JOUR
+TI  - Active Constraints/Virtual Fixtures: A Survey
+T2  - IEEE Transactions on Robotics
+SP  - 138
+EP  - 157
+AU  - S. A. Bowyer
+AU  - B. L. Davies
+AU  - F. Rodriguez y Baena
+PY  - 2014
+KW  - Robot sensing systems
+KW  - Geometry
+KW  - Impedance
+KW  - Admittance
+KW  - Manipulators
+KW  - Surgery
+KW  - Haptics and haptic interfaces
+KW  - impedance/admittance control
+KW  - medical robots and systems
+KW  - physical human–robot interaction
+KW  - telerobotics
+DO  - 10.1109/TRO.2013.2283410
+JO  - IEEE Transactions on Robotics
+IS  - 1
+SN  - 1941-0468
+VO  - 30
+VL  - 30
+JA  - IEEE Transactions on Robotics
+Y1  - Feb. 2014
+AB  - Active constraints, also known as virtual fixtures, are high-level control algorithms which can be used to assist a human in man-machine collaborative manipulation tasks. The active constraint controller monitors the robotic manipulator with respect to the environment and task, and anisotropically regulates the motion to provide assistance. The type of assistance offered by active constraints can vary, but they are typically used to either guide the user along a task-specific pathway or limit the user to within a “safe” region. There are several diverse methods described within the literature for applying active constraints, and these are surveyed within this paper. The active constraint research is described and compared using a simple generalized framework, which consists of three primary processes: 1) constraint definition, 2) constraint evaluation, and 3) constraint enforcement. All relevant research approaches for each of these processes, found using search terms associated to “virtual fixture,” “active constraint” and “motion constraint,” are presented.
+ER  - 
+
+TY  - CONF
+TI  - Improvement of collaborative selection in 3D complex environments
+T2  - 2012 IEEE Haptics Symposium (HAPTICS)
+SP  - 281
+EP  - 288
+AU  - A. Girard
+AU  - M. Ammi
+AU  - J. Simard
+AU  - M. Auvray
+PY  - 2012
+KW  - Collaboration
+KW  - Haptic interfaces
+KW  - Three dimensional displays
+KW  - Force
+KW  - Visualization
+KW  - Computers
+KW  - Vectors
+DO  - 10.1109/HAPTIC.2012.6183803
+JO  - 2012 IEEE Haptics Symposium (HAPTICS)
+IS  - 
+SN  - 2324-7355
+VO  - 
+VL  - 
+JA  - 2012 IEEE Haptics Symposium (HAPTICS)
+Y1  - 4-7 March 2012
+AB  - Closely coupled interactions in 3D Collaborative Virtual Environments present a new challenge for the design of Computer-Human Interfaces. Among emerging issues, the collaborative selection of artifact presents several constraints since it requires a good understanding of the workspace of the partner and a good coordination between their actions. However, existing Collaborative Virtual Environments inhibit some mechanisms of communication and interpersonal awareness processes, and this limits the efficiency of such collaborative tasks. To go beyond these constraints, we propose in this article a metaphor for the collaborative selection of 3D artifacts. The proposed approach exploits the haptic channel through a gestural guidance strategy. Once the target is selected by one partner, the second partner is attracted through a suitable force model toward the target. An experimental study was carried out in the context of molecular design, investigating different working strategies. The results show that the proposed metaphor significantly improves the efficiency of the group during the deformation of molecular structures. Moreover, the proposed approach provides a suitable learning support for beginners and enables the more experienced user to implicitly convey and explain some features of the molecular structures.
+ER  - 
+
+TY  - CONF
+TI  - Evaluation of Active Handrest performance using labyrinths with adaptive admittance control and virtual fixtures
+T2  - 2012 IEEE Haptics Symposium (HAPTICS)
+SP  - 273
+EP  - 280
+AU  - M. A. Fehlberg
+AU  - R. J. King
+AU  - A. J. Doxon
+AU  - W. R. Provancher
+PY  - 2012
+KW  - Admittance
+KW  - Robots
+KW  - Damping
+KW  - Navigation
+KW  - Springs
+KW  - Indexes
+KW  - Noise
+KW  - human-robot cooperation
+KW  - virtual fixtures
+KW  - labyrinth
+KW  - haptic device
+KW  - precision manipulation
+DO  - 10.1109/HAPTIC.2012.6183802
+JO  - 2012 IEEE Haptics Symposium (HAPTICS)
+IS  - 
+SN  - 2324-7355
+VO  - 
+VL  - 
+JA  - 2012 IEEE Haptics Symposium (HAPTICS)
+Y1  - 4-7 March 2012
+AB  - The Active Handrest is a large workspace, human-machine interface that provides ergonomic support for a user's hand and arm while allowing the user to retain complete control over a grasped tool. In this paper, we introduce methods to improve the base performance of the Active Handrest's linear admittance controller (V = Kα * F) based on knowledge of user intention, through adaptive admittance, and knowledge of the environment, via virtual fixtures. Herein, we present feasibility studies to apply adaptive admittance and virtual fixtures to the motion of the Active Handrest and measure user performance. We introduce a more relevant evaluation task for the Active Handrest by conducting experiments involving the navigation of virtual labyrinths. The results of these experiments show that adaptive admittance improves a user's ability to accurately navigate a narrow labyrinth, with less cost of time than using constant gains with a linear admittance controller. Additionally, a feasibility study on virtual fixtures shows that user performance for drawing straight lines with virtual fixtures applied directly to the Active Handrest is equivalent to user performance with virtual fixtures applied directly to the grasped tool, as has been done more traditionally. These results underscore the utility of the Active Handrest as they show the potential to achieve highly accurate motions without the need for a robotically enabled or co-manipulated tool.
+ER  - 
+
+TY  - CONF
+TI  - Framework for haptic interaction with virtual avatars
+T2  - RO-MAN 2008 - The 17th IEEE International Symposium on Robot and Human Interactive Communication
+SP  - 15
+EP  - 20
+AU  - P. Evrard
+AU  - F. Keith
+AU  - J. -R. Chardonnet
+AU  - A. Kheddar
+PY  - 2008
+KW  - Robots
+DO  - 10.1109/ROMAN.2008.4600636
+JO  - RO-MAN 2008 - The 17th IEEE International Symposium on Robot and Human Interactive Communication
+IS  - 
+SN  - 1944-9437
+VO  - 
+VL  - 
+JA  - RO-MAN 2008 - The 17th IEEE International Symposium on Robot and Human Interactive Communication
+Y1  - 1-3 Aug. 2008
+AB  - In this paper we present an integrative frame work centered on haptic interaction with virtual avatars. This framework is devised for general prototyping and collaborative scenario studies with haptic feedback. First we present the software architecture of the framework and give details on some of its components. Then we show how this framework can be used to derive in a short time a virtual reality simulation. In this simulation, a user directly interacts with a virtual avatar to collaboratively manipulate a virtual object, with haptic feedback and using fast dynamics computation and constraint based methods with friction.
+ER  - 
+
+TY  - CONF
+TI  - Study of communication modalities for teaching distance information
+T2  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+SP  - 706
+EP  - 707
+AU  - F. Fastelli
+AU  - C. Simon
+AU  - A. Ricca
+AU  - A. Chellali
+PY  - 2022
+KW  - Visualization
+KW  - Estimation error
+KW  - Three-dimensional displays
+KW  - Conferences
+KW  - Education
+KW  - Collaboration
+KW  - Virtual environments
+KW  - Human-centered computing—Interaction Techniques
+KW  - Human-centered computing—Virtual Reality
+DO  - 10.1109/VRW55335.2022.00204
+JO  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+Y1  - 12-16 March 2022
+AB  - We present an exploratory study to compare the haptic, visual, and verbal modalities for communicating distance information in a shared virtual environment. The results show that the visual modality decreased the distance estimation error while the haptic modality decreased the completion time. The verbal modality increased the sense of copresence but was the least preferred modality. These results suggest that a combination of modalities could improve communication of distance information to a partner. These findings can contribute to improving the design of collaborative VR systems and open new research perspectives on studying the effectiveness of multimodal interaction.
+ER  - 
+
+TY  - CONF
+TI  - The effect of network characteristics on e-health Telehaptics applications; Application of suture gestures in distributed virtual surgical environment
+T2  - 2008 3rd International Conference on Information and Communication Technologies: From Theory to Applications
+SP  - 1
+EP  - 6
+AU  - F. Al-Chama
+AU  - S. Delaplace
+AU  - E. Monacelli
+AU  - D. Chene
+AU  - N. Tarrin
+AU  - C. Cornelius
+PY  - 2008
+KW  - Surges
+KW  - Haptic interfaces
+KW  - Robustness
+KW  - Minimally invasive surgery
+KW  - Power engineering and energy
+KW  - Telecommunications
+KW  - Information technology
+KW  - Collaboration
+KW  - Electronic learning
+KW  - Computer science education
+KW  - Telehaptics applications
+KW  - e-health
+KW  - adaptive networking methods
+DO  - 10.1109/ICTTA.2008.4529939
+JO  - 2008 3rd International Conference on Information and Communication Technologies: From Theory to Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 3rd International Conference on Information and Communication Technologies: From Theory to Applications
+Y1  - 7-11 April 2008
+AB  - The combination of surgical simulation and haptic interfaces provides a powerful platform for reproducing the visual and motor sensations that a surgeon experiences during a surgical operation. With the wide availability of information technologies and new, robust telecommunication technologies, remote tele-guidance for learning surgical procedures has become feasible for more effectively employing expertise through remote instruction. The current study employs an interaction analysis approach adapted to telehaptic collaboration/guidance solutions in surgical suturing task training, so we aim to identify not only the influence of the network parameters on telehaptic guidance but also on the e-learning of gestures.
+ER  - 
+
+TY  - CONF
+TI  - Collaborative virtual training using force feedback devices
+T2  - Proceedings. 17th Brazilian Symposium on Computer Graphics and Image Processing
+SP  - 332
+EP  - 339
+AU  - M. A. F. Rodrigues
+AU  - R. R. C. Chaves
+AU  - W. B. Silva
+PY  - 2004
+KW  - Collaboration
+KW  - Force feedback
+KW  - Layout
+KW  - Collaborative work
+KW  - Visualization
+KW  - Collaborative tools
+KW  - Virtual reality
+KW  - Programming profession
+KW  - Haptic interfaces
+KW  - Displays
+DO  - 10.1109/SIBGRA.2004.1352978
+JO  - Proceedings. 17th Brazilian Symposium on Computer Graphics and Image Processing
+IS  - 
+SN  - 1530-1834
+VO  - 
+VL  - 
+JA  - Proceedings. 17th Brazilian Symposium on Computer Graphics and Image Processing
+Y1  - 20-20 Oct. 2004
+AB  - Force feedback plays an important role in collaborative virtual reality environments, mainly for programmers of haptic visualization tools. Whereas a great deal of work has gone into graphical displays over the past years, little has changed on the input side. One of the problems that has slowed down development in this area is the difficulty of integrating the visualization of a scene, the interaction of the user with the scene, the feeling for the user to be immersed inside the scene, and finally, the input devices. We describe the architecture we have designed, implemented and tested for a collaborative virtual training using force feedback devices. In particular, it provides device independence and easy extensibility through a compartmentalized and multilayered model. We also present examples of how force feedback joysticks can be integrated into training exercises using our prototype.
+ER  - 
+
+TY  - CONF
+TI  - Hapto-audio-visual environments for collaborative training of ophthalmic surgery over optical network
+T2  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+SP  - 21
+EP  - 26
+AU  - P. Boulanger
+AU  - G. Wu
+AU  - W. F. Bischof
+AU  - X. D. Yang
+PY  - 2006
+KW  - Collaboration
+KW  - Surgery
+KW  - Optical fiber networks
+KW  - Surges
+KW  - Lenses
+KW  - Haptic interfaces
+KW  - Tellurium
+KW  - Videoconference
+KW  - Displays
+KW  - Anesthesia
+DO  - 10.1109/HAVE.2006.283801
+JO  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+Y1  - 4-5 Nov. 2006
+AB  - This paper presents the results of a two-year project to develop a shared hapto-visual-audio-virtual environment (HAVE) with advanced multi-point video conferencing, new display and interface technologies, and distributed latency-compensated haptic technologies for collaborative medical research and training in ophthalmology. One of the goals of this project is to create collaborative training environment, in which residents can remotely learn, in real-time, cataract operations from real operations performed by teaching surgeons. The assumption of this work is that a trainee surgeon can learn the complex hand-eye coordination necessary for becoming a good ophthalmic surgeon by feeling and seeing every move the expert surgeon makes, through a complex haptic, auditory, and visual playback interface. Experimental results are presented
+ER  - 
+
+TY  - CONF
+TI  - Integrate the BlindAid system in a traditional orientation and mobility rehabilitation program
+T2  - 2009 Virtual Rehabilitation International Conference
+SP  - 37
+EP  - 41
+AU  - O. Lahav
+AU  - D. W. Schloerb
+AU  - M. A. Srinivasan
+PY  - 2009
+KW  - Haptic interfaces
+KW  - Space technology
+KW  - Space exploration
+KW  - Global Positioning System
+KW  - Collaboration
+KW  - Navigation
+KW  - Educational programs
+KW  - Virtual environment
+KW  - Robustness
+KW  - Face
+KW  - Blind
+KW  - Cognitive processing
+KW  - Rehabilitation
+KW  - Orientation
+KW  - Mobility
+KW  - Virtual simulation
+KW  - Haptic devices
+DO  - 10.1109/ICVR.2009.5174202
+JO  - 2009 Virtual Rehabilitation International Conference
+IS  - 
+SN  - 2331-9569
+VO  - 
+VL  - 
+JA  - 2009 Virtual Rehabilitation International Conference
+Y1  - 29 June-2 July 2009
+AB  - In the process of becoming blind, newly- blinded people participate in a rehabilitation program, which includes different skills that a newly- blinded person needs to adapt as a result of his or her lost of vision. The virtual system, the BlindAid, involves active collaboration between orientation and mobility instructors from the Carroll Center for the Blind in Newton, Massachusetts and engineers and cognitive scientists at the MIT Touch Lab in Cambridge, Massachusetts. The two teams collaborated in the integration of the BlindAid system in the traditional orientation and mobility rehabilitation program. In this study we will describe the model of the integration. The three main goals of this model were to study: (1) cognitive mapping process of newly-blinded when using the virtual environment; (2) mental support of the BlindAid system to the newly- blinded; and (3) enhancement of the BlindAid system for the orientation and mobility instructors. The findings supply strong evidence that interaction with the BlindAid system by people who are newly-blinded provides a robust foundation for the participants' development of comprehensive cognitive maps of actual unknown spaces during their rehabilitation program.
+ER  - 
+
+TY  - CHAP
+TI  - Communication Cues in Augmented Remote Collaboration
+T2  - Computer-Supported Collaboration: Theory and Practice
+SP  - 41
+EP  - 80
+AU  - Weidong Huang
+AU  - Mark Billinghurst
+AU  - Leila Alem
+AU  - Chun Xiao
+AU  - Troels Rasmussen
+PY  - 2024
+KW  - Collaboration
+KW  - Visualization
+KW  - Training
+KW  - Videos
+KW  - Surveys
+KW  - Pandemics
+KW  - Organizations
+DO  - 10.1002/9781119719830.ch3
+PB  - IEEE
+SN  - 9781119719816
+UR  - http://ieeexplore.ieee.org/document/10542554
+AB  - Summary <p>Recent augmented/virtual/mixed reality (AR/VR/MR) technologies have led us to an exciting immersive remote collaborative world. This chapter uses the term augmented remote collaboration to describe remote collaborations in which AR/VR/MR technologies are applied. It mainly discusses human&#x2010;human remote collaboration. The chapter presents an overview of the research landscape over the past three decades and investigates the communication context based on which a remote collaboration is conducted. It categorizes communication cues in remote collaboration systems as verbal, visual, haptic, and empathic communication cues, and reviews the systems and experiments that studied these cues to identify advantages and limitations under different situations. Finally, the chapter discusses the challenges in multimodality communication modeling and system design for high usability and suggests potential future research directions for augmented remote collaboration system design aiming at effectiveness, reliability, and ease of use.</p>
+ER  - 
+
+TY  - CONF
+TI  - Increasing the Motivation to Train Through Haptic Social Interaction – Pilot study
+T2  - 2023 International Conference on Rehabilitation Robotics (ICORR)
+SP  - 1
+EP  - 6
+AU  - A. Nehrujee
+AU  - E. Ivanova
+AU  - S. Srinivasan
+AU  - S. Balasubramanian
+AU  - E. Burdet
+PY  - 2023
+KW  - Collaboration
+KW  - Medical treatment
+KW  - Virtual environments
+KW  - Games
+KW  - Stroke (medical condition)
+KW  - Robot sensing systems
+KW  - Assistive robots
+DO  - 10.1109/ICORR58425.2023.10304751
+JO  - 2023 International Conference on Rehabilitation Robotics (ICORR)
+IS  - 
+SN  - 1945-7901
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Rehabilitation Robotics (ICORR)
+Y1  - 24-28 Sept. 2023
+AB  - Motivation is crucial in stroke rehabilitation, as it enhances patient engagement, adherence, and recovery. Robots can be employed to improve motivation through multiplayer rehabilitation games, which allow patients to collaborate and interact in a virtual environment through multimodal sensory cues. This social interaction can provide social support and increase motivation, resulting in better therapy engagement. A hand rehabilitation robot (PLUTO) was used to investigate the potential of social interaction to implement haptic multiplayer games. Twelve unimpaired participants (6 dyads) played in solo, collaborative, and competitive game modes. Surprisingly, no difference was found in self-reported engagement, tension, or competence between solo and multiplayer games. However, the IMI scale indicated that engagement for multiplayer games was rated higher than for solo games. The collaborative game was preferred by 10 out of 12 participants, highlighting its potential for promoting behavioural involvement and engagement. This study indicates that using PLUTO with multiplayer game modes can enhance therapy engagement. This can potentially improve rehabilitation outcomes if translated to the patient population.
+ER  - 
+
+TY  - CONF
+TI  - Teleoperation System of Internet-Based Multi-Operator Multi-Mobile-Manipulator
+T2  - 2010 International Conference on Electrical and Control Engineering
+SP  - 2236
+EP  - 2240
+AU  - L. Ma
+AU  - J. Yan
+AU  - J. Zhao
+AU  - Z. Chen
+AU  - H. Cai
+PY  - 2010
+KW  - Robot kinematics
+KW  - Internet
+KW  - Robot sensing systems
+KW  - Fuels
+KW  - Manipulators
+KW  - Conferences
+KW  - teleoperation
+KW  - Multi-Mobile-Manipulator
+KW  - Internet
+KW  - cooperation
+KW  - system
+DO  - 10.1109/iCECE.2010.551
+JO  - 2010 International Conference on Electrical and Control Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Electrical and Control Engineering
+Y1  - 25-27 June 2010
+AB  - A teleoperation system of Internet-based Multi-Operator Multi-Mobile-Manipulator is proposed in this paper. The system consists of master sides and slave side, which has the characteristics of mobility, cooperation, distribution, fault tolerance, redundancy etc.. In master sides, with the aid of Distributed Virtual Environment and multi-video image, operators use the haptic interface device to control the remote robots via Internet. The 9-DOF mobile-manipulators which combine the mobility of the omnidirectional mobile plat and the manipulability of the manipulator are located in the slave side. Modules of ultrasonic location and ultrasonic/infrared distance measurement are arranged on the mobile-manipulators, and six-axis force sensors are fixed on the wrist of mobile-manipulators. Six video cameras are installed in slave side to provide the operators multi-video image. A network server collects the information of the sensors by WLAN and sends them to operators through net. With the aid of real-time multi-video image and feedbacks, operators could control the robots to complete the task. Finally, the effectiveness of the teleoperation system is illustrated by experiments that the operators control the robots to complete the role of delivering and transporting via Internet, and achieve loose coordination, mobile tight coordination and operated tight coordination teleoperation.
+ER  - 
+
+TY  - JOUR
+TI  - Decentralized Control of a Heterogeneous Human–Robot Team for Exploration and Patrolling
+T2  - IEEE Transactions on Automation Science and Engineering
+SP  - 3109
+EP  - 3125
+AU  - M. Aggravi
+AU  - G. Sirignano
+AU  - P. R. Giordano
+AU  - C. Pacchierotti
+PY  - 2022
+KW  - Human-robot interaction
+KW  - Robot kinematics
+KW  - Multi-robot systems
+KW  - Surveillance
+KW  - Haptic interfaces
+KW  - Mobile robots
+KW  - Haptic interfaces
+KW  - heterogeneous human–robot teams
+KW  - human-centered robotics
+KW  - multirobot systems
+DO  - 10.1109/TASE.2021.3106386
+JO  - IEEE Transactions on Automation Science and Engineering
+IS  - 4
+SN  - 1558-3783
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Automation Science and Engineering
+Y1  - Oct. 2022
+AB  - We present a decentralized connectivity-maintenance control framework for a heterogeneous human–robot team. The algorithm is able to manage a team composed of an arbitrary number of mobile robots (drones and ground robots in our case) and humans, for collaboratively achieving exploration and patrolling tasks. Differently from other works on the subject, here the human user physically becomes part of the team, moving in the same environment of the robots and receiving information about the team connectivity through wearable haptics or audio feedback. Although human explores the environment, robots move so as to keep the team connected via a connectivity-maintenance algorithm; at the same time, each robot can also be assigned with a specific target to visit. We carried out three human subject experiments, both in virtual and real environments. Results show that the proposed approach is effective in a wide range of scenarios. Moreover, providing either haptic or audio feedback for conveying information about the team connectivity significantly improves the performance of the considered tasks, although users significantly preferred receiving haptic stimuli w.r.t. the audio ones. Note to Practitioners—Exploration, patrolling, and search-and-rescue are highly dynamic and unstructured scenarios. When considering the operative conditions of such environments, the benefits of multirobot systems are evident. Most tasks can be carried out faster and more robustly by a team of robots with respect to a single unit. There are also situations explicitly requiring the presence of a multirobot team, e.g., using one drone for surveillance of the ground team and one ground mobile robot for carrying supplies. Of course, if the operator(s) in charge of the operation could share the same environment of the robots (i.e., be together with the robots in the field), they would be provided with a level of situational awareness that no teleoperation technology can match as of today. This work presents a framework for controlling heterogeneous teams composed of one human operator and an arbitrary number of aerial and ground mobile robots. The operator moves together with the robotic team and, at the same time, he or she receives meaningful information about the status of the formation. The algorithm only uses the relative position of the drones and humans with respect to each other, and all computations are designed in a decentralized fashion. Decentralization avoids relying on any absolute positioning system (e.g., GPS) or centralized command centers. These features make the proposed framework ready for deployment in different high-impact applications, such as in surveillance, search-and-rescue, and disaster response scenarios.
+ER  - 
+
+TY  - JOUR
+TI  - Design and Evaluation of a Wearable Fingertip Device for Three-Dimensional Skin-Slip Display
+T2  - IEEE Transactions on Haptics
+SP  - 302
+EP  - 309
+AU  - Y. Mo
+AU  - A. Song
+AU  - L. Zhu
+AU  - Q. Ji
+AU  - T. Wang
+AU  - H. Qin
+PY  - 2024
+KW  - DC motors
+KW  - Haptic interfaces
+KW  - Soft sensors
+KW  - Servomotors
+KW  - Calibration
+KW  - Wearable devices
+KW  - Fingers
+KW  - Three-dimensional displays
+KW  - Virtual reality
+KW  - Wearable fingertip device
+KW  - three-dimensional skin-slip
+KW  - haptic display
+KW  - virtual reality
+DO  - 10.1109/TOH.2023.3312661
+JO  - IEEE Transactions on Haptics
+IS  - 3
+SN  - 2329-4051
+VO  - 17
+VL  - 17
+JA  - IEEE Transactions on Haptics
+Y1  - July-Sept. 2024
+AB  - Skin-slip provides crucial cues about the interaction state and surface properties. Currently, most skin-slip devices focus on two-dimensional tactile slip display and have limitations when displaying surface properties like bumps and contours. In this article, a wearable fingertip device with a simple, effective, and low-cost design for three-dimensional skin-slip display is proposed. Continuous multi-directional skin-slip and normal indentation are combined to convey the sensation of three-dimensional geometric properties in virtual reality during active finger exploration. The device has a tactile belt, a five-bar mechanism, and four motors. Cooperating with the angle-mapping strategy, two micro DC motors are used to transmit continuous multi-directional skin-slip. Two servo motors are used to drive the five-bar mechanism to provide normal indentation. The characteristics of the device were obtained through the bench tests. Three experiments were designed and sequentially conducted to evaluate the performance of the device in three-dimensional surface exploration. The experimental results suggested that this device could effectively transmit continuous multi-directional skin-slip sensations, convey different bumps, and display surface contours.
+ER  - 
+
+TY  - CONF
+TI  - MPEG Media Transport (MMT) for 3D Tele-Immersion Systems
+T2  - 2014 IEEE International Symposium on Multimedia
+SP  - 279
+EP  - 282
+AU  - K. Venkatraman
+AU  - S. Vellingiri
+AU  - B. Prabhakaran
+AU  - N. Nguyen
+PY  - 2014
+KW  - Media
+KW  - Synchronization
+KW  - Transform coding
+KW  - Encapsulation
+KW  - Three-dimensional displays
+KW  - Transport protocols
+KW  - Tele-Immersion
+KW  - MPEG Media Transport
+KW  - Haptic
+KW  - Body Sensor Networks
+DO  - 10.1109/ISM.2014.65
+JO  - 2014 IEEE International Symposium on Multimedia
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 IEEE International Symposium on Multimedia
+Y1  - 10-12 Dec. 2014
+AB  - 3D Tele-Immersion (3DTI) environments are a new medium for highly interactive and immersive means of collaborations through a shared virtual 3D environment. They have many applications in the areas of education, entertainment, sports training, tele-medicine etc. The data in these systems are multi-modal, some high volume, some high frequency and all highly correlated. We identify three major challenges in a general 3DTI system, session management, synchronization and data format conversion. We discuss the shortcomings of some of the existing protocols/solutions to them. We describe some features relevant to 3DTI of the MPEG Media Transport (MMT) standard. In this paper we evaluate the use of MMT in a 3DTI application. We provide a feature comparison with the most popular protocols currently being used in such applications, RTP, RTSP, TCP and UDP etc. MPEG DASH was another protocol that was being considered, but that also fails to fully address some of the challenges that 3DTI applications face. Through this comparison study we advocate the use of MMT in 3DTI applications.
+ER  - 
+
+TY  - CONF
+TI  - Performance related energy exchange in haptic human-human interaction in a shared virtual object manipulation task
+T2  - World Haptics 2009 - Third Joint EuroHaptics conference and Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems
+SP  - 338
+EP  - 343
+AU  - D. Feth
+AU  - R. Groten
+AU  - A. Peer
+AU  - S. Hirche
+AU  - M. Buss
+PY  - 2009
+KW  - Energy exchange
+KW  - Haptic interfaces
+KW  - Human robot interaction
+KW  - Orbital robotics
+KW  - Collaboration
+KW  - Couplings
+KW  - Virtual environment
+KW  - Teleoperators
+KW  - Cities and towns
+KW  - Automatic control
+DO  - 10.1109/WHC.2009.4810854
+JO  - World Haptics 2009 - Third Joint EuroHaptics conference and Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - World Haptics 2009 - Third Joint EuroHaptics conference and Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems
+Y1  - 18-20 March 2009
+AB  - In order to enable intuitive physical interaction with autonomous robots as well as in collaborative multi-user virtual reality and tele-operation systems a deep understanding of human-human haptic interaction is required. In this paper the effect of haptic interaction in single and dyadic conditions is investigated. Furthermore, an energy-based framework suitable for the analysis of the underlying processes is introduced. A pursuit tracking task experiment is performed where a virtual object is manipulated, jointly by two humans and alone. The performance in terms of the root-mean-square tracking error is improved in dyadic compared to individual conditions, even though the virtual object mass is reduced to one half in the latter. Our results indicate that the interacting partners benefit from role distributions which can be associated with different energy flows.
+ER  - 
+
+TY  - JOUR
+TI  - Haptic Interfaces for Wheelchair Navigation in the Built Environment
+T2  - Presence
+SP  - 520
+EP  - 534
+AU  - C. S. Harrison
+AU  - M. Grant
+AU  - B. A. Conway
+PY  - 2004
+DO  - 10.1162/1054746042545265
+JO  - Presence
+IS  - 5
+SN  - 1054-7460
+VO  - 13
+VL  - 13
+JA  - Presence
+Y1  - Oct. 2004
+AB  - A number of countries have recently introduced legislation aimed at ending discrimination against disabled people; in the United Kingdom the Disability Discrimination Act (1995) provides the disabled community with new employment and access rights. The intention of the act is to help those who rely on wheelchairs for mobility and who frequently find that not all buildings provide conditions suited to easy access. Central to these new rights will be an obligation for employers and organizations to provide premises that do not disadvantage the disabled. This work reports on the development of instrumentation that allows wheelchair navigation within virtual buildings and can assist architects in identifying the needs of wheel-chair users at an early design stage. Central to this project has been the need to provide a platform that can accommodate a range of wheelchair types and will map intended wheelchair motion into a virtual space. This interface must have the capacity to provide feedback to the user reflecting constraints present in the physical world, including changes in floor surface characteristics, gradients, and collisions. Integrating visual and nonvisual sensory feedback correlating to the physical effort of wheelchair propulsion has been found to augment the perception of self-motion within the virtual world and so can create an effective instrument for use in the study of wheelchair accessibility within the built environment. This project represents a collaborative effort between architects and bioengineers engaged in research related to platform design, construction, and interfacing, while testing and evaluation has been accomplished with the assistance of user groups.
+ER  - 
+
+TY  - CONF
+TI  - Reactive and Safe Co-Navigation with Haptic Guidance
+T2  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 213
+EP  - 220
+AU  - M. Coffey
+AU  - D. Zhang
+AU  - R. Tron
+AU  - A. Pierson
+PY  - 2023
+KW  - Navigation
+KW  - Heuristic algorithms
+KW  - Computational modeling
+KW  - Force feedback
+KW  - Dynamics
+KW  - Hardware
+KW  - Collision avoidance
+DO  - 10.1109/IROS55552.2023.10342042
+JO  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2023
+AB  - We propose a co-navigation algorithm that enables a human and a robot to work together to navigate to a common goal. In this system, the human is responsible for making high-level steering decisions, and the robot, in turn, provides haptic feedback for collision avoidance and path suggestions while reacting to changes in the environment. Our algorithm uses optimized Rapidly-exploring Random Trees (RRT*) to generate paths to lead the user to the goal, via an attractive force feedback computed using a Control Lyapunov Function (CLF). We simultaneously ensure collision avoidance where necessary using a Control Barrier Function (CBF). We demonstrate our approach using simulations with a virtual pilot, and hardware experiments with a human pilot. Our results show that combining RRT* and CBFs is a promising tool for enabling collaborative human-robot navigation.
+ER  - 
+
+TY  - CONF
+TI  - Foundational elements of next generation cyber physical and IoT frameworks for distributed collaboration
+T2  - 2017 13th IEEE Conference on Automation Science and Engineering (CASE)
+SP  - 789
+EP  - 794
+AU  - J. Cecil
+AU  - A. Cecil-Xavier
+AU  - A. Gupta
+PY  - 2017
+KW  - Collaboration
+KW  - Surgery
+KW  - Solid modeling
+KW  - Training
+KW  - Manufacturing
+KW  - Next generation networking
+KW  - Cloud computing
+DO  - 10.1109/COASE.2017.8256200
+JO  - 2017 13th IEEE Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2017 13th IEEE Conference on Automation Science and Engineering (CASE)
+Y1  - 20-23 Aug. 2017
+AB  - This paper discusses the foundational elements for Next Generation frameworks based on the emerging principles and technologies in the context of distributed collaboration in two diverse fields (manufacturing and surgery). The Next Generation `smart' collaborative frameworks discussed in this paper are influenced by several emerging fields and technologies; these include Advanced Virtual Reality and Haptic (Touch) based technologies to support collaborative interactions among distributed users along with emerging practices based on Internet of Things (IoT), Cyber Physical Systems (CPS), Cloud Computing and Future Internet networking approaches. The foundational elements revolve around 3 key facets of Information Centric Engineering (ICE) which include Modeling, Simulation and Exchange (MSE) of Information. We discuss the creation of such IoT based cyber physical frameworks using these MSE elements for two of these domains: one is advanced manufacturing; the other is the field of medical surgical training. The design of such IoT based Cyber Physical frameworks is discussed along with implementation aspects of two advanced Test Beds.
+ER  - 
+
+TY  - CONF
+TI  - RemoteTouch: Enhancing Immersive 3D Video Communication with Hand Touch
+T2  - 2023 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+SP  - 1
+EP  - 10
+AU  - Y. Zhang
+AU  - Z. Li
+AU  - S. Xu
+AU  - C. Li
+AU  - J. Yang
+AU  - X. Tong
+AU  - B. Guo
+PY  - 2023
+KW  - Solid modeling
+KW  - Visualization
+KW  - Three-dimensional displays
+KW  - Tracking
+KW  - Immersive experience
+KW  - Glass
+KW  - User interfaces
+KW  - Human-centered computing-Collaborative and social computing
+KW  - Computing methodologies-Computer graphics-Graphics systems and interfaces-Virtual reality
+DO  - 10.1109/VR55154.2023.00016
+JO  - 2023 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+IS  - 
+SN  - 2642-5254
+VO  - 
+VL  - 
+JA  - 2023 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+Y1  - 25-29 March 2023
+AB  - Recent research advance has significantly improved the visual real-ism of immersive 3D video communication. In this work we present a method to further enhance this immersive experience by adding the hand touch capability (“remote hand clapping”). In our system, each meeting participant sits in front of a large screen with haptic feedback. The local participant can reach his hand out to the screen and perform hand clapping with the remote participant as if the two participants were only separated by a virtual glass. A key challenge in emulating the remote hand touch is the realistic rendering of the participant's hand and arm as the hand touches the screen. When the hand is very close to the screen, the RGBD data required for realistic rendering is no longer available. To tackle this challenge, we present a dual representation of the user's hand. Our dual representation not only preserves the high-quality rendering usually found in recent image-based rendering systems but also allows the hand to reach to the screen. This is possible because the dual representation includes both an image-based model and a 3D geometry-based model, with the latter driven by a hand skeleton tracked by a side view camera. In addition, the dual representation provides a distance-based fusion of the image-based and 3D geometry-based models as the hand moves closer to the screen. The result is that the image-based and 3D geometry-based models mutually enhance each other, leading to realistic and seamless rendering. Our experiments demonstrate that our method provides consistent hand contact experience between remote users and improves the immersive experience of 3D video communication.
+ER  - 
+
+TY  - CONF
+TI  - A multi-layer approach for interactive path planning control
+T2  - 2014 11th International Conference on Informatics in Control, Automation and Robotics (ICINCO)
+SP  - 90
+EP  - 101
+AU  - S. Cailhol
+AU  - P. Fillatreau
+AU  - J. -Y. Fourquet
+AU  - Yingshen Zhao
+PY  - 2014
+KW  - Planning
+KW  - Semantics
+KW  - Trajectory
+KW  - Robots
+KW  - Haptic interfaces
+KW  - Real-time systems
+KW  - Interactive Path Planning
+KW  - Control Sharing
+KW  - Virtual Reality
+KW  - Manipulation Tasks
+DO  - 10.5220/0005055200900101
+JO  - 2014 11th International Conference on Informatics in Control, Automation and Robotics (ICINCO)
+IS  - 
+SN  - 
+VO  - 02
+VL  - 02
+JA  - 2014 11th International Conference on Informatics in Control, Automation and Robotics (ICINCO)
+Y1  - 1-3 Sept. 2014
+AB  - This work considers path-planning processes for manipulation tasks such as assembly, maintenance or disassembly in a Virtual Reality (VR) context. The approach consists in providing a collaborative system associating a user immersed in VR and an automatic path planning process. It is based on semantic, topological and geometric representations of the environment and the planning process is split in two phases: coarse and fine planning. The automatic planner suggests a path to the user and guides him trough a haptic device. The user can escape from the proposed solution if he wants to explore a possible better way. In this case, the interactive system detects the user's intention in real-time and computes a new path starting from the user's guess. Experiments illustrate the different aspects of the approach: multi-representation of the environment, path planning process, user's intent prediction and control sharing.
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of Solo and Collaborative Trimanual Operation of a Supernumerary Limb in Tasks With Varying Physical Coupling
+T2  - IEEE Robotics and Automation Letters
+SP  - 860
+EP  - 867
+AU  - J. Eden
+AU  - M. Khoramshahi
+AU  - Y. Huang
+AU  - A. Poignant
+AU  - E. Burdet
+AU  - N. Jarrassé
+PY  - 2025
+KW  - Robots
+KW  - Couplings
+KW  - Robot kinematics
+KW  - Arms
+KW  - Virtual reality
+KW  - Protocols
+KW  - Collaboration
+KW  - Testing
+KW  - Robot motion
+KW  - Motors
+KW  - Human performance augmentation
+KW  - human-robot teaming
+KW  - supernumerary limbs
+KW  - trimanual
+DO  - 10.1109/LRA.2024.3515734
+JO  - IEEE Robotics and Automation Letters
+IS  - 2
+SN  - 2377-3766
+VO  - 10
+VL  - 10
+JA  - IEEE Robotics and Automation Letters
+Y1  - Feb. 2025
+AB  - Through the use of robotic supernumerary limbs, it has been proposed that a single user could perform tasks like surgery or industrial assembly that currently require a team. Although validation studies, often conducted in virtual reality, have demonstrated that individuals can learn to command supernumerary limbs, comparisons typically suggest that a team initially outperforms a supernumerary limb operating individual. In this study, we examined (i) the impact of using a commercially available physical robot setup instead of a virtual reality system and (ii) the effect of limb couplings on user performance during a series of trimanual operations. Contrary to previous findings, our results indicate no clear difference in user performance when working as a trimanual user, in the pick and place of three objects, compared to when working as a team. Additionally, for this task we observe that while users prefer working with a partner when they control most limbs, we find no clear difference in their preference between solo trimanual operation and when they work with a partner and control the third limb. These findings indicate that factors typically not present in virtual reality such as visual occlusion and haptic feedback may be vital to consider for the effective operation of supernumerary limbs, and provide initial evidence to support the viability of supernumerary limbs for a range of physical tasks.
+ER  - 
+
+TY  - JOUR
+TI  - Creating Widely Accessible Spatial Interfaces: Mobile VR for Managing Persistent Pain
+T2  - IEEE Computer Graphics and Applications
+SP  - 82
+EP  - 88
+AU  - D. Schroeder
+AU  - F. Korsakov
+AU  - J. Jolton
+AU  - F. J. Keefe
+AU  - A. Haley
+AU  - D. F. Keefe
+PY  - 2013
+KW  - Virtual environments
+KW  - Rendering (computer graphics)
+KW  - Spatial intefaces
+KW  - Haptic interfaces
+KW  - virtual reality
+KW  - VR
+KW  - spatial interfaces
+KW  - pain management
+KW  - computer graphics
+KW  - meditation
+DO  - 10.1109/MCG.2013.38
+JO  - IEEE Computer Graphics and Applications
+IS  - 3
+SN  - 1558-1756
+VO  - 33
+VL  - 33
+JA  - IEEE Computer Graphics and Applications
+Y1  - May-June 2013
+AB  - Using widely accessible VR technologies, researchers have implemented a series of multimodal spatial interfaces and virtual environments. The results demonstrate the degree to which we can now use low-cost (for example, mobile-phone based) VR environments to create rich virtual experiences involving motion sensing, physiological inputs, stereoscopic imagery, sound, and haptic feedback. Adapting spatial interfaces to these new platforms can open up exciting application areas for VR. In this case, the application area was in-home VR therapy for patients suffering from persistent pain (for example, arthritis and cancer pain). For such therapy to be successful, a rich spatial interface and rich visual aesthetic are particularly important. So, an interdisciplinary team with expertise in technology, design, meditation, and the psychology of pain collaborated to iteratively develop and evaluate several prototype systems. The video at http://youtu.be/mMPE7itReds demonstrates how the sine wave fitting responds to walking motions, for a walking-in-place application.
+ER  - 
+
+TY  - CONF
+TI  - Cooperative control of a multi-arm system using semi-autonomous telemanipulation and adaptive impedance
+T2  - 2009 International Conference on Advanced Robotics
+SP  - 1
+EP  - 7
+AU  - Yushing Cheung
+AU  - J. S. Chung
+PY  - 2009
+KW  - Control systems
+KW  - Programmable control
+KW  - Adaptive control
+KW  - Impedance
+KW  - Force control
+KW  - Stability
+KW  - Communication system control
+KW  - Robots
+KW  - Delay
+KW  - Haptic interfaces
+DO  - 
+JO  - 2009 International Conference on Advanced Robotics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 International Conference on Advanced Robotics
+Y1  - 22-26 June 2009
+AB  - This paper addresses problems to achieve transparency and contact stability for Single Master Multi-Slave telemanipulation that consists of unconstrained and constrained motions. The adaptive bilateral control with a local force compensator is developed based on adaptive impedance control and contact force driven compensation with auto-switching functions. With a limited amount of knowledge about robotic and environment dynamics and a time-varying communication delay, the developed method guarantees good adaptive tracking performance in unconstrained motion and reduction of oscillating contacts to keep a balance of the system in constrained motion. Based on an actual haptic device and virtual robots, haptic simulations are presented to demonstrate adaptive transparency and contact stability in the presence of communication delays.
+ER  - 
+
+TY  - CONF
+TI  - Designing an Extended Reality Application to Expand Clinic-Based Sensory Strategies for Autistic Children Requiring Substantial Support: Participation of Practitioners
+T2  - 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+SP  - 254
+EP  - 259
+AU  - V. Bauer
+AU  - T. Bouchara
+AU  - P. Bourdot
+PY  - 2021
+KW  - Training
+KW  - Visualization
+KW  - Extended reality
+KW  - Design methodology
+KW  - Mixed reality
+KW  - Collaboration
+KW  - Haptic interfaces
+KW  - Autism Spectrum Disorder
+KW  - design
+KW  - multi-sensorimotor
+KW  - augmented reality
+KW  - mediation
+KW  - well-being
+DO  - 10.1109/ISMAR-Adjunct54149.2021.00059
+JO  - 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+Y1  - 4-8 Oct. 2021
+AB  - Extended Reality (XR) has already been used to support interventions for autistic children, but mainly focuses on training the socioemotional abilities of children requiring low support. To also consider children requiring substantial support, this paper examines how to design XR applications in order to expand clinic-based sensory strategies that are often used by practitioners to put them in a secure state, and how to maximize the acceptability of such applications among practitioners. To that respect, a "Mixed Reality platform for Engagement and Relaxation of Autistic children" was designed and developed, which allows to add audio, visual and haptic individualized or common stimuli onto reality. A first Augmented Reality freeplay use case called Magic Bubbles was created based on interviews with stakeholders and on a collaboration with three practitioners. A preliminary study with eleven practitioners confirmed its well-being potential and acceptability. XR design guidelines are finally derived.
+ER  - 
+
+TY  - CONF
+TI  - Quantifying and Improving User Quality of Experience in Immersive Tele-Rehabilitation
+T2  - 2014 IEEE International Symposium on Multimedia
+SP  - 207
+EP  - 214
+AU  - K. Venkatraman
+AU  - S. Raghuraman
+AU  - Y. Tian
+AU  - B. Prabhakaran
+AU  - K. Nahrstedt
+AU  - T. Annaswamy
+PY  - 2014
+KW  - Haptic interfaces
+KW  - Visualization
+KW  - Measurement
+KW  - Rendering (computer graphics)
+KW  - Three-dimensional displays
+KW  - Cameras
+KW  - Force
+KW  - Tele-Immersion
+KW  - Metrics
+KW  - User Experience
+KW  - Performance
+KW  - Haptic
+DO  - 10.1109/ISM.2014.64
+JO  - 2014 IEEE International Symposium on Multimedia
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 IEEE International Symposium on Multimedia
+Y1  - 10-12 Dec. 2014
+AB  - 3D Tele-Immersion (3DTI) environments are emerging as a new medium for human interactions and collaborations in the areas of education, sports training, physical medicine and rehabilitation. By adding a tactile element to a visually centered 3DTI environment, such applications can be made even more engaging. But it also opens up a few challenges in terms of fusing the visual and tactile data streams in a synchronous way. In this paper we describe a 3DTI Tele-Rehabilitation system with Microsoft Kinect cameras and hap tic devices. We describe some of the challenges we face in providing as well as quantifying a good quality of experience (QoE) in this system. We propose a set of solutions that: (i) improve the user's QoE (by using multi-modal prediction for handling latencies, better synchronization that accounts for the global state of the system, etc.), (ii) quantify the QoE (by designing a controlled virtual environment and by defining appropriate user QoE metrics for immersive tele-rehabilitation). The experimental results show a marked improvement in the performance of the system, consequently improving the user-experience. This is also verified by the results of the user performance study.
+ER  - 
+
+TY  - CONF
+TI  - The Study of Using Eye Movements to Control the Laparoscope Under a Haptically-Enabled Laparoscopic Surgery Simulation Environment
+T2  - 2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+SP  - 3022
+EP  - 3026
+AU  - H. Zhou
+AU  - L. Wei
+AU  - R. Cao
+AU  - S. Hanoun
+AU  - A. Bhatti
+AU  - Y. Tai
+AU  - S. Nahavandi
+PY  - 2018
+KW  - Laparoscopes
+KW  - Cameras
+KW  - Solid modeling
+KW  - Minimally invasive surgery
+KW  - Three-dimensional displays
+KW  - Tracking
+KW  - eye gaze
+KW  - laparoscopic surgery simulation
+KW  - haptic
+DO  - 10.1109/SMC.2018.00513
+JO  - 2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+IS  - 
+SN  - 2577-1655
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+Y1  - 7-10 Oct. 2018
+AB  - The purpose of this study is to investigate the possibility to use eye movements to control the laparoscope during a laparoscopic surgery. Laparoscopic surgery usually needs at least two doctors, a surgeon and a laparoscope assistant. The view of the operating surgeon is provided by the laparoscope assistant. As misunderstandings or conflicts of cooperation may happen, an ideal way is that the surgeon has a full control of all the instruments including the surgical tools and laparoscope. To achieve it, an eye based interaction method is introduced in this paper that allows surgeons to control the view by themselves. With recent developments in the eye tracker platforms and associated eye tracking technologies, many non-contact eye tracking systems are available. It can record where a person is looking at any time and a sequence of eye movements. This information can be used to know where is the attention and interest of the person on a display. As such, surgeon's attention can be captured and then be followed by moving the laparoscope to the region of interest. To have a safe and efficient evaluation on the usability, a virtual reality based laparoscopic surgery simulation is built. It is based on Unity with two haptic devices simulating the surgical tools, a 3D mouse providing 6 degrees-of-freedom control of the camera and an eye tracker capturing eyes' positions on a display. Experiments on moving a camera left, right, up, down, in, out and to specified locations using eyes are conducted, and moreover the performances of the proposed eye based self-control and the 3D mouse based other-control are compared. The results are promising where the proposed pointing method leads to 43.6% faster completion of the tasks against the traditional other-control method using the 3D mouse.
+ER  - 
+
+TY  - CONF
+TI  - Bounded Rational Game-theoretical Modeling of Human Joint Actions with Incomplete Information
+T2  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 10720
+EP  - 10725
+AU  - Y. Wang
+AU  - P. Shintre
+AU  - S. Amatya
+AU  - W. Zhang
+PY  - 2022
+KW  - Leadership
+KW  - Collaboration
+KW  - Optimal control
+KW  - Virtual environments
+KW  - Process control
+KW  - Predictive models
+KW  - Data models
+DO  - 10.1109/IROS47612.2022.9982108
+JO  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 23-27 Oct. 2022
+AB  - As humans and robots start to collaborate in close proximity, robots are tasked to perceive, comprehend, and anticipate human partners' actions, which demands a predictive model to describe how humans collaborate with each other in joint actions. Previous studies either simplify the collaborative task as an optimal control problem between two agents or do not consider the learning process of humans during repeated interaction. This idyllic representation is thus not able to model human rationality and the learning process. In this paper, a bounded-rational and game-theoretical human cooperative model is developed to describe the cooperative behaviors of the human dyad. An experiment of a joint object pushing collaborative task was conducted with 30 human subjects using haptic interfaces in a virtual environment. The proposed model uses inverse optimal control (IOC) to model the reward parameters in the collaborative task. The collected data verified the accuracy of the predicted human trajectory generated from the bounded rational model excels the one with a fully rational model. We further provide insight from the conducted experiments about the effects of leadership on the performance of human collaboration.
+ER  - 
+
+TY  - JOUR
+TI  - Multicontact Bilateral Telemanipulation With Kinematic Asymmetries
+T2  - IEEE/ASME Transactions on Mechatronics
+SP  - 445
+EP  - 456
+AU  - G. Salvietti
+AU  - L. Meli
+AU  - G. Gioioso
+AU  - M. Malvezzi
+AU  - D. Prattichizzo
+PY  - 2017
+KW  - Kinematics
+KW  - Matrix decomposition
+KW  - Manipulators
+KW  - Force measurement
+KW  - Tracking
+KW  - Force
+KW  - Bilateral telemanipulation
+KW  - cooperative grasping
+KW  - force rendering
+DO  - 10.1109/TMECH.2016.2606895
+JO  - IEEE/ASME Transactions on Mechatronics
+IS  - 1
+SN  - 1941-014X
+VO  - 22
+VL  - 22
+JA  - IEEE/ASME Transactions on Mechatronics
+Y1  - Feb. 2017
+AB  - We propose a novel bilateral telemanipulation framework to tame master and slave devices having different structures. This condition applies to multicontact teleoperation scenarios where the number of contact points on the slave side and the number of interaction points on the master side are different. An example is a master device interacting with the thumb and the index fingertips of the human operator, and as slave device, a robotic arm with a multifingered robotic hand. In case of a manipulation task, it is not straightforward to transmit motion commands and reflect forces from the interaction with the environment. A general telemanipulation framework, that does not consider the specific kinematics of the devices involved, is needed. The main idea of this study is to take advantage of a virtual object as a mediator between the master and slave side. The arising forward and backward mapping algorithms are able to relate the motions and the exerted forces of very dissimilar systems. The approach has been evaluated in a case study consisting of two haptic interfaces used both to track the index and thumb motions and to render forces on the master side and a robotic arm with a multifingered hand as end effector on the slave side. The results presented in this paper can be extended to cooperative grasping scenarios where multiple robots telemanipulate the same object.
+ER  - 
+
+TY  - CONF
+TI  - A Distributed Topology Control Algorithm for P2P Based Simulations
+T2  - 11th IEEE International Symposium on Distributed Simulation and Real-Time Applications (DS-RT'07)
+SP  - 68
+EP  - 71
+AU  - B. Hariri
+AU  - S. Shirmohammadi
+AU  - M. R. Pakravan
+PY  - 2007
+KW  - Distributed control
+KW  - Virtual environment
+KW  - Delay
+KW  - Online Communities/Technical Collaboration
+KW  - IP networks
+KW  - Network topology
+KW  - Web and internet services
+KW  - Military standards
+KW  - Computational modeling
+KW  - Scalability
+DO  - 10.1109/DS-RT.2007.39
+JO  - 11th IEEE International Symposium on Distributed Simulation and Real-Time Applications (DS-RT'07)
+IS  - 
+SN  - 1550-6525
+VO  - 
+VL  - 
+JA  - 11th IEEE International Symposium on Distributed Simulation and Real-Time Applications (DS-RT'07)
+Y1  - 22-26 Oct. 2007
+AB  - Although collaborative distributed simulations and virtual environments (VE) have been an active area of research in the past few years, they have recently gained even more attention due to the emergence of online gaming, emergency simulation and planning systems, and disaster management applications. Such environments combine graphics, haptics, animations and networking to create interactive multimodal worlds that allows participants to collaborate in realtime. Massively Multiplayer Online Gaming (MMOG), perhaps the most widely deployed practical application of distributed virtual environments, allows players to act together concurrently in a virtual world over the Internet. IP Multicasting would be an optimal solution for the dissemination of updates among participants, but IP multicasting is not available to home users on the Internet, due to a number of technological, practical, and business reasons. In light of the lack availability of IP Multicasting on the global Internet, researchers have recently tended to shift multicasting from the networking layer to the application layer, known as Application Layer Multicasting, effectively constructing an overlay network among participants of the distributed simulation where end hosts themselves participate in the dissemination of update messages. In this paper, we propose a topology control architecture to support P2P based collaborative distributed simulations over the Internet by using AIM. We present our networking model and its rationale, theoretical proof, and simulation measurements in comparison with other methods as proof of concept.
+ER  - 
+
+TY  - JOUR
+TI  - Multimedia and the Tactile Internet
+T2  - IEEE MultiMedia
+SP  - 5
+EP  - 7
+AU  - A. E. Saddik
+PY  - 2020
+KW  - Tactile Internet
+KW  - Media
+KW  - 5G mobile communication
+KW  - Digital twin
+KW  - Collaboration
+KW  - Visualization
+DO  - 10.1109/MMUL.2020.2980098
+JO  - IEEE MultiMedia
+IS  - 1
+SN  - 1941-0166
+VO  - 27
+VL  - 27
+JA  - IEEE MultiMedia
+Y1  - 1 Jan.-March 2020
+AB  - With the rapid development in the areas of multisensory hard- and software and the emergence of Tactile Internet, new media such as haptics, smell, olfaction, etc., nowadays, play a prominent role in making virtual objects physically tangible in a collaborative and/or networked virtual environment. By allowing users to feel each other's presence and physically manipulate objects from their interacted environments within 1 ms. The Tactile Internet facilitates fast multimodal interactions with multisensory information over the 5G network. 1 ms is a critical threshold in human perception of tactile response. For auditory response, this threshold is 100 ms and for visual response, it is 10 ms, which means delays above these thresholds are within the latency limit sensed by the human brain. In 4G, the round trip latency is 25 ms for an ideal environment. Clearly, that indicates 4G is not able to meet the requirements of tactile response. For this reason, the efforts to reduce latency in 5G are critical for Tactile Internet. Low-latency communications will also enable other digital twins’ applications such as real-time control of smart grid, self-driving car, and so on.
+ER  - 
+
+TY  - CONF
+TI  - Multisensory platform for surgical simulation
+T2  - Proceedings of the IEEE 1996 Virtual Reality Annual International Symposium
+SP  - 72
+EP  - 78
+AU  - R. Yagel
+AU  - D. Stredney
+AU  - G. J. Wiet
+AU  - P. Schmalbrock
+AU  - L. Rosenberg
+AU  - D. J. Sessanna
+AU  - Y. Kurzion
+AU  - S. King
+PY  - 1996
+KW  - Surgery
+KW  - Real time systems
+KW  - Haptic interfaces
+KW  - Displays
+KW  - Humans
+KW  - Rendering (computer graphics)
+KW  - Collaboration
+KW  - Virtual reality
+KW  - Force feedback
+KW  - Electronic switching systems
+DO  - 10.1109/VRAIS.1996.490513
+JO  - Proceedings of the IEEE 1996 Virtual Reality Annual International Symposium
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of the IEEE 1996 Virtual Reality Annual International Symposium
+Y1  - 30 March-3 April 1996
+AB  - Advanced display technologies have made the virtual exploration of relatively complex models feasible in many applications. Unfortunately, only a few human interfaces allow natural interaction with the environment. Moreover in surgical applications, such realistic interaction requires real time rendering of volumetric data-placing an overwhelming performance burden on the system. We report on a collaboration of a unique interdisciplinary group developing a virtual reality system that provides intuitive interaction with complex volume data by employing real time realistic volume rendering and convincing force feedback (haptic) sensations. We describe our rendering methods and the haptic devices in detail and demonstrate the utilization of this system in the real world application of Endoscopic Sinus Surgery (ESS) simulation.
+ER  - 
+
+TY  - JOUR
+TI  - A Comparative Evaluation of Control Interfaces for a Robotic-Aided Endoscopic Capsule Platform
+T2  - IEEE Transactions on Robotics
+SP  - 534
+EP  - 538
+AU  - G. Ciuti
+AU  - M. Salerno
+AU  - G. Lucarini
+AU  - P. Valdastri
+AU  - A. Arezzo
+AU  - A. Menciassi
+AU  - M. Morino
+AU  - P. Dario
+PY  - 2012
+KW  - Robot sensing systems
+KW  - User interfaces
+KW  - Endoscopes
+KW  - Reliability
+KW  - Statistical analysis
+KW  - Magnetic resonance imaging
+KW  - Capsule endoscopy
+KW  - endoscopic robotic platform
+KW  - telerobotics
+KW  - virtual reality and interfaces
+DO  - 10.1109/TRO.2011.2177173
+JO  - IEEE Transactions on Robotics
+IS  - 2
+SN  - 1941-0468
+VO  - 28
+VL  - 28
+JA  - IEEE Transactions on Robotics
+Y1  - April 2012
+AB  - Wireless capsule endoscopy offers significant advantages compared with traditional endoscopic procedures, since it limits the invasiveness of gastrointestinal tract screening and diagnosis. Moreover, active locomotion devices would allow endoscopy to be performed in a totally controlled manner, avoiding failures in the correct visualization of pathologies. Previous works demonstrated that magnetic locomotion through a robotic-aided platform would allow us to reach this goal reliably. In this paper, the authors present a comparative evaluation of control methodologies and user interfaces for a robotic-aided magnetic platform for capsule endoscopy, controlled through human-robot cooperative and teleoperated control algorithms. A detailed statistical analysis of significant control parameters was performed: teleoperated control is the more reliable control approach, and a serial kinematic haptic device results as the most suitable control interface to perform effective robotic-aided endoscopic procedures.
+ER  - 
+
+TY  - CONF
+TI  - Co-Simulation Environment for the Analysis of the Driving Simulator’s Actuation
+T2  - 2019 7th International Conference on Control, Mechatronics and Automation (ICCMA)
+SP  - 315
+EP  - 321
+AU  - C. Antonya
+AU  - C. Irimia
+AU  - M. Grovu
+AU  - C. Husar
+AU  - M. Ruba
+PY  - 2019
+KW  - Integrated optics
+KW  - Visualization
+KW  - Three-dimensional displays
+KW  - Mechatronics
+KW  - Software packages
+KW  - Optical variables measurement
+KW  - Mathematical models
+KW  - Virtual prototyping
+KW  - Optical reflection
+KW  - Optical devices
+KW  - Co-simulation
+KW  - driving simulator
+KW  - Stewart platform
+KW  - simulation software
+KW  - virtual prototyping
+DO  - 10.1109/ICCMA46720.2019.8988628
+JO  - 2019 7th International Conference on Control, Mechatronics and Automation (ICCMA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 7th International Conference on Control, Mechatronics and Automation (ICCMA)
+Y1  - 6-8 Nov. 2019
+AB  - Driving simulators are providing the user realistic feedback regarding the required visual, auditory, haptic and kinesthetic information. The most common way of imposing the motion of the driving simulator is by the 6 degrees of freedom (DOF) Stewart hexapod platform. The actuation of the platform is performed through a mechatronic device, composed by a synchronous motor, belt drive, and a screw-ball mechanism. The simulation of the driving simulator’s actuation has to validate the motion platform characteristics. Combining different software packages and taking advantage of the strength of each of them, a collaborative co-simulation environment is opening the doors for powerful virtual prototyping and testing tools. In this paper, the co-simulation environment is using three powerful simulation software packages (Simcenter Amesim, Simcenter 3D Motion and Matlab/Simulink). In this environment were established the electromechanical model of the actuators, the dynamical model of the motion platform and the control module of the permanent magnet synchronous motors. The result of the co-simulation is confirming that the imposed motion of the platform can be achieved on the driving simulator. The motion of the platform was checked with an optical tracking device by attaching a reflective marker on the platform and recording its movement.
+ER  - 
+
+TY  - CONF
+TI  - Human-human physical interaction in the joint control of an underactuated virtual object
+T2  - 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+SP  - 4407
+EP  - 4410
+AU  - D. De Santis
+AU  - J. Zenzeri
+AU  - L. Masia
+AU  - V. Squeri
+AU  - P. Morasso
+PY  - 2014
+KW  - Force
+KW  - Haptic interfaces
+KW  - Training
+KW  - Delays
+KW  - Robot kinematics
+KW  - Synchronization
+DO  - 10.1109/EMBC.2014.6944601
+JO  - 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+IS  - 
+SN  - 1558-4615
+VO  - 
+VL  - 
+JA  - 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+Y1  - 26-30 Aug. 2014
+AB  - Human-human physical interaction has proven to be advantageous especially in contexts with high coordination requirements. But under which conditions can haptic communication bring to performance benefits in a challenging cooperative environment? In this work we investigate which are the dynamics that intervene when two subjects are required to switch from a bimanual to a dyadic configuration in order to solve a complex reaching and stabilization task of a virtual tool in the presence of an unstable dynamics. Results show that dyadic cooperation can improve the performance respect to the individual condition, while minimizing the effort. However, in the joint task, when the stiffness of the system becomes harder to manipulate the feedback delays appear to be critical in determining the maximum achievable level of performance.
+ER  - 
+
+TY  - JOUR
+TI  - Multi-Agent Reinforcement Learning-Based Distributed Channel Access for Next Generation Wireless Networks
+T2  - IEEE Journal on Selected Areas in Communications
+SP  - 1587
+EP  - 1599
+AU  - Z. Guo
+AU  - Z. Chen
+AU  - P. Liu
+AU  - J. Luo
+AU  - X. Yang
+AU  - X. Sun
+PY  - 2022
+KW  - Media Access Protocol
+KW  - Protocols
+KW  - Throughput
+KW  - Neural networks
+KW  - Heuristic algorithms
+KW  - Delays
+KW  - Training
+KW  - Distributed channel access
+KW  - multi-agent reinforcement learning
+KW  - QMIX
+KW  - listen before talk
+KW  - multiple access
+DO  - 10.1109/JSAC.2022.3143251
+JO  - IEEE Journal on Selected Areas in Communications
+IS  - 5
+SN  - 1558-0008
+VO  - 40
+VL  - 40
+JA  - IEEE Journal on Selected Areas in Communications
+Y1  - May 2022
+AB  - In the next generation wireless networks, more applications will emerge, covering virtual reality movies, augmented reality, holographic three-dimensional telepresence, haptic telemedicine and so on, which require the provisioning of high bandwidth efficiency and low latency services. In order to better support the aforementioned applications and services, novel distributed channel access (DCA) schemes are necessary. Therefore, we propose a new MAC protocol, QMIX-advanced Listen-Before-Talk (QLBT), based on the cutting-edge multi-agent reinforcement learning (MARL) algorithm. It employs a centralized training with decentralized execution (CTDE) framework to exploit the overall information of all agents during training, and ensure that each agent can independently infer the optimal channel access behavior based on its local observation. We enhance QMIX, a well-known MARL algorithm, by introducing an extra individual Q-value for each agent in the mixing network apart from the original total Q-value, which makes QLBT more stable. Moreover, delay to last successful transmission (D2LT) is first introduced in this work as a part of the observations of each QLBT agent, which facilitates agents to reach a cooperative policy that prioritizes the agent with the longest delay. Finally, extensive simulation experiments are provided to show that the proposed QLBT algorithm: 1) outperforms CSMA/CA and even its theoretical performance bound in various scenarios including saturated traffic, unsaturated traffic and delay-sensitive traffic; 2) is robust in dynamic environment; and 3) is able to friendly coexist with “legacy” CSMA/CA stations.
+ER  - 
+
+TY  - CONF
+TI  - Dual-Driver Networked Fire Truck Simulator with Multimodal Display including Force Feedback Steering and Rotating Motion Platform
+T2  - 16th IEEE International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2007)
+SP  - 424
+EP  - 430
+AU  - T. Nagai
+AU  - M. Cohen
+AU  - Y. Moriguchi
+AU  - Y. Murakami
+PY  - 2007
+KW  - Fires
+KW  - Displays
+KW  - Force feedback
+KW  - Wheels
+KW  - Vehicle driving
+KW  - Navigation
+KW  - Collaboration
+KW  - Virtual environment
+KW  - Collaborative software
+KW  - Collaborative work
+DO  - 10.1109/WETICE.2007.4407202
+JO  - 16th IEEE International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2007)
+IS  - 
+SN  - 1524-4547
+VO  - 
+VL  - 
+JA  - 16th IEEE International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2007)
+Y1  - 18-20 June 2007
+AB  - We describe the integration of two pairs of force displays-- a force-feedback wheel (FFBW) and the S c haire (`Share Chair'), a rotary motion platform-- in a dual- driver networked driving simulator which navigates through virtual space using CVE ( collaborative virtual environment) groupware. We developed a double-driver (long ladder-style) fire-truck simulation with a tiller (rear steering), driven via an integrated pair of networked driving simulator stations. Such a dual-driver system is useful to turn narrow corners rapidly and smoothly in case of (simulated) emergencies. Its FFB steering wheels display simple collision force to both drivers separately when the vehicle collides with walls or other vehicles. The technique of feeding back the effect employs programs using C++ and DirectInput, escaping to an execution file called Force- Manager from the driving simulator, which is implemented with Java3D. Effect patterns are changed by arguments to ForceManager. The S c haire is rotated with a servo- motor, the rotation angle controlled via internet through the CVE. A demonstration video is posted at http: //sonic.u-aizu.ac.jp/spatial-media/ Videos/DualDrivingSimulator.mov . Keywords: dual-driver networked driving simulator, force feedback, haptic interface, rotary motion platform.
+ER  - 
+
+TY  - CONF
+TI  - Guidance Priority Adaptation in Human-Robot Shared Control
+T2  - 2022 IEEE International Conference on Mechatronics and Automation (ICMA)
+SP  - 1634
+EP  - 1639
+AU  - H. Ren
+AU  - Z. Li
+AU  - Q. Wu
+AU  - D. Wu
+PY  - 2022
+KW  - Adaptive systems
+KW  - Navigation
+KW  - Fixtures
+KW  - Human-robot interaction
+KW  - Collaboration
+KW  - Robot sensing systems
+KW  - Haptic interfaces
+KW  - Admittance control
+KW  - human-robot interaction
+KW  - virtual fixture
+DO  - 10.1109/ICMA54519.2022.9856369
+JO  - 2022 IEEE International Conference on Mechatronics and Automation (ICMA)
+IS  - 
+SN  - 2152-744X
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Mechatronics and Automation (ICMA)
+Y1  - 7-10 Aug. 2022
+AB  - Demanded in highly unstructured environment like surgery, rehabilitation and teleoperation, shared control architecture allows operators to retain abilities and priority to control a human-robot interaction system (HRI), in which the robot provides stiffness and precision, and the human operator decides tactical maneuvering like obstacle avoidance and emergency takeover. By estimating haptic intention of human and adaptively restraining the operation force in unexpected direction, the adaptive shared control law is desired to continuously switch the lead priority to either the human or the robot. An adaptive admittance control strategy is thus developed based on the guidance virtual fixture (VF) /active constraint to promote the operation performance in collaborative tasks. By synthesizing adaptive admittance control and virtual fixture guidance, this comes true that the human operator’s intention and predefined guidance trajectory are combined in shared control. Both theoretical analysis and simulation results validate that the proposed control strategy has potential to provide stability and flexibility in the specific tasks for the HRI system.
+ER  - 
+
+TY  - CHAP
+TI  - Enabling Technologies for 6G&#x2010;Based Advanced Applications
+T2  - 6G-Enabled Technologies for Next Generation: Fundamentals, Applications, Analysis and Challenges
+SP  - 61
+EP  - 93
+AU  - Amit Kumar Tyagi
+AU  - Shrikant Tiwari
+AU  - Shivani Gupta
+AU  - Anand Kumar Mishra
+PY  - 2025
+KW  - 6G mobile communication
+KW  - Wireless communication
+KW  - Terahertz communications
+KW  - Millimeter wave communication
+KW  - Massive MIMO
+KW  - Quality of service
+KW  - Optimization
+KW  - Multimedia communication
+KW  - Internet of Things
+KW  - Edge computing
+DO  - 10.1002/9781394258369.ch4
+PB  - IEEE
+SN  - 9781394258352
+UR  - http://ieeexplore.ieee.org/document/10854713
+AB  - Summary <p>The emergence of 6G networks promises to revolutionize the digital landscape by facilitating unique levels of connectivity, data throughput, and low&#x2010;latency communication. This chapter discusses the enabling technologies poised to underpin 6G networks, allowing different types of advanced applications across sectors, such as healthcare, transportation, manufacturing, and entertainment. First, the integration of artificial intelligence (AI) and machine learning (ML) algorithms at the network edge will play an important role in optimizing resource allocation, enhancing spectrum efficiency, and mitigating interference. By using the power of AI&#x2010;driven network orchestration, 6G systems will dynamically adapt to fluctuating demands, ensuring continuous connectivity for mission&#x2010;important applications. Furthermore, the rapid growth of millimeter&#x2010;wave (mmWave) and terahertz (THz) frequency bands will unlock unique bandwidth, enabling multi&#x2010;gigabit&#x2010;per&#x2010;second data rates and ultra&#x2010;reliable, low&#x2010;latency communication (URLLC).</p> <p>Using advanced beamforming techniques and massive multiple&#x2010;input, multiple&#x2010;output (MIMO) architectures, 6G networks will deliver robust connectivity even in dense urban environments and challenging propagation conditions. Moreover, quantum&#x2010;inspired cryptography will strengthen the security infrastructure of 6G networks, safeguarding sensitive data against emerging threats such as quantum&#x2010;enabled attacks. By using the principles of quantum key distribution (QKD) and quantum&#x2010;resistant cryptographic algorithms, 6G systems will establish a new paradigm of secure communication, ensuring end&#x2010;to&#x2010;end confidentiality and integrity. Additionally, the convergence of augmented reality (AR), virtual reality (VR), and haptic feedback technologies will unlock immersive, interactive experiences, revolutionizing entertainment, education, and telepresence applications. By using ultra&#x2010;low&#x2010;latency communication and edge computing capabilities, 6G networks will enable real&#x2010;time collaboration and content delivery with unparalleled fidelity and responsiveness.</p> <p>In summary, the successful deployment of 6G networks hinges on the synergistic integration of AI&#x2010;driven network optimization, advanced radio access technologies, quantum&#x2010;inspired security mechanisms, and immersive multimedia services. Hence, by integrating these enabling technologies, 6G will allow the next generation of advanced applications, driving innovation and economic growth across diverse sectors.</p>
+ER  - 
+
+TY  - CONF
+TI  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+T2  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+SP  - 1
+EP  - 
+PY  - 2003
+KW  - Tactile sensors
+KW  - Learning control systems
+KW  - Tracking
+KW  - Multisensor systems
+KW  - Neurocontrollers
+KW  - Fuzzy control
+KW  - Mechatronics
+KW  - Motion control
+KW  - Robots
+DO  - 10.1109/IROS.2003.1249176
+JO  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+Y1  - 27-31 Oct. 2003
+AB  - The following topics are dealt with: tactile sensing; aerial vehicles; legged robots; motion and path planning; learning systems; simultaneous localization and mapping; visual tracking; cooperative sensing; outdoor vehicles; biped walking; collision avoidance; reinforcement learning; visual servoing; sensor applications; underwater robots; legged locomotion; learning control; sensor-based planning; computational intelligence; mobile robot localization; robot vision; Internet robots; humanoid robots; fuzzy and neural control; sensing for mobile platforms; biologically inspired robots; trajectory planning; architecture and programming; vision-based monitoring; 3D sensing; cellular and modular robots; planning algorithms; mobiligence; multi-robot control; intelligent environment; sensor fusion; micro and nano robotic systems; task allocation; actuator systems; multi-robot systems; manufacturing systems; mechanism design; integrated MEMS sensors and actuators; force-responsive mechatronics in industry; medical robots and haptics; service robots; dexterous hands; sensing and navigation; telerobotics; personal robots; rescue and security robots; spaced robots; human/robot cooperation; compliant motion control; robot assisted surgery; grasping; human-robot interaction; intelligent robots; and virtual reality.
+ER  - 
+
+TY  - CONF
+TI  - Proceedings Seventh IEEE International Symposium on Distributed Simulation and Real-Time Applications
+T2  - Proceedings Seventh IEEE International Symposium on Distributed Simulation and Real-Time Applications
+SP  - 1
+EP  - 
+PY  - 2003
+KW  - Real time systems
+KW  - Multimedia computing
+KW  - Parallel processing
+KW  - Internet
+KW  - Virtual reality
+KW  - Collaborative work
+DO  - 10.1109/DISRTA.2003.1242989
+JO  - Proceedings Seventh IEEE International Symposium on Distributed Simulation and Real-Time Applications
+IS  - 
+SN  - 1530-1990
+VO  - 
+VL  - 
+JA  - Proceedings Seventh IEEE International Symposium on Distributed Simulation and Real-Time Applications
+Y1  - 23-25 Oct. 2003
+AB  - The following topics are dealt with: high level architecture (HLA) and grid issues; real time systems; quality of service (QoS) and multimedia; parallel and distributed simulation; methodology and Web-based simulation; distributed simulation project management; and haptic audio visual collaborative virtual environments.
+ER  - 
+
+TY  - JOUR
+TI  - Consumer Electronics Technologies for Enabling an Immersive Metaverse Experience
+T2  - IEEE Consumer Electronics Magazine
+SP  - 16
+EP  - 24
+AU  - S. Sai
+AU  - D. Goyal
+AU  - V. Chamola
+AU  - B. Sikdar
+PY  - 2024
+KW  - Metaverse
+KW  - Headphones
+KW  - Consumer electronics
+KW  - Virtual reality
+KW  - Games
+KW  - Three-dimensional displays
+KW  - Augmented reality
+KW  - Immersive experience
+KW  - Medical services
+KW  - Solid modeling
+KW  - Real-time systems
+KW  - Haptic interfaces
+KW  - Computer applications
+KW  - Augmented reality
+KW  - Education
+KW  - Medical diagnosis
+KW  - Patient monitoring
+KW  - Context-aware services
+KW  - Artificial intelligence
+DO  - 10.1109/MCE.2023.3327530
+JO  - IEEE Consumer Electronics Magazine
+IS  - 3
+SN  - 2162-2256
+VO  - 13
+VL  - 13
+JA  - IEEE Consumer Electronics Magazine
+Y1  - May 2024
+AB  - The idea of the Metaverse as a virtual reality space where people can interact with computer-generated surroundings and each other in real time is gaining attention as this technology is roaring. Consumer electronics (CE) technology plays a crucial role in developing and using the metaverse. It offers the metaverse various devices like virtual reality headsets, augmented reality glasses, smartphones, and haptic feedback devices. These devices give users immersive experiences, improve communication and collaboration, and explore virtual worlds. In this article, we review several applications of consumer electronics technology in the metaverse, two case studies of consumer electronics in the metaverse, several challenges in the existing CE technology in adapting it to the metaverse, and some future directions for research. As a part of case studies, we analyze how CE technology impacts education and healthcare in the metaverse. In metaverse education and healthcare, CE provides opportunities for immersive learning experiences, virtual simulations, remote training, and improved patient care. Numerous challenges CE faces in the context of metaverse related to structure development, standardization efforts, privacy concerns, and ensuring security that must be addressed for its successful implementation have been identified. Despite its limitations, ongoing efforts are being made to enhance these devices and optimize the overall experience for the metaverse.
+ER  - 
+
+TY  - CHAP
+TI  - Reference Architecture of the Tactile Internet
+T2  - The Tactile Internet
+SP  - 13
+EP  - 20
+AU  - Tara Ali-Yahiya
+PY  - 2021
+KW  - Computer architecture
+KW  - Tactile Internet
+KW  - Automobiles
+KW  - Sensors
+KW  - Actuators
+KW  - Solid modeling
+KW  - Logic gates
+DO  - 10.1002/9781119881087.ch2
+PB  - Wiley
+SN  - 9781119881063
+UR  - http://ieeexplore.ieee.org/document/9714953
+AB  - This chapter describes the architecture proposed by IEEE 1918.1 with its related use cases, as a step towards understanding the big picture of the Tactile Internet (TI) from a technical point of view. The IEEE 1918.1 working group has defined seven use cases that make use of the TI architecture in order to deliver its services. The cases covered include teleoperation, automotive, immersive virtual reality, Internet of drones, interpersonal communication, live haptic‐enabled broadcast, and cooperative automated driving. Despite the general‐purpose reference architecture proposed by IEEE1918.1, it is important to mention that this architecture can include any use cases and can even be personalized to special cases depending on the fine granularity of the application of the TI.
+ER  - 
+
+TY  - JOUR
+TI  - Ultrareliable and Low-Latency Communication Techniques for Tactile Internet Services
+T2  - Proceedings of the IEEE
+SP  - 376
+EP  - 393
+AU  - K. S. Kim
+AU  - D. K. Kim
+AU  - C. -B. Chae
+AU  - S. Choi
+AU  - Y. -C. Ko
+AU  - J. Kim
+AU  - Y. -G. Lim
+AU  - M. Yang
+AU  - S. Kim
+AU  - B. Lim
+AU  - K. Lee
+AU  - K. L. Ryu
+PY  - 2019
+KW  - Tactile Internet
+KW  - Haptic interfaces
+KW  - Robot sensing systems
+KW  - Web and internet services
+KW  - Streaming media
+KW  - Quality of service
+KW  - Low latency communication
+KW  - Full-duplex communications
+KW  - multiple access schemes
+KW  - tactile internet
+KW  - URLLC
+KW  - waveform multiplexing
+DO  - 10.1109/JPROC.2018.2868995
+JO  - Proceedings of the IEEE
+IS  - 2
+SN  - 1558-2256
+VO  - 107
+VL  - 107
+JA  - Proceedings of the IEEE
+Y1  - Feb. 2019
+AB  - This paper presents novel ultrareliable and low-latency communication (URLLC) techniques for URLLC services, such as Tactile Internet services. Among typical use cases of URLLC services are teleoperation, immersive virtual reality, cooperative automated driving, and so on. In such URLLC services, new kinds of traffic such as haptic information including kinesthetic information and tactile information need to be delivered in addition to high-quality video and audio traffic in traditional multimedia services. Furthermore, such a variety of traffic has various characteristics in terms of packet sizes and data rates with a variety of requirements of latency and reliability. Furthermore, some traffic may occur in a sporadic manner but requires reliable delivery of packets of medium to large sizes within a low latency, which is not supported by current state-of-the-art wireless communication systems and is very challenging for future wireless communication systems. Thus, to meet such a variety of tight traffic requirements in a wireless communication system, novel technologies from the physical layer to the network layer need to be devised. In this paper, some novel physical layer technologies such as waveform multiplexing, multiple-access scheme, channel code design, synchronization, and full-duplex transmission for spectrally efficient URLLC are introduced. In addition, a novel performance evaluation approach, which combines a ray-tracing tool and system-level simulation, is suggested for evaluating the performance of the proposed schemes. Simulation results show the feasibility of the proposed schemes providing realistic URLLC services in realistic geographical environments, which encourages further efforts to substantiate the proposed work.
+ER  - 
+
+TY  - JOUR
+TI  - A Comprehensive Survey of the Tactile Internet: State-of-the-Art and Research Directions
+T2  - IEEE Communications Surveys & Tutorials
+SP  - 472
+EP  - 523
+AU  - N. Promwongsa
+AU  - A. Ebrahimzadeh
+AU  - D. Naboulsi
+AU  - S. Kianpisheh
+AU  - F. Belqasmi
+AU  - R. Glitho
+AU  - N. Crespi
+AU  - O. Alfandi
+PY  - 2021
+KW  - Haptic interfaces
+KW  - Tutorials
+KW  - Computer architecture
+KW  - Surgery
+KW  - Internet of Things
+KW  - Reliability
+KW  - 5G/6G
+KW  - artificial intelligence
+KW  - edge computing
+KW  - machine learning
+KW  - tactile Internet
+DO  - 10.1109/COMST.2020.3025995
+JO  - IEEE Communications Surveys & Tutorials
+IS  - 1
+SN  - 1553-877X
+VO  - 23
+VL  - 23
+JA  - IEEE Communications Surveys & Tutorials
+Y1  - Firstquarter 2021
+AB  - The Internet has made several giant leaps over the years, from a fixed to a mobile Internet, then to the Internet of Things, and now to a Tactile Internet. The Tactile Internet goes far beyond data, audio and video delivery over fixed and mobile networks, and even beyond allowing communication and collaboration among things. It is expected to enable haptic communications and allow skill set delivery over networks. Some examples of potential applications are tele-surgery, vehicle fleets, augmented reality and industrial process automation. Several papers already cover many of the Tactile Internet-related concepts and technologies, such as haptic codecs, applications, and supporting technologies. However, none of them offers a comprehensive survey of the Tactile Internet, including its architectures and algorithms. Furthermore, none of them provides a systematic and critical review of the existing solutions. To address these lacunae, we provide a comprehensive survey of the architectures and algorithms proposed to date for the Tactile Internet. In addition, we critically review them using a well-defined set of requirements and discuss some of the lessons learned as well as the most promising research directions.
+ER  - 
+
+TY  - CONF
+TI  - Adaptive attitude design with risk-sensitive optimal feedback control in physical human-robot interaction
+T2  - 2012 IEEE RO-MAN: The 21st IEEE International Symposium on Robot and Human Interactive Communication
+SP  - 955
+EP  - 961
+AU  - M. Saida
+AU  - J. R. Medina
+AU  - S. Hirche
+PY  - 2012
+KW  - Humans
+KW  - Noise
+KW  - Robot sensing systems
+KW  - Attitude control
+KW  - Trajectory
+KW  - Force
+DO  - 10.1109/ROMAN.2012.6343873
+JO  - 2012 IEEE RO-MAN: The 21st IEEE International Symposium on Robot and Human Interactive Communication
+IS  - 
+SN  - 1944-9437
+VO  - 
+VL  - 
+JA  - 2012 IEEE RO-MAN: The 21st IEEE International Symposium on Robot and Human Interactive Communication
+Y1  - 9-13 Sept. 2012
+AB  - Anticipatory behavior based on the human behavior prediction enables the robot to improve the quality of its assistance in physical human-robot interaction (pHRI). However, predictions are partly afflicted with high uncertainties originating from the intrinsic variability in human behavior and the influence of the environment, requiring an attitude negotiation among partners. In this paper, we propose a novel control approach that dynamically adapts the robot's attitude to the disagreement level and the environmental situation in real time facilitating the negotiation between the human and the robot. The approach is based on risk-sensitive optimal feedback control. The adaptive design of the robot's attitude is realized through a dynamical changing risk-sensitivity parameter. The proposed approach is experimentally validated in a cooperative transport scenario in a two-dimensional visuo-haptic virtual environment.
+ER  - 
+
+TY  - CONF
+TI  - GAVRe2: Towards Data-Driven Upper-Limb Rehabilitation with Adaptive-Feedback Gamification
+T2  - 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+SP  - 164
+EP  - 169
+AU  - Y. Lai
+AU  - S. Sutjipto
+AU  - M. D. Clout
+AU  - M. G. Carmichael
+AU  - G. Paul
+PY  - 2018
+KW  - Games
+KW  - Robot sensing systems
+KW  - Virtual reality
+KW  - Manipulators
+KW  - Target tracking
+DO  - 10.1109/ROBIO.2018.8665105
+JO  - 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+Y1  - 12-15 Dec. 2018
+AB  - This paper presents Game Adaptive Virtual Reality Rehabilitation (GAVRe2), a framework to augment upper limb rehabilitation using Virtual Reality (VR) gamification and haptic robotic manipulator feedback. GAVRe2 integrates independent systems in a modular fashion, connecting patients with therapists remotely to increase patient engagement during rehabilitation. GAVRe2 exploits VR capabilities to not only increase the productivity of therapists administering rehabilitation, but also to improve rehabilitation mobility for patients. Conventional rehabilitation requires face-to-face physical interactions in a clinical setting which can be inconvenient for patients. The GAVRe2 approach provides an avenue for rehabilitation in a domestic setting by remotely customizing a routine for the patient. Results are then reported back to therapists for data analysis and future training regime development. GAVRe2 is evaluated experimentally through a system that integrates a popular VR system, a RGB-D camera, and a collaborative industrial robot, with results indicating potential benefits for long-term rehabilitation and the opportunity for upper limb rehabilitation in a domestic setting.
+ER  - 
+
+TY  - JOUR
+TI  - Realizing the Tactile Internet through Intelligent Zero Touch Networks
+T2  - IEEE Network
+SP  - 243
+EP  - 250
+AU  - I. Al Ridhawi
+AU  - M. Aloqaily
+AU  - F. Karray
+AU  - M. Guizani
+AU  - M. Debbah
+PY  - 2022
+KW  - Tactile Internet
+KW  - Wireless communication
+KW  - Automation
+KW  - Roads
+KW  - Quality of service
+KW  - Manuals
+KW  - Performance gain
+DO  - 10.1109/MNET.001.2200016
+JO  - IEEE Network
+IS  - 6
+SN  - 1558-156X
+VO  - 36
+VL  - 36
+JA  - IEEE Network
+Y1  - November/December 2022
+AB  - The Internet of Things is expected to evolve and create numerous technological advances, paving the road for solutions that were once considered impossible. The Tactile Internet (TI), which is envisioned to enable real-time transmission of haptic and conventional data traffic, is creating that paradigm shift toward control-based communication between end users and machines. Tele-operation, augmented/virtual reality vehicle platooning, and industrial automation are all applications that can be supported by TI. The realization of TI over beyond fifth generation creates challenges for the current wireless communication and networking infrastructure. Network and communication reliability, ultra-high data rate connectivity, ultra-low latency, and stringent quality of service/experience (QoS/QoE) requirements must all be achieved for TI to effectively operate. Existing network infrastructures that require manual means of management and control cannot accommodate stringent TI constraints. With that said, the adaptation of advanced intelligent and cooperative solutions at the edge of the network is a crucial step toward guaranteed availability of resources and TI services. This article identifies and analyzes some of the technical issues that TI faces, then highlights and proposes potential solutions toward zero touch networks. We pay particular attention to the reliability performance gains achieved from cooperative edge devices, and their role in the provisioning of zero touch networking infrastructures that support TI applications.
+ER  - 
+
+TY  - CONF
+TI  - Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292)
+T2  - Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292)
+SP  - 1
+EP  - 
+PY  - 2002
+KW  - Robots
+KW  - Drones
+KW  - Humanoid robots
+KW  - Petri nets
+DO  - 10.1109/ROBOT.2002.1014684
+JO  - Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292)
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292)
+Y1  - 11-15 May 2002
+AB  - The following topics are dealt with: localization; humanoid robots; flying robots; Petri nets; modular robots; calibration; programming; resource allocation; uncalibrated vision; virtual reality; motion planning; cooperating robots; sensing; binary actuation; mobile manipulation; industrial automation; fault tolerance; parallel robots; simulation; force-guided assembly; visual servo control; haptics; impedance control; omnidirectional robots; underwater robots; manufacturing; fixturing; cooperating manipulators; autonomous agents; Internet automation; micro locomotion; telerobotics; distributed manipulation; learning; biomedical robotics; micro assembly; hyper-redundant robots; skill acquisition; grasping; visual servo control; sensor-based planning; force control; nonholonomic robots; sensor fusion; SLAM human robot interaction; probabilistic roadmaps; fuzzy control; legged locomotion; space robotics; actuators; inspection; multirobot motion planning; robust control; navigation; aerial vehicles; CAD/CAM kinematics; pose detection; tracking; obstacle detection; obstacle avoidance; human assistance devices; teleoperator stability; stereo vision; service robots; multifinger hands; neural nets; learning; and jumping robots.
+ER  - 
+
+TY  - CONF
+TI  - Higher order sliding mode based impedance control for dual-user bilateral teleoperation under unknown constant time delay
+T2  - 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 5209
+EP  - 5215
+AU  - H. Santacruz-Reyes
+AU  - L. G. Garcia-Valdovinos
+AU  - H. Jimenez-Hernandez
+AU  - T. Salgado-Jimenez
+AU  - L. A. Garcia-Zarco
+PY  - 2015
+KW  - Impedance
+KW  - Delay effects
+KW  - Uncertainty
+KW  - Robustness
+KW  - Manipulator dynamics
+DO  - 10.1109/IROS.2015.7354111
+JO  - 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 28 Sept.-2 Oct. 2015
+AB  - This paper presents a dual-user teleoperation scheme to perform a collaborative task using n-DOF nonlinear manipulators as masters and slave. Impedance controllers for the manipulators are implemented in order to achieve a desired dynamic behavior depending on the user's necessities. Furthermore, a sliding mode controller is introduced to cope with the time delay in the communication channels and the uncertainty in the slave. Since the slave teleoperator is in contact with a rigid environment, the slave controller requires a free of chattering control strategy, which makes first order sliding mode teleoperation control unsuitable. Then a higher order sliding mode based impedance controller is proposed to guarantee robust impedance tracking under constant, but unknown time delay. Therefore, a position scaling factor is incorporated to deal with the different workspaces among masters and slave. The validity of the proposed control scheme is demonstrated via experimentation on a 3-DOF dual-user teleoperation system. While the haptic devices Phantom Premium 1.0A and a Phantom Omni are used as masters, a virtual industrial manipulator Catalyst-5 is used as slave. The dual-user system is tested not only in presence of constant unknown time delay in each of the communication channels but also in free and constrained motion regime.
+ER  - 
+
+TY  - CONF
+TI  - Exploring the potential of tangible user interface in classroom teaching — Learning
+T2  - 2017 3rd International Conference on Computational Intelligence & Communication Technology (CICT)
+SP  - 1
+EP  - 7
+AU  - S. Devi
+AU  - S. Deb
+PY  - 2017
+KW  - User interfaces
+KW  - Education
+KW  - Collaboration
+KW  - Brushes
+KW  - Conferences
+KW  - Computational intelligence
+KW  - Communications technology
+KW  - Tangible user interface
+KW  - learning environment
+KW  - educational technologies
+DO  - 10.1109/CIACT.2017.7977368
+JO  - 2017 3rd International Conference on Computational Intelligence & Communication Technology (CICT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 3rd International Conference on Computational Intelligence & Communication Technology (CICT)
+Y1  - 9-10 Feb. 2017
+AB  - Technology driven modern education system highly depends on the devices which is not an exception in the classrooms. These technological advancements pave new opportunities for creating innovative methods of collaboration depending on gesticulations, body-movements and management of real-objects enhancing higher degree of engagement in classroom. Tangible user interfaces can be noteworthy to the educational environment by empowering the students to interact with virtual objects augmented with the computing power. In this paper, we proposed a system specifying how TUI can be a better alternative in regular classroom teaching learning and explore various possibilities of TUI that can enhance the learning outcome with spontaneous learning zeal. The system also outlines the solution to various problems associated with quality learning in elementary classes. Investigative, design engrossed studies have shown that TUI's offer educational aids, due to the added haptic dimension, shared-space and improved approachability which could be used effectively in collective circumstances.
+ER  - 
+
+TY  - JOUR
+TI  - ARGUS: Visualization of AI-Assisted Task Guidance in AR
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 1313
+EP  - 1323
+AU  - S. Castelo
+AU  - J. Rulff
+AU  - E. McGowan
+AU  - B. Steers
+AU  - G. Wu
+AU  - S. Chen
+AU  - I. Roman
+AU  - R. Lopez
+AU  - E. Brewer
+AU  - C. Zhao
+AU  - J. Qian
+AU  - K. Cho
+AU  - H. He
+AU  - Q. Sun
+AU  - H. Vo
+AU  - J. Bello
+AU  - M. Krone
+AU  - C. Silva
+PY  - 2024
+KW  - Task analysis
+KW  - Data visualization
+KW  - Data models
+KW  - Headphones
+KW  - Real-time systems
+KW  - Streams
+KW  - Debugging
+KW  - Data Models
+KW  - Image and Video Data
+KW  - Temporal Data
+KW  - Application Motivated Visualization
+KW  - AR/VR/Immersive
+DO  - 10.1109/TVCG.2023.3327396
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 1
+SN  - 1941-0506
+VO  - 30
+VL  - 30
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Jan. 2024
+AB  - The concept of augmented reality (AR) assistants has captured the human imagination for decades, becoming a staple of modern science fiction. To pursue this goal, it is necessary to develop artificial intelligence (AI)-based methods that simultaneously perceive the 3D environment, reason about physical tasks, and model the performer, all in real-time. Within this framework, a wide variety of sensors are needed to generate data across different modalities, such as audio, video, depth, speech, and time-of-flight. The required sensors are typically part of the AR headset, providing performer sensing and interaction through visual, audio, and haptic feedback. AI assistants not only record the performer as they perform activities, but also require machine learning (ML) models to understand and assist the performer as they interact with the physical world. Therefore, developing such assistants is a challenging task. We propose ARGUS, a visual analytics system to support the development of intelligent AR assistants. Our system was designed as part of a multi-year-long collaboration between visualization researchers and ML and AR experts. This co-design process has led to advances in the visualization of ML in AR. Our system allows for online visualization of object, action, and step detection as well as offline analysis of previously recorded AR sessions. It visualizes not only the multimodal sensor data streams but also the output of the ML models. This allows developers to gain insights into the performer activities as well as the ML models, helping them troubleshoot, improve, and fine-tune the components of the AR assistant.
+ER  - 
+
+TY  - CONF
+TI  - Robotic system for single incision laparoscopic surgery
+T2  - IECON 2012 - 38th Annual Conference on IEEE Industrial Electronics Society
+SP  - 2774
+EP  - 2779
+AU  - I. Rivas-Blanco
+AU  - P. del Saz-Orozco
+AU  - I. García-Morales
+AU  - V. Muñoz
+PY  - 2012
+KW  - Robots
+KW  - Magnetic resonance imaging
+KW  - Surgery
+KW  - Computer crashes
+KW  - Reliability
+KW  - Wireless sensor networks
+DO  - 10.1109/IECON.2012.6389138
+JO  - IECON 2012 - 38th Annual Conference on IEEE Industrial Electronics Society
+IS  - 
+SN  - 1553-572X
+VO  - 
+VL  - 
+JA  - IECON 2012 - 38th Annual Conference on IEEE Industrial Electronics Society
+Y1  - 25-28 Oct. 2012
+AB  - This paper proposes a robotic system to assist and collaborate with surgeons in Single Incision Laparoscopic Surgery (SILS) operations. The system, aim at solving the main drawbacks of this kind of surgery, is composed of a miniature camera robot and a redundant robotic grasper. Positioning of both robots inside the patient's abdomen is done by means of magnetic control. External magnetic sources are placed at the end effector of two robotic arms, and permanent magnets are integrated in the robots. Camera robot is provided with three permanent magnets, so both position and orientation can be controlled. Sliding control, which is robust against perturbations and parameter uncertainties, is chosen. Robotic grasper's redundancy makes possible autonomously obstacle avoidance and increases its workspace. The haptic device is designed so as surgeons can handle the grasper as if it were a conventional tool. In order to this aim, augmented reality is used to simulate a traditional tool in the visual feedback system, in substitution of the robotic grasper. Besides the telemanipulation, requirements for autonomously functions to assist surgeons in the specific tasks of suturing are discussed.
+ER  - 
+
+TY  - CONF
+TI  - New medical technologies of the future
+T2  - The International Conference on Digital Technologies 2013
+SP  - 84
+EP  - 89
+AU  - G. Graschew
+AU  - S. Rakowsky
+AU  - T. A. Roelofs
+AU  - P. M. Schlag
+PY  - 2013
+KW  - Medical diagnostic imaging
+KW  - Surgery
+KW  - Real-time systems
+KW  - Hospitals
+KW  - Streaming media
+KW  - Telemedicine
+KW  - satellite-based network
+KW  - virtual hospital
+KW  - medical workplace of the future
+DO  - 10.1109/DT.2013.6566293
+JO  - The International Conference on Digital Technologies 2013
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - The International Conference on Digital Technologies 2013
+Y1  - 29-31 May 2013
+AB  - Over the last fifteen years OP 2000 has implemented various satellite-based networks for telemedicine (GALENOS, DELTASS, MEDASHIP, EMISPHER) using the high-end interactive video communication system WinVicos for telemedical applications like teleconsultation and second opinion at a moderate transmission bandwidth of 0.5-1 Mbps. This use of modern Information and Communication Technologies (ICT) as enabling tools for healthcare services (eHealth) has introduced new ways of creating ubiquitous access to high-level medical care for all, anytime and anywhere (uHealth). A virtual combination of applications serves as the basic concept for the development of a Virtual Hospital (VH). Analysis of the demands of the different user groups in (tele)medical collaboration has shown the need for real integration of the various technology platforms and medical services supporting the creation of ubiquitous virtual organisations for healthcare. OP 2000 has applied trend-setting technologies (high-resolution (HD) and stereoscopic visualisation; interactive real-time video communication with remote control of medical devices; virtual reality simulations with tracked visualisation and haptic feedback; optimised user interfaces, etc.) especially for surgical peri-operative research. The medical workplace 2020 represents a high-tech system configuration linking application-specific modules providing the users with all required information at the right time and place and most important in optimally processed form.
+ER  - 
+
+TY  - CONF
+TI  - High quality-oriented product cooperate design in virtual environments
+T2  - The 2010 14th International Conference on Computer Supported Cooperative Work in Design
+SP  - II
+EP  - II
+AU  - J. Tan
+PY  - 2010
+DO  - 10.1109/CSCWD.2010.5472014
+JO  - The 2010 14th International Conference on Computer Supported Cooperative Work in Design
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - The 2010 14th International Conference on Computer Supported Cooperative Work in Design
+Y1  - 14-16 April 2010
+AB  - The integration of virtual reality and computer-aided design technologies is a revolution in the history of design. Virtual environments provide more information and feedback to designers than traditional desktop systems. Such information and feedback include immersive and stereoscopic visual information, haptic or tactile feedback, and auditory feedback. The multimodal information is in general rather intuitive and inspiring to designers, resulting in globally enhanced insights, creativity and productivity. Moreover, multimodal virtual reality technology excels at the visualization of complex scene and information, which is particularly difficult in desktop systems. In this talk, we present our recent research achievements on: (1) online synthesis of multi-channel visual signals, and the construction of multimodal virtual environments; (2) fusion of graphic, image and video signals in augmented reality environments; (3) synthesis of visual and haptic signals in virtual assembly applications; (4) virtual design and simulation in multimodal virtual environments, including surface deformation based on hand gesture interface, virtual assembly with haptic interactions, virtual maintenance in augmented reality environments; (5) demonstrations and examples.
+ER  - 
+
+TY  - JOUR
+TI  - HAVE 2014 - 2014 IEEE International Symposium on Haptic, Audio and Visual Environments and Games
+T2  - IEEE Instrumentation & Measurement Magazine
+SP  - 56
+EP  - 56
+PY  - 2014
+DO  - 10.1109/MIM.2014.6782998
+JO  - IEEE Instrumentation & Measurement Magazine
+IS  - 1
+SN  - 1941-0123
+VO  - 17
+VL  - 17
+JA  - IEEE Instrumentation & Measurement Magazine
+Y1  - February 2014
+AB  - Papers are being solicited on all aspects of multimodal haptic audio visual environment technologies and related haptic applications, including Haptic sensors and renderers. Hapto-audio-visual systems and applications, Hapto-surgical/medical systems, Haptic compression and prediction, multimodal perception and psychophysics, Haptic game interfaces, tele-haptics and tele-operation, augumented and virtualized reality, collaborative virtual environments, human-computer interaction in virtual environments, multi-sensor data fusion, object modeling, and soft computing techniques.
+ER  - 
+
+TY  - CONF
+TI  - Welcome message from the chair
+T2  - 2015 IEEE International Symposium on Haptic, Audio and Visual Environments and Games (HAVE)
+SP  - 1
+EP  - 2
+PY  - 2015
+DO  - 10.1109/HAVE.2015.7359442
+JO  - 2015 IEEE International Symposium on Haptic, Audio and Visual Environments and Games (HAVE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Symposium on Haptic, Audio and Visual Environments and Games (HAVE)
+Y1  - 11-11 Oct. 2015
+AB  - We are very pleased to welcome you to the 14th edition of the IEEE IEEE International Symposium on Haptic Audio- Visual Environments and Games (HAVE), in Ottawa, Ontario, the National Capital of Canada. Similar to the previous editions, HAVE 2015 is a truly international event bringing together members of the Instrumentation and Measurement Society and the Haptics community from Canada, and the world. It promises to be an exciting and comprehensive symposium covering aspects of multimodal haptics, audio/visual virtual reality technologies, augments reality and telepresence, distributed collaborative environments and gaming, and all their related applications.
+ER  - 
+
+TY  - CONF
+TI  - Wip chairs
+T2  - 2013 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)
+SP  - 1
+EP  - 1
+AU  - S. Diverdi
+AU  - J. Park
+PY  - 2013
+DO  - 10.1109/ISMAR.2013.6671753
+JO  - 2013 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)
+Y1  - 1-4 Oct. 2013
+AB  - New this year to ISMAR 2013, we are proud to present the Works In Progress (WIP) Program. Augmented Reality is rapidly growing into many new areas, so the WIP is a platform to present the field's latest, emerging results to the larger community before the work has reached its final form. This year, the program includes bread and butter AR technologies such as remote collaboration interfaces, fiducial marker design, and perceptual studies, to even loftier applications like AR interactions aboard the International Space Station. Passive haptics, bare-handed gesture interfaces, and realistic rendering round out the offerings. So come to the WIP sessions to hear about active AR research and find the spark of inspiration!
+ER  - 
+
+TY  - CONF
+TI  - A Collaborative Virtual Reality Escape Room with Passive Haptics
+T2  - 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+SP  - 1413
+EP  - 1414
+AU  - A. Hanus
+AU  - M. Hoover
+AU  - A. Lim
+AU  - J. Miller
+PY  - 2019
+KW  - Virtual reality. Passive haptics. Mixed reality
+KW  - Human-centered computing
+KW  - Human computer interaction (HCI)
+KW  - Interaction paradigms
+KW  - Virtual reality
+KW  - Interaction techniques
+DO  - 10.1109/VR.2019.8798241
+JO  - 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+IS  - 
+SN  - 2642-5254
+VO  - 
+VL  - 
+JA  - 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
+Y1  - 23-27 March 2019
+AB  - Escape rooms have recently become a popular way to socialize and problem solve in an immersive environment. However, it can be difficult and expensive to create elaborate escape rooms with realistic props. Virtual reality (VR) technology allows developers to create and customize escape rooms more easily. However, to truly make the VR escape room immersive, physical and cooperative interactions are necessary. In this paper, the authors propose and demonstrate a two-player VR escape room developed for the HTC Vive. Physical interactions were made possible by using passive haptics in the form of simple props tracked using HTC Vive trackers and controllers. Additionally, the HTC Vives were networked, and players hands were tracked using the Leap Motion to provide head and hand position cues to teammates.
+ER  - 
+
+TY  - CONF
+TI  - Proceedings IEEE Virtual Reality 2003
+T2  - IEEE Virtual Reality, 2003. Proceedings.
+SP  - 1
+EP  - 
+PY  - 2003
+DO  - 10.1109/VR.2003.1191113
+JO  - IEEE Virtual Reality, 2003. Proceedings.
+IS  - 
+SN  - 1087-8270
+VO  - 
+VL  - 
+JA  - IEEE Virtual Reality, 2003. Proceedings.
+Y1  - 22-26 March 2003
+AB  - The following topics are dealt with: clusters and system design for virtual reality; large display systems and augmented reality; applications; VR in medicine; human performance in VR; multi-user virtual environments and collaboration; tracking and user interfaces; haptic devices and object manipulation.
+ER  - 
+
+TY  - CONF
+TI  - Proceedins of the 2006 IEEE International Workshop on Haptic Audio Visual Environments and Their Applications - HAVE 2006
+T2  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+SP  - c1
+EP  - c1
+PY  - 2006
+DO  - 10.1109/HAVE.2006.283546
+JO  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 IEEE International Workshop on Haptic Audio Visual Environments and their Applications (HAVE 2006)
+Y1  - 4-5 Nov. 2006
+AB  - The following topics are dealt with: haptic audio visual environments and applications; haptic, audio & visual sensors and displays; multimodal perception and psychophysics; collaborative distributed virtual environments and applications; augmented and virtualized reality; object modeling and human-computer interaction
+ER  - 
+
+TY  - CONF
+TI  - Table of Contents
+T2  - 2011 International Symposium on Ubiquitous Virtual Reality
+SP  - v
+EP  - vi
+PY  - 2011
+DO  - 10.1109/ISUVR.2011.10
+JO  - 2011 International Symposium on Ubiquitous Virtual Reality
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 International Symposium on Ubiquitous Virtual Reality
+Y1  - 1-3 July 2011
+AB  - Invited Papers Phone Guide: Adaptive Image Classification for Mobile Museum Guidance Oliver Bimber and Erich Bruns Computer Vision for 3DTV and Augmented Reality Hideo Saito Session 1: Connecting REAL and VIRTUAL Conceptualizing u-Content Ecosystem in Ubiquitous VR Environments Yoosoo Oh, Taejin Ha, Changgu Kang and Woontack Woo Estimation of Illuminants for Plausible Lighting in Augmented Reality Seokjun Lee, and Soon Ki Jung Real Time Vertex Based Deformation in Training Simulator Irshad Ahmad and Suziah Bt Sulaiman On Visual Artifacts of Physics Simulation in Augmented Reality Environment Sinyoung Kim, Yeonjoon Kim and Sung-Hee Lee Session 2: Connecting PEOPLE Collaboration between Tabletop and Mobile Device Jooyoung Lee, Ralf Doerner, Johannes Luderschmidt, HyungSeok Kim and Jee-In Kim Time-Efficient Data Congregation Protocols on Wireless Sensor Network A.K.M. Muzahidul Islam, Koichi Wada and Wei Chen mARGraphy: Mobile AR-based Dynamic Information Visualization Ahyoung Choi, Youngmin Park, Youngkyoon Jang, Changgu Kang, and Woontack Woo Barcode-Assisted Planar Object Tracking Method for Mobile Augmented Reality Nohyoung Park, Wonwoo Lee and Woontack Woo Session 3: Connecting HUMAN and COMPUTER ARWand: Phone-based 3D Object Manipulation in Augmented Reality Environment Taejin Ha and Woontack Woo Cartoon-like Stylization for Character Animation Ji-yong Kwon and In-Kwon Lee Effect of Active and Passive Haptic Sensory Information on Memory for 2D Sequential Selection Task Hojin Lee Gabjong Han In Lee Sunghoon Yim Kyungpyo Hong Seungmoon Choi Graphical Menus using Mobile Phone for Wearable AR Systems Hyeongmook Lee, Woontack Woo and Dongchul Kim
+ER  - 
+
+TY  - CONF
+TI  - [Front matter]
+T2  - 2008 IEEE International Workshop on Haptic Audio visual Environments and Games
+SP  - i
+EP  - iii
+PY  - 2008
+DO  - 10.1109/HAVE.2008.4685284
+JO  - 2008 IEEE International Workshop on Haptic Audio visual Environments and Games
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 IEEE International Workshop on Haptic Audio visual Environments and Games
+Y1  - 18-19 Oct. 2008
+AB  - The following topics are dealt with: haptic audio visual environment; games; surgical applications; medical applications; distributed collaborative virtual environment; telepresence; augmented reality; human-computer interaction; rendering; motion modeling; shape modeling and object modeling.
+ER  - 
+
+TY  - CONF
+TI  - [Front cover]
+T2  - 2006 IEEE Symposium on Virtual Environments, Human-Computer Interfaces and Measurement Systems
+SP  - C1
+EP  - C1
+PY  - 2006
+DO  - 10.1109/VECIMS.2006.250773
+JO  - 2006 IEEE Symposium on Virtual Environments, Human-Computer Interfaces and Measurement Systems
+IS  - 
+SN  - 1944-9410
+VO  - 
+VL  - 
+JA  - 2006 IEEE Symposium on Virtual Environments, Human-Computer Interfaces and Measurement Systems
+Y1  - 10-12 July 2006
+AB  - The following topics are dealt with: collaborative distributed virtual environments; haptic interfaces; human computer interaction; soft computing; augmented reality; and virtualized reality
+ER  - 
+
+TY  - CONF
+TI  - [Front cover]
+T2  - 2007 IEEE International Workshop on Haptic, Audio and Visual Environments and Games
+SP  - C1
+EP  - C1
+PY  - 2007
+DO  - 10.1109/HAVE.2007.4371573
+JO  - 2007 IEEE International Workshop on Haptic, Audio and Visual Environments and Games
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 IEEE International Workshop on Haptic, Audio and Visual Environments and Games
+Y1  - 12-14 Oct. 2007
+AB  - The following topics are discussed: haptic, audio and visual environments; games; multimodal perception; human-computer interaction; haptic, audio and visual sensors; collaborative distributed virtual environments and applications; and object modeling.
+ER  - 
+
+TY  - CONF
+TI  - Table of contents
+T2  - 2009 IEEE Virtual Reality Conference
+SP  - iii
+EP  - viii
+PY  - 2009
+DO  - 10.1109/VR.2009.4810976
+JO  - 2009 IEEE Virtual Reality Conference
+IS  - 
+SN  - 2375-5334
+VO  - 
+VL  - 
+JA  - 2009 IEEE Virtual Reality Conference
+Y1  - 14-18 March 2009
+AB  - The following topics are dealt with: virtual reality; haptics; augmented reality; collaboration; avatar; eye gaze; offactory display; clinical and medical application; graphics; modelling; presence; and perception.
+ER  - 
+
+TY  - CONF
+TI  - Table of contents
+T2  - 2012 14th Symposium on Virtual and Augmented Reality
+SP  - v
+EP  - viii
+PY  - 2012
+DO  - 10.1109/SVR.2012.41
+JO  - 2012 14th Symposium on Virtual and Augmented Reality
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 14th Symposium on Virtual and Augmented Reality
+Y1  - 28-31 May 2012
+AB  - The following topics are dealt with: immersive visualization; modeling; Web; augmented reality; diminished reality; collaboration; medicine; rehabilitation; haptics and tracking.
+ER  - 
+
+TY  - CONF
+TI  - [Title page i]
+T2  - 2011 International Conference on Virtual Reality and Visualization
+SP  - i
+EP  - i
+PY  - 2011
+DO  - 10.1109/ICVRV.2011.1
+JO  - 2011 International Conference on Virtual Reality and Visualization
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 International Conference on Virtual Reality and Visualization
+Y1  - 4-5 Nov. 2011
+AB  - The following topics are dealt with: adaptive SIFT matching; flexible painting-based volume classification; fundamental matrix estimation algorithm; visual object contour tracking;information assisted visualization; marine main diesel propulsion remote control; deformation-aided virtual assembly system; motion data retrieval; very large motion databases; CUDA-based volume ray-casting; freehand tracking; multi-view stereo reconstruction; collaborative augmented reality; adaptive sampling based parallel volume rendering algorithm; Internet video search; view-dependent interactive visualization methods; smart compression scheme; image texture feature extraction method; radar network detection ability; tele-rehabilitation system; haptic rendering; fuzzy feature visualization; robust image registration algorithm and video semantic concept detection.
+ER  - 
+
+TY  - CONF
+TI  - [Front cover]
+T2  - 2015 7th Computer Science and Electronic Engineering Conference (CEEC)
+SP  - 1
+EP  - 1
+PY  - 2015
+DO  - 10.1109/CEEC.2015.7332685
+JO  - 2015 7th Computer Science and Electronic Engineering Conference (CEEC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 7th Computer Science and Electronic Engineering Conference (CEEC)
+Y1  - 24-25 Sept. 2015
+AB  - The following topics are dealt with: electronic engineering; computer science; text analysis; document analysis; LTE; cellular automata; augmented reality; student learning; brain-computer interfaces; wireless networks; haptic rendering; cognition; WLAN; video streaming; collaborative robots; video games; and VANET.
+ER  - 
+
+

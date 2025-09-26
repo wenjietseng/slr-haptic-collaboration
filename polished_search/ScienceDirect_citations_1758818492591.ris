@@ -1,0 +1,1236 @@
+TY  - JOUR
+T1  - HeXA: Haptic-enhanced eXtended reality framework for material-informed Architectural design
+AU  - Senk, Valentin
+AU  - Ghazanfari, Mohammad
+AU  - Rasoulzadeh, Shervin
+AU  - Vasylevska, Khrystyna
+AU  - Kovacs, Balint Istvan
+AU  - Mortezapoor, Soroosh
+AU  - Vonach, Emanuel
+AU  - Kovacic, Iva
+AU  - Füssl, Josef
+AU  - Kaufmann, Hannes
+AU  - Königsberger, Markus
+JO  - Journal of Building Engineering
+VL  - 108
+SP  - 112707
+PY  - 2025
+DA  - 2025/08/15/
+SN  - 2352-7102
+DO  - https://doi.org/10.1016/j.jobe.2025.112707
+UR  - https://www.sciencedirect.com/science/article/pii/S2352710225009441
+KW  - Early-design stage
+KW  - Material-informed
+KW  - Sketch-based modeling
+KW  - Extended reality
+KW  - Haptic feedback
+AB  - Traditional architectural design processes are caught in sequential and isolated planning workflows, starting with pen-and-paper sketching, digitizing, visualizing for stakeholders, and refining. Only after the basic design has been established, structural engineers get involved and modify the structure, such that the design withstands all external loads. This segregated approach is driven by knowledge barriers associated with structural analysis and by lengthy feedback loops regarding structural design decisions involving finite element simulations. This paper presents research on a novel collaborative and digital design framework, labeled as HeXA, that lowers this knowledge barrier and enables all stakeholders to actively participate in structural design decisions. HeXA couples architecture, structural and material mechanics, computer science and graphics, as well as robotics in six modules: (1) a sketching interface for architectural design, (2) a geometric modeling module that translates the sketch to finite element meshes, (3) a material modeling module that predicts the mechanical properties of sustainable bio-composites, (4) a structural analysis module that assesses the mechanical performance using finite element simulations, and (5) an extended reality environment’s immersive visualization that is enhanced by (6) structural haptic feedback provided by a collaborative robot. This allows users to touch and push the envisioned structure in a virtual environment and experience realistic structural deformations provided by the robot and its arm in real-time while resulting stress fields are mapped onto the virtual structure. This way, architectural and structural design processes – particularly at the crucial early design stage – become collaborative, interactive, accessible, and responsive as demonstrated in the paper based on two use cases in theater stage design and building architecture.
+ER  - 
+
+TY  - JOUR
+T1  - Semi-Automated Control of AFM-based Micromanipulation using Potential Fields
+AU  - Ladjal, Hamid
+AU  - Ferreira, Antoine
+JO  - IFAC Proceedings Volumes
+VL  - 41
+IS  - 2
+SP  - 13731
+EP  - 13736
+PY  - 2008
+DA  - 2008/01/01/
+T2  - 17th IFAC World Congress
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20080706-5-KR-1001.02325
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667016411912
+AB  - This paper proposes a truly interactive virtual environment (VE) system for 2-D assembly tasks at the microscale. It is based on the application of virtual potential fields as a control aid for performing safe and reliable path planning strategies. The planner covers a whole range of problems due to microscale effects in object assignment, obstacle detection and avoidance, path trajectory finding and sequencing. We investigated various paradigms for enabling the human operator and the automatic motion planner to cooperatively solve a motion planning task through the use of virtual potential fields. Communication between the operator and the planner is made through haptic/vision/sound modalities. First, we describe algorithms based on optimization theory and Voronoi graph construction taking into account the microscale effects. As automatic motion planners fail due to the difficulty of discovering critical configurations, we propose cooperation paradigms with operator skills in order to solve motion planning strategies. Then, potential fields are being used as a tool to generate velocity commands from an automatic path planner as well as allowing the human to interact. Finally, the ideas presented here are supported by experiments for efficient pushing-based manipulation constructing 2-D microparticle patterns.
+ER  - 
+
+TY  - JOUR
+T1  - DISTRIBUTED WORKSPACES
+AU  - Erbe, Heinz-H.
+JO  - IFAC Proceedings Volumes
+VL  - 39
+IS  - 3
+SP  - 255
+EP  - 260
+PY  - 2006
+DA  - 2006/01/01/
+T2  - 12th IFAC Symposium on Information Control Problems in Manufacturing
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20060517-3-FR-2903.00142
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667015358626
+KW  - e-/global-manufacturing
+KW  - controlling remote collaboration
+KW  - tele-presence
+KW  - mixed reality
+KW  - bond-graphs
+KW  - hyper-bonds
+AB  - Collaborative work over remote sites is a challenge to developers of information- and communication technology as well as to the involved workforce. New developments on cost-effective connections are providing not only vision and auditory perception but also haptic perception. Research fields for improving remote collaboration are discussed. Social aspects as new requirements on the employees of networked and extended enterprises are considered.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing Human-AI perceptual alignment through visual-haptic feedback system for autonomous drones
+AU  - Wu, Jiahao
+AU  - Sun, Bowen
+AU  - You, Hengxu
+AU  - Du, Jing
+JO  - International Journal of Industrial Ergonomics
+VL  - 109
+SP  - 103780
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 0169-8141
+DO  - https://doi.org/10.1016/j.ergon.2025.103780
+UR  - https://www.sciencedirect.com/science/article/pii/S0169814125000861
+KW  - Autonomous drones
+KW  - Human machine interaction
+KW  - Haptic feedback
+KW  - Virtual reality
+KW  - Drone navigation
+KW  - Eye tracking
+AB  - Artificial Intelligence (AI) has emerged as an effective agent for controlling autonomous drones in navigation and target search tasks across various applications with minimal human intervention. Despite their advantages, significant challenges exist in aligning human operators' perceptual understanding with autonomous drone AI's assessment of environmental changes, particularly in dynamic and complex urban settings. This study addresses this issue by proposing a human-machine sensory sharing system that integrates visual and haptic feedback to enhance situational awareness, reduce cognitive load, and improve trust in the AI agent that controls the drones. By bridging the perceptual gap between humans and AI, our approach fosters a more cohesive and responsive interaction, enabling operators to make informed decisions in real-time. Through a human-subject experiment (N = 30) in a simulated urban environment, participants assessed environmental changes and adjusted drone AI parameters based on multimodal sensory feedback. Eye-tracking data were collected to evaluate cognitive load and engagement under different feedback conditions. Results show that combining visual and haptic feedback significantly enhances user performance, satisfaction, and decision-making speed, reducing perceptual misalignment between humans and AI. Participants using multimodal feedback demonstrated faster response times and higher environmental assessment accuracy than single-modality feedback. This research advances the design of intuitive human-drone interaction systems, emphasizing the role of multimodal sensory integration and physiological monitoring in improving human-machine collaboration. These findings have implications for applications in logistics, search and rescue, surveillance, and environmental monitoring, where operator engagement and performance are critical.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of an exoskeleton robotic system into a digital twin for industrial manufacturing applications
+AU  - Park, Hoonmin
+AU  - Shin, Minchul
+AU  - Choi, Gyubok
+AU  - Sim, Yuseop
+AU  - Lee, Jiho
+AU  - Yun, Huitaek
+AU  - Jun, Martin Byung-Guk
+AU  - Kim, Gyuman
+AU  - Jeong, Younghun
+AU  - Yi, Hak
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 89
+SP  - 102746
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2024.102746
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584524000322
+KW  - Exoskeleton
+KW  - Digital twin
+KW  - Collaborative robot
+KW  - Human-machine interface
+KW  - Human–robot collaboration
+KW  - Intelligent manufacturing
+AB  - Industry 4.0 has underscored the importance of human–robot collaboration (HRC), necessitating an efficient integration of human workers and robots to achieve high-productivity manufacturing. Traditional HRC-related teaching operations rely on intuitive tools, such as a teach pendant, but are effort-intensive and require personnel with specialized skills, particularly those who use collaborative robots in manufacturing. Thus, end-effector haptic devices that offer real-time tactile feedback and easy manipulation are being explored to address these issues. However, such devices have limitations in capturing the experiential movement of users and user-friendly haptic devices that are intuitive and convenient to operate are required. Recently, the integration of HRC and digital twins for human-involved manufacturing processes is being studied. Digital twin technology is used to seamlessly connect the physical and virtual domains using virtual models for monitoring the production process and enhancing the accuracy of operational process reconfiguration. However, most teaching devices that are interfaced with digital twins in manufacturing process still demand personnel with specialized training for their operation. To address these challenges, a novel framework is proposed herein that links an exoskeleton-type robotic system with the digital twin of a collaborative robot in manufacturing processes, effectively expediting robotic task instructions. The interactions between human users and digital twins, and that between digital twins and a collaborative robot, considerably enhance our understanding of human involvement in manufacturing processes and the execution of tasks by collaborative robots. This framework comprises three subsystems: a human operator outfitted with an exoskeleton-type robot and a virtual reality (VR) device, a digital twin, and a collaborative robot. The human operator interacts with the virtual robot within the digital twin via the VR device and exoskeleton robot, whereas the collaborative robot executes the given task and transmits the measured sensor information into the digital twin. Robot tracking in the experiment and usability study of a pick-and-place process performed on the proposed framework indicates that the proposed system enhances the ease of learning and intuitiveness to human operators than the traditional teaching methods in manufacturing processes.
+ER  - 
+
+TY  - JOUR
+T1  - Virtual Cerebral Aneurysm Clipping with Real-Time Haptic Force Feedback in Neurosurgical Education
+AU  - Gmeiner, Matthias
+AU  - Dirnberger, Johannes
+AU  - Fenz, Wolfgang
+AU  - Gollwitzer, Maria
+AU  - Wurm, Gabriele
+AU  - Trenkler, Johannes
+AU  - Gruber, Andreas
+JO  - World Neurosurgery
+VL  - 112
+SP  - e313
+EP  - e323
+PY  - 2018
+DA  - 2018/04/01/
+SN  - 1878-8750
+DO  - https://doi.org/10.1016/j.wneu.2018.01.042
+UR  - https://www.sciencedirect.com/science/article/pii/S1878875018300822
+KW  - Cerebral aneurysm
+KW  - Clipping
+KW  - Education
+KW  - Simulation
+KW  - Virtual reality
+AB  - Objective
+Realistic, safe, and efficient modalities for simulation-based training are highly warranted to enhance the quality of surgical education, and they should be incorporated in resident training. The aim of this study was to develop a patient-specific virtual cerebral aneurysm-clipping simulator with haptic force feedback and real-time deformation of the aneurysm and vessels.
+Methods
+A prototype simulator was developed from 2012 to 2016. Evaluation of virtual clipping by blood flow simulation was integrated in this software, and the prototype was evaluated by 18 neurosurgeons. In 4 patients with different medial cerebral artery aneurysms, virtual clipping was performed after real-life surgery, and surgical results were compared regarding clip application, surgical trajectory, and blood flow.
+Results
+After head positioning and craniotomy, bimanual virtual aneurysm clipping with an original forceps was performed. Blood flow simulation demonstrated residual aneurysm filling or branch stenosis. The simulator improved anatomic understanding for 89% of neurosurgeons. Simulation of head positioning and craniotomy was considered realistic by 89% and 94% of users, respectively. Most participants agreed that this simulator should be integrated into neurosurgical education (94%). Our illustrative cases demonstrated that virtual aneurysm surgery was possible using the same trajectory as in real-life cases. Both virtual clipping and blood flow simulation were realistic in broad-based but not calcified aneurysms. Virtual clipping of a calcified aneurysm could be performed using the same surgical trajectory, but not the same clip type.
+Conclusions
+We have successfully developed a virtual aneurysm-clipping simulator. Next, we will prospectively evaluate this device for surgical procedure planning and education.
+ER  - 
+
+TY  - JOUR
+T1  - Auditory feedback in haptic collaborative interfaces
+AU  - Huang, Ying Ying
+AU  - Moll, Jonas
+AU  - Sallnäs, Eva-Lotta
+AU  - Sundblad, Yngve
+JO  - International Journal of Human-Computer Studies
+VL  - 70
+IS  - 4
+SP  - 257
+EP  - 270
+PY  - 2012
+DA  - 2012/04/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2011.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581911001583
+KW  - Haptic
+KW  - Force feedback
+KW  - Virtual environments
+KW  - Multimodal interface
+KW  - Collaboration
+KW  - Awareness
+KW  - Common ground
+AB  - The combined effect of haptic and auditory feedback in shared interfaces on the cooperation between visually impaired and sighted persons is under-investigated. A central challenge for cooperating group members lies in obtaining a common understanding of the elements of the workspace and maintaining awareness of the other members' actions, as well as one's own, during the group work process. The aim of the experimental study presented here was to investigate if adding audio cues in a haptic and visual interface makes collaboration between a sighted and a blindfolded person more efficient. Results showed that task performance was significantly faster in the audio, haptic and visual feedback condition compared to the haptic and visual feedback condition. One special focus was also to study how participants utilize the auditory and haptic force feedback in order to obtain a common understanding of the workspace and to maintain an awareness of the group members' actions. Results from a qualitative analysis showed that the auditory and haptic feedback was used in a number of important ways to support the group members' action awareness and in the participants' grounding process.
+ER  - 
+
+TY  - JOUR
+T1  - Interactive path planning for haptic assistance in assembly tasks
+AU  - Ladeveze, N.
+AU  - Fourquet, Jean-Yves
+AU  - Puel, Bernard
+JO  - Computers & Graphics
+VL  - 34
+IS  - 1
+SP  - 17
+EP  - 25
+PY  - 2010
+DA  - 2010/02/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/j.cag.2009.10.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849309001356
+KW  - Virtual reality
+KW  - Motion planning
+KW  - Octal tree
+KW  - A star
+KW  - Rapidly exploring deterministic tree
+KW  - Haptics
+AB  - This paper describes a global interactive framework including fast motion planning and a real-time guiding force for 3D CAD part assembly or disassembly tasks. To begin with, a collaborative architecture including the user and the planner is described. Then, for real-time purposes, a motion planner divided into two steps is presented: firstly, a preliminary workspace discretization is carried out with no time limitations at the beginning of the simulation, secondly, using this computed data, a second algorithm tries to find a collision-free path in real-time. Once the path has been found, haptic artificial guidance on the path is provided to the user. The user can subsequently influence the planner by following—or choosing not to follow—the path and automatically order new path research. The performance of this haptic assistance is measured on tests based on an ALSTOM power component assembly simulation.
+ER  - 
+
+TY  - JOUR
+T1  - Visual and haptic collaborative tele-presence
+AU  - Ansar, Adnan
+AU  - Rodrigues, Denilson
+AU  - Desai, Jaydev P.
+AU  - Daniilidis, Kostas
+AU  - Kumar, Vijay
+AU  - Campos, Mario F.M.
+JO  - Computers & Graphics
+VL  - 25
+IS  - 5
+SP  - 789
+EP  - 798
+PY  - 2001
+DA  - 2001/10/01/
+T2  - Mixed realities - beyond conventions
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(01)00121-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849301001212
+KW  - Augmented reality
+KW  - Haptics
+KW  - Tele-presence
+KW  - Visual registration
+KW  - Visual tracking
+AB  - The core of a successful sense of presence is a visually, aurally, and haptically compelling experience. In this paper, we introduce the integration of vision and haptics for the purposes of remote collaboration. A remote station acquires a 3D-model of an object of interest which is transmitted to a local station. A user in the local station manipulates a virtual and the remote object as if he/she is haptically and visually at the remote station. This tele-presence feeling is achieved by visually registering the head-mounted display of the local user to the remote world and by dynamically registering the local object both visually and haptically with respect to the remote world. This can be achieved by adequate modeling and feedforward compensation including gravity compensation for the robotic manipulator with which the operator interacts. We present multiple scenarios where such a capability will be useful. One is remote design where a user tests a remotely designed docking station by inserting a virtual laptop into a model of the 3D docking station transmitted from a remote site. Medical robotics provides another possible scenario in which a resident is given surgical training to perform a virtual laparoscopy on a 3D exterior model of a patient, including tomographic registration of anatomical structures. We present results from numerous experiments from both the visual and haptic aspects as well as in integrated form.
+ER  - 
+
+TY  - JOUR
+T1  - Developing a needle guidance virtual environment with patient-specific data and force feedback
+AU  - Vidal, Franck P.
+AU  - Chalmers, Nicholas
+AU  - Gould, Derek A.
+AU  - Healey, Andrew E.
+AU  - John, Nigel W.
+JO  - International Congress Series
+VL  - 1281
+SP  - 418
+EP  - 423
+PY  - 2005
+DA  - 2005/05/01/
+T2  - CARS 2005:  Computer Assisted Radiology and Surgery
+SN  - 0531-5131
+DO  - https://doi.org/10.1016/j.ics.2005.03.200
+UR  - https://www.sciencedirect.com/science/article/pii/S0531513105004589
+KW  - Interventional radiology
+KW  - Virtual environments
+KW  - Needle puncture
+KW  - Haptics
+AB  - We present a simulator for guided needle puncture procedures. Our aim is to provide an effective training tool for students in interventional radiology (IR) using actual patient data and force feedback within an immersive virtual environment (VE). Training of the visual and motor skills required in IR is an apprenticeship which still consists of close supervision using the model: (i) see one, (ii) do one, and (iii) teach one. Training in patients not only has discomfort associated with it, but provides limited access to training scenarios, and makes it difficult to train in a time efficient manner. Currently, the majority of commercial products implementing a medical VE still focus on laparoscopy where eye–hand coordination and sensation are key issues. IR procedures, however, are far more reliant on the sense of touch. Needle guidance using ultrasound or computed tomography (CT) images is also widely used. Both of these are areas that have not been fully addressed by other medical VEs. This paper provides details of how we are developing an effective needle guidance simulator. The project is a multi-disciplinary collaboration involving practising interventional radiologists and computer scientists.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 13 - The metaverse beyond the hype: Interdisciplinary perspectives on applications, tools, techniques, opportunities, and challenges of the metaverse
+AU  - Khan, Yusera Farooq
+AU  - Mir, Bilal
+AU  - koundal, Deepika
+A2  - Koundal, Deepika
+A2  - Kumar, Naveen
+BT  - Exploring the Metaverse
+PB  - Academic Press
+SP  - 213
+EP  - 223
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 978-0-443-24132-1
+DO  - https://doi.org/10.1016/B978-0-443-24132-1.00013-2
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443241321000132
+KW  - Artificial intelligence
+KW  - Augmented reality
+KW  - Edge computing
+KW  - Metaverse
+KW  - Virtual reality
+AB  - The concept of the metaverse has surged to the forefront of technological discourse, fuelled by both visionary promises and speculative hype. This chapter aims explores the metaverse in depth, delving beneath the superficial attention to provide a multivariate analysis from various interdisciplinary perspectives. The future of the metaverse is intricately explored, emphasising the applications, tools, approaches, possibilities, and difficulties that characterise its trajectory. The chapter highlights the revolutionary effects of the metaverse in areas like entertainment, education, business, and social interaction by conducting a methodical dissection of its possible uses. It investigates the central role immersive experiences, augmented reality, virtual collaboration, and decentralised technologies play in redefining user engagement and interaction paradigms. Furthermore, the chapter reveals the intricate tools and techniques that serve as the foundation for the evolution of the metaverse. It investigates 3D modelling, spatial computation, haptic feedback systems, artificial intelligence-driven simulations, and other technological enablers that support the creation and maintenance of the metaverse ecosystem. The chapter dives deep into the prospects that the metaverse offers, such as different ways to express imaginative abilities, and better digital experiences. However, these opportunities are accompanied with a tangle of difficulties. The technological challenges of interoperability, scalability, and cross-platform synchronisation are analysed alongside ethical concerns such as data protection, identity preservation, and digital ownership. Through an interdisciplinary view, this book chapter equips a introductory outline for evaluating the potential, complexities, and implications of the imminent incorporation of the metaverse into our digital landscape by navigating its multifaceted dimensions.
+ER  - 
+
+TY  - JOUR
+T1  - Haptic Shared Control for Human-Robot Collaboration: A Game-Theoretical Approach
+AU  - Musić, Selma
+AU  - Hirche, Sandra
+JO  - IFAC-PapersOnLine
+VL  - 53
+IS  - 2
+SP  - 10216
+EP  - 10222
+PY  - 2020
+DA  - 2020/01/01/
+T2  - 21st IFAC World Congress
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2020.12.2751
+UR  - https://www.sciencedirect.com/science/article/pii/S240589632033514X
+KW  - Human-robot interaction
+KW  - haptic shared control
+KW  - dynamic game theory
+KW  - Nash equilibrium
+AB  - Complementing human and robot capabilities is essential for many tasks, e.g. rehabilitation and collaborative manufacturing. However, it is still not clear how control between humans and robots should be shared in order to ensure efficient task execution and intuitive interaction. Game theory seems as a promising mathematical framework that allows: i) posing this challenge as a dynamic negotiation (game) among human and robot (players) and ii) solving it to obtain optimal solution. In this work, we propose a differential game-theoretic shared control approach for human-robot haptic collaboration with Nash equilibrium optimal solution. We validate the proposed approach experimentally in a scenario where human is physically coupled with a haptic device and interacts with a virtual reality to perform a trajectory tracking task.
+ER  - 
+
+TY  - JOUR
+T1  - Cut and Suture Support on Volumetric Models in the CyberMed Framework
+AU  - Cunha, Ícaro L.L.
+AU  - Xia, Ping Jung
+AU  - Machado, Liliane S.
+AU  - Restivo, Teresa
+AU  - Moraes, Ronei M.
+AU  - Lopes, Antonio M.
+JO  - Procedia Technology
+VL  - 5
+SP  - 771
+EP  - 776
+PY  - 2012
+DA  - 2012/01/01/
+T2  - 4th Conference of ENTERprise Information Systems – aligning technology, organizations and people (CENTERIS 2012)
+SN  - 2212-0173
+DO  - https://doi.org/10.1016/j.protcy.2012.09.085
+UR  - https://www.sciencedirect.com/science/article/pii/S2212017312005166
+KW  - Simulation
+KW  - Volumetric model
+KW  - Virtual reality
+KW  - Data structure
+AB  - The need of applications for realistic training to medical professionals motivated the development of the framework CyberMed. Since 2006, this framework provides a set of features that allow users to freely build interactive virtual environments for realistic medical training. Thus, simulations composed by 3D visualization and interaction with haptic feedback can be created for different areas of medicine. In order to allow using data obtained from real exams, such as CT and MRI, the CyberMed had its kernel recently expanded. Now the framework enables working with volumetric data to build more realistic medical simulations. The aim of this paper is to present this process of expansion realized in a cooperation work between two countries, emphasizing the new possibilities offered by this integration for further works related to simulations with cut and suture of tissues.
+ER  - 
+
+TY  - JOUR
+T1  - Architectures for shared haptic virtual environments
+AU  - Buttolo, Pietro
+AU  - Oboe, Roberto
+AU  - Hannaford, Blake
+JO  - Computers & Graphics
+VL  - 21
+IS  - 4
+SP  - 421
+EP  - 429
+PY  - 1997
+DA  - 1997/07/01/
+T2  - Haptic Displays in Virtual Environments and Computer Graphics in Korea
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(97)00019-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849397000198
+AB  - The lack of force feedback in visual-only simulations may seriously hamper user proprioception, effectiveness and sense of immersion while manipulating virtual environments. Haptic rendering, the process of feeding back force to the user in response to interaction with the environment is sensitive to delay and can become unstable. In this paper we will describe various techniques to integrate force feedback in shared virtual simulations, dealing with significant and unpredictable delays. Three different implementations are investigated: static, collaborative and cooperative haptic virtual environments.
+ER  - 
+
+TY  - JOUR
+T1  - VR–CAD integration: Multimodal immersive interaction and advanced haptic paradigms for implicit edition of CAD models
+AU  - Bourdot, P.
+AU  - Convard, T.
+AU  - Picon, F.
+AU  - Ammi, M.
+AU  - Touraine, D.
+AU  - Vézien, J.-M.
+JO  - Computer-Aided Design
+VL  - 42
+IS  - 5
+SP  - 445
+EP  - 461
+PY  - 2010
+DA  - 2010/05/01/
+T2  - Advanced and Emerging Virtual and Augmented Reality Technologies in Product Design
+SN  - 0010-4485
+DO  - https://doi.org/10.1016/j.cad.2008.10.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0010448508001954
+KW  - Boundary representation
+KW  - Construction history graph
+KW  - Naming
+KW  - Virtual reality
+KW  - Multimodal interaction
+KW  - Haptics
+AB  - This paper presents an approach for the integration of Virtual Reality (VR) and Computer-Aided Design (CAD). Our general goal is to develop a VR–CAD framework making possible intuitive and direct 3D edition on CAD objects within Virtual Environments (VE). Such a framework can be applied to collaborative part design activities and to immersive project reviews. The cornerstone of our approach is a model that manages implicit editing of CAD objects. This model uses a naming technique of B-Rep components and a set of logical rules to provide straight access to the operators of Construction History Graphs (CHG). Another set of logical rules and the replay capacities of CHG make it possible to modify in real-time the parameters of these operators according to the user’s 3D interactions. A demonstrator of our model has been developed on the OpenCASCADE geometric kernel, but we explain how it can be applied to more standard CAD systems such as CATIA. We combined our VR–CAD framework with multimodal immersive interaction (using 6 DoF tracking, speech and gesture recognition systems) to gain direct and intuitive deformation of the objects’ shapes within a VE, thus avoiding explicit interactions with the CHG within a classical WIMP interface. In addition, we present several haptic paradigms specially conceptualized and evaluated to provide an accurate perception of B-Rep components and to help the user during his/her 3D interactions. Finally, we conclude on some issues for future researches in the field of VR–CAD integration.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring the synergies between collaborative robotics, digital twins, augmentation, and industry 5.0 for smart manufacturing: A state-of-the-art review
+AU  - Zafar, Muhammad Hamza
+AU  - Langås, Even Falkenberg
+AU  - Sanfilippo, Filippo
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 89
+SP  - 102769
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2024.102769
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584524000553
+KW  - Digital twins
+KW  - Industry 5.0
+KW  - Deep learning
+KW  - Augmentation
+KW  - HRC
+AB  - Industry 5.0 aims at establishing an inclusive, smart and sustainable production process that encourages human creativity and expertise by leveraging enhanced automation and machine intelligence. Collaborative robotics, or “cobotics”,is a major enabling technology of Industry 5.0, which aspires at improving human dexterity by elevating robots to extensions of human capabilities and, ultimately, even as team members. A pivotal element that has the potential to operate as an interface for the teaming aspiration of Industry 5.0 is the adoption of novel technologies such as virtual reality (VR), augmented reality (AR), mixed reality (MR) and haptics, together known as “augmentation”. Industry 5.0 also benefit from Digital Twins (DTs), which are digital representations of a physical assets that serves as their counterpart — or twins. Another essential component of Industry 5.0 is artificial intelligence (AI), which has the potential to create a more intelligent and efficient manufacturing process. In this study, a systematic review of the state of the art is presented to explore the synergies between cobots, DTs, augmentation, and Industry 5.0 for smart manufacturing. To the best of the author’s knowledge, this is the first attempt in the literature to provide a comprehensive review of the synergies between the various components of Industry 5.0. This work aims at increasing the global efforts to realize the large variety of application possibilities offered by Industry 5.0 and to provide an up-to-date reference as a stepping-stone for new research and development within this field.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 2 - Surgical assistance and training
+AU  - Speidel, Stefanie
+AU  - Bodenstedt, Sebastian
+AU  - von Bechtolsheim, Felix
+AU  - Rivoir, Dominik
+AU  - Funke, Isabel
+AU  - Goebel, Eva
+AU  - Mitschick, Annett
+AU  - Dachselt, Raimund
+AU  - Weitz, Jürgen
+A2  - Fitzek, Frank H.P.
+A2  - Li, Shu-Chen
+A2  - Speidel, Stefanie
+A2  - Strufe, Thorsten
+A2  - Simsek, Meryem
+A2  - Reisslein, Martin
+BT  - Tactile Internet
+PB  - Academic Press
+SP  - 23
+EP  - 39
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 978-0-12-821343-8
+DO  - https://doi.org/10.1016/B978-0-12-821343-8.00012-5
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128213438000125
+KW  - Robot-assisted surgery
+KW  - surgical data science
+KW  - surgical training
+AB  - Surgery has evolved drastically over the last decades, turning from an artisanal craft to a high-tech discipline with enormous amounts of data and robotic devices, especially in the Operating Room (OR). While first systems for computer and robot assistance in the OR have emerged, the current systems do not live up to their full potential and often do not exceed the capabilities of mechanical solutions. Currently, the outcome depends to a large extent on the expertise of the surgeon. This chapter shows current limitations and reviews the state of the art as well as open research questions in the context of Tactile Internet with Human-in-the-Loop (TaHiL) for intraoperative assistance and surgical training. Remaining challenges include the incorporation of expert knowledge by means of surgical data science, an intuitive human–machine interface that enables smart coworking and robotic skill transfer as well as context-aware real-time assistance with low latency in a sensor-enhanced OR and sensor-enhanced training setting. The aim is to improve the safety, the quality, and the efficiency of patient care by capturing clinical expertise and augmenting clinical performance in the context of computer- and robot-assisted therapy as well as surgical training. TaHiL addresses these aspects for intraoperative as well as training applications by focusing on novel sensor-processing devices that capture, model, and transfer surgical skills, including holistic data analysis for multimodal and temporal data. This also includes intuitive human–machine interaction with low-latency visual and haptic feedback while taking real-time capabilities and co-operation abilities into account. Furthermore, new possibilities for immersive Virtual Reality (VR)/Augmented Reality (AR) training environments are exploited.
+ER  - 
+
+TY  - JOUR
+T1  - Simulation-based learning in orthopaedics: A qualitative systematic review
+AU  - Roy, Mainak
+AU  - T, Priyadarshini
+AU  - Ashika, M.S.
+AU  - Das, Gurudip
+AU  - Patro, Bishnu Prasad
+AU  - Bharadwaj, Sanjeevi
+JO  - Journal of Clinical Orthopaedics and Trauma
+VL  - 65
+SP  - 102986
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 0976-5662
+DO  - https://doi.org/10.1016/j.jcot.2025.102986
+UR  - https://www.sciencedirect.com/science/article/pii/S0976566225000839
+KW  - Simulation-based learning
+KW  - Orthopaedic education
+KW  - Virtual reality
+KW  - Surgical skills
+KW  - Medical education
+AB  - Background
+Simulation-based learning has emerged as a transformative tool in orthopaedic education, significantly improving surgical training and patient safety. This systematic review examines the role of simulation in enhancing technical skills, decision-making, and clinical competence among orthopaedic trainees.
+Methods
+A systematic review was conducted to assess the effectiveness of simulation-based training in orthopaedics. Various simulation modalities, including virtual reality (VR), augmented reality (AR), haptic feedback systems, and task-based trainers, were analyzed for their impact on skill acquisition and retention. The study was registered with PROSPERO (ID: CRD420250652679).
+Results
+Key findings suggest that simulation-based training leads to reduced surgical errors, faster learning curves, and better skill retention. However, challenges such as high costs, limited access to advanced simulation tools, and difficulties in integrating these technologies into traditional curricula persist.
+Conclusion
+Simulation is expected to play a crucial role in modernizing orthopaedic education by providing safe, repeatable practice opportunities. Future directions include AI-driven training modules and collaborative VR platforms to further enhance training efficacy and patient outcomes.
+ER  - 
+
+TY  - JOUR
+T1  - Preliminary realization of immersive EAST system using virtual reality
+AU  - Li, Dan
+AU  - Xiao, B.J.
+AU  - Xia, J.Y.
+AU  - Wang, K.R.
+JO  - Fusion Engineering and Design
+VL  - 128
+SP  - 198
+EP  - 203
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0920-3796
+DO  - https://doi.org/10.1016/j.fusengdes.2018.02.031
+UR  - https://www.sciencedirect.com/science/article/pii/S0920379618301327
+KW  - EAST
+KW  - Virtual reality
+KW  - Immersive
+KW  - Unity3D
+KW  - Client/Server
+KW  - HTC Vive
+AB  - Aiming at the complex and confined environments of experimental advanced superconducting tokamak (EAST) and the need to improve the ability of resident and visiting scientists to access and understand EAST, the immersive EAST system based on virtual reality is developed. Compared to previous virtual EAST systems, model reality, rendering speed, immersion and interaction functions are greatly increased. In the previous system, models were transformed from CATIA and imported to 3DS Max for subsequent processing. While those models have the advantages of being very precise and easily generated, they come at the price of decreased rendering speed and poor rendering quality because of a large loss of triangle faces. In this regard, EAST models are rebuilt and materials created by photos of EAST device are assigned to models. Moreover, because virtual reality is quite effective at creating experiment scenarios thanks to their ability to provide the feeling of immersive operation and collaborative environments, model libraries are built during this research for future scheme generation and hardware installation training. The immersive EAST system is developed in the Unity3D environment using a Client/Server architecture, the HTC Vive and handheld devices are used to provide the immersive scene, intuitive controls and realistic haptic feedback. Users can roam in the virtual scene and interact with the immersive EAST using the handheld devices and communicate with other users in the system. The establishment of the system provides the framework for a comprehensive and cooperative experiment and training environment for EAST.
+ER  - 
+
+TY  - JOUR
+T1  - Augmented reality user interface design and experimental evaluation for human-robot collaborative assembly
+AU  - Chu, Chih-Hsing
+AU  - Liu, Yu-Lun
+JO  - Journal of Manufacturing Systems
+VL  - 68
+SP  - 313
+EP  - 324
+PY  - 2023
+DA  - 2023/06/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2023.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612523000717
+KW  - Augmented reality
+KW  - Human-robot collaboration
+KW  - User interface
+KW  - Sensory cues
+KW  - Manual assembly
+AB  - Artificial intelligence (AI) has been applied to a wide spectrum of industrial sectors, but manual operations remain indispensable in most manufacturing systems due to high complexity or costs involving in automation. A more practical approach is enabling humans to collaborate with machines complementary to each other. One critical issue in human-robot collaboration (HRC) is to assure the operator's productivity, safety, and trust while interacting with the robot. This paper presents an experimental study on user interface design in augmented reality (AR) for human-robot collaborative assembly in a shared workspace. The experiment aims to verify and cross-compare the effectiveness of visual and haptic cues in various forms that convey the robot intent to human. Analysis of the work performance and gazing behavior of participants shows that both cues can reduce their visual attention on the moving robot during the collaboration. The interface that provides the proximity of robot using visual cues is considered most useful. It is not intuitive to recognize complex information by vibration on different parts of the human hand in the experiment. Finally, human trust to robot has a higher correlation on the usability of a user interface than the work performance assisted by the interface. These findings may work as design guidelines for AR assisted human-robot interaction in smart manufacturing.
+ER  - 
+
+TY  - JOUR
+T1  - The roles of sensory modalities in collaborative virtual environments (CVEs)
+AU  - Nam, Chang S.
+AU  - Shu, Joseph
+AU  - Chung, Donghun
+JO  - Computers in Human Behavior
+VL  - 24
+IS  - 4
+SP  - 1404
+EP  - 1417
+PY  - 2008
+DA  - 2008/07/01/
+T2  - Including the Special Issue: Integration of Human Factors in Networked Computing
+SN  - 0747-5632
+DO  - https://doi.org/10.1016/j.chb.2007.07.014
+UR  - https://www.sciencedirect.com/science/article/pii/S074756320700132X
+KW  - Collaborative virtual environments (CVEs)
+KW  - Haptic feedback
+KW  - Presence
+KW  - Copresence
+KW  - Collaboration
+AB  - This study was conducted to assess the effects of sensorial modalities on user performance, perception, and behavior in collaborative virtual environments (CVEs). Participants played a CVE game, air hockey, together with a remote partner under different sensory modality conditions, depending on the type of sensory feedback provided: visual-only (V), visual–haptic (V+H), and visual–haptic–audio feedback (V+H+A). Three types of measurements were used as dependent variables: (1) task performance measured as playing time, (2) user perception including the sense of presence, the sense of togetherness, and perceived collaboration, and (3) behavior measurement including the amount of force applied and the mallet deviation. Results of the study indicated that the task performance, perception, and user behavior in CVEs can be affected due to supported sensory modalities. Therefore, the multiple sensory information types that are required to perform the task at hand should be provided to effectively support collaboration between people in CVEs. The outcomes of this research should have a broad impact on multimodal user interaction, including research on physiological, psychophysical, and psychological mechanisms underlying human perception on multisensory feedback in CVEs.
+ER  - 
+
+TY  - JOUR
+T1  - “IOMaster 7D”—a new device for virtual neuroendoscopy
+AU  - Trantakis, C
+AU  - Meixensberger, J
+AU  - Strauß, G
+AU  - Nowatius, E
+AU  - Lindner, D
+AU  - Cakmak, H.K
+AU  - Maaß, H
+AU  - Nagel, C
+AU  - Kühnapfel, U
+JO  - International Congress Series
+VL  - 1268
+SP  - 707
+EP  - 712
+PY  - 2004
+DA  - 2004/06/01/
+T2  - CARS 2004 - Computer Assisted Radiology and Surgery. Proceedings of the 18th International Congress and Exhibition
+SN  - 0531-5131
+DO  - https://doi.org/10.1016/j.ics.2004.03.273
+UR  - https://www.sciencedirect.com/science/article/pii/S0531513104007058
+KW  - Neuroendoscopy
+KW  - Minimal invasive surgery
+KW  - Virtual reality
+KW  - Force feedback
+KW  - Surgical training
+AB  - Purpose: Within a scope of a cooperative project called “HapticIO” (funded by the German Ministry of Education and Research (BMBF)), a completely new force feedback device “IOMaster 7D” was intended to be developed for simulation of endoscopic ventriculo-cisternostomy (VCS). Methods: A VR model for endoscopic ventriculostomy was generated based on a MRI data set of a real hydrocephalic brain. Different software modules were used for segmentation (VESUV), modelling (KisMo) and visualization (KISMET). The software modules were implemented on a WIN32 platform and are running on Windows-NT, Win2000 or WinXP. A force feedback system for capturing of the position of both the trocar and the acting instrument was developed. Large arms are counterbalanced to reduce gravitational forces and torques. The position and orientation of the input handle is determined by taking the joint angles of the linkages and using the forward kinematics calculation. Force data returned by the simulation is mapped to a set of torques to be produced by the motors by using a so-called Jacobian transformation. Real microsurgical instruments (MINOP, Aesculap, Germany) were used and adapted to the simulator to provide for a design and haptic properties close to real situation in the OR. The system was evaluated in a pilot series. Results: The force feedback system IOMaster 7D offers 7 degrees of freedom and consists of two coupled force feedback elements. Both the trocar and the acting instruments (scissor, bipolar coagulation, forceps, inflatable balloon catheter) are captured separately. In this way, the trocar's position determines the view of the endoscopic 30° lens camera, the access to the target and the possible operating range of the instruments. A complex elastodynamic hydrocephalic configured ventricular system with realistic proportions and anatomical structures could be modelled. An interactive virtual preparation with force feedback was implemented coupling real surgical instruments (MINOP) with the force feedback system. The VR system provides different interactions like axial movement or rotation of the instruments, cutting, grasping as well as realistic elastodynamic deformations of the ventricle wall. First evaluations proved a reduction of the median failure rate and a reduction of the median required time to reach the target. Analysis of the total distance of instruments movement also showed a reduction. Conclusion: VR systems can simulate realistic and real-time surgical procedures and may open new perspectives for the neurosurgical training. The training of potentially hazardous procedures can be uncoupled from the patient resulting in a reduction of surgical morbidity. The integration of haptic information increases the quality of these training systems. The definition of no-touch areas and targets and the possibility of automatic registration of both kinetic parameters, failure rate and the time course of the procedure provide objective criteria for the appreciation of a learning effect.
+ER  - 
+
+TY  - JOUR
+T1  - Original computer aided support system for safe and accurate implant placement—Collaboration with an university originated venture company
+AU  - Sohmura, Taiji
+AU  - Kumazawa, Yoich
+JO  - Japanese Dental Science Review
+VL  - 46
+IS  - 2
+SP  - 150
+EP  - 158
+PY  - 2010
+DA  - 2010/08/01/
+SN  - 1882-7616
+DO  - https://doi.org/10.1016/j.jdsr.2010.01.002
+UR  - https://www.sciencedirect.com/science/article/pii/S1882761610000049
+KW  - Implant
+KW  - Surgical simulation
+KW  - Surgical guide
+KW  - CAD/CAM
+KW  - CT artifact
+AB  - Summary
+An original implant surgery support system with computer simulation to determine the position of implant placement and fabrication of a surgical guide that helps in bone drilling was developed by collaboration of Osaka University Faculty of Dentistry and Dental Prostheses Fabrication Company. A virtual reality haptic device that gives the sense of touch was used for simulation and a surgical template was fabricated by CAD/CAM method. A patented technology enabled to remove artifact due to metallic prostheses by replacing the damaged teeth of CT image by precise 3D measured image of dental cast. Surgical guide was designed using haptic device and fabricated including bone model by a computer-aided rapid prototyping modeling machine with a UV-cured acrylic-based resin material. Two clinical cases with implant placement on the three lower molars by flap operation using bone supported surgical guide and flapless operation with teeth supported surgical guide and immediate loading with provisional prostheses prepared beforehand are introduced. The present simulation and drilling support using the surgical guide may help to perform safe and accurate implant surgery.
+ER  - 
+
+TY  - JOUR
+T1  - Usability of VR-Systems in Cross-Cultural Product Development: A Case Study
+AU  - Balzerkiewitz, Hans-Patrick
+AU  - Dlamini, Nokulunga
+AU  - Stechert, Carsten
+AU  - Mpofu, Khumbulani
+JO  - Procedia CIRP
+VL  - 128
+SP  - 399
+EP  - 404
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 34th CIRP Design Conference
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.03.019
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124007212
+KW  - AR
+KW  - VR
+KW  - haptics in design
+KW  - Human factors
+KW  - Collaborative
+KW  - distributed product development
+AB  - Software tools have become essential in contemporary product development. It is now commonplace to use computer-aided design (CAD) for designing and the finite element method (FEM) for confirming structural integrity. Since the year 2016, virtual reality (VR) has gained importance as a novel software tool in development departments, a compound growth of US$3.6B to over US$40B to date. Although VR is already used in design reviews, it is yet to be fully integrated into other areas. However, to increase acceptance, it is particularly important for new, versatile software tools to allow widespread use throughout the entire development process. To broaden the application spectrum of VR, this paper presents a hetero-cultural case study that shows how VR can support distributed development teams in identifying and then verifying ergonomic requirements. The test groups consist of students from Ostfalia University of Applied Sciences and Tshwane University of Technology. Once the case study concludes, proposals for forthcoming measures to further develop and utilize VR systems in the area of requirement identification will be created, and cultural discrepancies identified, including harmonies.
+ER  - 
+
+TY  - JOUR
+T1  - HUMAN-HUMAN COLLABORATION
+AU  - Erbe, Heinz-H.
+JO  - IFAC Proceedings Volumes
+VL  - 38
+IS  - 1
+SP  - 72
+EP  - 77
+PY  - 2005
+DA  - 2005/01/01/
+T2  - 16th IFAC World Congress
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20050703-6-CZ-1902.01394
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667016374067
+KW  - e-/global-manufacturing
+KW  - controlling remote collaboration
+KW  - tele-presence
+KW  - mixed reality
+KW  - bond-graphs
+KW  - hyper-bonds
+AB  - Collaborative work over remote sites is a challenge to developers of information- and communication technology as well as to the involved workforce. New developments on cost-effective connections are providing not only vision and auditory perception but also haptic perception. Research fields for improving remote collaboration are discussed. Social aspects as new requirements on the employees of networked and extended enterprises are considered.
+ER  - 
+
+TY  - JOUR
+T1  - Impacts of VR 3D sketching on novice designers’ spatial cognition in collaborative conceptual architectural design
+AU  - Rahimian, Farzad Pour
+AU  - Ibrahim, Rahinah
+JO  - Design Studies
+VL  - 32
+IS  - 3
+SP  - 255
+EP  - 291
+PY  - 2011
+DA  - 2011/05/01/
+SN  - 0142-694X
+DO  - https://doi.org/10.1016/j.destud.2010.10.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0142694X10000839
+KW  - architectural design
+KW  - design cognition
+KW  - virtual reality
+KW  - protocol analysis
+KW  - collaborative design
+AB  - Conventional Computer Aided Design tools lack intuitivity for being used in conceptual architectural design process. This paper identifies the impact of using a haptic based VR 3D sketching interface for integrating novice designers’ cognitions and actions to improve design creativity. This study employs protocol analysis for comparing the collective cognitive and collaborative design protocols of three pairs of novice architectural designers in both 3D and manual sketching sessions. Results show that the simple and tangible haptic based design interface improved designers’ cognitive and collaborative activities. These improvements also increased their engagement with ‘problem-space’ and ’solution-space’ that led towards more artefact maturity. Research findings from this study can help the development of cutting-edge haptic-based collaborative virtual environments in architectural education and associated professions.
+ER  - 
+
+TY  - JOUR
+T1  - Implementation of virtual reality systems for simulation of human-robot collaboration
+AU  - Rückert, Patrick
+AU  - Wohlfromm, Laura
+AU  - Tracht, Kirsten
+JO  - Procedia Manufacturing
+VL  - 19
+SP  - 164
+EP  - 170
+PY  - 2018
+DA  - 2018/01/01/
+T2  - Proceedings of the 6th International Conference in Through-life Engineering Services, University of Bremen, 7th and 8th November 2017
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2018.01.023
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978918300234
+KW  - Virtual Reality
+KW  - Simulation
+KW  - Human-Robot Collaboration
+AB  - A collaboration between human and robot can implicate many advantages for complex industrial assembly processes, especially as increased flexibility and adaptability become a key feature of production systems. The use of virtual reality (VR) systems has the potential to simulate cooperative processes in advance and to include workers and their individual behavior into the simulation. The use of VR simulations makes it possible to secure processes and reduce physical and mental barriers between human and robot. This paper presents a methodical approach for the implementation of systems for the virtual testing of collaborative assembly processes. Following the aim of replicating the assembly process with the highest possible immersion, a specific VR system is derived from an analysis of the assembly process. Core features of the system are the physical simulation of the assembly process, the integration of the robot control and a haptic feedback for the operator.
+ER  - 
+
+TY  - JOUR
+T1  - Improved interaction with collaborative robots - evaluation of event-specific haptic feedback in virtual reality
+AU  - Andersson, My
+AU  - Syberfeldt, Anna
+JO  - Procedia Computer Science
+VL  - 232
+SP  - 1055
+EP  - 1064
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 5th International Conference on Industry 4.0 and Smart Manufacturing (ISM 2023)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.01.104
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924001042
+KW  - Collaborative robots
+KW  - Human-Robot Collaboration
+KW  - Virtual Reality
+KW  - Haptic feedback
+KW  - Industry 4.0
+KW  - Industry 5.0
+AB  - Industry 5.0 adopts a human-centric approach that views humans as a natural part of introducing new technology, such as collaborative robots. However, one of the main challenges in implementing collaborative robots is safety, including the sense of safety. Trust is also a primary challenge when establishing functional collaboration. Influencing factors includes experience and expertise, and research shows that Virtual Reality has the potential to perform such training. This research aims to investigate whether using virtual reality with appropriate feedback can be an effective platform for familiarization and training. In our experiment, we utilized haptic feedback from commercial Virtual Reality controllers to simulate physical interactions with collaborative robots. The experiment involved the participation of fifteen individuals. The results showed that participants regarded haptic feedback while moving as the most appropriate representation. This research aims to identify whether Virtual Reality with suitable feedback can serve as a familiarization and training platform.
+ER  - 
+
+TY  - JOUR
+T1  - Robot-assisted shoulder arthroplasty
+AU  - Sanchez-Sotelo, Joaquin
+JO  - JSES International
+VL  - 9
+IS  - 3
+SP  - 974
+EP  - 980
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 2666-6383
+DO  - https://doi.org/10.1016/j.jseint.2025.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S2666638325000623
+KW  - Shoulder arthroplasty
+KW  - Robotic surgery
+KW  - Digital enabling technologies
+KW  - Reverse shoulder arthroplasty
+KW  - Anatomic shoulder arthroplasty
+KW  - Mako
+KW  - Rosa
+AB  - Robotic assistance has demonstrated to provide value in the field of hip and knee arthroplasty. As a result, it is becoming increasingly popular. On the contrary, robot-assisted shoulder arthroplasty is in its infancy. The various commercially available robots for arthroplasty applications are quite different regarding the features they provide. For shoulder arthroplasty, the Rosa system is already available to selected users, and the Mako system will be available soon. Rosa is considered a collaborative robot that positions cutting guides and reamers as a combined effort between the robot and the surgeon; once the desired position of the guide or reamer is achieved, the robot enters static mode, and the surgeon performs the humerus osteotomy or reams the glenoid in collaboration with the robot; currently, augment preparation is not provided. Mako provides an effector end that prepares bone and uses haptic boundaries to avoid error; details on the Mako shoulder application have not been released. The main theoretical benefits of robot-assisted shoulder arthroplasty include accuracy and precision, data acquisition, and with certain robots, the promise to avoid soft-tissue injury with haptic boundaries, prepare a bone through minimally invasive or cuff-preserving exposures, and the potential for motion assessment and soft-tissue balance. The disadvantages include cost, a certain learning curve, complications related to array insertion, potential for cognitive bias, need for a larger operating room space, and the potential for malfunction. Although adoption is likely to happen in many centers, cost and space constrains may favor alternative technologies, such as mixed reality navigation, especially in ambulatory surgery centers.
+ER  - 
+
+TY  - JOUR
+T1  - Audio makes a difference in haptic collaborative virtual environments
+AU  - Moll, Jonas
+AU  - Huang, Yingying
+AU  - Sallnäs, Eva-Lotta
+JO  - Interacting with Computers
+VL  - 22
+IS  - 6
+SP  - 544
+EP  - 555
+PY  - 2010
+DA  - 2010/11/01/
+T2  - Special Issue on Inclusion and Interaction: Designing Interaction for Inclusive Populations
+SN  - 0953-5438
+DO  - https://doi.org/10.1016/j.intcom.2010.06.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0953543810000561
+KW  - Haptic
+KW  - Audio
+KW  - Multimodal interfaces
+KW  - Collaboration
+KW  - Problem solving
+AB  - In this paper a study is presented which aimed at exploring the effects of audio feedback in a haptic and visual interface supporting collaboration among sighted and people who cannot see. A between group design was used and the participants worked in pairs with one sighted and one blindfolded in each. The application used was a haptic 3D environment in which participants could build composed objects out of building blocks. The building blocks could be picked up and moved around by means of a touch feedback pointing device. In one version of the application, used by half of the groups, sound cues could be used to tell the other person where you were, and to get feedback on your own and the other person’s actions. Results showed that sound cues together with haptic feedback made a difference in the interaction between the collaborators regarding their shared understanding of the workspace and the work process. Especially, sound cues played an important role for maintaining awareness of ongoing work – you knew what was going on, and you got a response on your own actions.
+ER  - 
+
+TY  - JOUR
+T1  - An experimental study on the effects of Network delay in Cooperative Shared Haptic Virtual Environment
+AU  - Alhalabi, M.Osama
+AU  - Horiguchi, Susumu
+AU  - Kunifuji, Susumu
+JO  - Computers & Graphics
+VL  - 27
+IS  - 2
+SP  - 205
+EP  - 213
+PY  - 2003
+DA  - 2003/04/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(02)00277-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849302002777
+KW  - Shared virtual environment
+KW  - Haptic
+KW  - Network latency
+KW  - Task performance
+KW  - Quality of haptic
+AB  - A cooperative shared haptic virtual environment (CSHVE), where the users can kinesthetically interact and simultaneously feel each other over the network, is beneficial for many distributed VR simulations. A little is known about the influences of the network delay on the quality of haptic sensation and the task performance in such environments. This paper has addressed these issues by conducting a subjective evaluation to the force feedback and the task performance in a tele-handshake cooperative shared haptic system for different delay setting. Also, four subjective measures to evaluate the quality of haptic in CSHVEs have been proposed. These measures are the feeling of force, the consistency between the haptic-visual feedback, the vibration, and the rebound in the haptic device. In addition, a detailed description of the haptic sensation for different time delays is also described. A network emulator was utilized to simulate the real network cloud. An objective evaluation of the force feedback and the performance showed that there was no effect of the delay on the force feedback. It had a negative impact on the task performance. In general, the quality of haptic deteriorated as the delay increased and vibration and rebound hampered the users for large time delay. The haptic-visual consistency was robust in the presented system even for large time delays. Nevertheless, the examined tele-handshake system was able to deliver a high quality of haptic sensation, good performance, and stability for large time delay over the network.
+ER  - 
+
+TY  - JOUR
+T1  - Hybrid client–server architecture and control techniques for collaborative product development using haptic interfaces
+AU  - Lin, Shiyong
+AU  - Narayan, Roger J.
+AU  - Lee, Yuan-Shin
+JO  - Computers in Industry
+VL  - 61
+IS  - 1
+SP  - 83
+EP  - 96
+PY  - 2010
+DA  - 2010/01/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2009.07.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361509001389
+KW  - Collaborative product development
+KW  - Deformable object modeling
+KW  - Haptic interface
+KW  - CAD/CAM
+AB  - In this paper, a collaborative product development and prototyping framework is proposed by using distributed haptic interfaces along with deformable objects modeling. Collaborative Virtual Environment (CVE) is a promising technique for industrial product development and virtual prototyping. Network control problems such as network traffic and network delay in communication have greatly limited collaborative virtual environment applications. The problems become more difficult when high-update-rate haptic interfaces and computation intensive deformable objects modeling are integrated into CVEs for intuitive manipulation and enhanced realism. A hybrid network architecture is proposed to balance the computational burden of haptic rendering and deformable object simulation. Adaptive artificial time compensation is used to reduce the time discrepancy between the server and the client. Interpolation and extrapolation approaches are used to synchronize graphic and haptic data transmitted over the network. The proposed techniques can be used for collaborative product development, virtual assembly, remote product simulation and other collaborative virtual environments where both haptic interfaces and deformable object models are involved.
+ER  - 
+
+TY  - JOUR
+T1  - On Multi-Agent Cognitive Cooperation: Can virtual agents behave like humans?
+AU  - D’Avella, Salvatore
+AU  - Camacho-Gonzalez, Gerardo
+AU  - Tripicchio, Paolo
+JO  - Neurocomputing
+VL  - 480
+SP  - 27
+EP  - 38
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2022.01.025
+UR  - https://www.sciencedirect.com/science/article/pii/S092523122200042X
+KW  - Cognitive Collaboration
+KW  - Multi-Modal Feedback
+KW  - Multi-Agent Reinforcement Learning
+AB  - Individuals tend to cooperate or collaborate to reach a common goal when the going gets tough creating a common frame of reference that is a common mental representation of the situation. Information exchange among people is fundamental for building a shared strategy through the grounding process that exploits different communication channels like vision, haptic, or voice. Indeed, human perception is typically multi-modal. This work proposes a two-fold study investigating the cognitive collaboration process both among humans and virtual agents of a multi-agent reinforcement learning (MARL) system. The experiment with humans consists of an interactive virtual shared environment that uses multi-modal channels (visual and haptics) as interaction cues. Haptic feedback is fundamental for a good sense of presence and for improving the performance in completing a task. In this manuscript, an experiment, consisting of escaping a virtual maze trying to get the best score possible, is introduced. The experiment is meant to be performed in pairs, and the perceptual information is split among the participants. A custom haptic interface has been used for the interaction with the virtual environment. The machine learning case, instead, proposes two virtual agents implemented using a tabular Q-learning paradigm to control a single avatar in a 2D labyrinth, introducing a new form of MARL setting. As it is known, it is not easy to get familiar with haptics for people that have never used it, and that if not properly transmitted, the cognitive workflow does not produce any improvements. However, the main findings of the proposed work are that haptic-driven multi-modal feedback information is a valuable means of collaboration since it allows to establish a common frame of reference between the two participants. The machine learning experiments show that even independent agents, implemented with properly designed rewards, can learn the intentions of the other participant in the same environment and collaborate to accomplish a common task.
+ER  - 
+
+TY  - JOUR
+T1  - A framework using cluster-based hybrid network architecture for collaborative virtual surgery
+AU  - Qin, Jing
+AU  - Choi, Kup-Sze
+AU  - Poon, Wai-Sang
+AU  - Heng, Pheng-Ann
+JO  - Computer Methods and Programs in Biomedicine
+VL  - 96
+IS  - 3
+SP  - 205
+EP  - 216
+PY  - 2009
+DA  - 2009/12/01/
+SN  - 0169-2607
+DO  - https://doi.org/10.1016/j.cmpb.2009.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0169260709001758
+KW  - Surgical simulation
+KW  - Collaborative virtual environments
+KW  - Cluster-based network architecture
+KW  - Reliable multicast
+KW  - Efficient collaboration
+AB  - Research on collaborative virtual environments (CVEs) opens the opportunity for simulating the cooperative work in surgical operations. It is however a challenging task to implement a high performance collaborative surgical simulation system because of the difficulty in maintaining state consistency with minimum network latencies, especially when sophisticated deformable models and haptics are involved. In this paper, an integrated framework using cluster-based hybrid network architecture is proposed to support collaborative virtual surgery. Multicast transmission is employed to transmit updated information among participants in order to reduce network latencies, while system consistency is maintained by an administrative server. Reliable multicast is implemented using distributed message acknowledgment based on cluster cooperation and sliding window technique. The robustness of the framework is guaranteed by the failure detection chain which enables smooth transition when participants join and leave the collaboration, including normal and involuntary leaving. Communication overhead is further reduced by implementing a number of management approaches such as computational policies and collaborative mechanisms. The feasibility of the proposed framework is demonstrated by successfully extending an existing standalone orthopedic surgery trainer into a collaborative simulation system. A series of experiments have been conducted to evaluate the system performance. The results demonstrate that the proposed framework is capable of supporting collaborative surgical simulation.
+ER  - 
+
+TY  - JOUR
+T1  - Toward a Frontierless Collaboration in Neurosurgery: A Systematic Review of Remote Augmented and Virtual Reality Technologies
+AU  - Bocanegra-Becerra, Jhon E.
+AU  - Acha Sánchez, José Luis
+AU  - Castilla-Encinas, Adriam M.
+AU  - Rios-Garcia, Wagner
+AU  - Mendieta, Cristian D.
+AU  - Quiroz-Marcelo, Diego A.
+AU  - Alhwaishel, Khaled
+AU  - Aguilar-Zegarra, Luis
+AU  - Lopez-Gonzalez, Miguel Angel
+JO  - World Neurosurgery
+VL  - 187
+SP  - 114
+EP  - 121
+PY  - 2024
+DA  - 2024/07/01/
+SN  - 1878-8750
+DO  - https://doi.org/10.1016/j.wneu.2024.04.048
+UR  - https://www.sciencedirect.com/science/article/pii/S1878875024006119
+KW  - Augmented reality
+KW  - Extended reality
+KW  - Neurosurgery
+KW  - Spine surgery
+KW  - Telepresence
+KW  - Telesurgery
+KW  - Virtual reality
+AB  - Objective
+Augmented reality (AR) and virtual reality (VR) technologies have been introduced to neurosurgery with the goal of improving the experience of human visualization. In recent years, the application of remote AR and VR has opened new horizons for neurosurgical collaboration across diverse domains of education and patient treatment. Herein, we aimed to systematically review the literature about the feasibility of this technology and discuss the technical aspects, current limitations, and future perspectives.
+Methods
+Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, 4 databases (PubMed, Embase, Scopus, and Cochrane Library) were queried for articles discussing the use of remote AR and VR technologies in neurosurgery. Data were collected in various fields, including surgery type, application type, subspecialty, software and hardware descriptions, haptic device utilization, visualization technology, internet connection, remote site descriptions, technical outcomes, and limitations. Data were summarized as counts and proportions and analyzed using IBM SPSS software.
+Results
+Our search strategy generated 466 records, out of which 9 studies satisfied the inclusion criteria. The majority of AR and VR applications were used in cranial procedures (77.8%), mainly in education (63.6%), followed by telesurgical assistance (18.2%), patient monitoring (9.1%), and surgical planning (9.1%). Local collaborations were established in 55.6% of the studies, while national and international partnerships were formed in 44.4% of the studies. AR was the main visualization technology, and 3G internet connection was predominantly used (27.5%). All studies subjectively reported the utility of remote AR and VR for real-time interaction. The major technical challenges and limitations included audiovisual latency, the requirement for higher-fidelity and resolution image reconstructions, and the level of proficiency of the patient with the software.
+Conclusions
+The results from this systematic review suggest that AR and VR technologies are dynamically advancing to offer remote collaboration in neurosurgery. Although still incipient in development and with an imperative need for technical improvement, remote AR and VR hold a frontierless potential for patient monitoring, neurosurgical education, and long-distance surgical assistance.
+ER  - 
+
+TY  - JOUR
+T1  - Design and evaluation of UltRASim: An immersive simulator for learning ultrasound-guided regional anesthesia basic skills
+AU  - Simon, Cassandre
+AU  - Herfort, Lucas
+AU  - Lebrun, Flavien
+AU  - Brocas, Elsa
+AU  - Otmane, Samir
+AU  - Chellali, Amine
+JO  - Computers & Graphics
+VL  - 119
+SP  - 103878
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/j.cag.2024.01.005
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849324000074
+KW  - Immersive simulation
+KW  - Medical training
+KW  - Simulator fidelity
+KW  - Haptic feedback
+KW  - Ultrasound-guided regional anesthesia
+AB  - Virtual reality shows great promise as a technology for training healthcare professionals within a secure simulated environment. This work presents the design, development, and assessment of UltRASim: an immersive simulator for ultrasound-guided regional anesthesia. First, task and skills analyses were performed with domain experts to build the task model of the procedure and determine the simulator’s learning objectives and design constraints. Then, a face and content validity study was conducted with eighteen anesthesiologists to assess the simulator’s prototype. The responses to seven of eleven face validity questions were predominantly positive, indicating a favorable reception. The primary concerns pertained to the fidelity of haptic feedback during needle insertion. This suggests incorporating a higher fidelity haptic device in future design iterations. Conversely, responses to all six questions related to the content validity were predominantly positive. Participants found that the simulator held significant potential as a training tool, particularly for developing hand–eye coordination skills. These findings validate several design choices and highlight areas for improvement in subsequent iterations of UltRASim before its formal validation as a training tool.
+ER  - 
+
+TY  - JOUR
+T1  - How to Assess the Usability of Virtual Reality (VR) systems for Implementation in Product Development Processes
+AU  - Balzerkiewitz, Hans-Patrick
+AU  - Stechert, Carsten
+JO  - Procedia CIRP
+VL  - 128
+SP  - 460
+EP  - 465
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 34th CIRP Design Conference
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.03.027
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124007224
+KW  - AR
+KW  - VR
+KW  - haptics in design
+KW  - Human factors
+KW  - Collaborative
+KW  - distributed product development
+AB  - In modern product development, software tools have become indispensable. CAD-supported design or calculations using FEM software are commonplace. Since around 2016, HMD based virtual reality (VR), has been pushing its way into development departments. Especially with new software tools like VR, it is important to take a close look at usability. Only with usable software tools is it possible to work efficiently and reduce usage barriers (such as lack of acceptance by employees). VR in particular poses a challenge, as there are no standardized input devices for controlling the software. In addition, VR software dialogs are explicitly excluded in existing usability guidelines. This paper is intended to be the starting point for the development of a framework for the usability design of VR software systems. First, the existing literature is systematically classified using keywords. The most significant publications are thoroughly analyzed to clearly identify gaps in the research landscape. Second, existing guidelines such as ISO 9142 are examined and analyzed. Gaps and problems in the usage of these guidelines in the field of VR are identified. Subsequently, possible solutions and recommendations for the development of a VR-specific guideline are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Characterizing the untapped potential of virtual reality in plastic and reconstructive surgical training: A systematic review on skill transferability
+AU  - Landau, Madeleine
+AU  - Comeaux, Marie
+AU  - Mortell, Tatjana
+AU  - Boyle, Rebecca
+AU  - Imbrescia, Kory
+AU  - Chaffin, Abigail E.
+JO  - JPRAS Open
+VL  - 41
+SP  - 295
+EP  - 310
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 2352-5878
+DO  - https://doi.org/10.1016/j.jpra.2024.06.015
+UR  - https://www.sciencedirect.com/science/article/pii/S2352587824000998
+KW  - Plastic surgery
+KW  - Residency
+KW  - Virtual reality
+KW  - Surgical training
+KW  - Immersive
+KW  - Education
+AB  - Virtual reality (VR) integration into surgical education has gained immense traction by invigorating skill-building in ways that are unlike the traditional modes of training. This systematic review unites current literature relevant to VR in surgical education to showcase tool transferability, and subsequent impact on knowledge acquisition, skill development, and technological innovation. This review followed the PRISMA guidelines and included three databases. Among the 1926 studies that were screened, 31 studies met the inclusion criteria. ChatGPT assisted in generating variables for data extraction, and the authors reached unanimous consensus on 13 variables that provided a framework for assessing VR attributes. Surgical simulation was examined in 26 studies (83.9%). VR applications incorporated anatomy visualization (83.9%), procedure planning (67.7%), skills assessment (64.5%), continuous learning (41.9%), haptic feedback (41.9%), research and innovation (41.9%), case-based learning (22.6%), improved skill retention (19.4%), reduction of stress and anxiety (16.1%), and remote learning (12.9%). No instances of VR integration addressed patient communication or team-based training. Novice surgeons benefited the most from VR simulator experience, improving their confidence and accuracy in tackling complex procedural tasks, as well as decision-making efficiency. Enhanced dexterity compared to traditional modes of surgical training was also notable. VR confers significant potential as an adjunctive teaching method in plastic and reconstructive surgery (PRS). Studies demonstrate the utility of virtual simulation in knowledge acquisition and skill development, though they lack targeted approaches for augmenting training related to collaboration and patient communication. Given the underrepresentation of PRS among surgical disciplines regarding VR implementation in surgical education, longitudinal curriculum integration and PRS-specific technologies should be further investigated.
+ER  - 
+
+TY  - JOUR
+T1  - Robot-enabled tangible virtual assembly with coordinated midair object placement
+AU  - Zhang, Li
+AU  - Liu, Yizhe
+AU  - Bai, Huidong
+AU  - Zou, Qianyuan
+AU  - Chang, Zhuang
+AU  - He, Weiping
+AU  - Wang, Shuxia
+AU  - Billinghurst, Mark
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 79
+SP  - 102434
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2022.102434
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584522001181
+KW  - Robotics
+KW  - Assembly
+KW  - Virtual reality
+KW  - Haptic feedback
+AB  - The assembly in Virtual Reality (VR) enables users to fit virtual parts into existing 3D models immersively. However, users cannot physically feel the haptic feedback when connecting the parts with the virtual model. This work presents a robot-enabled tangible interface that dynamically moves a physical structure with a robotic arm to provide physical feedback for holding a handheld proxy in VR. This enables the system to provide force feedback during virtual assembly. The cooperation between the physical support and the handheld proxy produces realistic physical force feedback, providing a tangible experience for various virtual parts in virtual assembly scenarios. We developed a prototype system that allowed the operator to place a virtual part onto other models in VR by placing the proxy onto the matched structure attached to a robotic arm. We conducted a user evaluation to explore user performance and system usability in a virtual assembly task. The results indicated that the robot-enabled tangible support increased the task completion time but significantly improved the system usability and sense of presence with a more realistic haptic experience.
+ER  - 
+
+TY  - JOUR
+T1  - An IoMT based cyber training framework for orthopedic surgery using Next Generation Internet technologies
+AU  - Cecil, J.
+AU  - Gupta, Avinash
+AU  - Pirela-Cruz, Miguel
+AU  - Ramanathan, Parmesh
+JO  - Informatics in Medicine Unlocked
+VL  - 12
+SP  - 128
+EP  - 137
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 2352-9148
+DO  - https://doi.org/10.1016/j.imu.2018.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S2352914818300285
+KW  - Cyber physical systems
+KW  - Internet of Things
+KW  - Surgical training
+KW  - Telemedicine
+KW  - Virtual reality
+KW  - Internet of Medical Things
+AB  - Internet of Things based approaches and frameworks hold significant potential in changing the way in which engineering activities are accomplished. The information centric revolution underway has served as a catalyst in the design of innovative methods and practices in several engineering and other domains. In this paper, an Internet of Medical Things based framework for surgical training is discussed in the broader context of Next Generation frameworks. The design and development of this Internet of Medical Things based framework involving adoption of Global Environment for Network Innovations based networking principles is elaborated. The Virtual Reality based simulation environments incorporate haptic based interfaces which support collaborative training and interactions among expert surgeons and residents in orthopedic surgery from distributed locations. The impact of using this Internet of Medical Things based framework for medical education has also been studied; the outcomes underscore the potential of adopting such Internet of Medical Things based approaches for medical education.
+ER  - 
+
+TY  - JOUR
+T1  - Collaborative software design and modeling in virtual reality
+AU  - Stancek, Martin
+AU  - Polasek, Ivan
+AU  - Zalabai, Tibor
+AU  - Vincur, Juraj
+AU  - Jolak, Rodi
+AU  - Chaudron, Michel
+JO  - Information and Software Technology
+VL  - 166
+SP  - 107369
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2023.107369
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584923002240
+KW  - Virtual reality
+KW  - Collaboration
+KW  - Immersion
+KW  - Software development
+KW  - Software modeling
+AB  - Context:
+Software engineering is becoming more and more distributed. Developers and other stakeholders are often located in different locations, departments, and countries and operating within different time zones. Most online software design and modeling tools are not adequate for distributed collaboration since they do not support awareness and lack features for effective communication.
+Objective:
+The aim of our research is to support distributed software design activities in Virtual Reality (VR).
+Method:
+Using design science research methodology, we design and evaluate a tool for collaborative design in VR. We evaluate the collaboration efficiency and recall of design information when using the VR software design environment compared to a non-VR software design environment. Moreover, we collect the perceptions and preferences of users to explore the opportunities and challenges that were incurred by using the VR software design environment.
+Results:
+We find that there is no significant difference in the efficiency and recall of design information when using the VR compared to the non-VR environment. Furthermore, we find that developers are more satisfied with collaboration in VR.
+Conclusion:
+The results of our research and similar studies show that working in VR is not yet faster or more efficient than working on standard desktops. It is very important to improve the interface in VR (gestures with haptics, keyboard and voice input), as confirmed by the difference in results between the first and second evaluation.
+ER  - 
+
+TY  - JOUR
+T1  - Neurobehavioral assessment of force feedback simulation in industrial robotic teleoperation
+AU  - Zhu, Qi
+AU  - Du, Jing
+AU  - Shi, Yangming
+AU  - Wei, Paul
+JO  - Automation in Construction
+VL  - 126
+SP  - 103674
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2021.103674
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580521001254
+KW  - Human-robot collaboration
+KW  - Teleoperation
+KW  - Force feedback
+KW  - Virtual reality
+KW  - fNIRS
+KW  - Neurophysiological analysis
+AB  - Telerobotic operation, i.e., a human operator to manipulate remote robotic systems at a distance, has started to gain its popularity in the construction industry. It is expected to help tackle operational challenges in dynamic construction workplaces. The success of telerobotic operation builds on the effective design of the human-robot interface to provide human operators with necessary senses about the remote workplaces, involving multimodal sensory cues, such as visual, audio and haptic feedback. Especially the force feedback design in telerobotic control interface is of central interest and is becoming the main feature of the bilateral control system for teleoperation, as it helps provide feedback about heavy physical interactions and processes in typical construction operations. Nonetheless, how force feedback simulation solutions affect the human operator's perceptional and behavioral reactions is less understood. This paper investigates the neurobehavioral performance of operators with a bilateral control system in a typical industrial valve operation experiment (n = 21). The experiment tested two force feedback conditions: Realistic (the system replicates the exact same feeling of the torque in valve manipulation operations) and Mediated (the simulation reduces the force on the human operator end by 50% to enable more flexible controls). The performance of the participants was evaluated via various metrics, including task performance, human performance and operational velocity uniformity. Data was collected with eye-tracking, neuroimaging (functional near-infrared spectroscopy, fNIRS), motion analysis, and NASA TLX surveys. The results indicated that the mediated force feedback in bilateral telerobotic operation helped more accurate operation, increased dual tasking, reduced cognitive load and more efficient neural functions; yet it encouraged participants to engage in more irregular actions, showing as dramatic changes in valve rotating speeds. The findings suggest that the force feedback design of telerobotic systems should be more carefully thought through to balance the advantages and disadvantages.
+ER  - 
+
+TY  - JOUR
+T1  - Platform Technology for Extended Reality Biofeedback Training Under Operant Conditioning for Functional Limb Weakness: Protocol for the Coproduction of an at-Home Solution (React2Home)
+AU  - Dutta, Anirban
+AU  - Das, Abhijit
+JO  - JMIR Research Protocols
+VL  - 14
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1929-0748
+DO  - https://doi.org/10.2196/70620
+UR  - https://www.sciencedirect.com/science/article/pii/S1929074825005293
+KW  - functional neurological disorder
+KW  - functional movement disorder
+KW  - extended reality
+KW  - biofeedback training
+KW  - experience-based co-design
+KW  - EBCD
+KW  - quality function deployment
+KW  - QFD
+KW  - rehabilitation
+KW  - coproduction
+KW  - artificial intelligence
+KW  - AI
+AB  - Background
+Functional neurological disorder (FND), including functional movement disorders (FMDs), arises from disruptions in the perception-action cycle, where maladaptive cognitive learning processes reduce the sense of agency and motor control. FND significantly impacts quality of life, with patients often experiencing physical disability and psychological distress. Extended reality (XR) technologies present a novel therapeutic opportunity by leveraging biofeedback training to target sensory attenuation and amplification mechanisms, aiming to restore motor function and the sense of agency.
+Objective
+This study aims to coproduce and evaluate the usability of an XR technology platform for FND rehabilitation, focusing on functional limb weakness. The platform integrates biofeedback training with haptic and visual feedback to support motor relearning and control.
+Methods
+We propose to use an experience-based co-design framework to engage patients with FND, caregivers, and health care professionals in collaboratively designing the XR platform. Stakeholders can share their experiences through narrative interviews and co-design workshops, which can identify emotional touchpoints and prioritized patient-centered needs. Insights will be synthesized through qualitative analysis and used to guide the development of system requirements via quality function deployment, ensuring that the platform aligns with user needs. XR training tasks—virtual reality relaxation, XR position feedback, and XR force feedback—will be integrated as needed into a unified therapeutic game experience through 4-week Agile sprints. Usability will be assessed using the System Usability Scale and qualitative feedback, with themes analyzed in NVivo to identify key areas for subsequent improvement.
+Results
+High usability scores (>85) were recorded for the XR position feedback tasks in the predesign study, reflecting excellent usability and participant satisfaction. However, the virtual reality relaxation and XR force feedback tasks exhibited interindividual variability, underscoring the need for personalization. Key themes included customization, comfort, accessibility, and XR technological quality, ensuring that the XR platform effectively addressed diverse patient needs. The predesign study highlighted the potential of XR technology for FMD rehabilitation by integrating biofeedback training into a patient-centered game design framework. Approaches such as experience-based co-design and quality function deployment can support coproduction by systematically addressing usability and accessibility challenges. Brain-based metrics may further strengthen this evaluation. Accordingly, this study will use portable brain imaging to capture dynamic functional connectivity in key brain regions, enabling personalized interventions.
+Conclusions
+Through coproduction and iterative refinement, this study aims to demonstrate the promise of personalized XR gaming technology as a scalable, at-home solution for FMD rehabilitation. In this context, personalization and accessibility are critical for optimizing usability and long-term clinical outcomes, paving the way for at-home implementation within the FND stepped care model.
+International Registered Report Identifier (IRRID)
+PRR1-10.2196/70620
+ER  - 
+
+TY  - JOUR
+T1  - Exploring Immersive Multimodal Virtual Reality Training, Affective States, and Ecological Validity in Healthy Firefighters: Quasi-Experimental Study
+AU  - Oliveira, Joana
+AU  - Aires Dias, Joana
+AU  - Correia, Rita
+AU  - Pinheiro, Raquel
+AU  - Reis, Vítor
+AU  - Sousa, Daniela
+AU  - Agostinho, Daniel
+AU  - Simões, Marco
+AU  - Castelo-Branco, Miguel
+JO  - JMIR Serious Games
+VL  - 12
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 2291-9279
+DO  - https://doi.org/10.2196/53683
+UR  - https://www.sciencedirect.com/science/article/pii/S2291927924000825
+KW  - virtual reality
+KW  - firefighter
+KW  - training
+KW  - posttraumatic stress disorder
+KW  - PTSD
+KW  - emotion
+KW  - situational awareness
+KW  - engagement
+KW  - ecological validity
+KW  - multivariate approach
+AB  - Background
+Firefighters face stressful life-threatening events requiring fast decision-making. To better prepare for those situations, training is paramount, but errors in real-life training can be harmful. Virtual reality (VR) simulations provide the desired realism while enabling practice in a secure and controlled environment. Firefighters’ affective states are also crucial as they are a higher-risk group.
+Objective
+To assess the impact on affective states of 2 simulated immersive experiences in a sample of healthy firefighters (before, during, and after the simulation), we pursued a multivariate approach comprising cognitive performance, situational awareness, depression, anxiety, stress, number of previous adverse events experienced, posttraumatic stress disorder (PTSD) severity, and emotions. The efficacy and ecological validity of an innovative VR haptic system were also tested, exploring its impact on performance.
+Methods
+In collaboration with the Portuguese National Fire Service School, we exposed 22 healthy firefighters to 2 immersive scenarios using the FLAIM Trainer VR system (neutral and arousing scenarios) while recording physiological data in a quasi-experimental study. Baseline cognitive performance, depression, anxiety, stress, number of adverse events, and severity of PTSD symptoms were evaluated. Positive and negative affective states were measured before, between, and after each scenario. Situational awareness, sense of presence, ecological validity, engagement, and negative effects resulting from VR immersion were tested.
+Results
+Baseline positive affect score was high (mean 32.4, SD 7.2) and increased after the VR tasks (partial η2=0.52; Greenhouse-Geisser F1.82,32.78=19.73; P<.001). Contrarily, mean negative affect score remained low (range 11.0-11.9) throughout the study (partial η2=0.02; Greenhouse-Geisser F2.13,38.4=0.39; P=.69). Participants’ feedback on the VR sense of presence was also positive, reporting a high sense of physical space (mean score 3.9, SD 0.8), ecological validity (mean score 3.8, SD 0.6), and engagement (mean score 3.8, SD 0.6). Engagement was related to the number of previously experienced adverse events (r=0.49; P=.02) and positive affect (after the last VR task; r=0.55; P=.02). Conversely, participants reported few negative effects (mean score 1.7, SD 0.6). The negative effects correlated positively with negative affect (after the last VR task; r=0.53; P=.03); and avoidance (r=0.73; P<.001), a PTSD symptom, controlling for relevant baseline variables. Performance related to situational awareness was positive (mean 46.4, SD 34.5), although no relation was found to metacognitively perceived situational awareness (r=–0.12; P=.59).
+Conclusions
+We show that VR is an effective alternative to in-person training as it was considered ecologically valid and engaging while promoting positive emotions, with few negative repercussions. This corroborates the use of VR to test firefighters’ performance and situational awareness. Further research is needed to ascertain that firefighters with PTSD symptomatology are not negatively affected by VR. This study favors the use of VR training and provides new insights on its emotional and cognitive impact on the trainee.
+ER  - 
+
+TY  - JOUR
+T1  - Painting++: Human–computer collaborative painting in VR with multisensory interaction
+AU  - Li, Zhuoshu
+AU  - Chen, Pei
+AU  - Zhang, Hongbo
+AU  - Wu, Yexinrui
+AU  - Liu, Xuanhui
+JO  - Design and Artificial Intelligence
+VL  - 1
+IS  - 2
+SP  - 100019
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 3050-7413
+DO  - https://doi.org/10.1016/j.daai.2025.100019
+UR  - https://www.sciencedirect.com/science/article/pii/S3050741325000199
+KW  - Virtual reality
+KW  - Multisensory interaction
+KW  - Human–AI collaboration
+KW  - VR Painting
+KW  - Human–computer collaboration
+AB  - Extensive human–computer collaborative painting systems have been explored to assist people in ideating and creating the content of paintings. Recently, the popularity of virtual reality (VR) has opened up the novel possibility of facilitating painting by providing an immersive virtual environment. To create immersion, previous VR painting systems mainly focused on simulating real painting environments. However, our preliminary study revealed that the lack of multisensory interaction in existing VR painting applications detracted from the fully immersive experience. Grounded in the findings of the preliminary study, we developed Painting++, a human–computer collaborative painting system that synthetically integrates visual, audio, haptic, and smell feedback to enhance the sense of immersion. Particularly, the content generation ability of artificial intelligence (AI) is also adopted to assist users in obtaining completed stereo paintings from rough sketches. Painting++ has been evaluated in a comparative study with two mainstream VR painting applications (N=18). The results illustrate that multisensory interaction and AI assistance make Painting++ succeed in creating a highly immersive painting experience. Our work further reveals the distinct impact of VR painting systems on painting behavior and demonstrates the multiple roles that Painting++ plays in supporting human–computer collaborative painting.
+ER  - 
+
+TY  - JOUR
+T1  - Influences of haptic communication on a shared manual task
+AU  - Chellali, Amine
+AU  - Dumas, Cédric
+AU  - Milleville-Pennel, Isabelle
+JO  - Interacting with Computers
+VL  - 23
+IS  - 4
+SP  - 317
+EP  - 328
+PY  - 2011
+DA  - 2011/07/01/
+T2  - Cognitive Ergonomics for Situated Human-Automation Collaboration
+SN  - 0953-5438
+DO  - https://doi.org/10.1016/j.intcom.2011.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0953543811000439
+KW  - Haptic communication
+KW  - Common ground
+KW  - Collaborative virtual environments
+KW  - User-centred design
+KW  - HCI
+AB  - With the advent of new haptic feedback devices, researchers are giving serious consideration to the incorporation of haptic communication in collaborative virtual environments. For instance, haptic interactions based tools can be used for medical and related education whereby students can train in minimal invasive surgery using virtual reality before approaching human subjects. To design virtual environments that support haptic communication, a deeper understanding of humans′ haptic interactions is required. In this paper, human′s haptic collaboration is investigated. A collaborative virtual environment was designed to support performing a shared manual task. To evaluate this system, 60 medical students participated to an experimental study. Participants were asked to perform in dyads a needle insertion task after a training period. Results show that compared to conventional training methods, a visual-haptic training improves user′s collaborative performance. In addition, we found that haptic interaction influences the partners′ verbal communication when sharing haptic information. This indicates that the haptic communication training changes the nature of the users′ mental representations. Finally, we found that haptic interactions increased the sense of copresence in the virtual environment: haptic communication facilitates users′ collaboration in a shared manual task within a shared virtual environment. Design implications for including haptic communication in virtual environments are outlined.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring the role of artificial intelligence in orthopedic medical education: A narrative review
+AU  - Das, Lakshmana S.
+AU  - Das, Deepanjan
+AU  - Chandrakar, Denish
+AU  - Bhavani, Prashant
+AU  - Dubepuria, Amol
+AU  - Barik, Sitanshu
+JO  - Journal of Clinical Orthopaedics and Trauma
+VL  - 69
+SP  - 103100
+PY  - 2025
+DA  - 2025/10/01/
+SN  - 0976-5662
+DO  - https://doi.org/10.1016/j.jcot.2025.103100
+UR  - https://www.sciencedirect.com/science/article/pii/S0976566225001985
+KW  - Artificial intelligence
+KW  - Orthopedics
+KW  - Medical education
+KW  - Teaching
+AB  - Artificial intelligence (AI) is transforming orthopedic medical education by enhancing diagnostic accuracy, surgical training, and personalized learning. This narrative review explores AI's applications, including machine learning (ML) and computer vision for interpreting imaging studies, virtual reality (VR) and augmented reality (AR) for immersive surgical simulations, and natural language processing (NLP) for streamlining clinical workflows. AI-powered tools offer objective feedback, adaptive learning modules, and risk-free environments for skill acquisition, bridging gaps in traditional training methods. However, challenges such as data privacy, algorithmic bias, and the need for robust validation remain. Ethical considerations, including patient trust and trainee over-reliance on AI, must also be addressed. Despite these barriers, AI democratizes access to high-quality education, particularly in resource-limited settings, through cloud-based platforms and mobile applications. The future of AI in orthopedics is promising, with advancements in predictive analytics, robotic-assisted surgery, and haptic feedback technologies poised to further revolutionize training. Collaborative efforts among educators, clinicians, and developers are essential to ensure responsible integration. This review highlights AI's potential to reshape orthopedic education while emphasizing the importance of preserving the mentor-trainee relationship and fostering evidence-based adoption.
+ER  - 
+
+TY  - JOUR
+T1  - An efficient and scalable deformable model for virtual reality-based medical applications
+AU  - Choi, Kup-Sze
+AU  - Sun, Hanqiu
+AU  - Heng, Pheng-Ann
+JO  - Artificial Intelligence in Medicine
+VL  - 32
+IS  - 1
+SP  - 51
+EP  - 69
+PY  - 2004
+DA  - 2004/09/01/
+T2  - Atificial Intelligence in Medicine in China
+SN  - 0933-3657
+DO  - https://doi.org/10.1016/j.artmed.2004.01.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0933365704000363
+KW  - Virtual reality
+KW  - Deformable simulation
+KW  - Heuristic optimization
+KW  - Simulated annealing
+KW  - Haptic rendering
+KW  - Medical simulations
+AB  - Modeling of tissue deformation is of great importance to virtual reality (VR)-based medical simulations. Considerable effort has been dedicated to the development of interactively deformable virtual tissues. In this paper, an efficient and scalable deformable model is presented for virtual-reality-based medical applications. It considers deformation as a localized force transmittal process which is governed by algorithms based on breadth-first search (BFS). The computational speed is scalable to facilitate real-time interaction by adjusting the penetration depth. Simulated annealing (SA) algorithms are developed to optimize the model parameters by using the reference data generated with the linear static finite element method (FEM). The mechanical behavior and timing performance of the model have been evaluated. The model has been applied to simulate the typical behavior of living tissues and anisotropic materials. Integration with a haptic device has also been achieved on a generic personal computer (PC) platform. The proposed technique provides a feasible solution for VR-based medical simulations and has the potential for multi-user collaborative work in virtual environment.
+ER  - 
+
+TY  - JOUR
+T1  - Smart Manufacturing and Tactile Internet Powered by 5G: Investigation of Current Developments, Challenges, and Future Trends
+AU  - Mourtzis, Dimitris
+JO  - Procedia CIRP
+VL  - 104
+SP  - 1960
+EP  - 1969
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 54th CIRP CMS 2021 - Towards Digitalized Manufacturing 4.0
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2021.11.331
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827121012294
+KW  - Tactile Internet
+KW  - Smart Manufacturing
+KW  - 5G
+KW  - Industry 4.0
+AB  - Communication latency has been a significant barrier for many applications deployed in manufacturing networks. Despite the constant development of improved communication protocols and standards during Industry 4.0, the latency problem still exists, decreasing the Quality of Services (QoS) and Quality of experience (QoE). Therefore, high availability, security and ultra-low latency offered by Tactile Internet (TI), will create a new dimension to human-to-machine interaction (HMI) by enabling haptic and tactile sensations. The 5G mobile communication systems will support this emerging Internet at the wireless edge. Consequently, TI can be used as backbone for delay mitigation in cooperation with 5G networks, for ultra-reliable low-latency applications such as Smart Manufacturing, Virtual and Augmented Reality. Therefore, the aim of this paper is to present the state-of-the-art of 5G and TI, the challenges, the trends for 5G networks beyond 2020 and to provide a conceptual framework integrating 5G and TI to existing industrial case studies.
+ER  - 

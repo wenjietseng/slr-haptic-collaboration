@@ -1,0 +1,515 @@
+TY  - JOUR
+TI  - Visual and haptic collaborative tele-presence
+AU  - Ansar, Adnan
+AU  - Rodrigues, Denilson
+AU  - Desai, Jaydev P.
+AU  - Daniilidis, Kostas
+AU  - Kumar, Vijay
+AU  - Campos, Mario F.M.
+T2  - Computers & Graphics
+AB  - The core of a successful sense of presence is a visually, aurally, and haptically compelling experience. In this paper, we introduce the integration of vision and haptics for the purposes of remote collaboration. A remote station acquires a 3D-model of an object of interest which is transmitted to a local station. A user in the local station manipulates a virtual and the remote object as if he/she is haptically and visually at the remote station. This tele-presence feeling is achieved by visually registering the head-mounted display of the local user to the remote world and by dynamically registering the local object both visually and haptically with respect to the remote world. This can be achieved by adequate modeling and feedforward compensation including gravity compensation for the robotic manipulator with which the operator interacts. We present multiple scenarios where such a capability will be useful. One is remote design where a user tests a remotely designed docking station by inserting a virtual laptop into a model of the 3D docking station transmitted from a remote site. Medical robotics provides another possible scenario in which a resident is given surgical training to perform a virtual laparoscopy on a 3D exterior model of a patient, including tomographic registration of anatomical structures. We present results from numerous experiments from both the visual and haptic aspects as well as in integrated form. r 2001 Elsevier Science Ltd. All rights reserved.
+DA  - 2001/10//
+PY  - 2001
+DO  - 10.1016/s0097-8493(01)00121-2
+DP  - Crossref
+VL  - 25
+IS  - 5
+SP  - 789
+EP  - 798
+LA  - en
+SN  - Augmented reality; Haptics; Tele-presence; Visual registration; Visual tracking
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0097849301001212
+Y2  - 2025/07/18/14:40:39
+L1  - https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cb52d3bebc4d5a91422afafc7d94bd35d0088367
+ER  - 
+
+TY  - JOUR
+TI  - Haptic Feedback Helps Me? A VR-SAR Remote Collaborative System with Tangible Interaction
+AU  - Wang, Peng
+AU  - Bai, Xiaoliang
+AU  - Billinghurst, Mark
+AU  - Zhang, Shusheng
+AU  - Han, Dechuan
+AU  - Sun, Mengmeng
+AU  - Wang, Zhuo
+AU  - Lv, Hao
+AU  - Han, Shu
+T2  - International Journal of Human–Computer Interaction
+AB  - Research on Augmented Reality (AR)/Mixed Reality (MR) remote collaboration for physical tasks remains a compelling and dynamic area of study. AR systems have been developed which transmit virtual annotations between remote collaborators, but there has been little research on how haptic feedback can also be shared. In this paper, we present a Virtual Reality (VR)-Spatial Augmented Reality (SAR) remote collaborative system that provides haptic feedback with tangible interaction between a local worker and a remote expert helper. Using this system, we conducted a within-subject user study to compare two interfaces for remote collaboration between a local worker and expert helper, one with mid-air free drawing (MFD) and one with tangible physical drawing (TPD). The results showed that there were no significant differences with respect to performance time and operation errors. However, users felt that the TPD interface supporting passive haptic feedback could significantly improve the remote experts’ user experience in VR. Our research provides useful information on the way for gesture- and gaze-based multimodal interaction supporting haptic feedback in AR/MR remote collaboration on physical tasks.
+DA  - 2020/08/08/
+PY  - 2020
+DO  - 10.1080/10447318.2020.1732140
+DP  - Taylor and Francis+NEJM
+VL  - 36
+IS  - 13
+SP  - 1242
+EP  - 1257
+ST  - Haptic Feedback Helps Me?
+UR  - https://doi.org/10.1080/10447318.2020.1732140
+Y2  - 2025/07/16/09:29:32
+ER  - 
+
+TY  - JOUR
+TI  - Haptic Communication in Collaborative Virtual Environments
+AU  - Wang, Jinling
+AU  - Chellali, Amine
+AU  - Cao, Caroline G. L.
+T2  - Human Factors
+AB  - Objective: To understand the interaction between haptic and verbal communication, we quantified the relative effect of verbal, haptic, and haptic-plus-verbal feedback in a collaborative virtual pointing task.
+Background: Collaborative virtual environments (CVEs) provide a medium for interaction among remote participants. Better understanding of the role of haptic feedback as a supplement to verbalization can improve the design of CVEs.
+Methods: Thirty-six participants were randomly paired into 18 dyads to complete a 2-D pointing task in a CVE. In a mixed experimental design, participants completed the task in three communication conditions: haptic only (H), verbal only (V), and haptic plus verbal (HV). The order of the conditions presented to the participants was counterbalanced.
+Results: The time to task completion, path length, overshoot, and root mean square error were analyzed. Overall, performance in the V and HV conditions was significantly better than in the H condition. H was the least efficient communication channel but elicited response with the shortest reaction time. When verbalization was not available, the use of the haptic device was more likely to be exaggerated to ensure information transmission. When verbalization was used, participants converged on the use of a Cartesian coordinate system for communicating spatial information.
+Conclusion: Haptic communication can be used to complete a collaborative virtual task but is less efficient than verbal communication. A training period may help to improve the efficiency of haptic communication.
+Application: These results can be used to design remote collaboration tasks incorporating haptic components and for improving the design of CVEs that support haptic communication.
+DA  - 2016/05/01/
+PY  - 2016
+DO  - 10.1177/0018720815618808
+DP  - SAGE Journals
+VL  - 58
+IS  - 3
+SP  - 496
+EP  - 508
+J2  - Hum Factors
+LA  - EN
+SN  - computer-supported collaborations, team communication, multimodality, virtual environments, team collaboration
+UR  - https://doi.org/10.1177/0018720815618808
+Y2  - 2025/07/03/14:39:01
+L1  - https://journals.sagepub.com/doi/pdf/10.1177/0018720815618808
+ER  - 
+
+TY  - JOUR
+TI  - Modeling the effects of delayed haptic and visual feedback in a collaborative virtual environment
+AU  - Jay, Caroline
+AU  - Glencross, Mashhuda
+AU  - Hubbold, Roger
+T2  - ACM Trans. Comput.-Hum. Interact.
+AB  - Collaborative virtual environments (CVEs) enable two or more people, separated in the real world, to share the same virtual “space.” They can be used for many purposes, from teleconferencing to training people to perform assembly tasks. Unfortunately, the effectiveness of CVEs is compromised by one major problem: the delay that exists in the networks linking users together. Whilst we have a good understanding, especially in the visual modality, of how users are affected by delayed feedback from their own actions, little research has systematically examined how users are affected by delayed feedback from other people, particularly in environments that support haptic (force) feedback. The current study addresses this issue by quantifying how increasing levels of latency affect visual and haptic feedback in a collaborative target acquisition task. Our results demonstrate that haptic feedback in particular is very sensitive to low levels of delay. Whilst latency affects visual feedback from 50 ms, it impacts on haptic task performance 25 ms earlier, and causes the haptic measures of performance deterioration to rise far more steeply than visual. The “impact-perceive-adapt” model of user performance, which considers the interaction between performance measures, perception of latency, and the breakdown of perception of immediate causality, is proposed as an explanation for the observed pattern of performance.
+DA  - 2007/08/01/
+PY  - 2007
+DO  - 10.1145/1275511.1275514
+DP  - ACM Digital Library
+VL  - 14
+IS  - 2
+SP  - 8
+EP  - es
+SN  - Haptics, latency, virtual environments, distributed collaboration
+UR  - https://dl.acm.org/doi/10.1145/1275511.1275514
+Y2  - 2025/02/20/16:09:40
+L1  - https://dl.acm.org/doi/pdf/10.1145/1275511.1275514
+ER  - 
+
+TY  - JOUR
+TI  - Transatlantic Touch: A Study of Haptic Collaboration over Long Distance
+AU  - Kim, Jung
+AU  - Kim, Hyun
+AU  - Tay, Boon K.
+AU  - Muniyandi, Manivannan
+AU  - Srinivasan, Mandayam A.
+AU  - Jordan, Joel
+AU  - Mortensen, Jesper
+AU  - Oliveira, Manuel
+AU  - Slater, Mel
+T2  - Presence: Teleoperators and Virtual Environments
+AB  - The extent to which the addition of haptic communication between human users in a shared virtual environment (SVE) contributes to the shared experience of the users has not received much attention in the literature. In this paper we describe a demonstration of and an experimental study on haptic interaction between two users over a network of significant physical distance and a number of network hops. A number of techniques to mitigate instability of the haptic interactions induced by network latency are presented. An experiment to evaluate the use of haptics in a collaborative situation mediated by a networked virtual environment is examined. The experimental subjects were to cooperate in lifting a virtual box together under one of four conditions in a between-groups design. Questionnaires were used to report the ease with which they could perform the task and the subjective levels of presence and copresence experienced. This extends earlier work by the authors to consider the possibility of haptic collaboration under real network conditions with a number of improvements. Using the technology described in this paper, transatlantic touch was successfully demonstrated between the Touch Lab at Massachusetts Institute of Technology, USA and Virtual Environments and Computer Graphics (VECG) lab at University College London (UCL), UK in 2002. It was also presented at the Internet II demonstration meeting in 2002 between University of Southern California and the Massachusetts Institute of Technology.
+DA  - 2004/06/01/
+PY  - 2004
+DO  - 10.1162/1054746041422370
+DP  - Silverchair
+VL  - 13
+IS  - 3
+SP  - 328
+EP  - 337
+J2  - Presence: Teleoperators and Virtual Environments
+ST  - Transatlantic Touch
+UR  - https://doi.org/10.1162/1054746041422370
+Y2  - 2025/02/20/16:09:12
+ER  - 
+
+TY  - JOUR
+TI  - Supporting presence in collaborative environments by haptic force feedback
+AU  - Sallnäs, Eva-Lotta
+AU  - Rassmus-Gröhn, Kirsten
+AU  - Sjöström, Calle
+T2  - ACM Trans. Comput.-Hum. Interact.
+AB  - An experimental study of interaction in a collaborative desktop virtual environment is described. The aim of the experiment was to investigate if added haptic force feedback in such an environment affects 
+perceived virtual presence, perceived social presence, perceived task performance, and task performance. A between-group design was employed, where seven pairs of subjects used an interface with graphic representation of the environment, audio connection, and haptic force feedback. Seven other pairs of subjects used an interface without haptic force feedback, but with identical features otherwise. The PHANToM, a one-point haptic device, was used for the haptic force feedback, and a program especially developed for the purpose provided the virtual environment. The program enables for two individuals placed in  different locations to simultaneously feel and manipulate dynamic objects in a shared desktop virtual environment. Results show that haptic force feedback significantly improves task performance, perceived task performance, and pereceived virtual presence in the collaborative distributed environment. The results suggest that haptic force feedback increases perceived social presence, but the difference is not significant.
+DA  - 2000/12/01/
+PY  - 2000
+DO  - 10.1145/365058.365086
+DP  - ACM Digital Library
+VL  - 7
+IS  - 4
+SP  - 461
+EP  - 476
+SN  - Presence, haptic force feedback, distributed collaboration
+UR  - https://dl.acm.org/doi/10.1145/365058.365086
+Y2  - 2025/02/20/16:08:46
+L1  - https://dl.acm.org/doi/pdf/10.1145/365058.365086
+ER  - 
+
+TY  - JOUR
+TI  - An experimental study on the role of touch in shared virtual environments
+AU  - Basdogan, Cagatay
+AU  - Ho, Chih-Hao
+AU  - Srinivasan, Mandayam A.
+AU  - Slater, Mel
+T2  - ACM Trans. Comput.-Hum. Interact.
+AB  - Investigating virtual environments has become an increasingly interesting research topic for engineers, computer and cognitive scientists, and psychologists. Although there have been several recent studies focused on the development of multimodal virtual environments (VEs) to study human-machine interactions, less attention has been paid to human-human and human-machine interactions in shared virtual environments (SVEs), and to our knowledge, no attention paid at all to what extent the addition of haptic communication between people would contribute to the shared experience. We have developed a multimodal shared virtual environment and performed a set of experiments with human subjects to study the role of haptic feedback in collaborative tasks and whether haptic communication through force feedback can facilitate a sense of being and collaborating with a remote partner. The study concerns a scenario where two participants at remote sites must cooperate to perform a joint task in an SVE. The goals of the study are (1) to assess the impact of force feedback on task performance, (2) to better understand the role of haptic communication in human-human interactions, (3) to study the impact of touch on the subjective sense of collaborating with a human as reported by the participants based on what they could see and feel, and (4) to investigate if gender, personality, or emotional experiences of users can affect haptic communication in SVEs. The outcomes of this research can have a powerful impact on the development of next-generation human-computer interfaces and network protocols that integrate touch and force feedback technology into the internet, development of protocols and techniques for collaborative teleoperation such as hazardous material removal, space station.
+DA  - 2000/12/01/
+PY  - 2000
+DO  - 10.1145/365058.365082
+DP  - ACM Digital Library
+VL  - 7
+IS  - 4
+SP  - 443
+EP  - 460
+SN  - Shared virtual environments, force feedback devices, haptic interaction, copresence
+UR  - https://dl.acm.org/doi/10.1145/365058.365082
+Y2  - 2025/02/20/16:06:54
+L1  - https://dl.acm.org/doi/pdf/10.1145/365058.365082
+N1  - <div data-schema-version="8"><p>The sense and action of touch takes a crucial role in haptic communication.<br></p>
+<p>The measurement includes performance (based on the co-manipulating task)<br>The task is co-manipulating a virtual ring through a cursor, supported with haptic feedback. The sense of togetherness is one of the earliest measure in this topic, I guess.</p>
+<p><br>And the sense of being together…</p>
+</div>
+ER  - 
+
+TY  - JOUR
+TI  - Exploring Remote Collaborative Tasks: The Impact of Avatar Representation on Dyadic Haptic Interactions in Shared Virtual Environments
+AU  - Sasaki, Genki
+AU  - Igarashi, Hiroshi
+T2  - IEEE Transactions on Visualization and Computer Graphics
+AB  - This study is the first to explore the interplay between haptic interaction and avatar representation in Shared Virtual Environments (SVEs). Specifically, how these factors shape users' sense of social presence during dyadic collaborations, while assessing potential effects on task performance. In a series of experiments, participants performed the collaborative task with haptic interaction under four avatar representation conditions: avatars of both participant and partner were displayed, only the participant's avatar was displayed, only the partner's avatar was displayed, and no avatars were displayed. The study finds that avatar representation, especially of the partner, significantly enhances the perception of social presence, which haptic interaction alone does not fully achieve. However, neither the presence nor the type of avatar representation impacts the task performance or participants' force effort of the task, suggesting that haptic interaction provides sufficient interaction cues for the execution of the task. These results underscore the significance of integrating both visual and haptic modalities to optimize remote collaboration experiences in virtual environments, ensuring effective communication and a strong sense of social presence.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/TVCG.2025.3580546
+DP  - arXiv.org
+SP  - 1
+EP  - 13
+J2  - IEEE Trans. Visual. Comput. Graphics
+SN  - HCI, Avatar Representation, Haptic Interaction, Haptic communication, Remote Collaboration, Virtual human, Social interaction, Collaborative virtual environments, Shared virtual environments
+ST  - Exploring Remote Collaborative Tasks
+UR  - http://arxiv.org/abs/2409.08577
+Y2  - 2025/08/20/15:39:02
+L1  - http://arxiv.org/pdf/2409.08577v2
+L2  - http://arxiv.org/abs/2409.08577
+KW  - Computer Science - Human-Computer Interaction
+KW  - Computer Science - Robotics
+ER  - 
+
+TY  - JOUR
+TI  - Recognition of Haptic Interaction Patterns in Dyadic Joint Object Manipulation
+AU  - Madan, Cigil Ece
+AU  - Kucukyilmaz, Ayse
+AU  - Sezgin, Tevfik Metin
+AU  - Basdogan, Cagatay
+T2  - IEEE Transactions on Haptics
+AB  - The development of robots that can physically cooperate with humans has attained interest in the last decades. Obviously, this effort requires a deep understanding of the intrinsic properties of interaction. Up to now, many researchers have focused on inferring human intents in terms of intermediate or terminal goals in physical tasks. On the other hand, working side by side with people, an autonomous robot additionally needs to come up with in-depth information about underlying haptic interaction patterns that are typically encountered during human-human cooperation. However, to our knowledge, no study has yet focused on characterizing such detailed information. In this sense, this work is pioneering as an effort to gain deeper understanding of interaction patterns involving two or more humans in a physical task. We present a labeled human-human-interaction dataset, which captures the interaction of two humans, who collaboratively transport an object in an haptics-enabled virtual environment. In the light of information gained by studying this dataset, we propose that the actions of cooperating partners can be examined under three interaction types: In any cooperative task, the interacting humans either 1) work in harmony, 2) cope with conflicts, or 3) remain passive during interaction. In line with this conception, we present a taxonomy of human interaction patterns; then propose five different feature sets, comprising force-, velocity-and power-related information, for the classification of these patterns. Our evaluation shows that using a multi-class support vector machine (SVM) classifier, we can accomplish a correct classification rate of 86 percent for the identification of interaction patterns, an accuracy obtained by fusing a selected set of most informative features by Minimum Redundancy Maximum Relevance (mRMR) feature selection method.
+DA  - 2015/01//
+PY  - 2015
+DO  - 10.1109/TOH.2014.2384049
+DP  - IEEE Xplore
+VL  - 8
+IS  - 1
+SP  - 54
+EP  - 66
+SN  - Behavior recognition; classifier design and evaluation; feature evaluation and selection; haptic collaboration; haptic interfaces; haptics-enabled virtual environments; interaction patterns; machine learning; pattern recognition; physical human-X interaction; realistic haptic human-robot interaction; support vector machine classification
+UR  - https://ieeexplore.ieee.org/abstract/document/6991578/keywords
+Y2  - 2025/08/25/13:59:04
+L1  - https://nottingham-repository.worktribe.com/preview/4040585/2015-Madan-ToH2015-Recognition.pdf
+L2  - https://ieeexplore.ieee.org/abstract/document/6991578/keywords
+KW  - Haptic interfaces
+KW  - Pattern recognition
+KW  - Virtual environments
+KW  - machine learning
+KW  - Joints
+KW  - Robots
+KW  - Hip
+KW  - haptic interfaces
+KW  - Force
+KW  - Behavior recognition
+KW  - classifier design and evaluation
+KW  - feature evaluation and selection
+KW  - haptic collaboration
+KW  - haptics-enabled virtual environments
+KW  - interaction patterns
+KW  - pattern recognition
+KW  - physical human-X interaction
+KW  - realistic haptic human-robot interaction
+KW  - support vector machine classification
+ER  - 
+
+TY  - JOUR
+TI  - Study of Kinesthetic Negotiation Ability in Lightweight Comanipulative Decision-making Tasks: Design and Study of a Virtual Partner based on Human-human Interaction Observation
+AU  - Roche, Lucas
+AU  - Saint-Bauzel, Ludovic
+T2  - ACM Transactions on Human-Robot Interaction
+AB  - This article presents the results of an experiment on physical Human-Human Interaction (pHHI), where human dyads cooperate on a one-dimensional comanipulative task in a novel lightweight teleoperation setup. The results of this experiment show that humans are able to handle asymmetrical information about the task and solve conflicts using only the kinesthetic channel. Data from the pHHI experiment is used to design a virtual partner that can perform the task alongside a human. The virtual partner behavior is based on the observation that initiative is highly correlated to decision-making in our pHHI negotiation scenario. The virtual agent is then evaluated in a physical Human-Robot Interaction (pHRI) experiment. The results of the second experiment show that the virtual partner is able to perform the task without compromising the performances of the dyad and that a similar role distribution is observed in human-human and human-robot dyads. Moreover, the knowledge of the partner’s nature does not seem to influence the performances. The results obtained with the virtual partner are encouraging and could be used to design kinesthetic negotiation algorithms in pHRI settings.
+The main contributions of this article are: (1) supporting evidence of the possibility for humans to use the kinesthetic channel as mean of negotiation during physical Human-Human Interaction in the lightest known impedance negotiation tasks (with no virtual mass involved), (2) highlighting of the correlation between initiative and dyadic decision making, (3) design of a simple yet efficient virtual partner algorithm capable of realistic physical Human-Robot Interaction in the one-dimension tracking task used in the experimental setup. This design combines minimum jerk trajectory, switching role ability, decision criteria, and statistical parameters that are detailed in this article.
+DA  - 2022/02/08/
+PY  - 2022
+DO  - 10.1145/3485753
+DP  - dl.acm.org (Atypon)
+VL  - 11
+IS  - 2
+SP  - 1
+EP  - 23
+SN  - Physical human-human interaction, physical human-robot interaction, haptic negotiation, comanipulation
+ST  - Study of Kinesthetic Negotiation Ability in Lightweight Comanipulative Decision-making Tasks
+UR  - https://dl.acm.org/doi/full/10.1145/3485753
+Y2  - 2025/08/25/14:09:16
+L1  - https://dl.acm.org/doi/pdf/10.1145/3485753
+KW  - comanipulation
+KW  - haptic negotiation
+KW  - Physical human-human interaction
+KW  - physical human-robot interaction
+ER  - 
+
+TY  - JOUR
+TI  - Group Haptic Collaboration: Evaluation of Teamwork Behavior during VR Four-Person Rowing Task
+AU  - Tian, Bohao
+AU  - Zheng, Yilei
+AU  - Zhuang, Zhiqi
+AU  - Luo, Hu
+AU  - Zhang, Yuru
+AU  - Wang, Dangxiao
+T2  - IEEE Transactions on Haptics
+AB  - The assessment of multi-person group collaboration has garnered increasing attention in recent years. However, it remains uncertain whether haptic information can be effectively utilized to measure teamwork behavior. This study seeks to evaluate teamwork competency within four-person groups and differentiate the contributions of individual members through a haptic collaborative task. To achieve this, we propose a paradigm in which four crews collaboratively manipulate a simulated boat to row along a target curve in a shared haptic-enabled virtual environment. We define eight features related to boat trajectory and synchronization among the four crews' paddling movements, which serve as indicators of teamwork competency. These features are then integrated into a comprehensive feature, and its correlation with self-reported teamwork competency is analyzed. The results demonstrate a strong positive correlation (r>0.8) between the comprehensive feature and teamwork competency. Additionally, we extract two kinesthetic features that represent the paddling movement preferences of each crew member, enabling us to distinguish their contributions within the group. These two features of the crews with the highest and the lowest contribution in each group were significantly different. This work demonstrates the feasibility of kinesthetic features in evaluating teamwork behavior during multi-person haptic collaboration tasks.
+DA  - 2024/07//
+PY  - 2024
+DO  - 10.1109/TOH.2023.3346683
+DP  - IEEE Xplore
+VL  - 17
+IS  - 3
+SP  - 384
+EP  - 395
+SN  - Group haptic collaboration, teamwork behavior, kinesthetic feature, teamwork competency, members' contribution, four-person rowing, paddling movement
+ST  - Group Haptic Collaboration
+UR  - https://ieeexplore.ieee.org/abstract/document/10373120
+Y2  - 2025/08/25/14:12:19
+L2  - https://ieeexplore.ieee.org/abstract/document/10373120
+KW  - Behavioral sciences
+KW  - Boats
+KW  - Collaboration
+KW  - Feature extraction
+KW  - Federated learning
+KW  - four-person rowing
+KW  - Group haptic collaboration
+KW  - Haptic interfaces
+KW  - Kinematics
+KW  - kinesthetic feature
+KW  - members' contri- bution
+KW  - paddling movement
+KW  - Teamwork
+KW  - teamwork behavior
+KW  - teamwork competency
+ER  - 
+
+TY  - JOUR
+TI  - Influences of haptic communication on a shared manual task
+AU  - Chellali, Amine
+AU  - Dumas, Cédric
+AU  - Milleville-Pennel, Isabelle
+T2  - Interacting with Computers
+T3  - Cognitive Ergonomics for Situated Human-Automation Collaboration
+AB  - With the advent of new haptic feedback devices, researchers are giving serious consideration to the incorporation of haptic communication in collaborative virtual environments. For instance, haptic interactions based tools can be used for medical and related education whereby students can train in minimal invasive surgery using virtual reality before approaching human subjects. To design virtual environments that support haptic communication, a deeper understanding of humans′ haptic interactions is required. In this paper, human′s haptic collaboration is investigated. A collaborative virtual environment was designed to support performing a shared manual task. To evaluate this system, 60 medical students participated to an experimental study. Participants were asked to perform in dyads a needle insertion task after a training period. Results show that compared to conventional training methods, a visual-haptic training improves user′s collaborative performance. In addition, we found that haptic interaction influences the partners′ verbal communication when sharing haptic information. This indicates that the haptic communication training changes the nature of the users′ mental representations. Finally, we found that haptic interactions increased the sense of copresence in the virtual environment: haptic communication facilitates users′ collaboration in a shared manual task within a shared virtual environment. Design implications for including haptic communication in virtual environments are outlined.
+DA  - 2011/07/01/
+PY  - 2011
+DO  - 10.1016/j.intcom.2011.05.002
+DP  - ScienceDirect
+VL  - 23
+IS  - 4
+SP  - 317
+EP  - 328
+J2  - Interacting with Computers
+SN  - Haptic communication, Common ground, Collaborative virtual environments, User-centred design, HCI
+UR  - https://www.sciencedirect.com/science/article/pii/S0953543811000439
+Y2  - 2025/08/25/14:23:18
+L1  - https://hal.archives-ouvertes.fr/hal-00595492/file/IWC-SI-ECCE2010_Final_CR.pdf
+L2  - https://www.sciencedirect.com/science/article/pii/S0953543811000439
+KW  - HCI
+KW  - Collaborative virtual environments
+KW  - Common ground
+KW  - Haptic communication
+KW  - User-centred design
+ER  - 
+
+TY  - JOUR
+TI  - ColabAR: A Toolkit for Remote Collaboration in Tangible Augmented Reality Laboratories
+AU  - Villanueva, Ana
+AU  - Zhu, Zhengzhe
+AU  - Liu, Ziyi
+AU  - Wang, Feiyang
+AU  - Chidambaram, Subramanian
+AU  - Ramani, Karthik
+T2  - Proc. ACM Hum.-Comput. Interact.
+AB  - Current times are accelerating new technologies to provide high-quality education for remote collaboration, as well as hands-on learning. This is particularly important in the case of laboratory-based classes, which play an essential role in STEM education. In this paper, we introduce ColabAR, a toolkit that uses physical proxies to manipulate virtual objects in Tangible Augmented Reality (TAR) laboratories. ColabAR introduces haptic-based customizable interaction techniques to promote remote collaboration between students. Our toolkit provides hardware and software that enable haptic feedback to improve user experience and promote collaboration during learning. Also, we present the architecture of our cloud platform for haptic interaction that supports information sharing between students in a TAR laboratory. We performed two user studies (N=40) to test the effect of our toolkit in enriching local and remote collaborative experiences. Finally, we demonstrated that our TAR laboratory enables students' performance (i.e., lab completion rate, lab scores) to be similar to their performance in an in-person laboratory.
+DA  - 2022/04/07/
+PY  - 2022
+DO  - 10.1145/3512928
+DP  - ACM Digital Library
+VL  - 6
+IS  - CSCW1
+SP  - 81:1
+EP  - 81:22
+SN  - Augmented Reality; tangibles; haptics; remote; collaboration; laboratory; STEM; distance; learning; education
+ST  - ColabAR
+UR  - https://dl.acm.org/doi/10.1145/3512928
+Y2  - 2025/08/25/14:31:48
+L1  - https://dl.acm.org/doi/pdf/10.1145/3512928
+ER  - 
+
+TY  - CONF
+TI  - I’m in Control! Transferring Object Ownership Between Remote Users with Haptic Props in Virtual Reality
+AU  - Auda, Jonas
+AU  - Busse, Leon
+AU  - Pfeuffer, Ken
+AU  - Gruenefeld, Uwe
+AU  - Rivu, Radiah
+AU  - Alt, Florian
+AU  - Schneegass, Stefan
+T3  - SUI '21
+AB  - Virtual Reality (VR) remote collaboration is becoming more and more relevant in a wide range of scenarios, such as remote assistance or group work. A way to enhance the user experience is using haptic props that make virtual objects graspable. But physical objects are only present in one location and cannot be manipulated directly by remote users. We explore different strategies to handle ownership of virtual objects enhanced by haptic props. In particular, two strategies of handling object ownership – SingleOwnership and SharedOwnership. SingleOwnership restricts virtual objects to local haptic props, while SharedOwnership allows collaborators to take over ownership of virtual objects using local haptic props. We study both strategies for a collaborative puzzle task regarding their influence on performance and user behavior. Our findings show that SingleOwnership increases communication and enhanced with virtual instructions, results in higher task completion times. SharedOwnership is less reliant on verbal communication and faster, but there is less social interaction between the collaborators.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2021 ACM Symposium on Spatial User Interaction
+DA  - 2021/11/09/
+PY  - 2021
+DO  - 10.1145/3485279.3485287
+DP  - ACM Digital Library
+SP  - 1
+EP  - 10
+PB  - Association for Computing Machinery
+SN  - Virtual Reality, Collaboration, Haptic Props, Interaction Techniques
+UR  - https://dl.acm.org/doi/10.1145/3485279.3485287
+Y2  - 2025/08/25/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3485279.3485287
+ER  - 
+
+TY  - JOUR
+TI  - Towards Bare-Hand Interaction for Whiteboard Collaboration in Virtual Reality
+AU  - Liu, Guangtian
+AU  - Su, Haonan
+AU  - Wang, Jingyu
+AU  - Qi, Qi
+AU  - Sun, Haifeng
+AU  - Zhuang, Zirui
+AU  - Ren, Pengfei
+AU  - Liao, Jianxin
+T2  - Proc. ACM Hum.-Comput. Interact.
+AB  - Whiteboard collaboration in virtual reality (VR) is an important task in collaborative virtual environments. The current research mainly relies on the use of controllers or dedicated pens but additional devices will cause inconvenience to users. Bare-hand writing offers rich collaborative semantics through natural gestures but remains underexplored. This paper addresses challenges and solutions for bare-hand whiteboard collaboration. We analyze the input process and identify key challenges in determining pen-drop, writing, and pen-lift intentions while maintaining user control over their avatar. Our approach addresses two VR scenarios: one without and one with physical planes. The method for the first case is called Air-writing, which dynamically adjusts the distance between the avatar's torso and the virtual whiteboard during the processes of pen-drop and pen-lift to ensure a consistent writing experience in VR. The method for the second case is called Physical-writing, which allows users to write smoothly with passive haptic feedback and physical constraints provided by the real surface by remapping the whiteboard in VR with a plane in reality. A comprehensive user study is conducted to evaluate communication efficiency, input accuracy, collaboration efficiency, and user experience of the two methods. The experimental results indicate that bare-hand interaction improves communication efficiency by 8% over controllers and performs similarly to real-world whiteboard collaboration. The Physical-writing method also demonstrates higher accuracy and user satisfaction compared to the Air-writing method.
+DA  - 2025/05/02/
+PY  - 2025
+DO  - 10.1145/3711092
+DP  - ACM Digital Library
+VL  - 9
+IS  - 2
+SP  - CSCW194:1
+EP  - CSCW194:31
+SN  - Virtual Reality, bare-hand whiteboard collaboration
+UR  - https://dl.acm.org/doi/10.1145/3711092
+Y2  - 2025/08/26/11:56:38
+L1  - https://dl.acm.org/doi/pdf/10.1145/3711092
+ER  - 
+
+TY  - CONF
+TI  - HoloBots: Augmenting Holographic Telepresence with Mobile Robots for Tangible Remote Collaboration in Mixed Reality
+AU  - Ihara, Keiichi
+AU  - Faridan, Mehrad
+AU  - Ichikawa, Ayumi
+AU  - Kawaguchi, Ikkaku
+AU  - Suzuki, Ryo
+T3  - UIST '23
+AB  - This paper introduces HoloBots, a mixed reality remote collaboration system that augments holographic telepresence with synchronized mobile robots. Beyond existing mixed reality telepresence, HoloBots lets remote users not only be visually and spatially present, but also physically engage with local users and their environment. HoloBots allows the users to touch, grasp, manipulate, and interact with the remote physical environment as if they were co-located in the same shared space. We achieve this by synchronizing holographic user motion (Hololens 2 and Azure Kinect) with tabletop mobile robots (Sony Toio). Beyond the existing physical telepresence, HoloBots contributes to an exploration of broader design space, such as object actuation, virtual hand physicalization, world-in-miniature exploration, shared tangible interfaces, embodied guidance, and haptic communication. We evaluate our system with twelve participants by comparing it with hologram-only and robot-only conditions. Both quantitative and qualitative results confirm that our system significantly enhances the level of co-presence and shared experience, compared to the other conditions.
+C1  - New York, NY, USA
+C3  - Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology
+DA  - 2023/10/29/
+PY  - 2023
+DO  - 10.1145/3586183.3606727
+DP  - ACM Digital Library
+SP  - 1
+EP  - 12
+PB  - Association for Computing Machinery
+SN  - Mixed Reality; Remote Collaboration; Physical Telepresence; Mobile Robots; Actuated Tangible UI;
+ST  - HoloBots
+UR  - https://dl.acm.org/doi/10.1145/3586183.3606727
+Y2  - 2025/08/26/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3586183.3606727
+ER  - 
+
+TY  - JOUR
+TI  - Mentor-Guided Learning in Immersive Virtual Environments: The Impact of Visual and Haptic Feedback on Skill Acquisition
+AU  - Lebrun, Flavien
+AU  - Simon, Cassandre
+AU  - Boukezzi, Assia
+AU  - Otmane, Samir
+AU  - Chellali, Amine
+T2  - IEEE Transactions on Visualization and Computer Graphics
+AB  - In the early stages of learning a technical skill, trainees require guidance from a mentor through augmented feedback to develop higher expertise. However, the impact of such feedback and the different modalities used to communicate it remain underexplored in immersive virtual environments (IVE). This paper presents a study in which 27 participants were divided into three groups to learn a tool manipulation trajectory in an IVE. Two experimental groups received guidance from an expert using visual and/or haptic augmented feedback, while the control group received no feedback. The results indicate that both experimental groups showed significantly greater improvement in tool trajectory performance than the control group from pre- to post-test, with no significant differences between them. Analysis of their learning curves revealed similar performance improvements in tool trajectory across trials, outperforming the control group. Additionally, the visual-haptic feedback condition was linked to lower task load in three out of six dimensions of the NASA-TLX and a higher perceived interdependence with the expert’s actions. These findings suggest that augmented feedback from an expert enhances the learning of tool manipulation skills. Although adding haptic feedback did not lead to better learning outcomes compared to visual feedback alone, it did enhance the overall user experience. These results offer valuable insights for designing IVEs that support mentor-trainee interactions through augmented feedback.
+DA  - 2025/05//
+PY  - 2025
+DO  - 10.1109/TVCG.2025.3549547
+DP  - DOI.org (Crossref)
+VL  - 31
+IS  - 5
+SP  - 3547
+EP  - 3557
+J2  - IEEE Trans. Visual. Comput. Graphics
+LA  - en
+SN  - 1077-2626, 1941-0506, 2160-9306
+ST  - Mentor-Guided Learning in Immersive Virtual Environments
+UR  - https://ieeexplore.ieee.org/document/10918861/
+Y2  - 2025/09/25/07:03:44
+L1  - https://hal.science/hal-04956417/file/Mentor_Guided_LearningIEEEVR2025_CR-1.pdf
+ER  - 
+
+TY  - CONF
+TI  - CollabJam: Studying Collaborative Haptic Experience Design for On-Body Vibrotactile Patterns
+AU  - Wittchen, Dennis
+AU  - Ramian, Alexander
+AU  - Sabnis, Nihar
+AU  - Böhme, Richard
+AU  - Chlebowski, Christopher
+AU  - Freitag, Georg
+AU  - Fruchard, Bruno
+AU  - Degraen, Donald
+T3  - CHI '25
+AB  - Designing vibrotactile experiences collaboratively requires communicating using multiple senses. This is challenging in remote scenarios as designers need to effectively express and communicate their intention while iteratively building and refining experiences, ideally in real-time. We formulate design considerations for collaborative haptic design tools, and propose CollabJam, a collaborative prototyping suite enabling remote synchronous design of vibrotactile experiences for on-body applications. We first outline CollabJam’s features and present a technical evaluation. Second, we use CollabJam to understand communication and design patterns used during haptic experience design. We performed an in-depth design evaluation spanning four sessions in which four pairs of participants designed and reviewed vibrotactile experiences remotely. A qualitative content analysis revealed how multi-sensory communication is essential to convey ideas, how stimulating the tactile sense can interfere with personal boundaries, and how freely placing actuators on the skin can provide both benefits and challenges.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems
+DA  - 2025/04/25/
+PY  - 2025
+DO  - 10.1145/3706598.3713469
+DP  - ACM Digital Library
+SP  - 1
+EP  - 20
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1394-1
+ST  - CollabJam
+UR  - https://dl.acm.org/doi/10.1145/3706598.3713469
+Y2  - 2025/09/25/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3706598.3713469
+ER  - 
+
+TY  - CONF
+TI  - A Haptic-enabled, Distributed and Networked Immersive System for Multi-User Collaborative Virtual Reality
+AU  - Van Damme, Sam
+AU  - Van de Velde, Fangio
+AU  - Sameri, Mohammad Javad
+AU  - De Turck, Filip
+AU  - Vega, Maria Torres
+T3  - IXR '23
+AB  - Virtual Reality (VR) is gaining attention in various domains such as entertainment, industry, mental healthcare and VR training. Al- though most of these use-cases are still limited to single-user tasks, a lot of applications are heavily depending on multi-user collaboration. Existing multi-user VR systems are most often created in a classic server-client architecture, however, which induces unpredictable network behaviour which can affect the end-user's Quality-of-Experience (QoE) and performance. In addition, the interaction methods in these systems are often constrained to either traditional VR controllers or very use-case specific interaction methods, such that general purpose haptic gloves form a somewhat under-explored part of literature. Therefore, we (i) present a networked, distributed multi-user VR system with synchronization of environments over a low-bandwidth networked connection. In addition, we (ii) enhance the experience by adding haptic gloves to the system, which we compare to the traditional VR controllers in a subjective experiment. As a proof-of-concept, a use case is implemented in which two users have to prepare and bake a virtual pizza. The results show that high framerates (&gt; 90 Frames Per Second (FPS)) can be obtained while keeping network throughput to a minimum ( &lt; 1 Mbps). The accompanying user study shows that haptic gloves are preferred when immersiveness is the main emphasis of the virtual environment, while controllers are more suited when performance is in the center of attention. In objective terms, the applicability of haptic feedback is highly dependent on the task at hand.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2nd International Workshop on Interactive eXtended Reality
+DA  - 2023/10/29/
+PY  - 2023
+DO  - 10.1145/3607546.3616804
+DP  - ACM Digital Library
+SP  - 11
+EP  - 19
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0280-8
+UR  - https://dl.acm.org/doi/10.1145/3607546.3616804
+Y2  - 2025/09/25/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3607546.3616804
+ER  - 
+
