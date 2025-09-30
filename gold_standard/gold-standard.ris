@@ -239,32 +239,6 @@ KW  - support vector machine classification
 ER  - 
 
 TY  - JOUR
-TI  - Study of Kinesthetic Negotiation Ability in Lightweight Comanipulative Decision-making Tasks: Design and Study of a Virtual Partner based on Human-human Interaction Observation
-AU  - Roche, Lucas
-AU  - Saint-Bauzel, Ludovic
-T2  - ACM Transactions on Human-Robot Interaction
-AB  - This article presents the results of an experiment on physical Human-Human Interaction (pHHI), where human dyads cooperate on a one-dimensional comanipulative task in a novel lightweight teleoperation setup. The results of this experiment show that humans are able to handle asymmetrical information about the task and solve conflicts using only the kinesthetic channel. Data from the pHHI experiment is used to design a virtual partner that can perform the task alongside a human. The virtual partner behavior is based on the observation that initiative is highly correlated to decision-making in our pHHI negotiation scenario. The virtual agent is then evaluated in a physical Human-Robot Interaction (pHRI) experiment. The results of the second experiment show that the virtual partner is able to perform the task without compromising the performances of the dyad and that a similar role distribution is observed in human-human and human-robot dyads. Moreover, the knowledge of the partner’s nature does not seem to influence the performances. The results obtained with the virtual partner are encouraging and could be used to design kinesthetic negotiation algorithms in pHRI settings.
-The main contributions of this article are: (1) supporting evidence of the possibility for humans to use the kinesthetic channel as mean of negotiation during physical Human-Human Interaction in the lightest known impedance negotiation tasks (with no virtual mass involved), (2) highlighting of the correlation between initiative and dyadic decision making, (3) design of a simple yet efficient virtual partner algorithm capable of realistic physical Human-Robot Interaction in the one-dimension tracking task used in the experimental setup. This design combines minimum jerk trajectory, switching role ability, decision criteria, and statistical parameters that are detailed in this article.
-DA  - 2022/02/08/
-PY  - 2022
-DO  - 10.1145/3485753
-DP  - dl.acm.org (Atypon)
-VL  - 11
-IS  - 2
-SP  - 1
-EP  - 23
-SN  - Physical human-human interaction, physical human-robot interaction, haptic negotiation, comanipulation
-ST  - Study of Kinesthetic Negotiation Ability in Lightweight Comanipulative Decision-making Tasks
-UR  - https://dl.acm.org/doi/full/10.1145/3485753
-Y2  - 2025/08/25/14:09:16
-L1  - https://dl.acm.org/doi/pdf/10.1145/3485753
-KW  - comanipulation
-KW  - haptic negotiation
-KW  - Physical human-human interaction
-KW  - physical human-robot interaction
-ER  - 
-
-TY  - JOUR
 TI  - Group Haptic Collaboration: Evaluation of Teamwork Behavior during VR Four-Person Rowing Task
 AU  - Tian, Bohao
 AU  - Zheng, Yilei
@@ -287,14 +261,14 @@ ST  - Group Haptic Collaboration
 UR  - https://ieeexplore.ieee.org/abstract/document/10373120
 Y2  - 2025/08/25/14:12:19
 L2  - https://ieeexplore.ieee.org/abstract/document/10373120
-KW  - Behavioral sciences
-KW  - Boats
+KW  - Haptic interfaces
 KW  - Collaboration
 KW  - Feature extraction
+KW  - Behavioral sciences
+KW  - Boats
 KW  - Federated learning
 KW  - four-person rowing
 KW  - Group haptic collaboration
-KW  - Haptic interfaces
 KW  - Kinematics
 KW  - kinesthetic feature
 KW  - members' contri- bution

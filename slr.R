@@ -18,7 +18,7 @@ lapply(packages, library, character.only = TRUE)
 # Naive search term is:
 # ("collaborative virtual environment" OR
 ## "shared virtual environment" OR "remote collaboration") AND "haptic"
-search_directory <- "~/Documents/slr-haptic-collaboration/polished_search/"
+search_directory <- "~/Documents/slr-haptic-collaboration/polished_search//"
 naive_import <- litsearchr::import_results(search_directory, verbose = TRUE)
 naive_results <- litsearchr::remove_duplicates(naive_import, field = "title", method = "string_osa")
 table(naive_import$filename)
@@ -42,9 +42,9 @@ ggplot(dta, aes(x=cleaned_year)) +
   theme(axis.text.x = element_text(angle = -60))
 
 ## Check: if we cover the final list
-golden_standard_import <- litsearchr::import_results("./golden_standard/", verbose = TRUE)
+golden_standard_import <- litsearchr::import_results("./gold_standard/", verbose = TRUE)
 sum(tolower(golden_standard_import$title) %in% tolower(dta$title))
-length(golden_standard_import$title) # 16/19
+length(golden_standard_import$title) # 16/18
 golden_standard_import$title[!(tolower(golden_standard_import$title) %in% tolower(dta$title))] 
 
 # in 10 years
