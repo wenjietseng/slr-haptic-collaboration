@@ -241,3 +241,9 @@ keyword_type <- c(rep("core", length(search_terms_core)), rep("medium", length(s
 write.table(data.frame(keywords, keyword_type), "./search_terms/2509.csv",
             row.names = FALSE, col.names = TRUE,
             sep = ";")
+
+# prepare sample screening
+set.seed(07102025)
+wj <- sort(sample(1:340, 50))
+fla <- c(1:340)[-wj]
+fla <- sort(c(sample(wj, 25), sample(fla, 25)))
