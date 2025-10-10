@@ -192,6 +192,10 @@ UR  - http://arxiv.org/abs/2409.08577
 Y2  - 2025/08/20/15:39:02
 L1  - http://arxiv.org/pdf/2409.08577v2
 L2  - http://arxiv.org/abs/2409.08577
+N1  - <div data-citation-items="%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fgroups%2F5879817%2Fitems%2FHW7JDGJ2%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fgroups%2F5879817%2Fitems%2FHW7JDGJ2%22%2C%22type%22%3A%22article-journal%22%2C%22abstract%22%3A%22This%20study%20is%20the%20first%20to%20explore%20the%20interplay%20between%20haptic%20interaction%20and%20avatar%20representation%20in%20Shared%20Virtual%20Environments%20(SVEs).%20Specifically%2C%20how%20these%20factors%20shape%20users'%20sense%20of%20social%20presence%20during%20dyadic%20collaborations%2C%20while%20assessing%20potential%20effects%20on%20task%20performance.%20In%20a%20series%20of%20experiments%2C%20participants%20performed%20the%20collaborative%20task%20with%20haptic%20interaction%20under%20four%20avatar%20representation%20conditions%3A%20avatars%20of%20both%20participant%20and%20partner%20were%20displayed%2C%20only%20the%20participant's%20avatar%20was%20displayed%2C%20only%20the%20partner's%20avatar%20was%20displayed%2C%20and%20no%20avatars%20were%20displayed.%20The%20study%20finds%20that%20avatar%20representation%2C%20especially%20of%20the%20partner%2C%20significantly%20enhances%20the%20perception%20of%20social%20presence%2C%20which%20haptic%20interaction%20alone%20does%20not%20fully%20achieve.%20However%2C%20neither%20the%20presence%20nor%20the%20type%20of%20avatar%20representation%20impacts%20the%20task%20performance%20or%20participants'%20force%20effort%20of%20the%20task%2C%20suggesting%20that%20haptic%20interaction%20provides%20sufficient%20interaction%20cues%20for%20the%20execution%20of%20the%20task.%20These%20results%20underscore%20the%20significance%20of%20integrating%20both%20visual%20and%20haptic%20modalities%20to%20optimize%20remote%20collaboration%20experiences%20in%20virtual%20environments%2C%20ensuring%20effective%20communication%20and%20a%20strong%20sense%20of%20social%20presence.%22%2C%22container-title%22%3A%22IEEE%20Transactions%20on%20Visualization%20and%20Computer%20Graphics%22%2C%22DOI%22%3A%2210.1109%2FTVCG.2025.3580546%22%2C%22ISSN%22%3A%22HCI%2C%20Avatar%20Representation%2C%20Haptic%20Interaction%2C%20Haptic%20communication%2C%20Remote%20Collaboration%2C%20Virtual%20human%2C%20Social%20interaction%2C%20Collaborative%20virtual%20environments%2C%20Shared%20virtual%20environments%22%2C%22journalAbbreviation%22%3A%22IEEE%20Trans.%20Visual.%20Comput.%20Graphics%22%2C%22note%22%3A%22arXiv%3A2409.08577%20%5Bcs%5D%22%2C%22page%22%3A%221-13%22%2C%22source%22%3A%22arXiv.org%22%2C%22title%22%3A%22Exploring%20Remote%20Collaborative%20Tasks%3A%20The%20Impact%20of%20Avatar%20Representation%20on%20Dyadic%20Haptic%20Interactions%20in%20Shared%20Virtual%20Environments%22%2C%22title-short%22%3A%22Exploring%20Remote%20Collaborative%20Tasks%22%2C%22URL%22%3A%22http%3A%2F%2Farxiv.org%2Fabs%2F2409.08577%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Sasaki%22%2C%22given%22%3A%22Genki%22%7D%2C%7B%22family%22%3A%22Igarashi%22%2C%22given%22%3A%22Hiroshi%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222025%22%2C8%2C20%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222025%22%5D%5D%7D%2C%22citation-key%22%3A%22sasakiExploringRemoteCollaborative2025%22%7D%7D%5D" data-schema-version="9"><p>haptic interaction and avatar representation.</p>
+<p>social presence. The authors manipulate the avatar representations.</p>
+<p><span class="highlight" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fgroups%2F5879817%2Fitems%2F285534M5%22%2C%22pageLabel%22%3A%222%22%2C%22position%22%3A%7B%22pageIndex%22%3A1%2C%22rects%22%3A%5B%5B142.24382380000003%2C665.6340783999998%2C300.0215199999999%2C674.2716525999998%5D%2C%5B48.964%2C653.6790783999998%2C300.02152000000007%2C662.3166525999998%5D%2C%5B48.964%2C641.7230783999997%2C300.0215200000001%2C650.3606525999998%5D%2C%5B48.964%2C629.7680783999997%2C162.0893230000001%2C638.4056525999997%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fgroups%2F5879817%2Fitems%2FHW7JDGJ2%22%5D%2C%22locator%22%3A%222%22%7D%7D">“These findings suggest that although haptic interaction alone does not fully compensate for the absence of visual cues in terms of social presence, it does not hinder task completion.”</span> <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fgroups%2F5879817%2Fitems%2FHW7JDGJ2%22%5D%2C%22locator%22%3A%222%22%7D%5D%2C%22properties%22%3A%7B%7D%7D">(<span class="citation-item">Sasaki and Igarashi, 2025, p. 2</span>)</span></p>
+</div>
 KW  - Computer Science - Human-Computer Interaction
 KW  - Computer Science - Robotics
 ER  - 
@@ -435,55 +439,133 @@ Y2  - 2025/09/25/07:03:44
 L1  - https://hal.science/hal-04956417/file/Mentor_Guided_LearningIEEEVR2025_CR-1.pdf
 ER  - 
 
-TY  - CONF
-TI  - CollabJam: Studying Collaborative Haptic Experience Design for On-Body Vibrotactile Patterns
-AU  - Wittchen, Dennis
-AU  - Ramian, Alexander
-AU  - Sabnis, Nihar
-AU  - Böhme, Richard
-AU  - Chlebowski, Christopher
-AU  - Freitag, Georg
-AU  - Fruchard, Bruno
-AU  - Degraen, Donald
-T3  - CHI '25
-AB  - Designing vibrotactile experiences collaboratively requires communicating using multiple senses. This is challenging in remote scenarios as designers need to effectively express and communicate their intention while iteratively building and refining experiences, ideally in real-time. We formulate design considerations for collaborative haptic design tools, and propose CollabJam, a collaborative prototyping suite enabling remote synchronous design of vibrotactile experiences for on-body applications. We first outline CollabJam’s features and present a technical evaluation. Second, we use CollabJam to understand communication and design patterns used during haptic experience design. We performed an in-depth design evaluation spanning four sessions in which four pairs of participants designed and reviewed vibrotactile experiences remotely. A qualitative content analysis revealed how multi-sensory communication is essential to convey ideas, how stimulating the tactile sense can interfere with personal boundaries, and how freely placing actuators on the skin can provide both benefits and challenges.
-C1  - New York, NY, USA
-C3  - Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems
-DA  - 2025/04/25/
+TY  - JOUR
+TI  - Investigating the Effects of Haptic Illusions in Collaborative Virtual Reality
+AU  - Weiss, Yannick
+AU  - Rasch, Julian
+AU  - Fischer, Jonas
+AU  - Müller, Florian
+T2  - IEEE Transactions on Visualization and Computer Graphics
+AB  - Our sense of touch plays a crucial role in physical collaboration, yet rendering realistic haptic feedback in collaborative extended reality (XR) remains a challenge. Co-located XR systems predominantly rely on prefabricated passive props that provide high-fidelity interaction but offer limited adaptability. Haptic Illusions (HIs), which leverage multisensory integration, have proven effective in expanding haptic experiences in single-user contexts. However, their role in XR collaboration has not been explored. To examine the applicability of HIs in multi-user scenarios, we conducted an experimental user study (N=30) investigating their effect on a collaborative object handover task in virtual reality. We manipulated visual shape and size individually and analyzed their impact on users' performance, experience, and behavior. Results show that while participants adapted to the illusions by shifting sensory reliance and employing specific sensorimotor strategies, visuo-haptic mismatches reduced both performance and experience. Moreover, mismatched visualizations in asymmetric user roles negatively impacted performance. Drawing from these findings, we provide practical guidelines for incorporating HIs into collaborative XR, marking a first step toward richer haptic interactions in shared virtual spaces.
+DA  - 2025///
 PY  - 2025
-DO  - 10.1145/3706598.3713469
-DP  - ACM Digital Library
+DO  - 10.1109/TVCG.2025.3616760
+DP  - IEEE Xplore
 SP  - 1
-EP  - 20
-PB  - Association for Computing Machinery
-SN  - 979-8-4007-1394-1
-ST  - CollabJam
-UR  - https://dl.acm.org/doi/10.1145/3706598.3713469
-Y2  - 2025/09/25/
-L1  - https://dl.acm.org/doi/pdf/10.1145/3706598.3713469
+EP  - 11
+SN  - 1941-0506
+UR  - https://ieeexplore.ieee.org/document/11190082
+Y2  - 2025/10/06/08:58:41
+L2  - https://ieeexplore.ieee.org/document/11190082
+KW  - Haptic interfaces
+KW  - Visualization
+KW  - User experience
+KW  - Extended reality
+KW  - Shape
+KW  - Rendering (computer graphics)
+KW  - Hands
+KW  - Training
+KW  - Collaboration
+KW  - Handover
+KW  - haptic illusions
+KW  - multi-user collaboration
+KW  - virtual and extended reality
 ER  - 
 
 TY  - CONF
-TI  - A Haptic-enabled, Distributed and Networked Immersive System for Multi-User Collaborative Virtual Reality
-AU  - Van Damme, Sam
-AU  - Van de Velde, Fangio
-AU  - Sameri, Mohammad Javad
-AU  - De Turck, Filip
-AU  - Vega, Maria Torres
-T3  - IXR '23
-AB  - Virtual Reality (VR) is gaining attention in various domains such as entertainment, industry, mental healthcare and VR training. Al- though most of these use-cases are still limited to single-user tasks, a lot of applications are heavily depending on multi-user collaboration. Existing multi-user VR systems are most often created in a classic server-client architecture, however, which induces unpredictable network behaviour which can affect the end-user's Quality-of-Experience (QoE) and performance. In addition, the interaction methods in these systems are often constrained to either traditional VR controllers or very use-case specific interaction methods, such that general purpose haptic gloves form a somewhat under-explored part of literature. Therefore, we (i) present a networked, distributed multi-user VR system with synchronization of environments over a low-bandwidth networked connection. In addition, we (ii) enhance the experience by adding haptic gloves to the system, which we compare to the traditional VR controllers in a subjective experiment. As a proof-of-concept, a use case is implemented in which two users have to prepare and bake a virtual pizza. The results show that high framerates (&gt; 90 Frames Per Second (FPS)) can be obtained while keeping network throughput to a minimum ( &lt; 1 Mbps). The accompanying user study shows that haptic gloves are preferred when immersiveness is the main emphasis of the virtual environment, while controllers are more suited when performance is in the center of attention. In objective terms, the applicability of haptic feedback is highly dependent on the task at hand.
+TI  - HapticPointer: A Neck-worn Device that Presents Direction by Vibrotactile Feedback for Remote Collaboration Tasks
+AU  - Matsuda, Akira
+AU  - Nozawa, Kazunori
+AU  - Takata, Kazuki
+AU  - Izumihara, Atsushi
+AU  - Rekimoto, Jun
+T3  - AHs '20
+AB  - We designed a necklace-style device named HapticPointer for presenting a direction as pointing cues in remote collaboration tasks. The device has 16 vibration motors placed along a line of flexible string. Our vibration algorithm represents horizontal and vertical directions by changing the position and intensity of each vibration. In our experiment, participants attempted to find a specific target, and the accuracy of successful trials reached 90.65%. Moreover, the participants found the targets in 6 seconds on average. Furthermore, our user study implies that the device can simulates the sensation of walking together. It is assumed that the sensation improves engagement between the local and remote users.
 C1  - New York, NY, USA
-C3  - Proceedings of the 2nd International Workshop on Interactive eXtended Reality
-DA  - 2023/10/29/
-PY  - 2023
-DO  - 10.1145/3607546.3616804
+C3  - Proceedings of the Augmented Humans International Conference
+DA  - 2020/06/06/
+PY  - 2020
+DO  - 10.1145/3384657.3384777
 DP  - ACM Digital Library
-SP  - 11
-EP  - 19
+SP  - 1
+EP  - 10
 PB  - Association for Computing Machinery
-SN  - 979-8-4007-0280-8
-UR  - https://dl.acm.org/doi/10.1145/3607546.3616804
-Y2  - 2025/09/25/
-L1  - https://dl.acm.org/doi/pdf/10.1145/3607546.3616804
+SN  - 978-1-4503-7603-7
+ST  - HapticPointer
+UR  - https://dl.acm.org/doi/10.1145/3384657.3384777
+Y2  - 2025/10/10/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3384657.3384777
+ER  - 
+
+TY  - CONF
+TI  - Exploring Audio, Visual, and Tactile Cues for Synchronous Remote Assistance
+AU  - Günther, Sebastian
+AU  - Kratz, Sven
+AU  - Avrahami, Daniel
+AU  - Mühlhäuser, Max
+T3  - PETRA '18
+AB  - Today, remote collaboration techniques between field workers and remotely located experts mainly focus on traditional communication channels, such as voice- or video-conferencing. Those systems may not be suitable in every situation or the communication gets cumbersome if both parties do not share a common ground. In this paper, we explore three supporting communication channels based on audio, visual, and tactile cues. We built a prototypical application implementing those cues and evaluated them in a user study. Based on the user feedback, we report first insights for building remote assistance systems utilizing additional cues.
+C1  - New York, NY, USA
+C3  - Proceedings of the 11th PErvasive Technologies Related to Assistive Environments Conference
+DA  - 2018/06/26/
+PY  - 2018
+DO  - 10.1145/3197768.3201568
+DP  - ACM Digital Library
+SP  - 339
+EP  - 344
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6390-7
+UR  - https://dl.acm.org/doi/10.1145/3197768.3201568
+Y2  - 2025/10/10/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3197768.3201568
+ER  - 
+
+TY  - JOUR
+TI  - Audio makes a difference in haptic collaborative virtual environments
+AU  - Moll, Jonas
+AU  - Huang, Yingying
+AU  - Sallnäs, Eva-Lotta
+T2  - Interacting with Computers
+AB  - In this paper a study is presented which aimed at exploring the effects of audio feedback in a haptic and visual interface supporting collaboration among sighted and people who cannot see. A between group design was used and the participants worked in pairs with one sighted and one blindfolded in each. The application used was a haptic 3D environment in which participants could build composed objects out of building blocks. The building blocks could be picked up and moved around by means of a touch feedback pointing device. In one version of the application, used by half of the groups, sound cues could be used to tell the other person where you were, and to get feedback on your own and the other person’s actions. Results showed that sound cues together with haptic feedback made a difference in the interaction between the collaborators regarding their shared understanding of the workspace and the work process. Especially, sound cues played an important role for maintaining awareness of ongoing work – you knew what was going on, and you got a response on your own actions.
+DA  - 2010/11/01/
+PY  - 2010
+DO  - 10.1016/j.intcom.2010.06.001
+DP  - Silverchair
+VL  - 22
+IS  - 6
+SP  - 544
+EP  - 555
+J2  - Interact Comput
+SN  - 0953-5438
+UR  - https://doi.org/10.1016/j.intcom.2010.06.001
+Y2  - 2025/10/10/14:00:09
+L2  - https://doi.org/10.1016/j.intcom.2010.06.001
+ER  - 
+
+TY  - CONF
+TI  - The Effect of Haptic Feedback on Basic Social Interaction within Shared Virtual Environments
+AU  - Giannopoulos, Elias
+AU  - Eslava, Victor
+AU  - Oyarzabal, María
+AU  - Hierro, Teresa
+AU  - González, Laura
+AU  - Ferre, Manuel
+AU  - Slater, Mel
+A2  - Ferre, Manuel
+AB  - This paper describes an experiment that studies the effect of basic haptic feedback in creating a sense of social interaction within a shared virtual environment (SVE). Although there have been a number of studies investigating the effect of haptic feedback on collaborative task performance, they do not address the effect it has in inducing social presence. The purpose of this experiment is to show that haptic feedback enhances the sense of social presence within a mediated environment. An experiment was carried out using a shared desktop based virtual environment where 20 remotely located couples who did not know one another had to solve a puzzle together. In 10 groups they had shared haptic communication through their hands, and in another group they did not. Hence the haptic feedback was not used for completing the task itself, but rather as a means of social interacting – communicating with the other participant. The results suggest that basic haptic feedback increases the sense of social presence within the shared VE.
+C1  - Berlin, Heidelberg
+C3  - Haptics: Perception, Devices and Scenarios
+DA  - 2008///
+PY  - 2008
+DO  - 10.1007/978-3-540-69057-3_36
+DP  - Springer Link
+SP  - 301
+EP  - 307
+LA  - en
+PB  - Springer
+SN  - 978-3-540-69057-3
+KW  - Haptics
+KW  - shared virtual environments
+KW  - social presence
 ER  - 
 

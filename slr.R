@@ -18,7 +18,7 @@ lapply(packages, library, character.only = TRUE)
 # Naive search term is:
 # ("collaborative virtual environment" OR
 ## "shared virtual environment" OR "remote collaboration") AND "haptic"
-search_directory <- "~/Documents/slr-haptic-collaboration/polished_search//"
+search_directory <- "~/Documents/slr-haptic-collaboration/naive_search_0923/"
 naive_import <- litsearchr::import_results(search_directory, verbose = TRUE)
 naive_results <- litsearchr::remove_duplicates(naive_import, field = "title", method = "string_osa")
 table(naive_import$filename)
