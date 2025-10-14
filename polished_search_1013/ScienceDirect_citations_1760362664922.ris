@@ -1,0 +1,89 @@
+TY  - JOUR
+T1  - Intuitive Robot Programming Using Augmented Reality
+AU  - Blankemeyer, Sebastian
+AU  - Wiemann, Rolf
+AU  - Posniak, Lukas
+AU  - Pregizer, Christoph
+AU  - Raatz, Annika
+JO  - Procedia CIRP
+VL  - 76
+SP  - 155
+EP  - 160
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 7th CIRP Conference on Assembly Technologies and Systems (CATS 2018)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2018.02.028
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827118300933
+KW  - augmented reality
+KW  - intuitive robot programming
+KW  - human-machine-interaction
+AB  - The demands on companies caused by the markets are becoming more and more fast-moving and complex. Reasons are the increasing number of variants of products as well as reduced product life cycle times. This is particularly relevant for assembly tasks, since a very high flexibility and adaptability to varying ambient condition must be ensured in this area. Therefore, a lot of steps are currently being carried out manually. However, if an automation is attempted in the field of assembly, companies are often facing a trade-off between a high degree of automation and flexibility of the production system. A concept to increase the automation rate in assembly tasks can be seen in the use of collaborative robots, so that the benefits of both, humans and robots, can be combined to accomplish the task. In doing so, one key issue is to simplify and thus to accelerate the programming process so that the necessary programming skills of employees can be reduced. Although some of today’s collaborative robots already offer good programming approaches like kinesthetic teaching, this article introduces a new and more intuitive programming method which is based on Augmented Reality. For this purpose, components of an assembly group are virtually linked with CAD models by using optical markers. The operator can then virtually assemble the components according to the assembly sequence. Results of first tests indicate, that once the assembly process is recorded, the robot can accomplish the assembly in reality. Finally, possibilities for future developments are presented.
+ER  - 
+
+TY  - JOUR
+T1  - Cable controlled deep submergence teleoperator system
+AU  - Charles, J.
+AU  - Vertut, J.
+JO  - Mechanism and Machine Theory
+VL  - 12
+IS  - 5
+SP  - 481
+EP  - 492
+PY  - 1977
+DA  - 1977/01/01/
+SN  - 0094-114X
+DO  - https://doi.org/10.1016/0094-114X(77)90043-X
+UR  - https://www.sciencedirect.com/science/article/pii/0094114X7790043X
+AB  - ERIC II, cable controlled deep submergence teleoperator system, is designed for remote observation, investigation and intervention from a surface ship, with a 6000 m depth capability. The system is in development at CERTSM in Toulon Navy Yard, France on contract of Ministere des Armees; its main parts comprise first the heavy ancillary subsystems; cable handling gear, main cable, tether, PAGODE recovery fish, data and power transmission and second the ERIC II teleoperator fish and its control module. Special attention was paid at man-machine interface problems in the early stage of development and the result is the current development of “telesymbiotic” oriented hardwares: head mobility with TV and microphones sensory feedback, force feedback dexterous arms on sponsorship of CEA, Saclay, France, agility concept in the fish dynamic control with inertia feedback by kinesthetic motorized sticks also with CEA cooperation. First significative real world experience on underwater dexterous manipulative tasks was gained in late 1974 with great success. First experimentation of ERIC II is scheduled for early 1978.
+ER  - 
+
+TY  - CHAP
+T1  - Coherency between kinesthetic and visual sensation for two-handed-input in a virtual environment
+AU  - Ishii, Masahiro
+AU  - Sukanya, P.
+AU  - Takamatsu, Ryo
+AU  - Sato, Makoto
+AU  - Kawarada, Hiroshi
+A2  - Anzai, Yuichiro
+A2  - Ogawa, Katsuhiko
+A2  - Mori, Hirohiko
+BT  - Advances in Human Factors/Ergonomics
+PB  - Elsevier
+VL  - 20
+SP  - 467
+EP  - 472
+PY  - 1995
+DA  - 1995/01/01/
+T2  - Symbiosis of Human and Artifact
+SN  - 0921-2647
+DO  - https://doi.org/10.1016/S0921-2647(06)80076-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0921264706800766
+AB  - This paper is about constructing a virtual work space for performing any tasks by both hands manipulation. We intend to provide a virtual enviornment that can encourage users to accomplish any tasks as they usally act in the real environment. Our approach is using a three dimensional spatial interface device that allows the user to handle virtual objects directly by free hands and be feel-able some physical properties of the virtual objects such as contact, weight, etc. We have investigated the suitable conditions for constructing our virtual work space by simulating some basic assembly work, a Face-and-Fit task. Then select the conditions that the subjects feel most comfortable in performing this task to set up our virtual work space. Finally, we have verified the possibility to perform more complex tasks in virtual work space by providing some simple virtual models then let subjects create new models by assembling these component models together. The subjects can naturally perform assembly operations and assomplish the task. Our evoluation shows that this virtual work space has potential to be used for performing any tasks that need hands manipulation or cooperation between both hands in natural manner.
+ER  - 
+
+TY  - JOUR
+T1  - Empowering robotic training with kinesthetic learning and digital twins in human–centric industrial systems
+AU  - Tran, Thien
+AU  - Nguyen, Quang
+AU  - Luu, Toan
+AU  - Tran, Minh
+AU  - Kua, Jonathan
+AU  - Hoang, Thuong
+AU  - Dien, Man
+JO  - Journal of Industrial Information Integration
+VL  - 43
+SP  - 100743
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 2452-414X
+DO  - https://doi.org/10.1016/j.jii.2024.100743
+UR  - https://www.sciencedirect.com/science/article/pii/S2452414X24001869
+KW  - Human–Centric Design (HCD)
+KW  - User Experience (UX)
+KW  - Mixed Reality (MR)
+KW  - Digital Twin (DT)
+KW  - Kinesthetic Learning
+KW  - Human–Robot Interaction (HRI)
+AB  - This paper presents a human-centric mixed reality (MR) collaborative training platform that employs a kinesthetic learning technique in industrial robotic training, specifically focusing on robot pick–and–place (RPP) operations. Collaborating with ABB Robotics Vietnam, we conducted a user study to investigate the user experiences and practical perceptions of university students and novice trainees via the human–centric training assessment. The study compares the traditional training (TT) RPP classroom as a conventional method with a new collaborative MR RPP training approach (N = 50). The MR training features a digital twin (DT) of ABB GoFa™ CRB–15000 collaborative robot in an immersive 360° Digital–Objects–Based Augmented Training Environment (360–ATE) using Microsoft HoloLens devices. The research evaluated the impact of MR and DT on human–robot interaction and collaboration, user experience, task performance, knowledge retention, and interpretation, as well as differences in perceptions between the two novice cohorts under each training condition. The primary research question explores “Whether the MR collaborative training platform with DT integration in 360–ATE can serve as an alternative approach for novice students and industrial trainees in RPP operations?”. The findings indicate that MR training is more engaging and effective in enhancing participant safety, confidence, and task performance, which also augments cognitive capabilities. The virtual contents on HoloLens, especially the DT, captured the attention and stimulated active learning abilities. Overall, participants in the MR cohort find the proposed training platform useful and easy to use. The platform has a positive influence on their intention to use similar 360–ATE–assisted training platforms in the future.
+ER  - 

@@ -1,0 +1,414 @@
+TY  - JOUR
+T1  - On Human Robot Collaboration - A Survey on Cost Aspects
+AU  - Erbe, Heinz-H.
+JO  - IFAC Proceedings Volumes
+VL  - 37
+IS  - 5
+SP  - 167
+EP  - 172
+PY  - 2004
+DA  - 2004/06/01/
+T2  - 7th IFAC Symposium on Cost-Oriented Automation (COA 2004), Gatineau, Québec, Canada, 6-9 June 2004
+SN  - 1474-6670
+DO  - https://doi.org/10.1016/S1474-6670(17)32361-3
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667017323613
+KW  - intelligent assisting devices
+KW  - continuous variable transmission
+KW  - force feedback devices
+KW  - mixed reality
+KW  - human-robot communication
+AB  - Collaboration of human operators and automation systems like robots are under development for achieving more flexibility in production and for saving cost when avoiding repeated reconfiguration of the systems. Tele-operation is considered with the aspect of tactile interaction over remote workplaces supporting maintenance. Robots are presented to relieve workers from physical load together with path guiding assistance. Recent research results of robot assistants of workers at shared workplaces are discussed with respect to their implementation in industry.
+ER  - 
+
+TY  - JOUR
+T1  - Capitalization of remote collaborative brainstorming activities
+AU  - Moulin, Claude
+AU  - Kaeri, Yuki
+AU  - Sugawara, Kenji
+AU  - Abel, Marie-Hélène
+JO  - Computer Standards & Interfaces
+VL  - 48
+SP  - 217
+EP  - 224
+PY  - 2016
+DA  - 2016/11/01/
+T2  - Special Issue on Information System in Distributed Environment
+SN  - 0920-5489
+DO  - https://doi.org/10.1016/j.csi.2015.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0920548915001397
+KW  - Brainstorming activity
+KW  - Multi-touch device
+KW  - Synchronous collaboration
+KW  - Semantic Information System
+AB  - The capitalization of activities occurring during collaborative brainstorming sessions is a real challenge. It is still enhanced when two remote teams have to participate in the same work sessions. Activities which have tangible results like digital notes are easier to capitalize. However many other events may happen which can only be captured by videos. We use the mandatory system of video conference between two remote teams to capitalize non-tangible results like agreement or disagreement between participants. We developed a system for supporting remote collaboration. The paper describes the design of two main parts of this system. First it presents the resource channel i.e. the way the teams can exchange, display and synchronize data on large multi-touch devices. Then it presents the video channel i.e. the way people can be aware of the other team. The paper concludes with some observations about the current version of this system alloted to the capitalization of collaborative team activities.
+ER  - 
+
+TY  - JOUR
+T1  - Breaking the barriers: Extended reality and innovative technologies for enhanced accessibility of the Ceramics Museum of Cutrofiano
+AU  - Gatto, Carola
+AU  - Barba, Maria Cristina
+AU  - Chiarello, Sofia
+AU  - Corchia, Laura
+AU  - Faggiano, Federica
+AU  - Nuzzo, Benito Luigi
+AU  - Sumerano, Giada
+AU  - De Luca, Valerio
+AU  - De Paolis, Lucio Tommaso
+JO  - Digital Applications in Archaeology and Cultural Heritage
+VL  - 36
+SP  - e00400
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 2212-0548
+DO  - https://doi.org/10.1016/j.daach.2025.e00400
+UR  - https://www.sciencedirect.com/science/article/pii/S2212054825000025
+KW  - Accessibility
+KW  - Digital storytelling
+KW  - eXtended Reality
+KW  - 3D printing
+KW  - Virtual Reality
+AB  - In the dynamic landscape of museums, a comprehensive understanding of visitor needs, particularly those with disabilities, necessitates the exploration of new methodologies and practices. This paper presents a project that aims at reducing physical, sensory, and cognitive barriers in museums, by exploiting a combination of Virtual Reality, audio and video contents, tactile prints, NFC-tags and QR Codes. Central to this endeavor is the creation of an inclusive framework tailored to enhance accessibility for the Ceramics Museum of Cutrofiano (Lecce, Italy), co-designed with representatives of the target user groups. The strategic deployment of advanced technologies is envisaged to augment the museum experience, catering to diverse visitors and fostering inclusivity. This work provides insights into conceptualisation and implementation phases, highlighting the collaboration between cultural entities, local governance, target groups and academia. Additionally, it examines empirical data collected from testing sessions, debating the efficacy of digital technologies in improving accessibility in cultural places.
+ER  - 
+
+TY  - JOUR
+T1  - Control Structures and Algorithms for Force Feedback Bilateral Teleoperation Systems: A Comprehensive Review
+AU  - Tian, Jiawei
+AU  - Zhou, Yu
+AU  - Yin, Lirong
+AU  - AlQahtani, Salman A.
+AU  - Tang, Minyi
+AU  - Lu, Siyu
+AU  - Wang, Ruiyang
+AU  - Zheng, Wenfeng
+JO  - CMES - Computer Modeling in Engineering and Sciences
+VL  - 142
+IS  - 2
+SP  - 973
+EP  - 1019
+PY  - 2025
+DA  - 2025/01/27/
+SN  - 1526-1492
+DO  - https://doi.org/10.32604/cmes.2024.057261
+UR  - https://www.sciencedirect.com/science/article/pii/S1526149225000049
+KW  - Force feedback
+KW  - bilateral teleoperation
+KW  - robot
+KW  - development history
+KW  - application
+KW  - prospect
+AB  - Force feedback bilateral teleoperation represents a pivotal advancement in control technology, finding widespread application in hazardous material transportation, perilous environments, space and deep-sea exploration, and healthcare domains. This paper traces the evolutionary trajectory of force feedback bilateral teleoperation from its conceptual inception to its current complexity. It elucidates the fundamental principles underpinning interaction forces and tactile exchanges, with a specific emphasis on the crucial role of tactile devices. In this review, a quantitative analysis of force feedback bilateral teleoperation development trends from 2011 to 2024 has been conducted, utilizing published journal article data as the primary source of information. The review accentuates classical control frameworks and algorithms, while also delving into existing research advancements and prospective breakthrough directions. Moreover, it explores specific practical scenarios ranging from intricate surgeries to hazardous environment exploration, underscoring the technology’s potential to revolutionize industries by augmenting human manipulation of remote systems. This underscores the pivotal role of force feedback bilateral teleoperation as a transformative human-machine interface, capable of shaping flexible control strategies and addressing technological bottlenecks. Future research endeavors in force feedback bilateral teleoperation are expected to prioritize the creation of more immersive experiences, overcoming technical hurdles, fortifying human-machine collaboration, and broadening application domains, particularly within the realms of medical intervention and hazardous environments. With the continuous progression of technology, the integration of human intelligence and robotic capabilities is expected to produce more innovations and breakthroughs in the field of automatic control.
+ER  - 
+
+TY  - JOUR
+T1  - Milli-robotics for remote, minimally invasive surgery
+AU  - Sastry, S.S
+AU  - Cohn, M
+AU  - Tendick, F
+JO  - Robotics and Autonomous Systems
+VL  - 21
+IS  - 3
+SP  - 305
+EP  - 316
+PY  - 1997
+DA  - 1997/09/18/
+T2  - Critical Issues in Robotics
+SN  - 0921-8890
+DO  - https://doi.org/10.1016/S0921-8890(96)00082-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0921889096000826
+KW  - Minimally invasive surgery
+KW  - Endoscopy
+KW  - Milli-robotics
+KW  - MEMS (micro-electro mechanical systems)
+AB  - In this paper, we describe an ongoing collaborative research project between the Universities of California at Berkeley and San Francisco with Endorobotics Corporation to develop milli-robotic tools for remote, minimally invasive surgery. We describe the limitations of current surgical practice and then describe the technological and scientific issues involved in building a telesurgical workstation. We describe the novel techniques that we have adapted from MEMS for the design of the milli-robots, their actuators, tactile sensors and displays. We also discuss the need for modeling compliant tissue for telepresent manipulation and training. We, then, describe a test bed telesurgical workstation that has been set up at Berkeley. Animal trials are ready to commence on this surgical workstation. Finally, we do a brief review of related projects. In this paper, we describe our research program for developing tools for minimally invasive remote surgery. Key to this paper is the use of minimally invasive surgery. For urgent remote care, it is usually advisable not to cause additional trauma by an invasive operating procedure and also to keep low the possibility of infection in an incompletely sterile environment. Thus, the need for milli-robotics for this surgery and the need for new kinds of robots, tactile and visual sensors, and human-machine interfaces. While we talk primarily about general surgery in this white paper, we have the goal of eventually being able to do coronary procedures, through minimally invasive thoracoscopes.
+ER  - 
+
+TY  - JOUR
+T1  - QoS-aware hybrid cloudlet placement over joint fiber and wireless backhaul access network
+AU  - He, Chao
+AU  - Wang, Ruyan
+AU  - Wu, Dapeng
+AU  - Zhang, Hong
+AU  - Tan, Zefu
+JO  - Optical Switching and Networking
+VL  - 45
+SP  - 100678
+PY  - 2022
+DA  - 2022/09/01/
+SN  - 1573-4277
+DO  - https://doi.org/10.1016/j.osn.2022.100678
+UR  - https://www.sciencedirect.com/science/article/pii/S1573427722000145
+KW  - Hybrid cloudlet deployment
+KW  - FiWi access network
+KW  - Backhaul-aware infrastructures
+KW  - Task request offloading
+KW  - Cost optimization
+KW  - QoS constraint
+AB  - Over the last decades, the emerging paradigms, e.g., centralized mobile cloud computing (MCC), multi-access edge computing (MEC), and collaborative computing offloading (CCO), have attracted extensive attention in adaptive 5G low latency communication for Tactile Internet. Besides, a novel integrated wireless optical transport network emerges in access networks and supports joint fronthaul and backhaul services. Therefore, considering that the task offloading response time, the needs of proximity, and the ultra-dense 5G small cell deployment, a novelty hybrid cloudlet deployment scheme over fiber and wireless backhaul-aware infrastructure is created with efficient cost optimization in mind. In this work, the envisioned Fiber Wireless networks (FiWi) consists of optical backhaul and wireless fronthaul (i.e., integrated access network and backhaul link), whereby base stations (BSs) with fiber and wireless backhauls are referred as wired-BS (WBS) and unwired-BS (UBS), respectively. Therefore, to meet the quality of service (QoS) delay constraints, cloudlets can be deployed in either UBSs, WBS, or remote node (RN). However, we apply mixed-integer line programming (MILP) to resolve the convex optimization problem in terms of minimization deployment cost. Besides, we describe the QoS-aware hybrid cloudlet placement cost algorithm for WBS and UBS coverage areas against different network conditions. It was shown through experimental measurements that the proposed architecture can achieve the scalability in different deployment scenarios. Also, the dependency of minimization cloudlet deployment cost on variable network parameters in terms of user density, network framework, and network QoS can be validated.
+ER  - 
+
+TY  - JOUR
+T1  - Integration of an exoskeleton robotic system into a digital twin for industrial manufacturing applications
+AU  - Park, Hoonmin
+AU  - Shin, Minchul
+AU  - Choi, Gyubok
+AU  - Sim, Yuseop
+AU  - Lee, Jiho
+AU  - Yun, Huitaek
+AU  - Jun, Martin Byung-Guk
+AU  - Kim, Gyuman
+AU  - Jeong, Younghun
+AU  - Yi, Hak
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 89
+SP  - 102746
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2024.102746
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584524000322
+KW  - Exoskeleton
+KW  - Digital twin
+KW  - Collaborative robot
+KW  - Human-machine interface
+KW  - Human–robot collaboration
+KW  - Intelligent manufacturing
+AB  - Industry 4.0 has underscored the importance of human–robot collaboration (HRC), necessitating an efficient integration of human workers and robots to achieve high-productivity manufacturing. Traditional HRC-related teaching operations rely on intuitive tools, such as a teach pendant, but are effort-intensive and require personnel with specialized skills, particularly those who use collaborative robots in manufacturing. Thus, end-effector haptic devices that offer real-time tactile feedback and easy manipulation are being explored to address these issues. However, such devices have limitations in capturing the experiential movement of users and user-friendly haptic devices that are intuitive and convenient to operate are required. Recently, the integration of HRC and digital twins for human-involved manufacturing processes is being studied. Digital twin technology is used to seamlessly connect the physical and virtual domains using virtual models for monitoring the production process and enhancing the accuracy of operational process reconfiguration. However, most teaching devices that are interfaced with digital twins in manufacturing process still demand personnel with specialized training for their operation. To address these challenges, a novel framework is proposed herein that links an exoskeleton-type robotic system with the digital twin of a collaborative robot in manufacturing processes, effectively expediting robotic task instructions. The interactions between human users and digital twins, and that between digital twins and a collaborative robot, considerably enhance our understanding of human involvement in manufacturing processes and the execution of tasks by collaborative robots. This framework comprises three subsystems: a human operator outfitted with an exoskeleton-type robot and a virtual reality (VR) device, a digital twin, and a collaborative robot. The human operator interacts with the virtual robot within the digital twin via the VR device and exoskeleton robot, whereas the collaborative robot executes the given task and transmits the measured sensor information into the digital twin. Robot tracking in the experiment and usability study of a pick-and-place process performed on the proposed framework indicates that the proposed system enhances the ease of learning and intuitiveness to human operators than the traditional teaching methods in manufacturing processes.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 4 - Internet of Skills
+AU  - Oppici, Luca
+AU  - Bobbe, Tina
+AU  - Lüneburg, Lisa-Marie
+AU  - Nocke, Andreas
+AU  - Schwendicke, Anna
+AU  - Winger, Hans
+AU  - Krzywinski, Jens
+AU  - Cherif, Chokri
+AU  - Strufe, Thorsten
+AU  - Narciss, Susanne
+A2  - Fitzek, Frank H.P.
+A2  - Li, Shu-Chen
+A2  - Speidel, Stefanie
+A2  - Strufe, Thorsten
+A2  - Simsek, Meryem
+A2  - Reisslein, Martin
+BT  - Tactile Internet
+PB  - Academic Press
+SP  - 75
+EP  - 99
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 978-0-12-821343-8
+DO  - https://doi.org/10.1016/B978-0-12-821343-8.00014-9
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128213438000149
+KW  - Augmented feedback
+KW  - digital learning
+KW  - motor learning
+KW  - skill acquisition
+KW  - user-centered design
+AB  - The Internet of Skills aims at investigating how Tactile Internet with Human-in-the-Loop (TaHiL) technology can contribute to offer skill sets and expert capabilities to anybody, even at the most remote and diverse geographical regions. It will provide immersive training to laypersons (children, adults, and seniors) with or without physical or cognitive limitations to promote the learning of skills. This chapter provides an overview of the main issues that need to be addressed when humans and cyber-physical system interactions are designed and tools are developed to promote skill learning. The state of the art and the challenges to be tackled with regard to learning, technical, and design issues are presented. In collaboration with the target primary research field of humans presented in Chapter 9, the key technology challenge of intelligent networks presented in Chapter 6 and of haptic learning presented in Chapter 8, the latest technology innovations and knowledge will be implemented in developing skill learning programs that can be adapted to address factors, needs, and goals of specific individuals.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 2 - Surgical assistance and training
+AU  - Speidel, Stefanie
+AU  - Bodenstedt, Sebastian
+AU  - von Bechtolsheim, Felix
+AU  - Rivoir, Dominik
+AU  - Funke, Isabel
+AU  - Goebel, Eva
+AU  - Mitschick, Annett
+AU  - Dachselt, Raimund
+AU  - Weitz, Jürgen
+A2  - Fitzek, Frank H.P.
+A2  - Li, Shu-Chen
+A2  - Speidel, Stefanie
+A2  - Strufe, Thorsten
+A2  - Simsek, Meryem
+A2  - Reisslein, Martin
+BT  - Tactile Internet
+PB  - Academic Press
+SP  - 23
+EP  - 39
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 978-0-12-821343-8
+DO  - https://doi.org/10.1016/B978-0-12-821343-8.00012-5
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128213438000125
+KW  - Robot-assisted surgery
+KW  - surgical data science
+KW  - surgical training
+AB  - Surgery has evolved drastically over the last decades, turning from an artisanal craft to a high-tech discipline with enormous amounts of data and robotic devices, especially in the Operating Room (OR). While first systems for computer and robot assistance in the OR have emerged, the current systems do not live up to their full potential and often do not exceed the capabilities of mechanical solutions. Currently, the outcome depends to a large extent on the expertise of the surgeon. This chapter shows current limitations and reviews the state of the art as well as open research questions in the context of Tactile Internet with Human-in-the-Loop (TaHiL) for intraoperative assistance and surgical training. Remaining challenges include the incorporation of expert knowledge by means of surgical data science, an intuitive human–machine interface that enables smart coworking and robotic skill transfer as well as context-aware real-time assistance with low latency in a sensor-enhanced OR and sensor-enhanced training setting. The aim is to improve the safety, the quality, and the efficiency of patient care by capturing clinical expertise and augmenting clinical performance in the context of computer- and robot-assisted therapy as well as surgical training. TaHiL addresses these aspects for intraoperative as well as training applications by focusing on novel sensor-processing devices that capture, model, and transfer surgical skills, including holistic data analysis for multimodal and temporal data. This also includes intuitive human–machine interaction with low-latency visual and haptic feedback while taking real-time capabilities and co-operation abilities into account. Furthermore, new possibilities for immersive Virtual Reality (VR)/Augmented Reality (AR) training environments are exploited.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 3 - Human–robot cohabitation in industry
+AU  - Aßmann, Uwe
+AU  - Chen, Lingyun
+AU  - Ebert, Sebastian
+AU  - Göhringer, Diana
+AU  - Grzelak, Dominik
+AU  - Hidalgo, Diego
+AU  - Johannsmeier, Lars
+AU  - Haddadin, Sami
+AU  - Mey, Johannes
+AU  - Podlubne, Ariel
+A2  - Fitzek, Frank H.P.
+A2  - Li, Shu-Chen
+A2  - Speidel, Stefanie
+A2  - Strufe, Thorsten
+A2  - Simsek, Meryem
+A2  - Reisslein, Martin
+BT  - Tactile Internet
+PB  - Academic Press
+SP  - 41
+EP  - 73
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 978-0-12-821343-8
+DO  - https://doi.org/10.1016/B978-0-12-821343-8.00013-7
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128213438000137
+KW  - Cobotic cell
+KW  - multilayer autonomic systems
+KW  - robotic coworking
+KW  - tactile robots
+AB  - The development of industrial robots has greatly advanced over the last 20 years, with the focus on human–robot collaboration, mobility and, especially, the effectiveness of automation. Indeed, recent robotic technologies are capable of an advanced level of manipulation tasks, learning skills, and protecting their user so that they can be used as robotic coworkers (tactile robots or tactile cobots). Developing software for these novel tactile cobots is very different from the time-consuming approaches of earlier systems. Our chapter first addresses the software engineering of distributed industrial cobotic applications with Human-in-the-Loop (human–robotic co-habitation), targeting distributed architectures of cobotic cells with several, also remote cobots. Then, we discuss the development of tactile robotic platforms suitable for collaborative scenarios with novel anthropomorphic robotic hand–arm systems, for which very intuitive and efficient programming schemes, such as fully immersive remote control can be employed, where a human user directly guides the tactile robot and teaches the intended motions and skills. Finally, we present the high-level synthesis of efficient low-power cobotic hardware-software components with real-time capabilities. Specifically, we consider remote manipulation and tactile sensing applications for novel industrial use cases. As a full vision, we discuss robotic telepresence (robotic immersion) with avatar stations, a technique enabling remote workers to interact with the cobotic cell via an avatar.
+ER  - 
+
+TY  - JOUR
+T1  - Assessment of an articulatory interface for tactile intercommunication in immersive virtual environments
+AU  - de Jesus Oliveira, Victor Adriel
+AU  - Nedel, Luciana
+AU  - Maciel, Anderson
+JO  - Computers & Graphics
+VL  - 76
+SP  - 18
+EP  - 28
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/j.cag.2018.07.007
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849318301067
+KW  - Tactile intercommunication
+KW  - Vibrotactile HMD
+KW  - Articulatory interface
+AB  - In real life, the sense of touch provides information about the environment that surrounds us. It is an essential sense and a social one, as it typically implies an interaction with another person. However, even though tactile feedback is used to enhance the user experience in Virtual and Augmented Reality applications (VR/AR), tactile cues are usually rendered reactively by the system. In this paper, we design and assess a touch user interface that is built on a Head-Mounted Display (HMD) to allow peers to exchange tactile signals in VR applications. First, we explored the interface capabilities by assessing different gestures to be adopted in the reproduction of tactile signals. Then, we assessed its use in conjunction with a vibrotactile HMD in a collaborative virtual setup where users could communicate only through vibrotactile cues. Results have shown that accuracy in target localization increases as target density decreases, that swipe gestures are performed with more accuracy when supported by anchor-points, and that accuracy of rhythm reproduction decreases with pace. When applied to a collaborative task, the interface presented high usability and allowed subjects to fully use tactile feedback as a means for intercommunication with their partners.
+ER  - 
+
+TY  - JOUR
+T1  - Control and optimization of human perception on virtual garment products by learning from experimental data
+AU  - Chen, Xiao
+AU  - Tao, Xuyuan
+AU  - Zeng, Xianyi
+AU  - Koehl, Ludovic
+AU  - Boulenguez-Phippen, Julie
+JO  - Knowledge-Based Systems
+VL  - 87
+SP  - 92
+EP  - 101
+PY  - 2015
+DA  - 2015/10/01/
+T2  - Computational Intelligence Applications for Data Science
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2015.05.031
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705115002178
+KW  - Virtual garments
+KW  - Human perception
+KW  - Data-driven collaborative design
+KW  - Sensory evaluation
+KW  - Active learning
+KW  - Fuzzy ID3
+AB  - This paper proposes an original study for controlling, in an Internet and virtual reality-based collaborative design platform, human perception on 3D virtual garments by adjusting fabric parameters, constituting the inputs to the garment CAD software. This study will permit the designer to determine the most relevant product through a number of interactions with the consumer. For this purpose, two sensory experiments have been realized on a small number of fabric samples. In the first experiment, we propose an active learning-based experimental design in order to find the most appropriate values of the fabric technical parameters permitting to minimize the overall perceptual difference between real and virtual fabrics in static and dynamic scenarios. The second sensory experiment aims to extract normalized tactile and visual sensory descriptors characterizing human perception on the concerned fabric samples. In the collaborative design process, these normalized descriptors will be used for communications between the designer and the consumer on perceptual quality of virtual products. By learning from the experimental data on identified inputs (fabric parameters of the CAD software) and outputs (sensory descriptors), we model the relationship between fabric technical parameters and human perception on finished virtual products. The method of fuzzy ID3 decision tree has successfully been applied in this modeling procedure. This model, combined with the corresponding garment CAD software and the learning data acquired from the two sensory experiments, constitutes the main components of the learning data-driven collaborative design platform. Using this platform, we have realized a number of garments meeting consumer’s personalized perceptual requirements.
+ER  - 
+
+TY  - JOUR
+T1  - Introducing HiBoP: a Unity‐based visualization software for large iEEG datasets
+AU  - Del Vecchio, Maria
+AU  - Bontemps, Benjamin
+AU  - Lance, Florian
+AU  - Gannerie, Adrien
+AU  - Sipp, Florian
+AU  - Albertini, Davide
+AU  - Cassani, Chiara Maria
+AU  - Chatard, Benoit
+AU  - Dupin, Maryne
+AU  - Lachaux, Jean-Philippe
+JO  - Journal of Neuroscience Methods
+VL  - 409
+SP  - 110179
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 0165-0270
+DO  - https://doi.org/10.1016/j.jneumeth.2024.110179
+UR  - https://www.sciencedirect.com/science/article/pii/S0165027024001249
+KW  - Intracranial EEG
+KW  - Visualization
+KW  - Unity
+KW  - Virtual reality
+KW  - Brain navigation
+AB  - Background
+Intracranial EEG data offer a unique spatio-temporal precision to investigate human brain functions. Large datasets have become recently accessible thanks to new iEEG data-sharing practices and tighter collaboration with clinicians. Yet, the complexity of such datasets poses new challenges, especially regarding the visualization and anatomical display of iEEG.
+New method
+We introduce HiBoP, a multi-modal visualization software specifically designed for large groups of patients and multiple experiments. Its main features include the dynamic display of iEEG responses induced by tasks/stimulations, the definition of Regions and electrodes Of Interest, and the shift between group-level and individual-level 3D anatomo-functional data.
+Results
+We provide a use-case with data from 36 patients to reveal the global cortical dynamics following tactile stimulation. We used HiBoP to visualize high-gamma responses [50–150 Hz], and define three major response components in primary somatosensory and premotor cortices and parietal operculum.
+Comparison with existing methods(s)
+Several iEEG softwares are now publicly available with outstanding analysis features. Yet, most were developed in languages (Python/Matlab) chosen to facilitate the inclusion of new analysis by users, rather than the quality of the visualization. HiBoP represents a visualization tool developed with videogame standards (Unity/C#), and performs detailed anatomical analysis rapidly, across multiple conditions, patients, and modalities with an easy export toward third-party softwares.
+Conclusion
+HiBoP provides a user-friendly environment that greatly facilitates the exploration of large iEEG datasets, and helps users decipher subtle structure/function relationships.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 1 - Tactile Internet with Human-in-the-Loop: New frontiers of transdisciplinary research
+AU  - Fitzek, Frank H.P.
+AU  - Li, Shu-Chen
+AU  - Speidel, Stefanie
+AU  - Strufe, Thorsten
+A2  - Fitzek, Frank H.P.
+A2  - Li, Shu-Chen
+A2  - Speidel, Stefanie
+A2  - Strufe, Thorsten
+A2  - Simsek, Meryem
+A2  - Reisslein, Martin
+BT  - Tactile Internet
+PB  - Academic Press
+SP  - 1
+EP  - 19
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 978-0-12-821343-8
+DO  - https://doi.org/10.1016/B978-0-12-821343-8.00010-1
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128213438000101
+KW  - Age-sensitive design
+KW  - haptic communication
+KW  - haptic sensors
+KW  - machine learning
+KW  - multimodal feedback
+KW  - multisensory perception and action
+KW  - predictive models
+KW  - robotics
+KW  - Tactile Internet
+KW  - user-centered design
+AB  - The emerging new field of research on Tactile Internet with Human-in-the-Loop (TaHiL) aims to achieve significant breakthroughs to enhance collaborations between humans and machines or—more generally, Cyber-Physical System (CPS)—in real, virtual, and remote environments. The vision of TaHiL is to enable humans to interact with cooperating CPS over intelligent wide-area communication networks to promote equitable access to remote work, medical, learning, social, and recreational opportunities for people of different ages, genders, cultural backgrounds, or physical limitations. Thus reaching far beyond the current state of the art in digitalization and human–machine interaction, the long-term goal of the research on TaHiL is to democratize the access to skills and expertise the same way as the current Internet has democratized the access to information. Capitalizing on recent advancements in the fields of telecommunication, electrical and material engineering, computer science, robotics, psychology, cognitive neuroscience, and medicine, researchers in this new transdisciplinary field are pursuing basic and applied research to (i) advance the understanding about complex dynamics of human goal-directed multisensory perception and action from the psychological, neurocognitive, medical, and computational perspectives; (ii) develop novel sensor and actuator technologies that augment the human mind and body; (iii) develop fast, bendable, adaptive, and reconfigurable electronics; (iv) create intelligent communication networks that connect humans and CPS by continuously adapting and learning to provide low latency, as well as high levels of resilience and security; (v) design new haptic coding schemes to cope with the deluge of information from massive numbers of body sensors; (vi) design online learning mechanisms as well as interface solutions for machines and humans to predict and augment each other's actions; and (vii) to evaluate the above technological solutions as well as to engage the general public about the potential possibilities and concerns that the new technologies will bring. The research on TaHiL will be essential for diverse applications involving human–machine interactions, including, most notably, in medicine, industry, and the Internet of Skills (IoS). This overview chapter highlights the challenges, directions, programmatic structures and application domains of the new transdisciplinary research endeavor of TaHiL. Key building blocks of TaHiL are presented in details in the 15 subsequent chapters collected in this volume.
+ER  - 
+
+TY  - JOUR
+T1  - Smart Manufacturing and Tactile Internet Powered by 5G: Investigation of Current Developments, Challenges, and Future Trends
+AU  - Mourtzis, Dimitris
+JO  - Procedia CIRP
+VL  - 104
+SP  - 1960
+EP  - 1969
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 54th CIRP CMS 2021 - Towards Digitalized Manufacturing 4.0
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2021.11.331
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827121012294
+KW  - Tactile Internet
+KW  - Smart Manufacturing
+KW  - 5G
+KW  - Industry 4.0
+AB  - Communication latency has been a significant barrier for many applications deployed in manufacturing networks. Despite the constant development of improved communication protocols and standards during Industry 4.0, the latency problem still exists, decreasing the Quality of Services (QoS) and Quality of experience (QoE). Therefore, high availability, security and ultra-low latency offered by Tactile Internet (TI), will create a new dimension to human-to-machine interaction (HMI) by enabling haptic and tactile sensations. The 5G mobile communication systems will support this emerging Internet at the wireless edge. Consequently, TI can be used as backbone for delay mitigation in cooperation with 5G networks, for ultra-reliable low-latency applications such as Smart Manufacturing, Virtual and Augmented Reality. Therefore, the aim of this paper is to present the state-of-the-art of 5G and TI, the challenges, the trends for 5G networks beyond 2020 and to provide a conceptual framework integrating 5G and TI to existing industrial case studies.
+ER  - 

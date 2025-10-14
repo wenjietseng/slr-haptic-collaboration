@@ -18,7 +18,7 @@ lapply(packages, library, character.only = TRUE)
 # Naive search term is:
 # ("collaborative virtual environment" OR
 ## "shared virtual environment" OR "remote collaboration") AND "haptic"
-search_directory <- "~/Documents/slr-haptic-collaboration/naive_search_0923/"
+search_directory <- "~/Documents/slr-haptic-collaboration/polished_search_1013/"
 naive_import <- litsearchr::import_results(search_directory, verbose = TRUE)
 naive_results <- litsearchr::remove_duplicates(naive_import, field = "title", method = "string_osa")
 table(naive_import$filename)
@@ -30,9 +30,9 @@ ggplot(naive_results, aes(x=source_type)) +
 
 dta <- filter(naive_results, source_type == "JOUR" | source_type == "CONF")
 
-dim(naive_import) # 396 
-dim(naive_results) # remove duplicate papers 388
-dim(dta) # remove book and chapters 380
+dim(naive_import) # 1084 
+dim(naive_results) # 1084 - remove duplicate papers 226 = 858
+dim(dta) # 858 - remove book and chapters 17 = 841
 
 is.na(dta$year)
 dta$cleaned_year <- ifelse(is.na(dta$year), substr(dta$date_generated, start = 1, stop = 4), dta$year)
@@ -44,25 +44,29 @@ ggplot(dta, aes(x=cleaned_year)) +
 ## Check: if we cover the final list
 golden_standard_import <- litsearchr::import_results("./gold_standard/", verbose = TRUE)
 sum(tolower(golden_standard_import$title) %in% tolower(dta$title))
-length(golden_standard_import$title) # 16/18
+length(golden_standard_import$title) # 18/21
 golden_standard_import$title[!(tolower(golden_standard_import$title) %in% tolower(dta$title))] 
 
-# in 10 years
+
+### preparing for the screening
+# in 10 years ?
 dta_10yrs <- dta[(as.numeric(dta$cleaned_year) > 2014),]
 dim(dta_10yrs)
+dim(dta)
 
 # title
 sum(is.na(dta$title))
 
 # abstract
-dta[which(is.na(dta$abstract)),]
 sum(is.na(dta$abstract))
+dta[which(is.na(dta$abstract)),]
 
 # year
 sum(is.na(dta$cleaned_year))
 
 # authors
 sum(is.na(dta_10yrs$author))
+dta[which(is.na(dta_10yrs$author)),]
 
 # published where?
 sum(is.na(dta$source))
@@ -71,11 +75,12 @@ dta$source[which(is.na(dta$source))] <- dta$journal[which(is.na(dta$source))]
 
 # link: if url is missing, replace with doi
 sum(is.na(dta$doi))
+library(stringr)
 dta$link <- ifelse(str_starts(dta$doi, "https://doi.org/"), dta$doi, paste0("https://doi.org/", dta$doi))
 
 library(tidyverse) # we user stringr
 dta |> select(title, abstract, cleaned_year, author, source, link) |>
-  write.table("./screening/2609.csv",
+  write.table("./screening/1013.csv",
               row.names = FALSE, col.names = TRUE,
               sep = ";")
 

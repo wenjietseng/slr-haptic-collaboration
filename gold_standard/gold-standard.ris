@@ -542,30 +542,3 @@ Y2  - 2025/10/10/14:00:09
 L2  - https://doi.org/10.1016/j.intcom.2010.06.001
 ER  - 
 
-TY  - CONF
-TI  - The Effect of Haptic Feedback on Basic Social Interaction within Shared Virtual Environments
-AU  - Giannopoulos, Elias
-AU  - Eslava, Victor
-AU  - Oyarzabal, María
-AU  - Hierro, Teresa
-AU  - González, Laura
-AU  - Ferre, Manuel
-AU  - Slater, Mel
-A2  - Ferre, Manuel
-AB  - This paper describes an experiment that studies the effect of basic haptic feedback in creating a sense of social interaction within a shared virtual environment (SVE). Although there have been a number of studies investigating the effect of haptic feedback on collaborative task performance, they do not address the effect it has in inducing social presence. The purpose of this experiment is to show that haptic feedback enhances the sense of social presence within a mediated environment. An experiment was carried out using a shared desktop based virtual environment where 20 remotely located couples who did not know one another had to solve a puzzle together. In 10 groups they had shared haptic communication through their hands, and in another group they did not. Hence the haptic feedback was not used for completing the task itself, but rather as a means of social interacting – communicating with the other participant. The results suggest that basic haptic feedback increases the sense of social presence within the shared VE.
-C1  - Berlin, Heidelberg
-C3  - Haptics: Perception, Devices and Scenarios
-DA  - 2008///
-PY  - 2008
-DO  - 10.1007/978-3-540-69057-3_36
-DP  - Springer Link
-SP  - 301
-EP  - 307
-LA  - en
-PB  - Springer
-SN  - 978-3-540-69057-3
-KW  - Haptics
-KW  - shared virtual environments
-KW  - social presence
-ER  - 
-
