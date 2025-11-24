@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - Intuitive Robot Programming Using Augmented Reality
+AU  - Blankemeyer, Sebastian
+AU  - Wiemann, Rolf
+AU  - Posniak, Lukas
+AU  - Pregizer, Christoph
+AU  - Raatz, Annika
+JO  - Procedia CIRP
+VL  - 76
+SP  - 155
+EP  - 160
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 7th CIRP Conference on Assembly Technologies and Systems (CATS 2018)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2018.02.028
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827118300933
+KW  - augmented reality
+KW  - intuitive robot programming
+KW  - human-machine-interaction
+AB  - The demands on companies caused by the markets are becoming more and more fast-moving and complex. Reasons are the increasing number of variants of products as well as reduced product life cycle times. This is particularly relevant for assembly tasks, since a very high flexibility and adaptability to varying ambient condition must be ensured in this area. Therefore, a lot of steps are currently being carried out manually. However, if an automation is attempted in the field of assembly, companies are often facing a trade-off between a high degree of automation and flexibility of the production system. A concept to increase the automation rate in assembly tasks can be seen in the use of collaborative robots, so that the benefits of both, humans and robots, can be combined to accomplish the task. In doing so, one key issue is to simplify and thus to accelerate the programming process so that the necessary programming skills of employees can be reduced. Although some of today’s collaborative robots already offer good programming approaches like kinesthetic teaching, this article introduces a new and more intuitive programming method which is based on Augmented Reality. For this purpose, components of an assembly group are virtually linked with CAD models by using optical markers. The operator can then virtually assemble the components according to the assembly sequence. Results of first tests indicate, that once the assembly process is recorded, the robot can accomplish the assembly in reality. Finally, possibilities for future developments are presented.
+ER  - 

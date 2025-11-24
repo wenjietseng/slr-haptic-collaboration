@@ -1,0 +1,346 @@
+TY  - JOUR
+T1  - Semi-Automated Control of AFM-based Micromanipulation using Potential Fields
+AU  - Ladjal, Hamid
+AU  - Ferreira, Antoine
+JO  - IFAC Proceedings Volumes
+VL  - 41
+IS  - 2
+SP  - 13731
+EP  - 13736
+PY  - 2008
+DA  - 2008/01/01/
+T2  - 17th IFAC World Congress
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20080706-5-KR-1001.02325
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667016411912
+AB  - This paper proposes a truly interactive virtual environment (VE) system for 2-D assembly tasks at the microscale. It is based on the application of virtual potential fields as a control aid for performing safe and reliable path planning strategies. The planner covers a whole range of problems due to microscale effects in object assignment, obstacle detection and avoidance, path trajectory finding and sequencing. We investigated various paradigms for enabling the human operator and the automatic motion planner to cooperatively solve a motion planning task through the use of virtual potential fields. Communication between the operator and the planner is made through haptic/vision/sound modalities. First, we describe algorithms based on optimization theory and Voronoi graph construction taking into account the microscale effects. As automatic motion planners fail due to the difficulty of discovering critical configurations, we propose cooperation paradigms with operator skills in order to solve motion planning strategies. Then, potential fields are being used as a tool to generate velocity commands from an automatic path planner as well as allowing the human to interact. Finally, the ideas presented here are supported by experiments for efficient pushing-based manipulation constructing 2-D microparticle patterns.
+ER  - 
+
+TY  - JOUR
+T1  - Cut and Suture Support on Volumetric Models in the CyberMed Framework
+AU  - Cunha, Ícaro L.L.
+AU  - Xia, Ping Jung
+AU  - Machado, Liliane S.
+AU  - Restivo, Teresa
+AU  - Moraes, Ronei M.
+AU  - Lopes, Antonio M.
+JO  - Procedia Technology
+VL  - 5
+SP  - 771
+EP  - 776
+PY  - 2012
+DA  - 2012/01/01/
+T2  - 4th Conference of ENTERprise Information Systems – aligning technology, organizations and people (CENTERIS 2012)
+SN  - 2212-0173
+DO  - https://doi.org/10.1016/j.protcy.2012.09.085
+UR  - https://www.sciencedirect.com/science/article/pii/S2212017312005166
+KW  - Simulation
+KW  - Volumetric model
+KW  - Virtual reality
+KW  - Data structure
+AB  - The need of applications for realistic training to medical professionals motivated the development of the framework CyberMed. Since 2006, this framework provides a set of features that allow users to freely build interactive virtual environments for realistic medical training. Thus, simulations composed by 3D visualization and interaction with haptic feedback can be created for different areas of medicine. In order to allow using data obtained from real exams, such as CT and MRI, the CyberMed had its kernel recently expanded. Now the framework enables working with volumetric data to build more realistic medical simulations. The aim of this paper is to present this process of expansion realized in a cooperation work between two countries, emphasizing the new possibilities offered by this integration for further works related to simulations with cut and suture of tissues.
+ER  - 
+
+TY  - JOUR
+T1  - Robot-enabled tangible virtual assembly with coordinated midair object placement
+AU  - Zhang, Li
+AU  - Liu, Yizhe
+AU  - Bai, Huidong
+AU  - Zou, Qianyuan
+AU  - Chang, Zhuang
+AU  - He, Weiping
+AU  - Wang, Shuxia
+AU  - Billinghurst, Mark
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 79
+SP  - 102434
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2022.102434
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584522001181
+KW  - Robotics
+KW  - Assembly
+KW  - Virtual reality
+KW  - Haptic feedback
+AB  - The assembly in Virtual Reality (VR) enables users to fit virtual parts into existing 3D models immersively. However, users cannot physically feel the haptic feedback when connecting the parts with the virtual model. This work presents a robot-enabled tangible interface that dynamically moves a physical structure with a robotic arm to provide physical feedback for holding a handheld proxy in VR. This enables the system to provide force feedback during virtual assembly. The cooperation between the physical support and the handheld proxy produces realistic physical force feedback, providing a tangible experience for various virtual parts in virtual assembly scenarios. We developed a prototype system that allowed the operator to place a virtual part onto other models in VR by placing the proxy onto the matched structure attached to a robotic arm. We conducted a user evaluation to explore user performance and system usability in a virtual assembly task. The results indicated that the robot-enabled tangible support increased the task completion time but significantly improved the system usability and sense of presence with a more realistic haptic experience.
+ER  - 
+
+TY  - JOUR
+T1  - Architectures for shared haptic virtual environments
+AU  - Buttolo, Pietro
+AU  - Oboe, Roberto
+AU  - Hannaford, Blake
+JO  - Computers & Graphics
+VL  - 21
+IS  - 4
+SP  - 421
+EP  - 429
+PY  - 1997
+DA  - 1997/07/01/
+T2  - Haptic Displays in Virtual Environments and Computer Graphics in Korea
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(97)00019-8
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849397000198
+AB  - The lack of force feedback in visual-only simulations may seriously hamper user proprioception, effectiveness and sense of immersion while manipulating virtual environments. Haptic rendering, the process of feeding back force to the user in response to interaction with the environment is sensitive to delay and can become unstable. In this paper we will describe various techniques to integrate force feedback in shared virtual simulations, dealing with significant and unpredictable delays. Three different implementations are investigated: static, collaborative and cooperative haptic virtual environments.
+ER  - 
+
+TY  - JOUR
+T1  - Single-master/multi-slave haptic teleoperation: a force control scheme
+AU  - Argin, Omer Faruk
+AU  - Bayraktaroglu, Zeki Yagiz
+JO  - Industrial Robot
+VL  - 49
+IS  - 1
+SP  - 76
+EP  - 87
+PY  - 2021
+DA  - 2021/08/16/
+SN  - 0143-991X
+DO  - https://doi.org/10.1108/IR-02-2021-0027
+UR  - https://www.sciencedirect.com/science/article/pii/S0143991X21000763
+KW  - Teleoperation
+KW  - Haptics
+KW  - Cooperative robots
+KW  - Telerobotics
+KW  - Man-machine systems
+AB  - Purpose
+This paper aims to present a novel modular design framework for the haptic teleoperation of single-master/multiple-slave (SM/MS) systems with cooperating manipulators.
+Design/methodology/approach
+The user commands the remote-leader robot and the slave remote robot follows the leader in a leader–follower formation. The remote-slave is purely force-controlled. A virtual model of the remote environment is introduced between the local and remote environments through simulation software. Locally generated motion inputs are transmitted to the remote environment through the virtual model. A haptic coupling is designed in the virtual environment and the haptic feedback is transmitted to the user along with the forces measured in the remote environment. The controllers proposed in this work are experimentally evaluated with experienced and inexperienced users.
+Findings
+The proposed haptic interaction model contributes to the total force feedback and smoothens the high-frequency signals occurring at the physical interaction in the remote environment. Experimental results show that the implemented controllers including the proposed haptic interaction improve the teleoperation performances in terms of trajectory tracking. Furthermore, pure force control of the remote-slave is shown to enhance the robustness of the teleoperation against external disturbances. Satisfactory teleoperation performances are observed with both experienced and inexperienced users.
+Originality/value
+The proposed SM/MS teleoperation system involves a multi-purpose virtual simulator and a purely force-controlled remote-slave manipulator in a modular cooperative configuration. The uniquely defined structure of the proposed haptic coupling is used in modeling the interaction between the local and remote manipulators on the one hand, and between cooperating remote manipulators on the other.
+ER  - 
+
+TY  - JOUR
+T1  - Virtual Cerebral Aneurysm Clipping with Real-Time Haptic Force Feedback in Neurosurgical Education
+AU  - Gmeiner, Matthias
+AU  - Dirnberger, Johannes
+AU  - Fenz, Wolfgang
+AU  - Gollwitzer, Maria
+AU  - Wurm, Gabriele
+AU  - Trenkler, Johannes
+AU  - Gruber, Andreas
+JO  - World Neurosurgery
+VL  - 112
+SP  - e313
+EP  - e323
+PY  - 2018
+DA  - 2018/04/01/
+SN  - 1878-8750
+DO  - https://doi.org/10.1016/j.wneu.2018.01.042
+UR  - https://www.sciencedirect.com/science/article/pii/S1878875018300822
+KW  - Cerebral aneurysm
+KW  - Clipping
+KW  - Education
+KW  - Simulation
+KW  - Virtual reality
+AB  - Objective
+Realistic, safe, and efficient modalities for simulation-based training are highly warranted to enhance the quality of surgical education, and they should be incorporated in resident training. The aim of this study was to develop a patient-specific virtual cerebral aneurysm-clipping simulator with haptic force feedback and real-time deformation of the aneurysm and vessels.
+Methods
+A prototype simulator was developed from 2012 to 2016. Evaluation of virtual clipping by blood flow simulation was integrated in this software, and the prototype was evaluated by 18 neurosurgeons. In 4 patients with different medial cerebral artery aneurysms, virtual clipping was performed after real-life surgery, and surgical results were compared regarding clip application, surgical trajectory, and blood flow.
+Results
+After head positioning and craniotomy, bimanual virtual aneurysm clipping with an original forceps was performed. Blood flow simulation demonstrated residual aneurysm filling or branch stenosis. The simulator improved anatomic understanding for 89% of neurosurgeons. Simulation of head positioning and craniotomy was considered realistic by 89% and 94% of users, respectively. Most participants agreed that this simulator should be integrated into neurosurgical education (94%). Our illustrative cases demonstrated that virtual aneurysm surgery was possible using the same trajectory as in real-life cases. Both virtual clipping and blood flow simulation were realistic in broad-based but not calcified aneurysms. Virtual clipping of a calcified aneurysm could be performed using the same surgical trajectory, but not the same clip type.
+Conclusions
+We have successfully developed a virtual aneurysm-clipping simulator. Next, we will prospectively evaluate this device for surgical procedure planning and education.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 2 - Surgical assistance and training
+AU  - Speidel, Stefanie
+AU  - Bodenstedt, Sebastian
+AU  - von Bechtolsheim, Felix
+AU  - Rivoir, Dominik
+AU  - Funke, Isabel
+AU  - Goebel, Eva
+AU  - Mitschick, Annett
+AU  - Dachselt, Raimund
+AU  - Weitz, Jürgen
+A2  - Fitzek, Frank H.P.
+A2  - Li, Shu-Chen
+A2  - Speidel, Stefanie
+A2  - Strufe, Thorsten
+A2  - Simsek, Meryem
+A2  - Reisslein, Martin
+BT  - Tactile Internet
+PB  - Academic Press
+SP  - 23
+EP  - 39
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 978-0-12-821343-8
+DO  - https://doi.org/10.1016/B978-0-12-821343-8.00012-5
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128213438000125
+KW  - Robot-assisted surgery
+KW  - surgical data science
+KW  - surgical training
+AB  - Surgery has evolved drastically over the last decades, turning from an artisanal craft to a high-tech discipline with enormous amounts of data and robotic devices, especially in the Operating Room (OR). While first systems for computer and robot assistance in the OR have emerged, the current systems do not live up to their full potential and often do not exceed the capabilities of mechanical solutions. Currently, the outcome depends to a large extent on the expertise of the surgeon. This chapter shows current limitations and reviews the state of the art as well as open research questions in the context of Tactile Internet with Human-in-the-Loop (TaHiL) for intraoperative assistance and surgical training. Remaining challenges include the incorporation of expert knowledge by means of surgical data science, an intuitive human–machine interface that enables smart coworking and robotic skill transfer as well as context-aware real-time assistance with low latency in a sensor-enhanced OR and sensor-enhanced training setting. The aim is to improve the safety, the quality, and the efficiency of patient care by capturing clinical expertise and augmenting clinical performance in the context of computer- and robot-assisted therapy as well as surgical training. TaHiL addresses these aspects for intraoperative as well as training applications by focusing on novel sensor-processing devices that capture, model, and transfer surgical skills, including holistic data analysis for multimodal and temporal data. This also includes intuitive human–machine interaction with low-latency visual and haptic feedback while taking real-time capabilities and co-operation abilities into account. Furthermore, new possibilities for immersive Virtual Reality (VR)/Augmented Reality (AR) training environments are exploited.
+ER  - 
+
+TY  - JOUR
+T1  - Auditory feedback in haptic collaborative interfaces
+AU  - Huang, Ying Ying
+AU  - Moll, Jonas
+AU  - Sallnäs, Eva-Lotta
+AU  - Sundblad, Yngve
+JO  - International Journal of Human-Computer Studies
+VL  - 70
+IS  - 4
+SP  - 257
+EP  - 270
+PY  - 2012
+DA  - 2012/04/01/
+SN  - 1071-5819
+DO  - https://doi.org/10.1016/j.ijhcs.2011.11.006
+UR  - https://www.sciencedirect.com/science/article/pii/S1071581911001583
+KW  - Haptic
+KW  - Force feedback
+KW  - Virtual environments
+KW  - Multimodal interface
+KW  - Collaboration
+KW  - Awareness
+KW  - Common ground
+AB  - The combined effect of haptic and auditory feedback in shared interfaces on the cooperation between visually impaired and sighted persons is under-investigated. A central challenge for cooperating group members lies in obtaining a common understanding of the elements of the workspace and maintaining awareness of the other members' actions, as well as one's own, during the group work process. The aim of the experimental study presented here was to investigate if adding audio cues in a haptic and visual interface makes collaboration between a sighted and a blindfolded person more efficient. Results showed that task performance was significantly faster in the audio, haptic and visual feedback condition compared to the haptic and visual feedback condition. One special focus was also to study how participants utilize the auditory and haptic force feedback in order to obtain a common understanding of the workspace and to maintain an awareness of the group members' actions. Results from a qualitative analysis showed that the auditory and haptic feedback was used in a number of important ways to support the group members' action awareness and in the participants' grounding process.
+ER  - 
+
+TY  - JOUR
+T1  - Preliminary realization of immersive EAST system using virtual reality
+AU  - Li, Dan
+AU  - Xiao, B.J.
+AU  - Xia, J.Y.
+AU  - Wang, K.R.
+JO  - Fusion Engineering and Design
+VL  - 128
+SP  - 198
+EP  - 203
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0920-3796
+DO  - https://doi.org/10.1016/j.fusengdes.2018.02.031
+UR  - https://www.sciencedirect.com/science/article/pii/S0920379618301327
+KW  - EAST
+KW  - Virtual reality
+KW  - Immersive
+KW  - Unity3D
+KW  - Client/Server
+KW  - HTC Vive
+AB  - Aiming at the complex and confined environments of experimental advanced superconducting tokamak (EAST) and the need to improve the ability of resident and visiting scientists to access and understand EAST, the immersive EAST system based on virtual reality is developed. Compared to previous virtual EAST systems, model reality, rendering speed, immersion and interaction functions are greatly increased. In the previous system, models were transformed from CATIA and imported to 3DS Max for subsequent processing. While those models have the advantages of being very precise and easily generated, they come at the price of decreased rendering speed and poor rendering quality because of a large loss of triangle faces. In this regard, EAST models are rebuilt and materials created by photos of EAST device are assigned to models. Moreover, because virtual reality is quite effective at creating experiment scenarios thanks to their ability to provide the feeling of immersive operation and collaborative environments, model libraries are built during this research for future scheme generation and hardware installation training. The immersive EAST system is developed in the Unity3D environment using a Client/Server architecture, the HTC Vive and handheld devices are used to provide the immersive scene, intuitive controls and realistic haptic feedback. Users can roam in the virtual scene and interact with the immersive EAST using the handheld devices and communicate with other users in the system. The establishment of the system provides the framework for a comprehensive and cooperative experiment and training environment for EAST.
+ER  - 
+
+TY  - JOUR
+T1  - An experimental study on the effects of Network delay in Cooperative Shared Haptic Virtual Environment
+AU  - Alhalabi, M.Osama
+AU  - Horiguchi, Susumu
+AU  - Kunifuji, Susumu
+JO  - Computers & Graphics
+VL  - 27
+IS  - 2
+SP  - 205
+EP  - 213
+PY  - 2003
+DA  - 2003/04/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(02)00277-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849302002777
+KW  - Shared virtual environment
+KW  - Haptic
+KW  - Network latency
+KW  - Task performance
+KW  - Quality of haptic
+AB  - A cooperative shared haptic virtual environment (CSHVE), where the users can kinesthetically interact and simultaneously feel each other over the network, is beneficial for many distributed VR simulations. A little is known about the influences of the network delay on the quality of haptic sensation and the task performance in such environments. This paper has addressed these issues by conducting a subjective evaluation to the force feedback and the task performance in a tele-handshake cooperative shared haptic system for different delay setting. Also, four subjective measures to evaluate the quality of haptic in CSHVEs have been proposed. These measures are the feeling of force, the consistency between the haptic-visual feedback, the vibration, and the rebound in the haptic device. In addition, a detailed description of the haptic sensation for different time delays is also described. A network emulator was utilized to simulate the real network cloud. An objective evaluation of the force feedback and the performance showed that there was no effect of the delay on the force feedback. It had a negative impact on the task performance. In general, the quality of haptic deteriorated as the delay increased and vibration and rebound hampered the users for large time delay. The haptic-visual consistency was robust in the presented system even for large time delays. Nevertheless, the examined tele-handshake system was able to deliver a high quality of haptic sensation, good performance, and stability for large time delay over the network.
+ER  - 
+
+TY  - JOUR
+T1  - On Multi-Agent Cognitive Cooperation: Can virtual agents behave like humans?
+AU  - D’Avella, Salvatore
+AU  - Camacho-Gonzalez, Gerardo
+AU  - Tripicchio, Paolo
+JO  - Neurocomputing
+VL  - 480
+SP  - 27
+EP  - 38
+PY  - 2022
+DA  - 2022/04/01/
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2022.01.025
+UR  - https://www.sciencedirect.com/science/article/pii/S092523122200042X
+KW  - Cognitive Collaboration
+KW  - Multi-Modal Feedback
+KW  - Multi-Agent Reinforcement Learning
+AB  - Individuals tend to cooperate or collaborate to reach a common goal when the going gets tough creating a common frame of reference that is a common mental representation of the situation. Information exchange among people is fundamental for building a shared strategy through the grounding process that exploits different communication channels like vision, haptic, or voice. Indeed, human perception is typically multi-modal. This work proposes a two-fold study investigating the cognitive collaboration process both among humans and virtual agents of a multi-agent reinforcement learning (MARL) system. The experiment with humans consists of an interactive virtual shared environment that uses multi-modal channels (visual and haptics) as interaction cues. Haptic feedback is fundamental for a good sense of presence and for improving the performance in completing a task. In this manuscript, an experiment, consisting of escaping a virtual maze trying to get the best score possible, is introduced. The experiment is meant to be performed in pairs, and the perceptual information is split among the participants. A custom haptic interface has been used for the interaction with the virtual environment. The machine learning case, instead, proposes two virtual agents implemented using a tabular Q-learning paradigm to control a single avatar in a 2D labyrinth, introducing a new form of MARL setting. As it is known, it is not easy to get familiar with haptics for people that have never used it, and that if not properly transmitted, the cognitive workflow does not produce any improvements. However, the main findings of the proposed work are that haptic-driven multi-modal feedback information is a valuable means of collaboration since it allows to establish a common frame of reference between the two participants. The machine learning experiments show that even independent agents, implemented with properly designed rewards, can learn the intentions of the other participant in the same environment and collaborate to accomplish a common task.
+ER  - 
+
+TY  - JOUR
+T1  - “IOMaster 7D”—a new device for virtual neuroendoscopy
+AU  - Trantakis, C
+AU  - Meixensberger, J
+AU  - Strauß, G
+AU  - Nowatius, E
+AU  - Lindner, D
+AU  - Cakmak, H.K
+AU  - Maaß, H
+AU  - Nagel, C
+AU  - Kühnapfel, U
+JO  - International Congress Series
+VL  - 1268
+SP  - 707
+EP  - 712
+PY  - 2004
+DA  - 2004/06/01/
+T2  - CARS 2004 - Computer Assisted Radiology and Surgery. Proceedings of the 18th International Congress and Exhibition
+SN  - 0531-5131
+DO  - https://doi.org/10.1016/j.ics.2004.03.273
+UR  - https://www.sciencedirect.com/science/article/pii/S0531513104007058
+KW  - Neuroendoscopy
+KW  - Minimal invasive surgery
+KW  - Virtual reality
+KW  - Force feedback
+KW  - Surgical training
+AB  - Purpose: Within a scope of a cooperative project called “HapticIO” (funded by the German Ministry of Education and Research (BMBF)), a completely new force feedback device “IOMaster 7D” was intended to be developed for simulation of endoscopic ventriculo-cisternostomy (VCS). Methods: A VR model for endoscopic ventriculostomy was generated based on a MRI data set of a real hydrocephalic brain. Different software modules were used for segmentation (VESUV), modelling (KisMo) and visualization (KISMET). The software modules were implemented on a WIN32 platform and are running on Windows-NT, Win2000 or WinXP. A force feedback system for capturing of the position of both the trocar and the acting instrument was developed. Large arms are counterbalanced to reduce gravitational forces and torques. The position and orientation of the input handle is determined by taking the joint angles of the linkages and using the forward kinematics calculation. Force data returned by the simulation is mapped to a set of torques to be produced by the motors by using a so-called Jacobian transformation. Real microsurgical instruments (MINOP, Aesculap, Germany) were used and adapted to the simulator to provide for a design and haptic properties close to real situation in the OR. The system was evaluated in a pilot series. Results: The force feedback system IOMaster 7D offers 7 degrees of freedom and consists of two coupled force feedback elements. Both the trocar and the acting instruments (scissor, bipolar coagulation, forceps, inflatable balloon catheter) are captured separately. In this way, the trocar's position determines the view of the endoscopic 30° lens camera, the access to the target and the possible operating range of the instruments. A complex elastodynamic hydrocephalic configured ventricular system with realistic proportions and anatomical structures could be modelled. An interactive virtual preparation with force feedback was implemented coupling real surgical instruments (MINOP) with the force feedback system. The VR system provides different interactions like axial movement or rotation of the instruments, cutting, grasping as well as realistic elastodynamic deformations of the ventricle wall. First evaluations proved a reduction of the median failure rate and a reduction of the median required time to reach the target. Analysis of the total distance of instruments movement also showed a reduction. Conclusion: VR systems can simulate realistic and real-time surgical procedures and may open new perspectives for the neurosurgical training. The training of potentially hazardous procedures can be uncoupled from the patient resulting in a reduction of surgical morbidity. The integration of haptic information increases the quality of these training systems. The definition of no-touch areas and targets and the possibility of automatic registration of both kinetic parameters, failure rate and the time course of the procedure provide objective criteria for the appreciation of a learning effect.
+ER  - 
+
+TY  - JOUR
+T1  - A framework using cluster-based hybrid network architecture for collaborative virtual surgery
+AU  - Qin, Jing
+AU  - Choi, Kup-Sze
+AU  - Poon, Wai-Sang
+AU  - Heng, Pheng-Ann
+JO  - Computer Methods and Programs in Biomedicine
+VL  - 96
+IS  - 3
+SP  - 205
+EP  - 216
+PY  - 2009
+DA  - 2009/12/01/
+SN  - 0169-2607
+DO  - https://doi.org/10.1016/j.cmpb.2009.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0169260709001758
+KW  - Surgical simulation
+KW  - Collaborative virtual environments
+KW  - Cluster-based network architecture
+KW  - Reliable multicast
+KW  - Efficient collaboration
+AB  - Research on collaborative virtual environments (CVEs) opens the opportunity for simulating the cooperative work in surgical operations. It is however a challenging task to implement a high performance collaborative surgical simulation system because of the difficulty in maintaining state consistency with minimum network latencies, especially when sophisticated deformable models and haptics are involved. In this paper, an integrated framework using cluster-based hybrid network architecture is proposed to support collaborative virtual surgery. Multicast transmission is employed to transmit updated information among participants in order to reduce network latencies, while system consistency is maintained by an administrative server. Reliable multicast is implemented using distributed message acknowledgment based on cluster cooperation and sliding window technique. The robustness of the framework is guaranteed by the failure detection chain which enables smooth transition when participants join and leave the collaboration, including normal and involuntary leaving. Communication overhead is further reduced by implementing a number of management approaches such as computational policies and collaborative mechanisms. The feasibility of the proposed framework is demonstrated by successfully extending an existing standalone orthopedic surgery trainer into a collaborative simulation system. A series of experiments have been conducted to evaluate the system performance. The results demonstrate that the proposed framework is capable of supporting collaborative surgical simulation.
+ER  - 
+
+TY  - JOUR
+T1  - Smart Manufacturing and Tactile Internet Powered by 5G: Investigation of Current Developments, Challenges, and Future Trends
+AU  - Mourtzis, Dimitris
+JO  - Procedia CIRP
+VL  - 104
+SP  - 1960
+EP  - 1969
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 54th CIRP CMS 2021 - Towards Digitalized Manufacturing 4.0
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2021.11.331
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827121012294
+KW  - Tactile Internet
+KW  - Smart Manufacturing
+KW  - 5G
+KW  - Industry 4.0
+AB  - Communication latency has been a significant barrier for many applications deployed in manufacturing networks. Despite the constant development of improved communication protocols and standards during Industry 4.0, the latency problem still exists, decreasing the Quality of Services (QoS) and Quality of experience (QoE). Therefore, high availability, security and ultra-low latency offered by Tactile Internet (TI), will create a new dimension to human-to-machine interaction (HMI) by enabling haptic and tactile sensations. The 5G mobile communication systems will support this emerging Internet at the wireless edge. Consequently, TI can be used as backbone for delay mitigation in cooperation with 5G networks, for ultra-reliable low-latency applications such as Smart Manufacturing, Virtual and Augmented Reality. Therefore, the aim of this paper is to present the state-of-the-art of 5G and TI, the challenges, the trends for 5G networks beyond 2020 and to provide a conceptual framework integrating 5G and TI to existing industrial case studies.
+ER  - 

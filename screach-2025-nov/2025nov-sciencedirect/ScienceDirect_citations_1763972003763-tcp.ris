@@ -1,0 +1,72 @@
+TY  - CHAP
+T1  - Chapter 2 - Surgical assistance and training
+AU  - Speidel, Stefanie
+AU  - Bodenstedt, Sebastian
+AU  - von Bechtolsheim, Felix
+AU  - Rivoir, Dominik
+AU  - Funke, Isabel
+AU  - Goebel, Eva
+AU  - Mitschick, Annett
+AU  - Dachselt, Raimund
+AU  - Weitz, Jürgen
+A2  - Fitzek, Frank H.P.
+A2  - Li, Shu-Chen
+A2  - Speidel, Stefanie
+A2  - Strufe, Thorsten
+A2  - Simsek, Meryem
+A2  - Reisslein, Martin
+BT  - Tactile Internet
+PB  - Academic Press
+SP  - 23
+EP  - 39
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 978-0-12-821343-8
+DO  - https://doi.org/10.1016/B978-0-12-821343-8.00012-5
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128213438000125
+KW  - Robot-assisted surgery
+KW  - surgical data science
+KW  - surgical training
+AB  - Surgery has evolved drastically over the last decades, turning from an artisanal craft to a high-tech discipline with enormous amounts of data and robotic devices, especially in the Operating Room (OR). While first systems for computer and robot assistance in the OR have emerged, the current systems do not live up to their full potential and often do not exceed the capabilities of mechanical solutions. Currently, the outcome depends to a large extent on the expertise of the surgeon. This chapter shows current limitations and reviews the state of the art as well as open research questions in the context of Tactile Internet with Human-in-the-Loop (TaHiL) for intraoperative assistance and surgical training. Remaining challenges include the incorporation of expert knowledge by means of surgical data science, an intuitive human–machine interface that enables smart coworking and robotic skill transfer as well as context-aware real-time assistance with low latency in a sensor-enhanced OR and sensor-enhanced training setting. The aim is to improve the safety, the quality, and the efficiency of patient care by capturing clinical expertise and augmenting clinical performance in the context of computer- and robot-assisted therapy as well as surgical training. TaHiL addresses these aspects for intraoperative as well as training applications by focusing on novel sensor-processing devices that capture, model, and transfer surgical skills, including holistic data analysis for multimodal and temporal data. This also includes intuitive human–machine interaction with low-latency visual and haptic feedback while taking real-time capabilities and co-operation abilities into account. Furthermore, new possibilities for immersive Virtual Reality (VR)/Augmented Reality (AR) training environments are exploited.
+ER  - 
+
+TY  - JOUR
+T1  - Joint wireless resource allocation and service function chaining scheduling for Tactile Internet
+AU  - Guo, Mian
+AU  - Mukherjee, Mithun
+AU  - Lloret, Jaime
+AU  - Ou, Jiangtao
+AU  - Fan, Chengyuan
+JO  - Computer Networks
+VL  - 213
+SP  - 109113
+PY  - 2022
+DA  - 2022/08/04/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2022.109113
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128622002407
+KW  - Tactile Internet
+KW  - Service function chaining
+KW  - End-to-end delay
+AB  - With the growing popularity of immersive interaction applications, e.g., industrial teleoperation and remote-surgery, the service demand of communication network is switching from packet delivery to remote control-based communication. The Tactile Internet (TI) is a promising paradigm of remote control-based wireless communication service, which enables tactile users to perceive, manipulate, or control real and virtual objects in perceived real-time. To support TI, the ultra-reliable and low latency communication service is required. However, the multi-tactile to multi-teleoperator interactive property, in-network computing demand, ordered service function chaining (SFC) requirement, as well as other features of TI, challenge the ultra-low latency provisioning. This paper studies the joint wireless resource allocation and SFC routing and scheduling problem for end-to-end delay reduction. We first formulate the problem as an end-to-end delay minimization problem constrained to SFC and wireless resource. Then, a distributed and cooperative scheme, which consists of the min–max (MM) wireless resource allocation algorithm and the delay-aware scheduling (DAS) of SFC algorithm, thus called MM-DAS, is proposed to address the problem. In MM-DAS, we use the MM algorithm for uplink/downlink communication at wireless edges, while DAS is proposed to solve the virtual network function (VNF) mapping and scheduling at the wireless core, for achieving the goal of providing low end-to-end delay to tactile–teleoperator pairs. The simulation results have illustrated the efficiency of the proposal for low end-to-end delay performance provisioning in TI environments.
+ER  - 
+
+TY  - JOUR
+T1  - Smart Manufacturing and Tactile Internet Powered by 5G: Investigation of Current Developments, Challenges, and Future Trends
+AU  - Mourtzis, Dimitris
+JO  - Procedia CIRP
+VL  - 104
+SP  - 1960
+EP  - 1969
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 54th CIRP CMS 2021 - Towards Digitalized Manufacturing 4.0
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2021.11.331
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827121012294
+KW  - Tactile Internet
+KW  - Smart Manufacturing
+KW  - 5G
+KW  - Industry 4.0
+AB  - Communication latency has been a significant barrier for many applications deployed in manufacturing networks. Despite the constant development of improved communication protocols and standards during Industry 4.0, the latency problem still exists, decreasing the Quality of Services (QoS) and Quality of experience (QoE). Therefore, high availability, security and ultra-low latency offered by Tactile Internet (TI), will create a new dimension to human-to-machine interaction (HMI) by enabling haptic and tactile sensations. The 5G mobile communication systems will support this emerging Internet at the wireless edge. Consequently, TI can be used as backbone for delay mitigation in cooperation with 5G networks, for ultra-reliable low-latency applications such as Smart Manufacturing, Virtual and Augmented Reality. Therefore, the aim of this paper is to present the state-of-the-art of 5G and TI, the challenges, the trends for 5G networks beyond 2020 and to provide a conceptual framework integrating 5G and TI to existing industrial case studies.
+ER  - 

@@ -18,7 +18,7 @@ lapply(packages, library, character.only = TRUE)
 # Naive search term is:
 # ("collaborative virtual environment" OR
 ## "shared virtual environment" OR "remote collaboration") AND "haptic"
-search_directory <- "~/Documents/slr-haptic-collaboration/polished_search_1013/"
+search_directory <- "~/Documents/slr-haptic-collaboration/screach-2025-nov/2025nov/"
 naive_import <- litsearchr::import_results(search_directory, verbose = TRUE)
 naive_results <- litsearchr::remove_duplicates(naive_import, field = "title", method = "string_osa")
 table(naive_import$filename)
@@ -30,9 +30,9 @@ ggplot(naive_results, aes(x=source_type)) +
 
 dta <- filter(naive_results, source_type == "JOUR" | source_type == "CONF")
 
-dim(naive_import) # 1084 
-dim(naive_results) # 1084 - remove duplicate papers 226 = 858
-dim(dta) # 858 - remove book and chapters 17 = 841
+dim(naive_import) # 1064 
+dim(naive_results) # 1064 - remove duplicate papers 232 = 832 
+dim(dta) # 832 - remove book and chapters 14 = 818
 
 is.na(dta$year)
 dta$cleaned_year <- ifelse(is.na(dta$year), substr(dta$date_generated, start = 1, stop = 4), dta$year)
@@ -42,9 +42,10 @@ ggplot(dta, aes(x=cleaned_year)) +
   theme(axis.text.x = element_text(angle = -60))
 
 ## Check: if we cover the final list
+setwd("Documents/slr-haptic-collaboration/")
 golden_standard_import <- litsearchr::import_results("./gold_standard/", verbose = TRUE)
 sum(tolower(golden_standard_import$title) %in% tolower(dta$title))
-length(golden_standard_import$title) # 18/21
+length(golden_standard_import$title) # 19/20
 golden_standard_import$title[!(tolower(golden_standard_import$title) %in% tolower(dta$title))] 
 
 
@@ -80,7 +81,7 @@ dta$link <- ifelse(str_starts(dta$doi, "https://doi.org/"), dta$doi, paste0("htt
 
 library(tidyverse) # we user stringr
 dta |> select(title, abstract, cleaned_year, author, source, link) |>
-  write.table("./screening/1013.csv",
+  write.table("./screening/nov2025.csv",
               row.names = FALSE, col.names = TRUE,
               sep = ";")
 
@@ -252,3 +253,8 @@ set.seed(07102025)
 wj <- sort(sample(1:340, 50))
 fla <- c(1:340)[-wj]
 fla <- sort(c(sample(wj, 25), sample(fla, 25)))
+
+set.seed(22102025)
+wj <- sort(sample(1:842, 50))
+jh <- c(1:842)[-wj]
+jh <- sort(c(sample(wj, 25), sample(jh, 25)))

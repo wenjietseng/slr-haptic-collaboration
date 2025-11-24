@@ -1,0 +1,63 @@
+TY  - JOUR
+T1  - An experimental study on the effects of Network delay in Cooperative Shared Haptic Virtual Environment
+AU  - Alhalabi, M.Osama
+AU  - Horiguchi, Susumu
+AU  - Kunifuji, Susumu
+JO  - Computers & Graphics
+VL  - 27
+IS  - 2
+SP  - 205
+EP  - 213
+PY  - 2003
+DA  - 2003/04/01/
+SN  - 0097-8493
+DO  - https://doi.org/10.1016/S0097-8493(02)00277-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0097849302002777
+KW  - Shared virtual environment
+KW  - Haptic
+KW  - Network latency
+KW  - Task performance
+KW  - Quality of haptic
+AB  - A cooperative shared haptic virtual environment (CSHVE), where the users can kinesthetically interact and simultaneously feel each other over the network, is beneficial for many distributed VR simulations. A little is known about the influences of the network delay on the quality of haptic sensation and the task performance in such environments. This paper has addressed these issues by conducting a subjective evaluation to the force feedback and the task performance in a tele-handshake cooperative shared haptic system for different delay setting. Also, four subjective measures to evaluate the quality of haptic in CSHVEs have been proposed. These measures are the feeling of force, the consistency between the haptic-visual feedback, the vibration, and the rebound in the haptic device. In addition, a detailed description of the haptic sensation for different time delays is also described. A network emulator was utilized to simulate the real network cloud. An objective evaluation of the force feedback and the performance showed that there was no effect of the delay on the force feedback. It had a negative impact on the task performance. In general, the quality of haptic deteriorated as the delay increased and vibration and rebound hampered the users for large time delay. The haptic-visual consistency was robust in the presented system even for large time delays. Nevertheless, the examined tele-handshake system was able to deliver a high quality of haptic sensation, good performance, and stability for large time delay over the network.
+ER  - 
+
+TY  - JOUR
+T1  - Cable controlled deep submergence teleoperator system
+AU  - Charles, J.
+AU  - Vertut, J.
+JO  - Mechanism and Machine Theory
+VL  - 12
+IS  - 5
+SP  - 481
+EP  - 492
+PY  - 1977
+DA  - 1977/01/01/
+SN  - 0094-114X
+DO  - https://doi.org/10.1016/0094-114X(77)90043-X
+UR  - https://www.sciencedirect.com/science/article/pii/0094114X7790043X
+AB  - ERIC II, cable controlled deep submergence teleoperator system, is designed for remote observation, investigation and intervention from a surface ship, with a 6000 m depth capability. The system is in development at CERTSM in Toulon Navy Yard, France on contract of Ministere des Armees; its main parts comprise first the heavy ancillary subsystems; cable handling gear, main cable, tether, PAGODE recovery fish, data and power transmission and second the ERIC II teleoperator fish and its control module. Special attention was paid at man-machine interface problems in the early stage of development and the result is the current development of “telesymbiotic” oriented hardwares: head mobility with TV and microphones sensory feedback, force feedback dexterous arms on sponsorship of CEA, Saclay, France, agility concept in the fish dynamic control with inertia feedback by kinesthetic motorized sticks also with CEA cooperation. First significative real world experience on underwater dexterous manipulative tasks was gained in late 1974 with great success. First experimentation of ERIC II is scheduled for early 1978.
+ER  - 
+
+TY  - CHAP
+T1  - Coherency between kinesthetic and visual sensation for two-handed-input in a virtual environment
+AU  - Ishii, Masahiro
+AU  - Sukanya, P.
+AU  - Takamatsu, Ryo
+AU  - Sato, Makoto
+AU  - Kawarada, Hiroshi
+A2  - Anzai, Yuichiro
+A2  - Ogawa, Katsuhiko
+A2  - Mori, Hirohiko
+BT  - Advances in Human Factors/Ergonomics
+PB  - Elsevier
+VL  - 20
+SP  - 467
+EP  - 472
+PY  - 1995
+DA  - 1995/01/01/
+T2  - Symbiosis of Human and Artifact
+SN  - 0921-2647
+DO  - https://doi.org/10.1016/S0921-2647(06)80076-6
+UR  - https://www.sciencedirect.com/science/article/pii/S0921264706800766
+AB  - This paper is about constructing a virtual work space for performing any tasks by both hands manipulation. We intend to provide a virtual enviornment that can encourage users to accomplish any tasks as they usally act in the real environment. Our approach is using a three dimensional spatial interface device that allows the user to handle virtual objects directly by free hands and be feel-able some physical properties of the virtual objects such as contact, weight, etc. We have investigated the suitable conditions for constructing our virtual work space by simulating some basic assembly work, a Face-and-Fit task. Then select the conditions that the subjects feel most comfortable in performing this task to set up our virtual work space. Finally, we have verified the possibility to perform more complex tasks in virtual work space by providing some simple virtual models then let subjects create new models by assembling these component models together. The subjects can naturally perform assembly operations and assomplish the task. Our evoluation shows that this virtual work space has potential to be used for performing any tasks that need hands manipulation or cooperation between both hands in natural manner.
+ER  - 
