@@ -1,0 +1,84 @@
+cleaned_year,venue_type
+2022,TACCESS
+2013,TACCESS
+2012,CSCW
+2022,CSCW
+2025,CSCW
+2004,Multimedia
+2010,Haptics Symposium
+2012,Haptics Symposium
+2018,ToH
+2019,ToH
+2024,ToH
+2007,Multimedia Systems SNL
+2007,Multimedia Tools and Applications SNL
+2009,World Haptics
+2009,World Haptics
+2011,MobileHCI
+2019,IDC
+2023,MobileHCI
+2018,Pervasive tech
+2023,UIST
+2020,AH
+2000,ToCHI
+2007,ToCHI
+2000,ToCHI
+2008,CHB
+2016,Human Factors
+2019,IEEE SMC
+2017,IEEE SMC
+2015,IEEE SMC
+2018,IEEE SMC
+2010,IwC
+2011,IwC
+2020,IJHCI
+2008,IJHCS
+2021,ISS
+2011,Human Factors
+2009,ICACET
+2011,Design Studies
+2021,Education and Information Technologies
+2021,Frontiers in Neurorobotics
+2002,IEEE Global Telecommunications Conference
+2022,IEEE Industrial Electronics Society Annual Conference (IECON)
+2004,IEEE International Symposium on Distributed Simulation and Real-Time Applications
+2023,IEEE Transactions on Affective Computing
+2012,Interactive Learning Environments
+2023,International Conference on Computer and Communications (ICCC)
+2022,Neurocomputing
+2019,PLoS Computational Biology
+2014,ACM Applied Perception
+2015,ACM Applied Perception
+2016,BioRob
+2011,ICRA
+2007,ICRA
+2024,BioRob
+2009,ICIRS
+2023,ICORR
+2010,ISRHIC
+2004,SIGGRAPH
+2021,SUI
+2012,CAVW
+2018,CG
+2010,Eurographics
+2018,CGA
+2024,IEEE VR
+2014,XR
+2016,IEEE VR
+2025,TVCG
+2025,TVCG
+2025,TVCG
+2025,TVCG
+2007,IEEE VR
+2004,PRESENCE
+2011,PRESENCE
+2013,PRESENCE
+2023,PRESENCE
+2003,Optical Engineering
+2013,Optical Engineering
+2007,Optical Engineering
+2008,HVE
+2008,HVE
+2011,Springer VR
+2015,Springer VR
+2000,Springer VR

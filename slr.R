@@ -47,7 +47,7 @@ golden_standard_import <- litsearchr::import_results("./gold_standard/", verbose
 sum(tolower(golden_standard_import$title) %in% tolower(dta$title))
 length(golden_standard_import$title) # 19/20
 golden_standard_import$title[!(tolower(golden_standard_import$title) %in% tolower(dta$title))] 
-
+sort(golden_standard_import$title)
 
 ### preparing for the screening
 # in 10 years ?
