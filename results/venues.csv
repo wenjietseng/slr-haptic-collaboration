@@ -60,7 +60,6 @@ cleaned_year,venue_type
 2021,SUI
 2012,CAVW
 2018,CG
-2010,Eurographics
 2018,CGA
 2024,IEEE VR
 2014,XR
@@ -74,7 +73,7 @@ cleaned_year,venue_type
 2011,PRESENCE
 2013,PRESENCE
 2023,PRESENCE
-2003,Optical Engineering
+2003,CG
 2013,Optical Engineering
 2007,Optical Engineering
 2008,HVE
